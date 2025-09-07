@@ -1,0 +1,87 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Logs
+*.log
+logs/
+error.log
+access.log
+
+# Cache e temporários
+cache/
+tmp/
+temp/
+*.cache
+
+# Arquivos de configuração sensíveis
+config.local.php
+.env
+.env.local
+.env.production
+
+# Arquivos de backup
+*.bak
+*.backup
+*_backup.*
+*.old
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js (se houver)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Composer (se houver)
+vendor/
+composer.lock
+
+# Arquivos de upload (se houver)
+uploads/
+files/
+
+# Arquivos de sessão PHP
+sess_*
+
+# Arquivos de erro PHP
+php_errors.log
+
+# Arquivos de migração temporários
+*_migration_*
+cleanup_*.php
+cleanup_*.py
+fix_*.php
+fix_*.py
+remove_*.php
+remove_*.py
+restore_*.php
+restore_*.py
+migrate_*.php
+migrate_*.py
+
+# Scripts temporários (exceto documentação)
+# *.py - removido para permitir documentação Python
+
+# Arquivos de teste
+test_*
+*_test.*
+
+# Arquivos de documentação temporários
+# *.md - removido para permitir documentação Markdown
+
+# Arquivos de imagem temporários
+temp_*
+*_temp.*
+
+# Arquivos de configuração local
+local_config.php
+database.local.php
