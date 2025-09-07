@@ -1,92 +1,91 @@
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: preco-mangueira-de-incendio.php
+ */
+
+// Configuração da página
+$page_config = array(
+    'title' => 'Preco Mangueira - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Preço de Mangueira de Incêndio: Encontre Qualidade com Economia',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/preco-mangueira-de-incendio.php',
+);
+
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Preco Mangueira',
+    ),
+);
+
+$heroConfig = array(
+    'title' => 'Preco Mangueira',
+    'description' => 'Preço de Mangueira de Incêndio: Encontre Qualidade com Economia',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
+
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
+
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
 
-<!DOCTYPE html>
+ <!-- Google Tag Manager (noscript) -->
 
-<html lang="pt-br">
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-<head>
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-    <!-- Google Tag Manager -->
+ <!-- End Google Tag Manager (noscript) -->
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ <section class="container">
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ <div class="row"> 
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-
-        <!-- End Google Tag Manager -->
-
-	<title>Preço de Mangueira de Incêndio: Encontre Qualidade com Economia</title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Preço de Mangueira de Incêndio: Encontre Qualidade com Economia">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-                <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
-
-
-
-	<section class="container">
-
-		<div class="row">	
-
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
  <h1>Preco Mangueira</h1>
 
-<img src="images/img1017.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1017.png" class="img-responsive" alt="">
 
 <p><strong>Preço de Mangueira de Incêndio: Encontre Qualidade com Economia</strong></p>
 
-<p>Está em busca do melhor preço de mangueira de incêndio, com qualidade garantida e segurança certificada? A BS  é referência no mercado de equipamentos para combate a incêndios e oferece condições imperdíveis para você adquirir o produto ideal para sua necessidade.</p>
+<p>Está em busca do melhor preço de mangueira de incêndio, com qualidade garantida e segurança certificada? A BS é referência no mercado de equipamentos para combate a incêndios e oferece condições imperdíveis para você adquirir o produto ideal para sua necessidade.</p>
 
 <p>Ofertas Exclusivas em Mangueiras de Incêndio</p>
 
@@ -116,7 +115,7 @@
 
 <p>3. Negocie com Fornecedores Confiáveis</p>
 
-<p>Busque empresas que ofereçam condições especiais de pagamento, como parcelamento ou descontos progressivos. A  é um excelente exemplo de fornecedor confiável, com atendimento personalizado e produtos de alta performance.</p>
+<p>Busque empresas que ofereçam condições especiais de pagamento, como parcelamento ou descontos progressivos. A é um excelente exemplo de fornecedor confiável, com atendimento personalizado e produtos de alta performance.</p>
 
 <p>Conheça os Tipos de Mangueiras de Incêndio da BS </p>
 
@@ -146,7 +145,7 @@
 
 <p><strong>Mangueira Tipo 1: Predyflex</strong></p>
 
-<img src="images/img1018.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1018.png" class="img-responsive" alt="">
 
 <p><strong>Pressão de Trabalho: 10 Kgf/cm²</strong></p>
 
@@ -164,7 +163,7 @@
 
 <p><strong>Mangueira Tipo 2: Superflex</strong></p>
 
-<img src="images/img1019.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1019.png" class="img-responsive" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 
@@ -182,7 +181,7 @@
 
 <p><strong>Mangueira Tipo 3: Superflex Capa Dupla</strong></p>
 
-<img src="images/img1020.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1020.png" class="img-responsive" alt="">
 
 <p><strong>Pressão de Trabalho: 15 Kgf/cm²</strong></p>
 
@@ -200,7 +199,7 @@
 
 <p><strong>Mangueira Tipo 4: Plastflex</strong></p>
 
-<img src="images/img1021.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1021.png" class="img-responsive" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 
@@ -218,7 +217,7 @@
 
 <p><strong>Mangueira Tipo 5: Ruberflex</strong></p>
 
-<img src="images/img1022.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1022.png" class="img-responsive" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 
@@ -268,15 +267,15 @@
 
 <p>Ensaio de Envelhecimento do Reforço Têxtil</p>
 
-<p>Esses ensaios garantem que as mangueiras de incêndio da  atendem aos requisitos internacionais de desempenho e durabilidade. A forma mais garantida de adquirir um produto que atenda a todas essas exigências é escolher uma mangueira de incêndio com Certificado de Marca de Conformidade ABNT.</p>
+<p>Esses ensaios garantem que as mangueiras de incêndio da atendem aos requisitos internacionais de desempenho e durabilidade. A forma mais garantida de adquirir um produto que atenda a todas essas exigências é escolher uma mangueira de incêndio com Certificado de Marca de Conformidade ABNT.</p>
 
 <p>Conclusão</p>
 
-<p>A  oferece uma linha de mangueiras de incêndio com especificações detalhadas para garantir a segurança e eficiência em diversos tipos de ambientes, de residenciais a industriais. Com a certificação ABNT e os rigorosos testes da Norma NBR 11861, nossas mangueiras asseguram a máxima qualidade, resistência e confiabilidade.</p>
+<p>A oferece uma linha de mangueiras de incêndio com especificações detalhadas para garantir a segurança e eficiência em diversos tipos de ambientes, de residenciais a industriais. Com a certificação ABNT e os rigorosos testes da Norma NBR 11861, nossas mangueiras asseguram a máxima qualidade, resistência e confiabilidade.</p>
 
-<p>Por Que Escolher a BS  para o Preço de Mangueira de Incêndio?</p>
+<p>Por Que Escolher a BS para o Preço de Mangueira de Incêndio?</p>
 
-<p>A BS  se destaca por oferecer o preço de mangueira de incêndio mais competitivo do mercado, sempre priorizando a qualidade e a confiabilidade. Aqui estão três razões pelas quais somos a escolha certa para quem busca preços acessíveis em mangueiras de incêndio:</p>
+<p>A BS se destaca por oferecer o preço de mangueira de incêndio mais competitivo do mercado, sempre priorizando a qualidade e a confiabilidade. Aqui estão três razões pelas quais somos a escolha certa para quem busca preços acessíveis em mangueiras de incêndio:</p>
 
 <p>1. Preços Competitivos no Mercado de Mangueiras de Incêndio</p>
 
@@ -292,7 +291,7 @@
 
 <p>Vantagens de Comprar na BS </p>
 
-<p>Ao escolher a BS  para sua compra de mangueira de incêndio, você tem várias vantagens que garantem ainda mais segurança e economia:</p>
+<p>Ao escolher a BS para sua compra de mangueira de incêndio, você tem várias vantagens que garantem ainda mais segurança e economia:</p>
 
 <p>Credibilidade e Garantia: Oferecemos garantia de 12 meses contra defeitos de fabricação em todas as nossas mangueiras de incêndio.</p>
 
@@ -312,65 +311,33 @@
 
 <p>Fale Conosco e Descubra o Preço de Mangueira de Incêndio Ideal para Você!</p>
 
-<p>Não deixe para depois! Entre em contato agora pelo WhatsApp (11) 94025 8669 e nossos vendedores especializados vão ajudar você a encontrar a mangueira de incêndio ideal. Ou visite nosso site  e aproveite as ofertas incríveis!</p>
+<p>Não deixe para depois! Entre em contato agora pelo WhatsApp (11) 94025 8669 e nossos vendedores especializados vão ajudar você a encontrar a mangueira de incêndio ideal. Ou visite nosso site e aproveite as ofertas incríveis!</p>
 
-               <?php include('includes/contato.php'); ?>
+ </article>
 
-                </article>
+ <br><br>
 
-  
+ </div>
 
-                
+ <div class="fixa2">
 
-                
+ <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
 
+ </div>
 
+ </div>
 
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
+ </section>
 
 
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

@@ -1,962 +1,713 @@
-<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: abrigos-para-extintores-e-mangueira-de-incendio-em-fibra.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'Referencia Abrigos para mangueiras e extintores fabricados em fibra de vidro - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Os abrigos em fibra de vidro, para extintor e mangueira de incêndio, são próprios para ambientes corrosivos ou sob ação das intempéries. Fabricados...',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/abrigos-para-extintores-e-mangueira-de-incendio-em-fibra.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Referencia Abrigos para mangueiras e extintores fabricados em fibra de vidro',
+    ),
+);
 
-  <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'Referencia Abrigos para mangueiras e extintores fabricados em fibra de vidro',
+    'description' => 'Os abrigos em fibra de vidro, para extintor e mangueira de incêndio, são próprios para ambientes corrosivos ou sob ação das intempéries. Fabricados...',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+ <!-- Google Tag Manager (noscript) -->
 
-        <!-- End Google Tag Manager -->
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-	<title>Mangueiras de incêndio certificada ABNT  - Mangueiras de Incêndio Brasil </title>
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <!-- End Google Tag Manager (noscript) -->
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+ <div class="fixa2">
 
-	<meta name="description" content="Mangueiras de incêndio certificada ABNT">
+ <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
 
-	<meta name="author" content="OtimizaMais Marketing Digital">
+ </div>
 
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
+ <section class="container">
 
+ <div class="row"> 
 
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-	<!-- Bootstrap Core CSS -->
+ <div>
 
-	<link href="css/bootstrap.css" rel="stylesheet">
+ <h2>Referencia: Abrigos para mangueiras e extintores fabricados em fibra de vidro</h2>
 
+ <img src="/assets/img/old-site/panilha-60.png" class="img-responsive">
 
+ <h2>Informações importantes</h2>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ </div>
 
-	<script src="js/jquery.js"></script>
+ <p>Os abrigos em fibra de vidro, <strong>para extintor e mangueira de incêndio</strong>, são próprios para ambientes corrosivos ou sob ação das intempéries. Fabricados com dobradiças e fechaduras em aço inox 304, fixados com rebites em alumínio, puxador em Poliamida + PRFV e visor de poliestireno cristal 1,5mm com perfil de borracha “S” para acabamento e vedação.</p>
 
-	<script src="js/bootstrap.min.js"></script>
+ <p>Os abrigos em Fiberglass são pigmentados com Gel Coat Vermelho durante o processo de fabricação, dispensando pintura. Esse Gel Coat possui redutor de raios UV’s, prolongando a durabilidade das peças quando expostas ao sol.</p>
 
+ <p>As peças possuem reforço na parte traseira, aumentando a resistência da peça, pois contrariamente aos abrigos de chapa de aço, os armários de fibra são mais flexíveis, necessitando desses reforços.</p>
 
+ <p>As aletas de ventilação (respiro) são localizadas abaixo do visor</p>
 
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+ <p>A porta é sobreposta à Caixa, evitando infiltrações de água e dispensando o uso de pingadeiras</p>
 
+ <p>Os armários em Fibra de Vidro são laváveis (água e sabão).
 
+ Se periodicamente for aplicado em sua superfície, cera ou  fluído de silicone automotivo, a
 
-</head>
+ peça terá maior durabilidade</p>
 
-<body>
+ <p>O material destes Abrigos é o PRFV – Plástico Reforçado com Fibras de Vidro.
 
-                <!-- Google Tag Manager (noscript) -->
+ A resina plástica é responsável pela resistência à corrosão, e a Fibra de Vidro, pela resistência mecânica.
 
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
+ </p>
 
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <h2><strong>Modelos/extintores </strong></h2>
 
-                <!-- End Google Tag Manager (noscript) -->
+ <h2><strong>Abrigo para extintor de incêndio – Modelo BS 963E</strong></h2>
 
-	<main>	
+ <img src="/assets/img/old-site/panilha-61.png" class="img-responsive">
 
-		<header>
+ <div class="table-responsive">
 
-			<?php include ('includes/header.php'); ?>   	
+ <table class="table table-bordered table-striped ">
 
-		</header>
+ <thead style="color: #FF8000;">
 
+ <tr>
 
+ <th>Altura</th>
 
-        <div class="fixa2">
+ <th>Largura</th>
 
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
+ <th>Profundidade</th>
 
-                        </div>
+ <th>Capacidade</th>
 
-                        <?php include("includes/aside.php"); ?>
+ <th>Peso aprox</th>
 
-                  
+ </tr>
 
+ </thead>
 
+ <tbody >
 
-               <section class="container">
+ <tr>
 
-                  <div class="row">	
+ <td>90cm</td>
 
-                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <td>60cm</td>
 
-                      
+ <td>30cm</td>
 
-                     <div>
+ <td>2 extintores</td>
 
-               
+ <td>11kg</td>
 
-                       <h2>Referencia: Abrigos para mangueiras e extintores fabricados  em  fibra de vidro</h2>
+ </tr>
 
-                          <img src="images/panilha-60.png" class="img-responsive">
+ </tbody>
 
-                          <h2>Informações importantes</h2>
+ </table>
 
-                    </div>
+ </div>
 
-                         
+ <p><strong><u>Acessórios não incluídos</u></strong></p>
 
-                         <p>Os abrigos em fibra de vidro, <strong>para extintor e mangueira de incêndio</strong>, são próprios para ambientes corrosivos ou sob ação das intempéries. Fabricados com dobradiças e fechaduras em aço inox 304, fixados com rebites em alumínio, puxador em Poliamida + PRFV e visor de poliestireno cristal 1,5mm com perfil de borracha “S” para acabamento e vedação.</p>
+ <h2><strong>Abrigo para extintor de incêndio – Modelo BS 833.</strong></h2>
 
-                         
+ <img src="/assets/img/old-site/panilha-62.png" class="img-responsive">
 
-                         <p>Os abrigos em Fiberglass são pigmentados com Gel Coat Vermelho durante o processo de fabricação, dispensando pintura. Esse Gel Coat possui redutor de raios UV’s, prolongando a durabilidade das peças quando expostas ao sol.</p>
+ <div class="table-responsive">
 
-                         
+ <table class="table table-bordered table-striped ">
 
-                         <p>As peças possuem reforço na parte traseira, aumentando a resistência da peça, pois contrariamente aos abrigos de chapa de aço, os armários de fibra são mais flexíveis, necessitando desses reforços.</p>
+ <thead style="color: #FF8000;">
 
-                         
+ <tr>
 
-                         <p>As aletas de ventilação (respiro) são localizadas abaixo do visor</p>
+ <th>Altura</th>
 
-                         
+ <th>Largura</th>
 
-                         <p>A porta é sobreposta à Caixa, evitando infiltrações de água e dispensando o uso de pingadeiras</p>
+ <th>Profundidade</th>
 
-                         
+ <th>Capacidade</th>
 
-                         <p>Os armários em Fibra de Vidro são laváveis (água e sabão).
+ <th>Peso aprox</th>
 
-                            Se periodicamente for aplicado em sua superfície, cera ou  fluído de silicone automotivo, a
+ </tr>
 
-                            peça terá maior durabilidade</p>
+ </thead>
 
-                         
+ <tbody >
 
-                         <p>O material destes Abrigos é o PRFV – Plástico Reforçado com Fibras de Vidro.
+ <tr>
 
-                            A resina plástica é responsável pela resistência à corrosão, e a Fibra de Vidro, pela resistência mecânica.
+ <td>85cm</td>
 
-                        </p>
+ <td>38cm</td>
 
-                         
+ <td>30cm</td>
 
-                         
+ <td>Universal</td>
 
-                         <h2><strong>Modelos/extintores </strong></h2>
+ <td>7kg</td>
 
-                         
+ </tr>
 
-                         <h2><strong>Abrigo para extintor de incêndio – Modelo BS 963E</strong></h2>
+ </tbody>
 
-                         
+ </table>
 
-                         <img src="images/panilha-61.png" class="img-responsive">
+ </div>
 
-                         
+ <p><strong><u>Acessórios não incluídos</u></strong></p>
 
-                          <div class="table-responsive">
+ <h2><strong>Abrigo para extintor de incêndio – Modelo BS 632</strong></h2>
 
-          <table class="table table-bordered table-striped ">
+ <img src="/assets/img/old-site/panilha-63.png" class="img-responsive">
 
-				<thead style="color: #FF8000;">
+ <div class="table-responsive">
 
-					<tr>
+ <table class="table table-bordered table-striped ">
 
-						<th>Altura</th>
+ <thead style="color: #FF8000;">
 
-						<th>Largura</th>
+ <tr>
 
-						<th>Profundidade</th>
+ <th>Altura</th>
 
-						<th>Capacidade</th>
+ <th>Largura</th>
 
-						<th>Peso aprox</th>
+ <th>Profundidade</th>
 
-                      
+ <th>Capacidade</th>
 
-					</tr>
+ <th>Peso aprox</th>
 
-				</thead>
+ </tr>
 
+ </thead>
 
+ <tbody >
 
-				<tbody >
+ <tr>
 
-					<tr>
+ <td>60cm</td>
 
-						<td>90cm</td>
+ <td>32cm</td>
 
-						<td>60cm</td>
+ <td>25cm</td>
 
-						<td>30cm</td>
+ <td>extintor PQS 4kg</td>
 
-						<td>2 extintores</td>
+ <td>5kg</td>
 
-						<td>11kg</td>
+ </tr>
 
-                     
+ </tbody>
 
+ </table>
 
+ </div>
 
-					</tr>
+ <h2><strong>Abrigo para extintor de incêndio – Modelo BS 832.</strong></h2>
 
+ <img src="/assets/img/old-site/panilha-64.png" class="img-responsive">
 
+ <div class="table-responsive">
 
-				</tbody>
+ <table class="table table-bordered table-striped ">
 
-			</table>
+ <thead style="color: #FF8000;">
 
+ <tr>
+
+ <th>Altura</th>
+
+ <th>Largura</th>
+
+ <th>Profundidade</th>
+
+ <th>Capacidade</th>
+
+ <th>Peso aprox</th>
+
+ </tr>
+
+ </thead>
+
+ <tbody >
+
+ <tr>
+
+ <td>82cm</td>
+
+ <td>35cm</td>
+
+ <td>25cm</td>
+
+ <td>Universal</td>
+
+ <td>6kg</td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </div>
+
+ <p><strong><u>Acessórios não incluídos</u></strong></p>
+
+ <h2><strong>Modelos/mangueiras de incêndio </strong></h2>
+
+ <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 1093.</strong></h2>
+
+ <img src="/assets/img/old-site/panilha-65.png" class="img-responsive">
+
+ <div class="table-responsive">
+
+ <table class="table table-bordered table-striped ">
+
+ <thead style="color: #FF8000;">
+
+ <tr>
+
+ <th>Altura</th>
+
+ <th>Largura</th>
+
+ <th>Profundidade</th>
+
+ <th>Capacidade</th>
+
+ <th>Berça/Cesto</th>
+
+ <th>Peso aprox</th>
+
+ </tr>
+
+ </thead>
+
+ <tbody >
+
+ <tr>
+
+ <td>100cm</td>
+
+ <td>90cm</td>
+
+ <td>30cm</td>
+
+ <td>4 mangueira de 15m</td>
+
+ <td>duplo</td>
+
+ <td>13kg</td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </div>
+
+ <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 752.</strong></h2>
+
+ <img src="/assets/img/old-site/panilha-66.png" class="img-responsive">
+
+ <div class="table-responsive">
+
+ <table class="table table-bordered table-striped ">
+
+ <thead style="color: #FF8000;">
+
+ <tr>
+
+ <th>Altura</th>
+
+ <th>Largura</th>
+
+ <th>Profundidade</th>
+
+ <th>Capacidade</th>
+
+ <th>Berça/Cesto</th>
+
+ <th>Peso aprox</th>
+
+ </tr>
+
+ </thead>
+
+ <tbody >
+
+ <tr>
+
+ <td>70cm</td>
+
+ <td>50cm</td>
+
+ <td>25cm</td>
+
+ <td>Padrão RJ</td>
+
+ <td>1</td>
+
+ <td>6,5kg</td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </div>
+
+ <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 961D.</strong></h2>
+
+ <img src="/assets/img/old-site/panilha-69.png" class="img-responsive">
+
+ <div class="table-responsive">
+
+ <table class="table table-bordered table-striped ">
+
+ <thead style="color: #FF8000;">
+
+ <tr>
+
+ <th>Altura</th>
+
+ <th>Largura</th>
+
+ <th>Profundidade</th>
+
+ <th>Capacidade</th>
+
+ <th>Berça/Cesto</th>
+
+ <th>Peso aprox</th>
+
+ </tr>
+
+ </thead>
+
+ <tbody >
+
+ <tr>
+
+ <td>90cm</td>
+
+ <td>60cm</td>
+
+ <td>18cm</td>
+
+ <td>2 mangueiras de 15m</td>
+
+ <td>2</td>
+
+ <td>8,5kg</td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </div>
+
+ <p><strong><u>Acessórios não incluídos</u></strong></p>
+
+ <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 963</strong></h2>
+
+ <img src="/assets/img/old-site/panilha-70.png" class="img-responsive">
+
+ <div class="table-responsive">
+
+ <table class="table table-bordered table-striped ">
+
+ <thead style="color: #FF8000;">
+
+ <tr>
+
+ <th>Altura</th>
+
+ <th>Largura</th>
+
+ <th>Profundidade</th>
+
+ <th>Capacidade</th>
+
+ <th>Berça/Cesto</th>
+
+ <th>Peso aprox</th>
+
+ </tr>
+
+ </thead>
+
+ <tbody >
+
+ <tr>
+
+ <td>90cm</td>
+
+ <td>60cm</td>
+
+ <td>30cm</td>
+
+ <td>2 mangueiras de 30m</td>
+
+ <td>1</td>
+
+ <td>10kg</td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </div>
+
+ <p><strong><u>Acessórios não incluídos</u></strong></p>
+
+ <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 963D</strong></h2>
+
+ <img src="/assets/img/old-site/panilha-71.png" class="img-responsive">
+
+ <div class="table-responsive">
+
+ <table class="table table-bordered table-striped ">
+
+ <thead style="color: #FF8000;">
+
+ <tr>
+
+ <th>Altura</th>
+
+ <th>Largura</th>
+
+ <th>Profundidade</th>
+
+ <th>Capacidade</th>
+
+ <th>Berça/Cesto</th>
+
+ <th>Peso aprox</th>
+
+ </tr>
+
+ </thead>
+
+ <tbody >
+
+ <tr>
+
+ <td>90cm</td>
+
+ <td>60cm</td>
+
+ <td>30cm</td>
+
+ <td>4 mangueiras de 15m</td>
+
+ <td>2</td>
+
+ <td>10kg</td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </div>
+
+ <p><strong><u>Acessórios não incluídos</u></strong></p>
+
+ <H2><strong>Abrigo para mangueiras de incêndio – Modelo BS 9121</strong></H2>
+
+ <img src="/assets/img/old-site/panilha-77.png" class="img-responsive">
+
+ <div class="table-responsive">
+
+ <table class="table table-bordered table-striped ">
+
+ <thead style="color: #FF8000;">
+
+ <tr>
+
+ <th>Altura</th>
+
+ <th>Largura</th>
+
+ <th>Profundidade</th>
+
+ <th>Capacidade</th>
+
+ <th>Berça/Cesto</th>
+
+ <th>Peso aprox</th>
+
+ </tr>
+
+ </thead>
+
+ <tbody >
+
+ <tr>
+
+ <td>90cm</td>
+
+ <td>120cm</td>
+
+ <td>18cm</td>
+
+ <td>2 mangueiras de 30mima</td>
+
+ <td>duplo</td>
+
+ <td>12kg</td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </div>
+
+ <p><strong><u>Acessórios não incluídos</u></strong></p>
+
+ <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 9123</strong></h2>
+
+ <img src="/assets/img/old-site/panilha-78.png" class="img-responsive">
+
+ <div class="table-responsive">
+
+ <table class="table table-bordered table-striped ">
+
+ <thead style="color: #FF8000;">
+
+ <tr>
+
+ <th>Altura</th>
+
+ <th>Largura</th>
+
+ <th>Profundidade</th>
+
+ <th>Capacidade</th>
+
+ <th>Berça/Cesto</th>
+
+ <th>Peso aprox</th>
+
+ </tr>
+
+ </thead>
+
+ <tbody >
+
+ <tr>
+
+ <td>90cm</td>
+
+ <td>120cm</td>
+
+ <td>30cm</td>
+
+ <td>4 mangueiras de 30m</td>
+
+ <td>duplo</td>
+
+ <td>14kg</td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </div>
+
+ <br><br>
+
+ </div>
+
+ </div>
+
+ </section>
+
+ 
+                    </article>
                 </div>
-
-                         
-
-                         <p><strong><u>Acessórios não incluídos</u></strong></p>
-
-                         
-
-                         <h2><strong>Abrigo para extintor de incêndio – Modelo BS 833.</strong></h2>
-
-                         
-
-                         <img src="images/panilha-62.png" class="img-responsive">
-
-                         
-
-                         <div class="table-responsive">
-
-          <table class="table table-bordered table-striped ">
-
-				<thead style="color: #FF8000;">
-
-					<tr>
-
-						<th>Altura</th>
-
-						<th>Largura</th>
-
-						<th>Profundidade</th>
-
-						<th>Capacidade</th>
-
-						<th>Peso aprox</th>
-
-                      
-
-					</tr>
-
-				</thead>
-
-
-
-				<tbody >
-
-					<tr>
-
-						<td>85cm</td>
-
-						<td>38cm</td>
-
-						<td>30cm</td>
-
-						<td>Universal</td>
-
-						<td>7kg</td>
-
-                     
-
-
-
-					</tr>
-
-
-
-				</tbody>
-
-			</table>
-
-                </div>
-
-                         
-
-                          <p><strong><u>Acessórios não incluídos</u></strong></p>
-
-                         
-
-                         <h2><strong>Abrigo para extintor de incêndio – Modelo BS 632</strong></h2>
-
-                         
-
-                         <img src="images/panilha-63.png" class="img-responsive">
-
-                         
-
-                           
-
-                         <div class="table-responsive">
-
-          <table class="table table-bordered table-striped ">
-
-				<thead style="color: #FF8000;">
-
-					<tr>
-
-						<th>Altura</th>
-
-						<th>Largura</th>
-
-						<th>Profundidade</th>
-
-						<th>Capacidade</th>
-
-						<th>Peso aprox</th>
-
-                      
-
-					</tr>
-
-				</thead>
-
-
-
-				<tbody >
-
-					<tr>
-
-						<td>60cm</td>
-
-						<td>32cm</td>
-
-						<td>25cm</td>
-
-						<td>extintor PQS 4kg</td>
-
-						<td>5kg</td>
-
-                     
-
-
-
-					</tr>
-
-
-
-				</tbody>
-
-			</table>
-
-                </div>
-
-                         
-
-                         <h2><strong>Abrigo para extintor de incêndio – Modelo BS 832.</strong></h2>
-
-                         
-
-                         <img src="images/panilha-64.png" class="img-responsive">
-
-
-
-                    <div class="table-responsive">
-
-              <table class="table table-bordered table-striped ">
-
-                    <thead style="color: #FF8000;">
-
-                        <tr>
-
-                            <th>Altura</th>
-
-                            <th>Largura</th>
-
-                            <th>Profundidade</th>
-
-                            <th>Capacidade</th>
-
-                            <th>Peso aprox</th>
-
-
-
-                        </tr>
-
-                    </thead>
-
-
-
-                    <tbody >
-
-                        <tr>
-
-                            <td>82cm</td>
-
-                            <td>35cm</td>
-
-                            <td>25cm</td>
-
-                            <td>Universal</td>
-
-                            <td>6kg</td>
-
-
-
-
-
-                        </tr>
-
-
-
-                    </tbody>
-
-                </table>
-
-                    </div>
-
-                         
-
-                         <p><strong><u>Acessórios não incluídos</u></strong></p>
-
-                         
-
-                         <h2><strong>Modelos/mangueiras de incêndio </strong></h2>
-
-                         
-
-                         
-
-                         <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 1093.</strong></h2>
-
-                         
-
-                         <img src="images/panilha-65.png" class="img-responsive">
-
-                         
-
-                         
-
-                         
-
-                          <div class="table-responsive">
-
-              <table class="table table-bordered table-striped ">
-
-                    <thead style="color: #FF8000;">
-
-                        <tr>
-
-                            <th>Altura</th>
-
-                            <th>Largura</th>
-
-                            <th>Profundidade</th>
-
-                            <th>Capacidade</th>
-
-                            <th>Berça/Cesto</th>
-
-                            <th>Peso aprox</th>
-
-
-
-                        </tr>
-
-                    </thead>
-
-
-
-                    <tbody >
-
-                        <tr>
-
-                            <td>100cm</td>
-
-                            <td>90cm</td>
-
-                            <td>30cm</td>
-
-                            <td>4 mangueira de 15m</td>
-
-                            <td>duplo</td>
-
-                            <td>13kg</td>
-
-
-
-
-
-                        </tr>
-
-
-
-                    </tbody>
-
-                </table>
-
-                    </div>
-
-                         
-
-                         <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 752.</strong></h2>
-
-                         
-
-                         <img src="images/panilha-66.png" class="img-responsive">
-
-                         
-
-                         <div class="table-responsive">
-
-              <table class="table table-bordered table-striped ">
-
-                    <thead style="color: #FF8000;">
-
-                        <tr>
-
-                            <th>Altura</th>
-
-                            <th>Largura</th>
-
-                            <th>Profundidade</th>
-
-                            <th>Capacidade</th>
-
-                            <th>Berça/Cesto</th>
-
-                            <th>Peso aprox</th>
-
-
-
-                        </tr>
-
-                    </thead>
-
-
-
-                    <tbody >
-
-                        <tr>
-
-                            <td>70cm</td>
-
-                            <td>50cm</td>
-
-                            <td>25cm</td>
-
-                            <td>Padrão RJ</td>
-
-                            <td>1</td>
-
-                            <td>6,5kg</td>
-
-
-
-
-
-                        </tr>
-
-
-
-                    </tbody>
-
-                </table>
-
-                    </div>
-
-                         
-
-                         <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 961D.</strong></h2>
-
-                         
-
-                         <img src="images/panilha-69.png" class="img-responsive">
-
-                         
-
-                         
-
-                         <div class="table-responsive">
-
-              <table class="table table-bordered table-striped ">
-
-                    <thead style="color: #FF8000;">
-
-                        <tr>
-
-                            <th>Altura</th>
-
-                            <th>Largura</th>
-
-                            <th>Profundidade</th>
-
-                            <th>Capacidade</th>
-
-                            <th>Berça/Cesto</th>
-
-                            <th>Peso aprox</th>
-
-
-
-                        </tr>
-
-                    </thead>
-
-
-
-                    <tbody >
-
-                        <tr>
-
-                            <td>90cm</td>
-
-                            <td>60cm</td>
-
-                            <td>18cm</td>
-
-                            <td>2 mangueiras de 15m</td>
-
-                            <td>2</td>
-
-                            <td>8,5kg</td>
-
-
-
-
-
-                        </tr>
-
-
-
-                    </tbody>
-
-                </table>
-
-                    </div>
-
-                         
-
-                         <p><strong><u>Acessórios não incluídos</u></strong></p>
-
-                         
-
-                         
-
-                         <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 963</strong></h2>
-
-                         
-
-                         <img src="images/panilha-70.png" class="img-responsive">
-
-                         
-
-                         <div class="table-responsive">
-
-              <table class="table table-bordered table-striped ">
-
-                    <thead style="color: #FF8000;">
-
-                        <tr>
-
-                            <th>Altura</th>
-
-                            <th>Largura</th>
-
-                            <th>Profundidade</th>
-
-                            <th>Capacidade</th>
-
-                            <th>Berça/Cesto</th>
-
-                            <th>Peso aprox</th>
-
-
-
-                        </tr>
-
-                    </thead>
-
-
-
-                    <tbody >
-
-                        <tr>
-
-                            <td>90cm</td>
-
-                            <td>60cm</td>
-
-                            <td>30cm</td>
-
-                            <td>2 mangueiras de 30m</td>
-
-                            <td>1</td>
-
-                            <td>10kg</td>
-
-
-
-
-
-                        </tr>
-
-
-
-                    </tbody>
-
-                </table>
-
-                    </div>
-
-                         
-
-                         <p><strong><u>Acessórios não incluídos</u></strong></p>
-
-                         
-
-                         <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 963D</strong></h2>
-
-                         
-
-                         <img src="images/panilha-71.png" class="img-responsive">
-
-                         
-
-                         
-
-                          <div class="table-responsive">
-
-              <table class="table table-bordered table-striped ">
-
-                    <thead style="color: #FF8000;">
-
-                        <tr>
-
-                            <th>Altura</th>
-
-                            <th>Largura</th>
-
-                            <th>Profundidade</th>
-
-                            <th>Capacidade</th>
-
-                            <th>Berça/Cesto</th>
-
-                            <th>Peso aprox</th>
-
-
-
-                        </tr>
-
-                    </thead>
-
-
-
-                    <tbody >
-
-                        <tr>
-
-                            <td>90cm</td>
-
-                            <td>60cm</td>
-
-                            <td>30cm</td>
-
-                            <td>4 mangueiras de 15m</td>
-
-                            <td>2</td>
-
-                            <td>10kg</td>
-
-
-
-
-
-                        </tr>
-
-
-
-                    </tbody>
-
-                </table>
-
-                    </div>
-
-                         
-
-                         <p><strong><u>Acessórios não incluídos</u></strong></p>
-
-                         
-
-                         
-
-                         <H2><strong>Abrigo para mangueiras de incêndio – Modelo BS 9121</strong></H2>
-
-                         
-
-                         <img src="images/panilha-77.png" class="img-responsive">
-
-                         
-
-    <div class="table-responsive">
-
-              <table class="table table-bordered table-striped ">
-
-                    <thead style="color: #FF8000;">
-
-                        <tr>
-
-                            <th>Altura</th>
-
-                            <th>Largura</th>
-
-                            <th>Profundidade</th>
-
-                            <th>Capacidade</th>
-
-                            <th>Berça/Cesto</th>
-
-                            <th>Peso aprox</th>
-
-
-
-                        </tr>
-
-                    </thead>
-
-
-
-                    <tbody >
-
-                        <tr>
-
-                            <td>90cm</td>
-
-                            <td>120cm</td>
-
-                            <td>18cm</td>
-
-                            <td>2 mangueiras de 30mima</td>
-
-                            <td>duplo</td>
-
-                            <td>12kg</td>
-
-
-
-
-
-                        </tr>
-
-
-
-                    </tbody>
-
-                </table>
-
-                    </div>
-
-                         
-
-                         <p><strong><u>Acessórios não incluídos</u></strong></p>
-
-                         
-
-                         <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 9123</strong></h2>
-
-                         
-
-                         <img src="images/panilha-78.png" class="img-responsive">
-
-                         
-
-                         
-
-                         <div class="table-responsive">
-
-              <table class="table table-bordered table-striped ">
-
-                    <thead style="color: #FF8000;">
-
-                        <tr>
-
-                            <th>Altura</th>
-
-                            <th>Largura</th>
-
-                            <th>Profundidade</th>
-
-                            <th>Capacidade</th>
-
-                            <th>Berça/Cesto</th>
-
-                            <th>Peso aprox</th>
-
-
-
-                        </tr>
-
-                    </thead>
-
-
-
-                    <tbody >
-
-                        <tr>
-
-                            <td>90cm</td>
-
-                            <td>120cm</td>
-
-                            <td>30cm</td>
-
-                            <td>4 mangueiras de 30m</td>
-
-                            <td>duplo</td>
-
-                            <td>14kg</td>
-
-
-
-
-
-                        </tr>
-
-
-
-                    </tbody>
-
-                </table>
-
-                    </div>
-
-                         
-
-                    <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                    <br><br>
-
-                    </div>
-
-                </div>
-
-            </section>
-
-
-
-            <footer>
-
-               <?php include ('includes/footer.php'); ?>   
-
-           </footer>
-
-
-
-       </main>
-
-
-
-   </body>
-
-
-
-   </html>
-
+            </div>
+        </div>
+    </section>
+</main>
+
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

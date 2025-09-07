@@ -1,100 +1,95 @@
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: extintor-de-incendio-abc-5-anos.php
+ */
+
+// Configuração da página
+$page_config = array(
+    'title' => 'Extintor Abc - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Se você está em busca de um extintor de incêndio ABC com validade de 5 anos, a BS oferece os modelos ideais para sua proteção: extintor ABC 4 kg e ...',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/extintor-de-incendio-abc-5-anos.php',
+);
+
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Extintor Abc',
+    ),
+);
+
+$heroConfig = array(
+    'title' => 'Extintor Abc',
+    'description' => 'Se você está em busca de um extintor de incêndio ABC com validade de 5 anos, a BS oferece os modelos ideais para sua proteção: extintor ABC 4 kg e ...',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
+
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
+
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
 
-<!DOCTYPE html>
+ <!-- Google Tag Manager (noscript) -->
 
-<html lang="pt-br">
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-<head>
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-    <!-- Google Tag Manager -->
+ <!-- End Google Tag Manager (noscript) -->
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ <section class="container">
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ <div class="row"> 
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ </article>
 
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+ <h1>Extintor Abc</h1>
 
-        <!-- End Google Tag Manager -->
-
-	<title>Extintor de Incêndio ABC 5 Anos – Modelos com Carga de 4 kg e 6 kg</title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Extintor de Incêndio ABC 5 Anos – Modelos com Carga de 4 kg e 6 kg">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-                <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
-
-
-
-	<section class="container">
-
-		<div class="row">	
-
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
- 
-
-              
-
-                </article>
-
-  <h1>Extintor Abc</h1>
-
-  <img src="images/img1009.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img1009.png" class="img-responsive" alt="">
 
 <h2>🔥 Extintor de Incêndio ABC 5 Anos – Modelos com Carga de 4 kg e 6 kg</h2>
 
 <!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
-<p>Se você está em busca de um extintor de incêndio ABC com validade de 5 anos, a BS  oferece os modelos ideais para sua proteção: extintor ABC 4 kg e extintor ABC 6 kg, prontos para garantir segurança e confiabilidade em ambientes residenciais, comerciais ou industriais.</p>
+<p>Se você está em busca de um extintor de incêndio ABC com validade de 5 anos, a BS oferece os modelos ideais para sua proteção: extintor ABC 4 kg e extintor ABC 6 kg, prontos para garantir segurança e confiabilidade em ambientes residenciais, comerciais ou industriais.</p>
 
 <p>Contato para Mais Informações</p>
 
@@ -292,57 +287,29 @@ Garantia, segurança e custo-benefício para proteger o que realmente importa.</
 
 <!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
-                 <?php include('includes/contato.php'); ?>
+ <br><br>
 
-                
+ </div>
 
+ <div class="fixa2">
 
+ <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
 
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
+ </div>
 
-                <br><br>
+ </div>
 
-
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
+ </section>
 
 
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

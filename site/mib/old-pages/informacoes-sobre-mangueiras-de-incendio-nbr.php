@@ -1,126 +1,113 @@
-<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: informacoes-sobre-mangueiras-de-incendio-nbr.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Referência: Informações sobre Mangueira de Combate a Incêndio',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/informacoes-sobre-mangueiras-de-incendio-nbr.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Título da Página',
+    ),
+);
 
-    <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'Título da Página',
+    'description' => 'Referência: Informações sobre Mangueira de Combate a Incêndio',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+ <!-- Google Tag Manager (noscript) -->
 
-        <!-- End Google Tag Manager -->
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-	<title>Informações sobre Mangueira de Combate a Incêndio - Mangueiras de Incêndio Brasil </title>
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <!-- End Google Tag Manager (noscript) -->
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+ <section class="container">
 
-	<meta name="description" content="Informações sobre Mangueira de Combate a Incêndio ">
+ <div class="row"> 
 
-	<meta name="author" content="OtimizaMais Marketing Digital">
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
+ <div>
 
+ <img src="/assets/img/old-site/planilha-80.png" class="img-responsive" alt="">
 
+ </div>
 
-	<!-- Bootstrap Core CSS -->
+ <p><strong>Referência: Informações sobre Mangueira de Combate a Incêndio</strong></p>
 
-	<link href="css/bootstrap.css" rel="stylesheet">
+ <article>
 
+ <p>Mangueira de incêndio tipo 1</p>
 
+ <p>Mangueira de incêndio tipo 2</p>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ <p>Mangueira de incêndio tipo 3</p>
 
-	<script src="js/jquery.js"></script>
+ <p>Mangueira de incêndio tipo 4</p>
 
-	<script src="js/bootstrap.min.js"></script>
+ <p>Mangueira de incêndio tipo 5</p>
 
+ <p>TUDO SOBRE A MANGUEIRA DE INCÊNDIO NBR 11.861</p>
 
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-                <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
-
-
-
-	<section class="container">
-
-		<div class="row">	
-
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-
-
-                <div>
-
-                    <img src="images/planilha-80.png" class="img-responsive" alt="">
-
-                </div>
-
-                <p><strong>Referência: Informações sobre Mangueira de Combate a Incêndio</strong></p>
-
-                
-
-  
-
-                
-
-                <article>
-
-                    <p>Mangueira de incêndio tipo 1</p>
-
-                    <p>Mangueira de incêndio tipo 2</p>
-
-                    <p>Mangueira de incêndio tipo 3</p>
-
-                    <p>Mangueira de incêndio tipo 4</p>
-
-                    <p>Mangueira de incêndio tipo 5</p>
-
-
-
-                    <p>TUDO SOBRE A MANGUEIRA DE INCÊNDIO NBR 11.861</p>
-
-
-
-                    <p>Quando se fala em mangueira de incêndio NBR 11.861 está se fazendo referência a
+ <p>Quando se fala em mangueira de incêndio NBR 11.861 está se fazendo referência a
 
 dois temas distintos: à mangueira de incêndio, equipamento voltado ao combate a
 
 incêndios, e a norma NBR 11.861, que é especificamente voltada à regulação deste
 
 equipamento.</p>
-
-
 
 <p>Assim, a mangueira de incêndio NBR 11.861 nada mais é do que aquela que está m
 
@@ -130,8 +117,6 @@ adequada, pois desenvolvida de acordo com o especificado pelas normas técnicas.
 
 ESPECIFICIDADES DA MANGUEIRA DE INCÊNDIO NBR 11.861.</p>
 
-
-
 <p>As Normas Brasileiras definem a mangueira de incêndio NBR 11.861 como um
 
 “equipamento de combate a incêndio, constituído essencialmente por um duto flexível
@@ -140,21 +125,15 @@ dotado de uniões”, além disso, a NBR 11.861 ainda esclarece as especificidad
 
 mangueiras de incêndio:</p>
 
-
-
 <ul>
 
-            <li>Para estar em conformidade com a norma, é preciso que em ambas as
+ <li>Para estar em conformidade com a norma, é preciso que em ambas as
 
 extremidades da mangueira possam ser encontradas informações como o tipo
 
 da mangueira, mês e ano de fabricação, número da norma (11.861) e marca ou
 
 nome do fabricante;</li>
-
-
-
-
 
 <li>As mangueiras são subdivididas em 5 tipos: o tipo 1 é ideal para edifícios
 
@@ -164,19 +143,13 @@ tipo 3 à área naval, industrial e Corpo de Bombeiros e os tipos 4 e 5 à área
 
 industrial quando há maior necessidade de resistência à abrasão e pressão;</li>
 
-
-
 <li>O que faz da mangueira de incêndio NBR 11.861 é o fato dela ter passado por
 
 19 ensaios diferentes a fim de garantir sua segurança, tais como ensaio de
 
-
-
 alongamento, flexão, ruptura, número de voltas, resistência à abrasão, dentre
 
 outros.</li>
-
-
 
 <p>A rigidez das normas brasileiras para fabricação de mangueiras de incêndio fazem dos
 
@@ -186,11 +159,7 @@ deve desprezar a importância da certificação e adequação destes equipamento
 
 normas da ABNT.</p>
 
-
-
 <p>LAUDOS E VISTORIAS TÉCNICAS</p>
-
-
 
 <p>A equipe especializada da BS , empresa líder no comércio de
 
@@ -199,8 +168,6 @@ equipamentos de combate ao fogo, faz outro alerta: adquirir a mangueira de incê
 NBR 11.861 é essencial para obter os laudos e alvarás necessários a um imóvel
 
 comercial ou industrial.</p>
-
-
 
 <p>Afinal, durante a vistoria do Corpo de Bombeiros sempre é feita a verificação dos
 
@@ -216,55 +183,33 @@ Bombeiros nem em situações emergenciais nos quais estes equipamentos deverão 
 
 aplicados.</p>
 
-
-
 <p><strong>Modelos e locais de uso.</strong></p>
 
-
-
 <p><strong>Mangueira Tipo 1</strong></p>
-
-
 
 <p>A mangueira de incêndio cm couto tipo 1 é um modelo destinado para combater
 
 incêndios em edifícios residenciais.</p>
 
-
-
 <p><strong> Mangueira Tipo 2</strong></p>
-
-
 
 <p>Já as mangueiras de incêndio do tipo 2 são indicadas para combater o fogo em
 
 edifícios comerciais e industriais e também podem ser utilizadas pelos bombeiros.</p>
 
-
-
 <p><strong>Mangueira Tipo 3</strong></p>
-
-
 
 <p>As mangueiras de incêndio do tipo 3 são indicadas para combater incêndios na área
 
 industrial, naval e também pelo Corpo de Bombeiros.</p>
 
-
-
 <p><strong>Mangueira Tipo 4</strong></p>
-
-
 
 <p>As mangueiras tipo 4 são indicadas para o combate ao fogo em indústrias, pois esses
 
 casos necessitam de maior resistência à abrasão.</p>
 
-
-
 <p><strong>Mangueira Tipo 5</strong></p>
-
-
 
 <p>Por fim, as mangueiras tipo 5 são destinadas para a área industrial que necessita de
 
@@ -272,11 +217,7 @@ mangueiras com alta resistência à abrasão, produtos químicos, entre outros.<
 
 </ul>
 
-
-
 <p><strong>Vantagens de Comprar com a BS Brasil segurança.</strong></p>
-
-
 
 <p>Credibilidade segurança e garantia</p>
 
@@ -302,61 +243,31 @@ mangueiras com alta resistência à abrasão, produtos químicos, entre outros.<
 
 <p>Mais de 2000 clientes atendidos e satisfeitos entre condomínios e empresas.</p>
 
-                </article>
+ </article>
 
-  
+ <br><br>
 
-                
+ </div>
 
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
+ <div class="fixa2">
 
-                <br><br>
+ <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
 
+ </div>
 
+ </div>
 
-             
-
-
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
+ </section>
 
 
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

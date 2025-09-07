@@ -1,341 +1,235 @@
-	<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: abrigo-para-hidrante.php
+ */
 
-	<html lang="en">
+// Configuração da página
+$page_config = array(
+    'title' => 'Abrigo para Hidrante - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Solicite um orçamento!',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/abrigo-para-hidrante.php',
+);
 
-	<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Abrigo para Hidrante',
+    ),
+);
 
-	      <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'Abrigo para Hidrante',
+    'description' => 'Solicite um orçamento!',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+ <!-- Google Tag Manager (noscript) -->
 
-        <!-- End Google Tag Manager -->
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-	   
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-	    <meta charset="utf-8">
+ <!-- End Google Tag Manager (noscript) -->
 
-	    
+ <?php include ('includes/header.php'); ?> 
 
-	    <title>Abrigo para Hidrante</title>
+ <div class="row" style="margin: 0px auto; ">
 
-	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <div class="col-lg-12 hgroupinternas" style="padding-top:20px; padding-bottom:10px;">
 
-	    <meta name="viewport" content="width=device-width, initial-scale=1">
+ <div class="container ">
 
-	    <meta name="description" content="Abrigo para Hidrante é na . Contamos com diversos equipamentos contra incêndio. Abrigo para Hidrante em SP é aqui!">
+ <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12" style="padding:20px 0px 20px 0px;">
 
-	    <meta name="author" content="OtimizaMais Marketing Digital">
+ <h1>Abrigo para Hidrante</h1>
 
-	    <meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
+ </div>
 
+ <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding:20px 0px 20px 0px;">
 
+ <p style="text-align:right;"><a href="contato.php" class="btn btn-info" role="button">Solicite um orçamento!</a></p>
 
-	    <!-- Bootstrap Core CSS -->
+ </div>
 
-	    <link href="css/bootstrap.css" rel="stylesheet">
+ </div>
 
-	    
+ </div>
 
-	 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ </div>
 
-	    <script src="js/jquery.js"></script>
+ <div class="row" style="margin: 0px auto; ">
 
-	    <script src="js/bootstrap.min.js"></script>
+ <div class="col-lg-12">
 
+ <div class="container ">
 
+ <ol class="breadcrumb"><li><a href="index.php">Home</a></li><li><a href="produtos-e-acessorios-contra-incendio.php">Produtos e Acessórios</a></li><li><a href="abrigos-para-equipamentos-contra-incendio.php">Abrigos</a></li><li class="active">Abrigo para Hidrante</li></ol>
 
-	    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-	  
+ <h2>Abrigo para Hidrante</h2>
 
-		<!-- Global site tag (gtag.js) - Google Ads: 720103253 -->
+ </div>
 
-	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-720103253"></script>
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
-	<script>
+ <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
 
-	  window.dataLayer = window.dataLayer || [];
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
-	  function gtag(){dataLayer.push(arguments);}
+ <img class="img-responsive" src="/assets/img/old-site/abrigo-para-hidrante.jpg" alt="Abrigo para Hidrante" title="Abrigo para Hidrante" style="margin:0px auto;">
 
-	  gtag('js', new Date());
+ </div>
 
+ <p>Os abrigos para hidrantes são instalados nos terminais com o mesmo nome para preservar seu conteúdo, os abrigos para hidrantes tem que ser projetados por engenheiros, pois existe uma determinada norma para se instalar estes abrigos. </p>
 
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
-	  gtag('config', 'AW-720103253');
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px; margin-bottom:5px; background:#ff8000; padding:5px; color:#fff;">
 
-	</script>
+ <p style="margin:0px;">Veja também:</p>
 
+ </div>
 
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
+ <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="padding:0px;">
 
+ <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
 
-	<!-- Event snippet for Outro conversion page -->
+ <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
-	<script>
+ <a href="abrigo-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/abrigo-para-hidrante.jpg" alt="Abrigo para Hidrante" title="Abrigo para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
-	  gtag('event', 'conversion', {'send_to': 'AW-720103253/ZXkvCI-AwMYBENXOr9cC'});
+ <div class="caption">
 
-	</script>
+ <h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="abrigo-para-hidrante.php" style="color:#fff;">Abrigo para Hidrante</a></h2>
 
+ <p style="text-align:center;"><a href="abrigo-para-hidrante.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
 
+ </div>
 
-	</head>
+ </div>
 
-	    
+ </div>
 
-	<body>
+ <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
 
-	    
+ <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
-	    <!-- Google Tag Manager (noscript) -->
+ <a href="abrigo-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/abrigo-para-mangueira-de-incendio.jpg" alt="Abrigo para Mangueira de Incêndio" title="Abrigo para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
+ <div class="caption">
 
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="abrigo-para-mangueira-de-incendio.php" style="color:#fff;">Abrigo para Mangueira de Incêndio</a></h2>
 
-                <!-- End Google Tag Manager (noscript) -->
+ <p style="text-align:center;"><a href="abrigo-para-mangueira-de-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
 
-	   <?php include ('includes/header.php'); ?>   
+ </div>
 
-	    
+ </div>
 
-	<div class="row" style="margin: 0px auto; ">
+ </div>
 
-	            <div class="col-lg-12 hgroupinternas" style="padding-top:20px; padding-bottom:10px;">
+ </div>
 
-	                <div class="container ">
+ <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="padding:0px;">
 
-						
+ <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
 
-							<div class="col-lg-9 col-md-9 col-sm-8 col-xs-12" style="padding:20px 0px 20px 0px;">
+ <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
-							<h1>Abrigo para Hidrante</h1>
+ <a href="abrigo-para-extintor-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/abrigo-para-extintor-de-incendio.jpg" alt="Abrigo para Extintor de Incêndio" title="Abrigo para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
-							</div>
+ <div class="caption">
 
-							
+ <h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="abrigo-para-extintor-de-incendio.php" style="color:#fff;">Abrigo para Extintor de Incêndio</a></h2>
 
-							<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding:20px 0px 20px 0px;">
+ <p style="text-align:center;"><a href="abrigo-para-extintor-de-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
 
-							<p style="text-align:right;"><a href="contato.php" class="btn btn-info" role="button">Solicite um orçamento!</a></p>
+ </div>
 
-							</div>
+ </div>
 
-					
+ </div>
 
-	                </div>
+ </div>
 
-	            </div>
+ </div>
 
-	    </div>
+ </div>
 
-		
+ <br><br>
 
-		
+ </div>
 
-		
+ <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
-		<div class="row" style="margin: 0px auto; ">
+ <?php include ('includes/corpolateral.php'); ?> 
 
-	        <div class="col-lg-12">
+ </div>
 
-	            <div class="container ">
+ </div>
 
-					<ol class="breadcrumb"><li><a href="index.php">Home</a></li><li><a href="produtos-e-acessorios-contra-incendio.php">Produtos e Acessórios</a></li><li><a href="abrigos-para-equipamentos-contra-incendio.php">Abrigos</a></li><li class="active">Abrigo para Hidrante</li></ol>
+ </div>
 
-					
+ </div>
 
-					
+ </div>
 
-						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <?php include ('includes/footer.php'); ?> 
 
-						<h2>Abrigo para Hidrante</h2>
+ 
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
 
-						</div>
-
-					
-
-					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
-
-					<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-
-						
-
-						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
-
-						<img class="img-responsive"  src="images/abrigo-para-hidrante.jpg" alt="Abrigo para Hidrante" title="Abrigo para Hidrante" style="margin:0px auto;">
-
-						</div>
-
-
-
-					 <p>Os abrigos para hidrantes são instalados nos terminais com o mesmo nome para preservar seu conteúdo, os abrigos para hidrantes tem que ser projetados por engenheiros, pois existe uma determinada norma para se instalar estes abrigos. </p>
-
-
-
-						
-
-						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
-
-							<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px; margin-bottom:5px; background:#ff8000; padding:5px; color:#fff;">
-
-								<p style="margin:0px;">Veja também:</p>
-
-							</div>
-
-						
-
-						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
-
-						
-
-						
-
-						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="padding:0px;">
-
-						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
-
-							<div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px;  ">
-
-							  <a href="abrigo-para-hidrante.php"><img class="img-responsive"  src="images/abrigo-para-hidrante.jpg" alt="Abrigo para Hidrante" title="Abrigo para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
-
-							  <div class="caption">
-
-								<h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="abrigo-para-hidrante.php" style="color:#fff;">Abrigo para Hidrante</a></h2>
-
-								<p style="text-align:center;"><a href="abrigo-para-hidrante.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
-
-							  </div>
-
-							</div>
-
-						</div>
-
-						
-
-						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
-
-							<div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px;  ">
-
-							  <a href="abrigo-para-mangueira-de-incendio.php"><img class="img-responsive"  src="images/abrigo-para-mangueira-de-incendio.jpg" alt="Abrigo para Mangueira de Incêndio" title="Abrigo para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
-
-							  <div class="caption">
-
-								<h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="abrigo-para-mangueira-de-incendio.php" style="color:#fff;">Abrigo para Mangueira de Incêndio</a></h2>
-
-								<p style="text-align:center;"><a href="abrigo-para-mangueira-de-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
-
-							  </div>
-
-							</div>
-
-						</div>
-
-						</div>
-
-						
-
-						
-
-						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="padding:0px;">
-
-						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
-
-							<div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px;  ">
-
-							  <a href="abrigo-para-extintor-de-incendio.php"><img class="img-responsive"  src="images/abrigo-para-extintor-de-incendio.jpg" alt="Abrigo para Extintor de Incêndio" title="Abrigo para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
-
-							  <div class="caption">
-
-								<h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="abrigo-para-extintor-de-incendio.php" style="color:#fff;">Abrigo para Extintor de Incêndio</a></h2>
-
-								<p style="text-align:center;"><a href="abrigo-para-extintor-de-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
-
-							  </div>
-
-							</div>
-
-						</div>
-
-						
-
-						</div>
-
-						
-
-						</div>
-
-
-
-						</div>
-
-		
-
-						
-
-						
-
-						
-
-						<a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-						<br><br>
-
-						
-
-					</div>
-
-					
-
-					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px;  margin-bottom:25px;">
-
-						<?php include ('includes/corpolateral.php'); ?>  
-
-					</div>
-
-
-
-					
-
-					</div>
-
-					
-
-					
-
-					
-
-					
-
-				</div>
-
-			</div>
-
-		</div>
-
-		
-
-
-
-	 <?php include ('includes/footer.php'); ?>   
-
-	 
-
-
-
-
-
-	</body>
-
-
-
-	</html>
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

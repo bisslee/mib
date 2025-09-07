@@ -1,266 +1,217 @@
-<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: mangueiras-de-incendio-para-area-residencial.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'MANGUEIRA DE INCÊNDIO PARA ÁREA RESIDENCIAL - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Descrição da página',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueiras-de-incendio-para-area-residencial.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'MANGUEIRA DE INCÊNDIO PARA ÁREA RESIDENCIAL',
+    ),
+);
 
-    <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'MANGUEIRA DE INCÊNDIO PARA ÁREA RESIDENCIAL',
+    'description' => 'Descrição da página',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-
-        <!-- End Google Tag Manager -->
-
-	<title>Mangueiras de incêndio para área residencial  - Mangueiras de Incêndio Brasil </title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Mangueiras de incêndio para área residencial">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-    <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
-
-
-
-        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-
-
-	<section class="container">
-
-		<div class="row">	
-
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-            <div>
-
-            <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
-
-                      <img src="images/panilha-29.png" class="img-responsive">
-
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
             </div>
+        </div>
+    </div>
+</section>
 
-                
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-                <h2><strong>MANGUEIRA DE INCÊNDIO PARA ÁREA RESIDENCIAL</strong></h2>
 
-                <br>
+ <!-- Google Tag Manager (noscript) -->
 
-                <p>A busca por <strong>mangueira de incêndio para área residencial</strong> parte comumente
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-                de administradores de imóveis, construtoras, síndicos e zeladores de
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-                condomínios que visam adequar as estruturas prediais às normas e leis de
+ <!-- End Google Tag Manager (noscript) -->
 
-                segurança e, assim, viabilizar seu uso.</p>
+ <div class="fixa2">
 
-                
+ <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
 
-                <p>Contudo, é preciso prestar atenção no momento da aquisição das mangueiras,
+ </div>
 
-                pois no mercado são encontrados diversos modelos direcionados ao uso em
+ <section class="container">
 
-                residências, indústrias, comércios, Corpo de Bombeiros, área naval, dentre
+ <div class="row"> 
 
-                outros.</p>
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-                
+ <div>
 
-                <h2><strong>A mangueira de incêndio para área residencial ideal</strong></h2>
+ <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
 
-                
+ <img src="/assets/img/old-site/panilha-29.png" class="img-responsive">
 
-                <p>A Associação Brasileira de Normas Técnicas classifica as mangueiras de
+ </div>
 
-                incêndio em 5 tipos diferentes, sendo que apenas o tipo 1 é voltado para uso
+ <h2><strong>MANGUEIRA DE INCÊNDIO PARA ÁREA RESIDENCIAL</strong></h2>
 
-                em áreas residenciais. Logo, para não equivocar-se na hora da compra, é
+ <br>
 
-                imprescindível verificar as informações constantes no equipamento:</p>
+ <p>A busca por <strong>mangueira de incêndio para área residencial</strong> parte comumente
 
-                
+ de administradores de imóveis, construtoras, síndicos e zeladores de
 
-                <ul>
+ condomínios que visam adequar as estruturas prediais às normas e leis de
 
-                 <li><strong>Tipo 1:</strong>Com pressão máxima de trabalho de 980 KPa (10kgf /cm²), esse
+ segurança e, assim, viabilizar seu uso.</p>
 
-                    tipo de mangueira combate a incêndio é ideal para uso em edifícios
+ <p>Contudo, é preciso prestar atenção no momento da aquisição das mangueiras,
 
-                    residenciais;</li>
+ pois no mercado são encontrados diversos modelos direcionados ao uso em
 
-                    
+ residências, indústrias, comércios, Corpo de Bombeiros, área naval, dentre
 
-                    <img src="images/panilha-32.png" class="img-responsive">
+ outros.</p>
 
-                    
+ <h2><strong>A mangueira de incêndio para área residencial ideal</strong></h2>
 
-                    <li>Nas duas extremidades da mangueira de incêndio , quando esta está de
+ <p>A Associação Brasileira de Normas Técnicas classifica as mangueiras de
 
-                    acordo com a ABNT, é possível encontrar dados importantes, tais como
+ incêndio em 5 tipos diferentes, sendo que apenas o tipo 1 é voltado para uso
 
-                    o nome ou marca do fabricante, tipo de mangueira, número da norma
+ em áreas residenciais. Logo, para não equivocar-se na hora da compra, é
 
-                    NBR 11861, mês e ano da fabricação.</li>
+ imprescindível verificar as informações constantes no equipamento:</p>
 
-                    
+ <ul>
 
-                    
+ <li><strong>Tipo 1:</strong>Com pressão máxima de trabalho de 980 KPa (10kgf /cm²), esse
 
-                    <li>Também é recomendado dar preferência aos equipamentos que
+ tipo de mangueira combate a incêndio é ideal para uso em edifícios
 
-                    passaram por testes prévios realizados pelo Inmetro, pois a realização
+ residenciais;</li>
 
-                    destes é uma garantia a mais para o consumidor no que tange à
+ <img src="/assets/img/old-site/panilha-32.png" class="img-responsive">
 
-                    eficiência e funcionalidade das mangueiras de incêndio.</li>
+ <li>Nas duas extremidades da mangueira de incêndio , quando esta está de
 
-                    
+ acordo com a ABNT, é possível encontrar dados importantes, tais como
 
-                    <li>Vale lembrar que a aquisição de produtos de má qualidade pode resultar
+ o nome ou marca do fabricante, tipo de mangueira, número da norma
 
-                    em falhas durante seu uso e a compra de mangueiras não compatíveis
+ NBR 11861, mês e ano da fabricação.</li>
 
-                    com a utilização residencial acarreta na diminuição da vida útil do
+ <li>Também é recomendado dar preferência aos equipamentos que
 
-                    produto, além de baixo desempenho.</li>
+ passaram por testes prévios realizados pelo Inmetro, pois a realização
 
-                </ul>
+ destes é uma garantia a mais para o consumidor no que tange à
 
-                
+ eficiência e funcionalidade das mangueiras de incêndio.</li>
 
-                <h2><strong>Instalação e compra das mangueiras de incêndio.</strong></h2>
+ <li>Vale lembrar que a aquisição de produtos de má qualidade pode resultar
 
-                <br>
+ em falhas durante seu uso e a compra de mangueiras não compatíveis
 
-                
+ com a utilização residencial acarreta na diminuição da vida útil do
 
-                <p>Desde o momento em que um imóvel é projetado é necessário determinar os
+ produto, além de baixo desempenho.</li>
 
-                pontos nos quais estarão localizadas as saídas de emergência, extintores e
+ </ul>
 
-                mangueiras de incêndio. No entanto, em prédios antigos, as adaptações são
+ <h2><strong>Instalação e compra das mangueiras de incêndio.</strong></h2>
 
-                feitas, muitas vezes, quando os imóveis já estão prontos.</p>
+ <br>
 
-                
+ <p>Desde o momento em que um imóvel é projetado é necessário determinar os
 
-                
+ pontos nos quais estarão localizadas as saídas de emergência, extintores e
 
-                <p>Nesse caso, é vital atentar-se à localização dos dispositivos, uma vez que
+ mangueiras de incêndio. No entanto, em prédios antigos, as adaptações são
 
-                    estes devem ser alocados em áreas de fácil acesso, sem a presença de
+ feitas, muitas vezes, quando os imóveis já estão prontos.</p>
 
+ <p>Nesse caso, é vital atentar-se à localização dos dispositivos, uma vez que
 
+ estes devem ser alocados em áreas de fácil acesso, sem a presença de
 
-                    obstáculos e elementos que dificultem sua utilização e aplicação em situações
+ obstáculos e elementos que dificultem sua utilização e aplicação em situações
 
-                    emergenciais, as quais demandam agilidade.</p>
+ emergenciais, as quais demandam agilidade.</p>
 
-              
+ <p>As mangueiras, por exemplo, devem ser enroladas de modo que estejam
 
-                <p>As mangueiras, por exemplo, devem ser enroladas de modo que estejam
+ sempre prontas para uso, bastando conectar uma de suas extremidades ao
 
-                sempre prontas para uso, bastando conectar uma de suas extremidades ao
+ ponto de fornecimento de água, bombas ou hidrantes. Depois é só direcionar a
 
-                ponto de fornecimento de água, bombas ou hidrantes. Depois é só direcionar a
+ outra aos focos de incêndio.</p>
 
-                outra aos focos de incêndio.</p>
+ <p>Já a compra deve ser feita junto a um fornecedor de confiança, como a Brasil
 
-                
+ Segurança, uma empresa com sólida atuação no mercado que comercializa
 
-                <p>Já a compra deve ser feita junto a um fornecedor de confiança, como a Brasil
+ apenas mangueiras certificadas pelo ISO 9001, ABNT e com selo de
 
-                    Segurança, uma empresa com sólida atuação no mercado que comercializa
+ aprovação do Inmetro.</p>
 
-                    apenas mangueiras certificadas pelo ISO 9001, ABNT e com selo de
+ <br><br>
 
-                    aprovação do Inmetro.</p>
+ </div>
 
-                    <a href="contato.php" class="btn btn-default">Entre em Contato</a>
+ </div>
 
-                    <br><br>
+ </section>
 
-               </div>
 
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

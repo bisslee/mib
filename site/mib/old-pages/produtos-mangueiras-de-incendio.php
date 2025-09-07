@@ -1,92 +1,91 @@
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: produtos-mangueiras-de-incendio.php
+ */
+
+// Configuração da página
+$page_config = array(
+    'title' => 'Produtos Mangueiras - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Seja bem-vindo à BS , especialista em produto mangueira de incêndio e referência nacional em equipamentos para combate e prevenção de incêndios.',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/produtos-mangueiras-de-incendio.php',
+);
+
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Produtos Mangueiras',
+    ),
+);
+
+$heroConfig = array(
+    'title' => 'Produtos Mangueiras',
+    'description' => 'Seja bem-vindo à BS , especialista em produto mangueira de incêndio e referência nacional em equipamentos para combate e prevenção de incêndios.',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
+
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
+
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
 
-<!DOCTYPE html>
+ <!-- Google Tag Manager (noscript) -->
 
-<html lang="pt-br">
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-<head>
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-    <!-- Google Tag Manager -->
+ <!-- End Google Tag Manager (noscript) -->
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ <section class="container">
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ <div class="row"> 
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-
-        <!-- End Google Tag Manager -->
-
-	<title>Produto Mangueira de Incêndio: Segurança e Alta Performance para sua Proteção</title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Produto Mangueira de Incêndio: Segurança e Alta Performance para sua Proteção">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-                <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
-
-
-
-	<section class="container">
-
-		<div class="row">	
-
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
  <h1>Produtos Mangueiras</h1>
 
-<img src="images/img1027.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1027.png" class="img-responsive" alt="">
 
 <h2>🔥 Produto Mangueira de Incêndio: Segurança e Alta Performance para sua Proteção</h2>
 
-<img src="images/img1028.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1028.png" class="img-responsive" alt="">
 
 <p>Seja bem-vindo à BS , especialista em produto mangueira de incêndio e referência nacional em equipamentos para combate e prevenção de incêndios.</p>
 
@@ -180,7 +179,7 @@
 
 <p>Mangueira Predial Tipo 1 (Predyflex) – BS </p>
 
-<img src="images/img1018.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1018.png" class="img-responsive" alt="">
 
 <p>A Mangueira Predial Tipo 1 (Predyflex) é ideal para condomínios residenciais que necessitam de segurança confiável contra incêndios. Com alta resistência e facilidade de uso, ela foi desenvolvida para proporcionar eficiência em situações de emergência, cumprindo rigorosamente os requisitos das normas de segurança.</p>
 
@@ -200,11 +199,11 @@
 
 <p><strong>Conformidade com Normas: Atende às exigências do Corpo de Bombeiros.</strong></p>
 
-<p>Proteção Confiável e Duradoura: Escolha a Mangueira Predial Tipo 1 (Predyflex) da BS  e garanta a proteção do seu condomínio com um equipamento durável e eficiente. Consulte as regulamentações de segurança e garanta a conformidade do seu sistema de combate a incêndio.</p>
+<p>Proteção Confiável e Duradoura: Escolha a Mangueira Predial Tipo 1 (Predyflex) da BS e garanta a proteção do seu condomínio com um equipamento durável e eficiente. Consulte as regulamentações de segurança e garanta a conformidade do seu sistema de combate a incêndio.</p>
 
 <p><strong>Mangueira Tipo 2 (Superflex) – BS : Eficiência e Confiabilidade</strong></p>
 
-<img src="images/img1019.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1019.png" class="img-responsive" alt="">
 
 <p>A Mangueira Tipo 2 (Superflex) é uma excelente escolha para edificações comerciais e industriais que necessitam de equipamentos de alta resistência e desempenho superior no combate a incêndios. Este modelo é ideal para ambientes com risco elevado de incêndio.</p>
 
@@ -224,11 +223,11 @@
 
 <p>Atendimento Especializado: Oferecemos suporte técnico para ajudá-lo a escolher a melhor opção para sua edificação.</p>
 
-<p>Investimento na Segurança do Seu Patrimônio: Entre em contato com a BS  para solicitar um orçamento personalizado e adquirir a Mangueira Tipo 2 (Superflex), a solução ideal para proteger seu patrimônio.</p>
+<p>Investimento na Segurança do Seu Patrimônio: Entre em contato com a BS para solicitar um orçamento personalizado e adquirir a Mangueira Tipo 2 (Superflex), a solução ideal para proteger seu patrimônio.</p>
 
 <p>Mangueira Tipo 3 (Superflex Capa Dupla) – BS : A Solução Definitiva para Ambientes de Alto Risco</p>
 
-<img src="images/img1020.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1020.png" class="img-responsive" alt="">
 
 <p>A Mangueira Tipo 3 (Superflex Capa Dupla) é projetada para ambientes industriais e comerciais de alto risco, onde a resistência e o desempenho superior são essenciais para garantir a segurança e o combate eficaz ao fogo.</p>
 
@@ -256,7 +255,7 @@
 
 <p>Mangueira Tipo 4 (Plastflex) – BS : Alta Performance e Segurança Garantida</p>
 
-<img src="images/img1021.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1021.png" class="img-responsive" alt="">
 
 <p>A Mangueira Tipo 4 (Plastflex) é a solução ideal para ambientes de alto risco que exigem desempenho superior no combate a incêndios. Fabricada com materiais resistentes, ela oferece durabilidade e eficiência para ambientes comerciais, industriais e de alto risco.</p>
 
@@ -280,11 +279,11 @@
 
 <p>Atendimento Personalizado: Nossa equipe especializada orienta sobre a melhor escolha para sua necessidade.</p>
 
-<p>Garanta a Melhor Proteção para Sua Edificação: Entre em contato com a BS  para solicitar seu orçamento e adquirir a Mangueira Tipo 4 (Plastflex), oferecendo o melhor em segurança e desempenho.</p>
+<p>Garanta a Melhor Proteção para Sua Edificação: Entre em contato com a BS para solicitar seu orçamento e adquirir a Mangueira Tipo 4 (Plastflex), oferecendo o melhor em segurança e desempenho.</p>
 
 <p>Mangueira Tipo 5 (Ruberflex) – BS : Eficiência e Alta Resistência no Combate a Incêndios</p>
 
-<img src="images/img1022.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1022.png" class="img-responsive" alt="">
 
 <p>A Mangueira Tipo 5 (Ruberflex) é ideal para ambientes comerciais e residenciais, garantindo alta resistência e desempenho superior em situações de emergência, atendendo às necessidades de segurança em locais com risco de incêndio.</p>
 
@@ -312,65 +311,33 @@
 
 <p>Entre em Contato com a BS </p>
 
-<p>A BS  oferece mangueiras de incêndio de alta qualidade, projetadas para garantir a segurança máxima de sua edificação. Se você está em busca de proteção eficiente e duradoura, entre em contato conosco agora mesmo!</p>
+<p>A BS oferece mangueiras de incêndio de alta qualidade, projetadas para garantir a segurança máxima de sua edificação. Se você está em busca de proteção eficiente e duradoura, entre em contato conosco agora mesmo!</p>
 
-               <?php include('includes/contato.php'); ?>
+ </article>
 
-                </article>
+ <br><br>
 
-  
+ </div>
 
-                
+ <div class="fixa2">
 
-                
+ <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
 
+ </div>
 
+ </div>
 
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
+ </section>
 
 
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

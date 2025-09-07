@@ -1,100 +1,99 @@
-<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: mangueira-tipo-1.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Por que escolher mangueira tipo 1 incêndio?',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueira-tipo-1.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Título da Página',
+    ),
+);
 
-    <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'Título da Página',
+    'description' => 'Por que escolher mangueira tipo 1 incêndio?',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-
-        <!-- End Google Tag Manager -->
-
-	<title>Mangueira tipo 1 incêndio: entenda as especificações dessa mangueira.</title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Mangueira de Incêndio Coutoflex ">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-                <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
 
+ <!-- Google Tag Manager (noscript) -->
 
-	<section class="container">
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-		<div class="row">	
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <!-- End Google Tag Manager (noscript) -->
 
+ <section class="container">
 
+ <div class="row"> 
 
-                <div>
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-                    <img src="images/planilha-105.png" class="img-responsive" alt="">
+ <div>
 
-                </div>
+ <img src="/assets/img/old-site/planilha-105.png" class="img-responsive" alt="">
 
-                <p>Quando se trata de proteger vidas e patrimônios contra incêndios, investir em mangueira tipo
+ </div>
+
+ <p>Quando se trata de proteger vidas e patrimônios contra incêndios, investir em mangueira tipo
 
 1 incêndio é essencial para condomínios residenciais.</p>
 
-                <p>Na BS  HSA, oferecemos mangueiras tipo 1 de alta qualidade, fabricadas para
+ <p>Na BS HSA, oferecemos mangueiras tipo 1 de alta qualidade, fabricadas para
 
 atender aos mais altos padrões de segurança e desempenho.</p>
 
-                <p>Neste texto, vamos explorar a importância das mangueiras tipo 1 incêndio e como elas podem
+ <p>Neste texto, vamos explorar a importância das mangueiras tipo 1 incêndio e como elas podem
 
 contribuir para a segurança de seu ambiente.</p>
 
@@ -148,9 +147,9 @@ diversos agentes extintores, a mangueira tipo 1 incêndio é ideal para residên
 
 condomínios residenciais, protegendo, dessa forma, ambientes familiares.</p>
 
-<p><strong>BS  HSA: sua fonte confiável de mangueira tipo 1 incêndio</strong></p>
+<p><strong>BS HSA: sua fonte confiável de mangueira tipo 1 incêndio</strong></p>
 
-<p>Na BS  HSA, oferecemos mangueiras tipo 1 incêndio de alta qualidade,
+<p>Na BS HSA, oferecemos mangueiras tipo 1 incêndio de alta qualidade,
 
 fabricadas para atender às necessidades específicas de nossos clientes.</p>
 
@@ -178,67 +177,31 @@ mais adequada para suas necessidades específicas, garantindo uma solução sob 
 
 sua proteção contra incêndios.</p>
 
-               
+ </article>
 
-              
+ <br><br>
 
-               <?php include('includes/contato.php'); ?>
+ </div>
 
-                </article>
+ <div class="fixa2">
 
-  
+ <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
 
-                
+ </div>
 
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
+ </div>
 
-                <br><br>
-
-
-
-             
+ </section>
 
 
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

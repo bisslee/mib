@@ -1,340 +1,255 @@
-<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: mangueiras-de-incendio-na-grande-sp.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'MANGUEIRA DE INCÊNDIO NA GRANDE SP - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Descrição da página',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueiras-de-incendio-na-grande-sp.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'MANGUEIRA DE INCÊNDIO NA GRANDE SP',
+    ),
+);
 
-    <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'MANGUEIRA DE INCÊNDIO NA GRANDE SP',
+    'description' => 'Descrição da página',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-
-        <!-- End Google Tag Manager -->
-
-	<title>Mangueiras de incêndio na grande São Paulo  - Mangueiras de Incêndio Brasil </title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Mangueiras de incêndio na grande São Paulo ">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-                <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
-
-
-
-        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-
-
-	<section class="container">
-
-		<div class="row">	
-
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-            <div>
-
-            <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
-
-                      <img src="images/panilha-29.png" class="img-responsive">
-
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
             </div>
+        </div>
+    </div>
+</section>
 
-                
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-                <h2><strong>MANGUEIRA DE INCÊNDIO NA GRANDE SP</strong></h2>
 
-                <br>
+ <!-- Google Tag Manager (noscript) -->
 
-                <p>A demanda por <strong>mangueira de incêndio na Grande SP</strong> e demais regiões é
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-                    oriunda principalmente de síndicos, zeladores, administradores de edifícios,
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-                    construtoras e demais solicitantes que almejam adequar os imóveis para
+ <!-- End Google Tag Manager (noscript) -->
 
-                    cumprimento das normas e regras de segurança.</p>
+ <div class="fixa2">
 
-                
+ <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
 
-                
+ </div>
 
-                <p>A presença das mangueiras, portanto, é não apenas necessária, mas uma
+ <section class="container">
 
-                    demanda estipulada legalmente, uma vez que esse tipo de equipamento é
+ <div class="row"> 
 
-                    essencial para promoção e manutenção da segurança de frequentadores,
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-                    moradores e funcionários em comércios e residências.</p>
+ <div>
 
-                
+ <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
 
-                <h2><strong>Saiba como realizar a correta aplicação e conservação das
+ <img src="/assets/img/old-site/panilha-29.png" class="img-responsive">
 
-                        mangueiras</strong></h2>
+ </div>
 
-                <br>
+ <h2><strong>MANGUEIRA DE INCÊNDIO NA GRANDE SP</strong></h2>
 
-                
+ <br>
 
-                <p>Para uma correta utilização das mangueiras de incêndio é recomendada a
+ <p>A demanda por <strong>mangueira de incêndio na Grande SP</strong> e demais regiões é
 
-                realização de treinamentos especiais para a formação e capacitação de
+ oriunda principalmente de síndicos, zeladores, administradores de edifícios,
 
-                brigadistas. Esta é uma ação necessária especialmente em condomínios, pois
+ construtoras e demais solicitantes que almejam adequar os imóveis para
 
-                apresentam grande fluxo de circulação de pessoas.</p>
+ cumprimento das normas e regras de segurança.</p>
 
-                
+ <p>A presença das mangueiras, portanto, é não apenas necessária, mas uma
 
-                
+ demanda estipulada legalmente, uma vez que esse tipo de equipamento é
 
-                <h2><strong>Tipos de mangueiras de combate a incêndio</strong></h2>
+ essencial para promoção e manutenção da segurança de frequentadores,
 
-                
+ moradores e funcionários em comércios e residências.</p>
 
-                <ul>
+ <h2><strong>Saiba como realizar a correta aplicação e conservação das
 
-                <li><strong>Tipo 1:</strong>Com pressão máxima de trabalho de 980 KPa (10kgf /cm²), esse
+ mangueiras</strong></h2>
 
-                tipo de mangueira combate a incêndio é ideal para uso em edifícios
+ <br>
 
-                residenciais;</li>
+ <p>Para uma correta utilização das mangueiras de incêndio é recomendada a
 
-                    
+ realização de treinamentos especiais para a formação e capacitação de
 
-                     <img src="images/panilha-19.png" class="img-responsive">
+ brigadistas. Esta é uma ação necessária especialmente em condomínios, pois
 
-                    
+ apresentam grande fluxo de circulação de pessoas.</p>
 
-                    <li><strong>Tipo 2:</strong>Ideal para prédios comerciais, industriais ou Corpo de
+ <h2><strong>Tipos de mangueiras de combate a incêndio</strong></h2>
 
-                    Bombeiros, as mangueiras combate a incêndio tipo 2 possuem pressão
+ <ul>
 
-                    máxima de trabalho de 1370 KPa (14kgf /cm²);</li>
+ <li><strong>Tipo 1:</strong>Com pressão máxima de trabalho de 980 KPa (10kgf /cm²), esse
 
-                    
+ tipo de mangueira combate a incêndio é ideal para uso em edifícios
 
-                    
+ residenciais;</li>
 
-                    <img src="images/panilha-19.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
 
-                    
+ <li><strong>Tipo 2:</strong>Ideal para prédios comerciais, industriais ou Corpo de
 
-                    <li><strong>Tipo 3:</strong>Por serem mais resistentes à abrasão, as mangueiras combate
+ Bombeiros, as mangueiras combate a incêndio tipo 2 possuem pressão
 
-                        a incêndio tipo 3 capa dupla são aplicadas nas áreas industrial e naval e
+ máxima de trabalho de 1370 KPa (14kgf /cm²);</li>
 
-                            possuem pressão máxima de trabalho de 1470 KPa (15kgf /cm²);</li>
+ <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
 
-                    
+ <li><strong>Tipo 3:</strong>Por serem mais resistentes à abrasão, as mangueiras combate
 
-                     <img src="images/panilha-19.png" class="img-responsive">
+ a incêndio tipo 3 capa dupla são aplicadas nas áreas industrial e naval e
 
-                    
+ possuem pressão máxima de trabalho de 1470 KPa (15kgf /cm²);</li>
 
-                    <li><strong>Tipo 4:</strong>Por possuir uma alta resistência à abrasão, as mangueiras de
+ <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
 
-                    combate a incêndio tipo 4 são aplicadas na indústria e possuem pressão
+ <li><strong>Tipo 4:</strong>Por possuir uma alta resistência à abrasão, as mangueiras de
 
-                    máxima de trabalho de 1370 KPa (14kgf /cm²);</li>
+ combate a incêndio tipo 4 são aplicadas na indústria e possuem pressão
 
-                    
+ máxima de trabalho de 1370 KPa (14kgf /cm²);</li>
 
-                    <img src="images/panilha-30.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-30.png" class="img-responsive">
 
-                    
+ <li><strong>Tipo 5:</strong>Aplicadas apenas às indústrias, essas mangueiras de combate a
 
-                    <li><strong>Tipo 5:</strong>Aplicadas apenas às indústrias, essas mangueiras de combate a
+ incêndio são resistentes às altas temperaturas e abrasão e possuem
 
-                    incêndio são resistentes às altas temperaturas e abrasão e possuem
+ pressão máxima de trabalho de 1370 KPa (14kgf/cm²).</li>
 
-                    pressão máxima de trabalho de 1370 KPa (14kgf/cm²).</li>
+ <img src="/assets/img/old-site/panilha-31.png" class="img-responsive">
 
-                    
+ </ul>
 
-                                        <img src="images/panilha-31.png" class="img-responsive">
+ <p>Entretanto, algumas dicas são valiosas na hora de utilizar esse equipamento e
 
-                    
+ para mantê-lo novo por mais tempo, já que as mangueiras apresentam alta
 
-                    
+ durabilidade quando manuseadas e guardadas de modo correto, a saber:</p>
 
-                  
+ <ul>
 
-                    
+ <li>Antes de utilizar a mangueira de incêndio é necessário verificar se as
 
+ conexões estão bem encaixadas para que não haja vazamentos e
 
+ redução da pressão da água. Já as válvulas devem ser abertas e
 
-                </ul>
+ fechadas gradativamente, a fim de controlar o jato de água.</li>
 
-                
+ <li>Durante o uso, a mangueira deve estar posicionada num nível abaixo do
 
-             
+ hidrante ou da bomba, para que o jato de água seja mais forte e
 
-                
+ constante. Além disso, é recomendado não arrastá-la pelo chão para
 
-                  <p>Entretanto, algumas dicas são valiosas na hora de utilizar esse equipamento e
+ evitar desgastes.</li>
 
-                    para mantê-lo novo por mais tempo, já que as mangueiras apresentam alta
+ <li>Após o uso, é preciso esperar que a mangueira seque completamente,
 
-                    durabilidade quando manuseadas e guardadas de modo correto, a saber:</p>
+ pois guardá-la molhada pode ser prejudicial. Depois de seca, deve ser
 
-                
+ enrolada e, caso apresente sujidades, essas devem ser removidas com
 
-                <ul>
+ auxílio de uma escova e detergente neutro.</li>
 
-                  <li>Antes de utilizar a mangueira de incêndio é necessário verificar se as
+ <li>Uma vez ao ano é aconselhável submeter o equipamento a testes, ou
 
-                    conexões estão bem encaixadas para que não haja vazamentos e
+ seja, é preciso desenrolar e utilizar a mangueira para ter certeza de seu bom estado. Já a inspeção visual deve ser realizada duas vezes ao ano,
 
-                    redução da pressão da água. Já as válvulas devem ser abertas e
+ especialmente nos vincos e dobras.</li>
 
-                    fechadas gradativamente, a fim de controlar o jato de água.</li>
+ </ul>
 
-                    
+ <h2><strong>Mangueira de Incêndio na Grande SP e região</strong></h2>
 
-                    <li>Durante o uso, a mangueira deve estar posicionada num nível abaixo do
+ <br>
 
-                        hidrante ou da bomba, para que o jato de água seja mais forte e
+ <p>Para além da conservação e aplicação correta, as mangueiras devem ser
 
-                        constante. Além disso, é recomendado não arrastá-la pelo chão para
+ adquiridas com cautela, pois produtos de má qualidade apresentam péssimo
 
-                        evitar desgastes.</li>
+ resultado e podem colocar pessoas e estruturas prediais em risco, por não
 
-                    
+ atenderem corretamente as demandas.</p>
 
-                    
+ <p>Em toda Grande São Paulo, a melhor fornecedora de mangueiras e
 
-                    <li>Após o uso, é preciso esperar que a mangueira seque completamente,
+ equipamentos de segurança é a , pois comercializa apenas
 
-                    pois guardá-la molhada pode ser prejudicial. Depois de seca, deve ser
+ produtos de alta qualidade, certificados pelo ISO 9001, ABNT e testados e
 
-                    enrolada e, caso apresente sujidades, essas devem ser removidas com
+ aprovados pelo Inmetro, com preços justos e pagamento facilitado.</p>
 
-                    auxílio de uma escova e detergente neutro.</li>
+ <br><br>
 
-                    
+ </div>
 
-                    <li>Uma vez ao ano é aconselhável submeter o equipamento a testes, ou
+ </div>
 
-                    seja, é preciso desenrolar e utilizar a mangueira para ter certeza de seu bom estado. Já a inspeção visual deve ser realizada duas vezes ao ano,
+ </section>
 
-                    especialmente nos vincos e dobras.</li>
 
-                </ul>
-
-                
-
-                <h2><strong>Mangueira de Incêndio na Grande SP e região</strong></h2>
-
-                
-
-                <br>
-
-                <p>Para além da conservação e aplicação correta, as mangueiras devem ser
-
-                adquiridas com cautela, pois produtos de má qualidade apresentam péssimo
-
-                resultado e podem colocar pessoas e estruturas prediais em risco, por não
-
-                atenderem corretamente as demandas.</p>
-
-                
-
-                
-
-                <p>Em toda Grande São Paulo, a melhor fornecedora de mangueiras e
-
-                equipamentos de segurança é a , pois comercializa apenas
-
-                produtos de alta qualidade, certificados pelo ISO 9001, ABNT e testados e
-
-                aprovados pelo Inmetro, com preços justos e pagamento facilitado.</p>
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-               </div>
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

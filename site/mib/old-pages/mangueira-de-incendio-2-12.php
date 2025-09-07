@@ -1,424 +1,341 @@
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: mangueira-de-incendio-2-12.php
+ */
 
+// Configuração da página
+$page_config = array(
+    'title' => 'Mangueira de Incêndio 2 12 25  A Melhor Opção para Proteger Seu Patrimônio - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Na BS , oferecemos a mangueira de incêndio 2 1/2" (2.5) ideal para indústrias, comércios e grandes instalações, combinando alta durabilidade, desem...',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueira-de-incendio-2-12.php',
+);
 
-<!DOCTYPE html>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Mangueira de Incêndio 2 12 25  A Melhor Opção para Proteger Seu Patrimônio',
+    ),
+);
 
-<html lang="pt-br">
+$heroConfig = array(
+    'title' => 'Mangueira de Incêndio 2 12 25  A Melhor Opção para Proteger Seu Patrimônio',
+    'description' => 'Na BS , oferecemos a mangueira de incêndio 2 1/2" (2.5) ideal para indústrias, comércios e grandes instalações, combinando alta durabilidade, desem...',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-<head>
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-    <!-- Google Tag Manager -->
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ <!-- Google Tag Manager (noscript) -->
 
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-        <!-- End Google Tag Manager -->
+ <!-- End Google Tag Manager (noscript) -->
 
-	<title>Mangueira de Incêndio 2 1/2" (2.5) – A Melhor Opção para Proteger Seu Patrimônio</title>
+ <section class="container">
 
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <div class="row"> 
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-	<meta name="description" content="Mangueira de Incêndio 2 1/2 (2.5) – A Melhor Opção para Proteger Seu Patrimônio">
+ <h1>Mangueira de Incêndio 2 1/2" (2.5) – A Melhor Opção para Proteger Seu Patrimônio</h1>
 
-	<meta name="author" content="OtimizaMais Marketing Digital">
+ <img src="/assets/img/old-site/img1003.png" class="img-responsive" alt="">
 
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
+ <p>Na BS , oferecemos a mangueira de incêndio 2 1/2" (2.5) ideal para indústrias, comércios e grandes instalações, combinando alta durabilidade, desempenho e segurança.</p>
 
+ <p>Essas mangueiras são desenvolvidas para suportar altas pressões e temperaturas extremas, mas exigem manuseio exclusivo por profissionais treinados.</p>
 
+ <h2>Contato</h2>
 
-	<!-- Bootstrap Core CSS -->
+ <ul>
 
-	<link href="css/bootstrap.css" rel="stylesheet">
+ <li>📞 WhatsApp: <a href="https://wa.me/5511940258669">11 94025-8669</a></li>
 
+ <li>📧 E-mail: <a href="mailto:contato@mangueirasdeincendiobrasil.com.br">contato@mangueirasdeincendiobrasil.com.br</a></li>
 
+ <li>🌐 Site: <a href="https://www.mangueirasdeincendiobrasil.com.br">mangueirasdeincendiobrasil.com.br</a></li>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ </ul>
 
-	<script src="js/jquery.js"></script>
+ <h2>✅ Por Que Escolher a Mangueira de Incêndio 2 1/2"?</h2>
 
-	<script src="js/bootstrap.min.js"></script>
+ <h3>🔧 Resistência e Durabilidade</h3>
 
+ <ul>
 
+ <li>Alta resistência à pressão: Suporta até 14 Kgf/cm²</li>
 
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+ <li>Revestimento externo em PVC</li>
 
+ <li>Longa vida útil com baixa manutenção</li>
 
+ </ul>
 
-</head>
+ <h3>⚙️ Conexões e Instalação</h3>
 
-<body>
+ <ul>
 
-                <!-- Google Tag Manager (noscript) -->
+ <li>Conectores em latão resistente</li>
 
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
+ <li>Instalação rápida e segura</li>
 
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <li>Leveza e flexibilidade para emergências</li>
 
-                <!-- End Google Tag Manager (noscript) -->
+ </ul>
 
-	<main>	
+ <img src="/assets/img/old-site/img1004.png" class="img-responsive" alt="">
 
-		<header>
+ <h2>📚 Treinamento Obrigatório</h2>
 
-			<?php include ('includes/header.php'); ?>   	
+ <p>Deve ser operada por pessoal treinado, com capacitação em:</p>
 
-		</header>
+ <ul>
 
+ <li>Uso em emergências</li>
 
+ <li>Manuseio correto</li>
 
-	<section class="container">
+ <li>Primeiros socorros</li>
 
-		<div class="row">	
+ </ul>
 
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <h2>🔍 Modelos e Tamanhos Disponíveis</h2>
 
- 
+ <h3>🧪 Modelos Técnicos:</h3>
 
-  <h1>Mangueira de Incêndio 2 1/2" (2.5) – A Melhor Opção para Proteger Seu Patrimônio</h1>
+ <ul>
 
-  <img src="images/img1003.png" class="img-responsive" alt="">
+ <li>Tipo 2 (Superflex)</li>
 
+ <li>Tipo 3 (Capa Dupla)</li>
 
+ <li>Tipo 4 (Plastflex)</li>
 
-  <p>Na BS , oferecemos a mangueira de incêndio 2 1/2" (2.5) ideal para indústrias, comércios e grandes instalações, combinando alta durabilidade, desempenho e segurança.</p>
+ <li>Tipo 5 (Ruberflex)</li>
 
-  <p>Essas mangueiras são desenvolvidas para suportar altas pressões e temperaturas extremas, mas exigem manuseio exclusivo por profissionais treinados.</p>
+ </ul>
 
+ <h3>📏 Comprimentos:</h3>
 
+ <ul>
 
-  <h2>Contato</h2>
+ <li>15 metros</li>
 
-  <ul>
+ <li>20 metros</li>
 
-    <li>📞 WhatsApp: <a href="https://wa.me/5511940258669">11 94025-8669</a></li>
+ <li>25 metros</li>
 
-    <li>📧 E-mail: <a href="mailto:contato@mangueirasdeincendiobrasil.com.br">contato@mangueirasdeincendiobrasil.com.br</a></li>
+ <li>30 metros</li>
 
-    <li>🌐 Site: <a href="https://www.mangueirasdeincendiobrasil.com.br">mangueirasdeincendiobrasil.com.br</a></li>
+ </ul>
 
-  </ul>
+ <img src="/assets/img/old-site/img1005.png" class="img-responsive" alt="">
 
+ <h2>🛡️ Por Que Comprar com a BS ?</h2>
 
+ <ul>
 
-  <h2>✅ Por Que Escolher a Mangueira de Incêndio 2 1/2"?</h2>
+ <li>Atendimento personalizado</li>
 
-  <h3>🔧 Resistência e Durabilidade</h3>
+ <li>Preços direto da fábrica</li>
 
-  <ul>
+ <li>Entrega rápida e com garantia</li>
 
-    <li>Alta resistência à pressão: Suporta até 14 Kgf/cm²</li>
+ <li>Conformidade com ABNT NBR 11861</li>
 
-    <li>Revestimento externo em PVC</li>
+ </ul>
 
-    <li>Longa vida útil com baixa manutenção</li>
+ <h2>🛒 Como Comprar?</h2>
 
-  </ul>
+ <ul>
 
+ <li>Solicite orçamento via WhatsApp ou site</li>
 
+ <li>Receba consultoria técnica</li>
 
-  <h3>⚙️ Conexões e Instalação</h3>
+ <li>Finalize a compra com segurança</li>
 
-  <ul>
+ </ul>
 
-    <li>Conectores em latão resistente</li>
+ <h2>💬 Depoimentos</h2>
 
-    <li>Instalação rápida e segura</li>
+ <blockquote>
 
-    <li>Leveza e flexibilidade para emergências</li>
+ <p><strong>Carlos – Gerente de Segurança Industrial:</strong> "Produto de alta qualidade, atendimento excelente e entrega no prazo."</p>
 
-  </ul>
+ <p><strong>Fernanda – Proprietária de Comércio:</strong> "Ótimo atendimento e produto confiável. Recomendo!"</p>
 
- <img src="images/img1004.png" class="img-responsive" alt="">
+ </blockquote>
 
+ <h2>⚠️ Antes de Comprar</h2>
 
+ <p>Consulte um projeto de incêndio:</p>
 
+ <ul>
 
+ <li>Análise de risco</li>
 
-  <h2>📚 Treinamento Obrigatório</h2>
+ <li>Engenheiro especializado</li>
 
-  <p>Deve ser operada por pessoal treinado, com capacitação em:</p>
+ <li>Documentação técnica</li>
 
-  <ul>
+ </ul>
 
-    <li>Uso em emergências</li>
+ <h2>🏁 Conclusão</h2>
 
-    <li>Manuseio correto</li>
+ <p>Escolha a mangueira de incêndio 2 1/2" da BS – resistência, durabilidade e desempenho confiável para qualquer situação.</p>
 
-    <li>Primeiros socorros</li>
+ <!-- Abaixo, seções resumidas para cada tipo -->
 
-  </ul>
+ <h2>Mangueira Tipo 2 (Superflex)</h2>
 
+ <img src="/assets/img/old-site/img1006.png" class="img-responsive" alt="">
 
+ <p>Ideal para edificações comerciais e industriais com alta resistência.</p>
 
-  <h2>🔍 Modelos e Tamanhos Disponíveis</h2>
+ <ul>
 
-  <h3>🧪 Modelos Técnicos:</h3>
+ <li>Diâmetros: 1 1/2" e 2 1/2"</li>
 
-  <ul>
+ <li>Comprimentos: 15m a 30m</li>
 
-    <li>Tipo 2 (Superflex)</li>
+ <li>Engates Storz em latão</li>
 
-    <li>Tipo 3 (Capa Dupla)</li>
+ </ul>
 
-    <li>Tipo 4 (Plastflex)</li>
+ <h2>Mangueira Tipo 3 (Capa Dupla)</h2>
 
-    <li>Tipo 5 (Ruberflex)</li>
+ <img src="/assets/img/old-site/img1007.png" class="img-responsive" alt="">
 
-  </ul>
+ <ul>
 
+ <li>Pressão de trabalho: 15 Kgf/cm²</li>
 
+ <li>Pressão de ruptura: >60 Kgf/cm²</li>
 
-  <h3>📏 Comprimentos:</h3>
+ </ul>
 
-  <ul>
+ <h2>Mangueira Tipo 4 (Plastflex)</h2>
 
-    <li>15 metros</li>
+ <img src="/assets/img/old-site/img1008.png" class="img-responsive" alt="">
 
-    <li>20 metros</li>
+ <ul>
 
-    <li>25 metros</li>
+ <li>Alta performance em ambientes de risco</li>
 
-    <li>30 metros</li>
+ <li>Pressão de trabalho: 14 Kgf/cm²</li>
 
-  </ul>
+ </ul>
 
-  <img src="images/img1005.png" class="img-responsive" alt="">
+ <h2>Mangueira Tipo 5 (Ruberflex)</h2>
 
+ <img src="/assets/img/old-site/img1008.png" class="img-responsive" alt="">
 
+ <ul>
 
+ <li>Para uso severo em ambientes residenciais e industriais</li>
 
+ <li>Pressão de ruptura: >55 Kgf/cm²</li>
 
-  <h2>🛡️ Por Que Comprar com a BS ?</h2>
+ </ul>
 
-  <ul>
+ <h2>Vantagens de Comprar com a BS </h2>
 
-    <li>Atendimento personalizado</li>
+ <ul>
 
-    <li>Preços direto da fábrica</li>
+ <li>Qualidade Certificada</li>
 
-    <li>Entrega rápida e com garantia</li>
+ <li>Descontos para grandes volumes</li>
 
-    <li>Conformidade com ABNT NBR 11861</li>
+ <li>Frete grátis (consulte região)</li>
 
-  </ul>
+ <li>Entrega pontual</li>
 
+ <li>Garantia de 12 meses</li>
 
+ <li>Certificado enviado com a nota</li>
 
-  <h2>🛒 Como Comprar?</h2>
+ <li>Mais de 2.000 clientes atendidos</li>
 
-  <ul>
+ </ul>
 
-    <li>Solicite orçamento via WhatsApp ou site</li>
+ <h2>Fale Conosco</h2>
 
-    <li>Receba consultoria técnica</li>
+ <ul>
 
-    <li>Finalize a compra com segurança</li>
+ <li>📞 Telefones: (11) 94025-8669</li>
 
-  </ul>
+ <li>📧 E-mails: contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</li>
 
+ </ul>
 
+ </article>
 
-  <h2>💬 Depoimentos</h2>
+ <br><br>
 
-  <blockquote>
+ </div>
 
-    <p><strong>Carlos – Gerente de Segurança Industrial:</strong> "Produto de alta qualidade, atendimento excelente e entrega no prazo."</p>
+ <div class="fixa2">
 
-    <p><strong>Fernanda – Proprietária de Comércio:</strong> "Ótimo atendimento e produto confiável. Recomendo!"</p>
+ <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
 
-  </blockquote>
+ </div>
 
+ </div>
 
+ </section>
 
-  <h2>⚠️ Antes de Comprar</h2>
 
-  <p>Consulte um projeto de incêndio:</p>
-
-  <ul>
-
-    <li>Análise de risco</li>
-
-    <li>Engenheiro especializado</li>
-
-    <li>Documentação técnica</li>
-
-  </ul>
-
-
-
-  <h2>🏁 Conclusão</h2>
-
-  <p>Escolha a mangueira de incêndio 2 1/2" da BS  – resistência, durabilidade e desempenho confiável para qualquer situação.</p>
-
-
-
-  <!-- Abaixo, seções resumidas para cada tipo -->
-
-  <h2>Mangueira Tipo 2 (Superflex)</h2>
-
- <img src="images/img1006.png" class="img-responsive" alt="">
-
-
-
-  <p>Ideal para edificações comerciais e industriais com alta resistência.</p>
-
-  <ul>
-
-    <li>Diâmetros: 1 1/2" e 2 1/2"</li>
-
-    <li>Comprimentos: 15m a 30m</li>
-
-    <li>Engates Storz em latão</li>
-
-  </ul>
-
-
-
-  <h2>Mangueira Tipo 3 (Capa Dupla)</h2>
-
-  <img src="images/img1007.png" class="img-responsive" alt="">
-
-
-
-  <ul>
-
-    <li>Pressão de trabalho: 15 Kgf/cm²</li>
-
-    <li>Pressão de ruptura: >60 Kgf/cm²</li>
-
-  </ul>
-
-
-
-  <h2>Mangueira Tipo 4 (Plastflex)</h2>
-
- <img src="images/img1008.png" class="img-responsive" alt="">
-
-
-
-  <ul>
-
-    <li>Alta performance em ambientes de risco</li>
-
-    <li>Pressão de trabalho: 14 Kgf/cm²</li>
-
-  </ul>
-
-
-
-  <h2>Mangueira Tipo 5 (Ruberflex)</h2>
-
- <img src="images/img1008.png" class="img-responsive" alt="">
-
-
-
-  <ul>
-
-    <li>Para uso severo em ambientes residenciais e industriais</li>
-
-    <li>Pressão de ruptura: >55 Kgf/cm²</li>
-
-  </ul>
-
-
-
-  <h2>Vantagens de Comprar com a BS </h2>
-
-  <ul>
-
-    <li>Qualidade Certificada</li>
-
-    <li>Descontos para grandes volumes</li>
-
-    <li>Frete grátis (consulte região)</li>
-
-    <li>Entrega pontual</li>
-
-    <li>Garantia de 12 meses</li>
-
-    <li>Certificado enviado com a nota</li>
-
-    <li>Mais de 2.000 clientes atendidos</li>
-
-  </ul>
-
-
-
-  <h2>Fale Conosco</h2>
-
-  <ul>
-
-    <li>📞 Telefones: (11) 94025-8669</li>
-
-    <li>📧 E-mails: contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</li>
-
-  </ul>
-
-               <?php include('includes/contato.php'); ?>
-
-                </article>
-
-  
-
-                
-
-                
-
-
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

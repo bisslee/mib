@@ -1,116 +1,101 @@
-<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: extintor-de-incendio-sobre-rodas-po-quimico-abc.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Referência: Extintor de incêndio pó químico ABC sobre rodas .',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/extintor-de-incendio-sobre-rodas-po-quimico-abc.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Título da Página',
+    ),
+);
 
-    <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'Título da Página',
+    'description' => 'Referência: Extintor de incêndio pó químico ABC sobre rodas .',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-
-        <!-- End Google Tag Manager -->
-
-	<title>Extintor de incêndio pó químico ABC. - Mangueiras de Incêndio Brasil </title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Extintor de incêndio pó químico ABC. ">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-                <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
 
+ <!-- Google Tag Manager (noscript) -->
 
-	<section class="container">
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-		<div class="row">	
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <!-- End Google Tag Manager (noscript) -->
 
+ <section class="container">
 
+ <div class="row"> 
 
-                <div>
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-                   
+ <div>
 
-                    <img src="images/planilha-75.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-75.png" class="img-responsive" alt="">
 
-                </div>
+ </div>
 
-               
+ <article>
 
-                
+ <p><strong>Referência: Extintor de incêndio pó químico ABC sobre rodas .</strong></p>
 
-                <article>
+ <h3><strong>OS DIFERENCIAIS DO EXTINTOR DE INCÊNDIO SOBRE RODAS PÓ QUIMICO ABC</strong></h3>
 
-
-
-                <p><strong>Referência: Extintor de incêndio pó químico ABC sobre rodas .</strong></p>
-
-
-
-                <h3><strong>OS DIFERENCIAIS DO EXTINTOR DE INCÊNDIO SOBRE RODAS PÓ QUIMICO ABC</strong></h3>
-
-
-
-                <p>O extintor de incêndio sobre rodas pó químico ABC se destaca por sua praticidade e amplas
+ <p>O extintor de incêndio sobre rodas pó químico ABC se destaca por sua praticidade e amplas
 
 possibilidades de aplicação, uma vez que ele pode ser utilizado para combater fogos de classe
 
 A, B e C e ainda está disponível em diferentes tamanhos.</p>
-
-
 
 <p>O apoio sobre rodas é outro diferencial, pois facilita o transporte do equipamento,
 
@@ -120,19 +105,13 @@ viabilizam o uso do extintor por todos os indivíduos que tenham treinamento par
 
 lo.</p>
 
-
-
 <p>INDICAÇÕES DE USO DO EXTINTOR DE INCÊNDIO SOBRE RODAS PÓ QUÍMICO ABC</p>
-
-
 
 <p>Conhecer a classe do fogo a ser combatido é um dos fatores que mais contribuem para evitar
 
 que uma simples chama se transforme em um grande incêndio, capaz de colocar em risco a
 
 vida das pessoas, de animais, a estrutura dos imóveis e os bens contidos em seu interior.</p>
-
-
 
 <p>Por isso, os profissionais da BS , uma das mais reconhecidas empresas que
 
@@ -142,23 +121,21 @@ fogo para, então, aplicar o extintor de incêndio sobre rodas pó químico ABC,
 
 indicado ao seu combate.</p>
 
-
-
 <ul>
 
-            <li>O fogo de classe A é aquele que tem início com a combustão de materiais sólidos,
+ <li>O fogo de classe A é aquele que tem início com a combustão de materiais sólidos,
 
 como tecido, papelão, papel e madeira. Esta classe de fogo pode ser combatida com
 
 espuma mecânica, pó químico ou mesmo água e é um dos tipos mais simples de fogo;</li>
 
-            <li>O fogo de classe B é aquele que tem início com a combustão de gases e líquidos
+ <li>O fogo de classe B é aquele que tem início com a combustão de gases e líquidos
 
 inflamáveis, como gasolina, álcool e diesel. Trata-se de um tipo mais complexo de
 
 incêndio, que só pode ser combatido com pó químico ou espuma mecânica;</li>
 
-            <li>O fogo de classe C é aquele que tem início com a combustão de equipamentos
+ <li>O fogo de classe C é aquele que tem início com a combustão de equipamentos
 
 elétricos energizados, como eletrodomésticos, cabos e fios elétricos. Esta classe de
 
@@ -166,21 +143,13 @@ fogo é complexa e jamais pode ser combatida com água, por exemplo.</li>
 
 </ul>
 
-
-
-
-
 <p>Apesar de existirem extintores de classe A, B e C, o extintor de incêndio sobre rodas pó
 
 químico ABC é altamente viável, pois pode combater três classes de fogo em um único
 
 equipamento e ainda conta com rodas para facilitar o transporte.</p>
 
-
-
 <p><strong>VERIFICAÇÃO DO EXTINTOR DE INCÊNDIO SOBRE RODAS PÓ QUÍMICO ABC</strong></p>
-
-
 
 <p>Assim como os demais equipamentos de combate ao fogo, o extintor de incêndio sobre rodas
 
@@ -188,101 +157,63 @@ pó químico ABC deve ser inspecionado ao menos uma vez por mês para que se ten
 
 de sua funcionalidade.</p>
 
-
-
 <p>A vistoria pode ser feita pelos brigadistas responsáveis a fim de ter certeza sobre as boas
 
 condições de dispositivos como rodas, lacres e válvulas, além de verificar a validade do
 
 extintor e as datas da última e próxima recarga a ser efetuada.</p>
 
-                
+ <p><strong>Vantagens de Comprar com a BS Brasil segurança.</strong></p>
+
+ <p>Credibilidade segurança e garantia</p>
+
+ <p>Comercializamos somente produtos com a qualidade atestada</p>
+
+ <p>Preço justo com o melhor custo beneficio.</p>
+
+ <p>Preços especiais para condomínios e indústrias.</p>
+
+ <p>Descontos diferenciados para grandes quantidades.</p>
+
+ <p>Facilitamos as formas de pagamentos.</p>
+
+ <p>Frete grátis para algumas regiões consulte a sua região.</p>
+
+ <p>Entrega no prazo combinado.</p>
+
+ <p>Garantia de 12 meses contra defeito de fabricação.</p>
+
+ <p>Enviamos o certificado de garantia anexo à nota fiscal.</p>
+
+ <p>Suporte rápido no caso do uso da garantia.</p>
+
+ <p>Mais de 2000 clientes atendidos e satisfeitos entre condomínios e empresas.</p>
+
+ </article>
+
+ <br><br>
+
+ </div>
+
+ <div class="fixa2">
+
+ <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
+
+ </div>
+
+ </div>
+
+ </section>
 
 
-
-                <p><strong>Vantagens de Comprar com a BS Brasil segurança.</strong></p>
-
-
-
-                <p>Credibilidade segurança e garantia</p>
-
-                <p>Comercializamos somente produtos com a qualidade atestada</p>
-
-                <p>Preço justo com o melhor custo beneficio.</p>
-
-                <p>Preços especiais para condomínios e indústrias.</p>
-
-                <p>Descontos diferenciados para grandes quantidades.</p>
-
-                <p>Facilitamos as formas de pagamentos.</p>
-
-                <p>Frete grátis para algumas regiões consulte a sua região.</p>
-
-                <p>Entrega no prazo combinado.</p>
-
-                <p>Garantia de 12 meses contra defeito de fabricação.</p>
-
-                <p>Enviamos o certificado de garantia anexo à nota fiscal.</p>
-
-                <p>Suporte rápido no caso do uso da garantia.</p>
-
-                <p>Mais de 2000 clientes atendidos e satisfeitos entre condomínios e empresas.</p>
-
-                </article>
-
-  
-
-                
-
-                
-
-
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>
