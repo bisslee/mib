@@ -83,31 +83,31 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
- <strong><span style=" ">Protetores de Colunas, Cantoneiras, Lombadas e protetores de para choque.</span></strong>
+ <strong><span>Protetores de Colunas, Cantoneiras, Lombadas e protetores de para choque.</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style=" ">&#xa0;</span></strong><strong><span style=" ">A Proteção Ideal para o Seu Estacionamento dispomos de diversas medidas e formatos consulte-nos preços competitivos (11) 94025 8669. </span></strong>
+ <strong><span>&#xa0;</span></strong><strong><span>A Proteção Ideal para o Seu Estacionamento dispomos de diversas medidas e formatos consulte-nos preços competitivos (11) 94025 8669. </span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Na </span><strong><span style=" ">BS HSA</span></strong><span style="">, oferecemos uma linha completa de </span><strong><span style=" ">protetores de colunas</span></strong><span style="">, </span><strong><span style=" ">cantoneiras</span></strong><span style=""> e </span><strong><span style=" ">lombadas e protetor de para choque</span></strong><span style=""> para estacionamentos, ideais para garantir a segurança da sua estrutura e veículos. Disponíveis em diversas medidas, nossos produtos atendem a diferentes necessidades e situações, seja para ambientes comerciais, industriais ou privados.</span>
+ <span>Na </span><strong><span>BS HSA</span></strong><span>, oferecemos uma linha completa de </span><strong><span>protetores de colunas</span></strong><span>, </span><strong><span>cantoneiras</span></strong><span> e </span><strong><span>lombadas e protetor de para choque</span></strong><span> para estacionamentos, ideais para garantir a segurança da sua estrutura e veículos. Disponíveis em diversas medidas, nossos produtos atendem a diferentes necessidades e situações, seja para ambientes comerciais, industriais ou privados.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Com </span><strong><span style=" ">cantoneiras autocolantes</span></strong><span style="">, </span><strong><span style=" ">protetores de colunas em EVA</span></strong><span style=""> e </span><strong><span style=" ">lombadas para controle de velocidade</span></strong><span style="">, nossa linha é fabricada com materiais duráveis e de alta resistência, proporcionando proteção eficaz contra impactos e danos.</span>
+ <span>Com </span><strong><span>cantoneiras autocolantes</span></strong><span>, </span><strong><span>protetores de colunas em EVA</span></strong><span> e </span><strong><span>lombadas para controle de velocidade</span></strong><span>, nossa linha é fabricada com materiais duráveis e de alta resistência, proporcionando proteção eficaz contra impactos e danos.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Seja qual for o tamanho ou tipo de seu estacionamento, temos a solução certa para você. Entre em contato agora mesmo pelo nosso WhatsApp (11) 94025 8669 e solicite um orçamento personalizado. Nossa equipe está pronta para ajudar você a encontrar a melhor proteção para seu espaço!</span>
+ <span>Seja qual for o tamanho ou tipo de seu estacionamento, temos a solução certa para você. Entre em contato agora mesmo pelo nosso WhatsApp (11) 94025 8669 e solicite um orçamento personalizado. Nossa equipe está pronta para ajudar você a encontrar a melhor proteção para seu espaço!</span>
 
  </p>
 
@@ -115,7 +115,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Quando se trata de garantir a segurança de seus estacionamentos, tanto para as colunas quanto para os veículos, a </span><strong><span style=" ">BS HSA</span></strong><span style=""> oferece soluções de proteção eficazes e de alta qualidade. Os </span><strong><span style=" ">protetores de colunas de estacionamentos</span></strong><span style="">, as </span><strong><span style=" ">cantoneiras para estacionamentos</span></strong><span style=""> fabricadas em EVA autocolantes e as </span><strong><span style=" ">lombadas para estacionamentos</span></strong><span style=""> são a escolha perfeita para quem busca durabilidade, resistência e praticidade na proteção de suas instalações.</span>
+ <span>Quando se trata de garantir a segurança de seus estacionamentos, tanto para as colunas quanto para os veículos, a </span><strong><span>BS HSA</span></strong><span> oferece soluções de proteção eficazes e de alta qualidade. Os </span><strong><span>protetores de colunas de estacionamentos</span></strong><span>, as </span><strong><span>cantoneiras para estacionamentos</span></strong><span> fabricadas em EVA autocolantes e as </span><strong><span>lombadas para estacionamentos</span></strong><span> são a escolha perfeita para quem busca durabilidade, resistência e praticidade na proteção de suas instalações.</span>
 
  </p>
 
@@ -123,19 +123,19 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">O Que São Protetores de Colunas para Estacionamentos?</span></strong>
+ <strong><span>O Que São Protetores de Colunas para Estacionamentos?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Os </span><strong><span style=" ">protetores de colunas de estacionamentos</span></strong><span style=""> são acessórios fundamentais para evitar danos nas colunas de concreto e estruturas do estacionamento. Eles são projetados para proteger as colunas contra impactos ocasionados por manobras de veículos, como batidas e colisões. Fabricados com materiais de alta resistência, como o </span><strong><span style=" ">EVA</span></strong><span style=""> (etileno-vinil-acetato), esses protetores são ideais para manter a integridade da infraestrutura do estacionamento e garantir que não ocorram danos custosos.</span>
+ <span>Os </span><strong><span>protetores de colunas de estacionamentos</span></strong><span> são acessórios fundamentais para evitar danos nas colunas de concreto e estruturas do estacionamento. Eles são projetados para proteger as colunas contra impactos ocasionados por manobras de veículos, como batidas e colisões. Fabricados com materiais de alta resistência, como o </span><strong><span>EVA</span></strong><span> (etileno-vinil-acetato), esses protetores são ideais para manter a integridade da infraestrutura do estacionamento e garantir que não ocorram danos custosos.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Com uma camada espessa e macia, os </span><strong><span style=" ">protetores de colunas</span></strong><span style=""> não só absorvem impactos, como também evitam riscos e arranhões nas superfícies dos veículos. Além disso, eles ajudam a manter o ambiente do estacionamento organizado e mais seguro para os motoristas e pedestres que circulam pelo local.</span>
+ <span>Com uma camada espessa e macia, os </span><strong><span>protetores de colunas</span></strong><span> não só absorvem impactos, como também evitam riscos e arranhões nas superfícies dos veículos. Além disso, eles ajudam a manter o ambiente do estacionamento organizado e mais seguro para os motoristas e pedestres que circulam pelo local.</span>
 
  </p>
 
@@ -143,43 +143,43 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Cantoneiras para Estacionamentos: Proteção nas Bordas e ante impacto </span></strong>
+ <strong><span>Cantoneiras para Estacionamentos: Proteção nas Bordas e ante impacto </span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">As </span><strong><span style=" ">cantoneiras para estacionamentos</span></strong><span style=""> têm a mesma função essencial de proteção, mas focam principalmente nas bordas e nas áreas de risco onde há contato frequente com os veículos, como nas extremidades das colunas e paredes. Assim como os protetores de colunas, as </span><strong><span style=" ">cantoneiras para estacionamentos</span></strong><span style=""> fabricadas em EVA auto colantes proporcionam uma camada de proteção eficiente contra impactos, prevenindo danos nas paredes e na estrutura do estacionamento.</span>
+ <span>As </span><strong><span>cantoneiras para estacionamentos</span></strong><span> têm a mesma função essencial de proteção, mas focam principalmente nas bordas e nas áreas de risco onde há contato frequente com os veículos, como nas extremidades das colunas e paredes. Assim como os protetores de colunas, as </span><strong><span>cantoneiras para estacionamentos</span></strong><span> fabricadas em EVA auto colantes proporcionam uma camada de proteção eficiente contra impactos, prevenindo danos nas paredes e na estrutura do estacionamento.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Além disso, as </span><strong><span style=" ">cantoneiras de EVA</span></strong><span style=""> são ideais para criar um ambiente mais seguro, reduzindo o risco de danos nas superfícies e também a possibilidade de acidentes. Elas ajudam a proteger tanto a infraestrutura quanto os veículos, garantindo que os motoristas não sofram danos ao estacionar e manobrar.</span>
+ <span>Além disso, as </span><strong><span>cantoneiras de EVA</span></strong><span> são ideais para criar um ambiente mais seguro, reduzindo o risco de danos nas superfícies e também a possibilidade de acidentes. Elas ajudam a proteger tanto a infraestrutura quanto os veículos, garantindo que os motoristas não sofram danos ao estacionar e manobrar.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Lombadas para Estacionamentos: Garantindo Segurança no Trânsito Interno</span></strong>
+ <strong><span>Lombadas para Estacionamentos: Garantindo Segurança no Trânsito Interno</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">As </span><strong><span style=" ">lombadas para estacionamentos</span></strong><span style=""> desempenham um papel fundamental na segurança e no controle de velocidade dentro dos estacionamentos. Elas são especialmente projetadas para forçar os motoristas a reduzirem a velocidade ao se aproximarem de áreas de risco, como entradas de pedestres, saídas de veículos e curvas acentuadas.</span>
+ <span>As </span><strong><span>lombadas para estacionamentos</span></strong><span> desempenham um papel fundamental na segurança e no controle de velocidade dentro dos estacionamentos. Elas são especialmente projetadas para forçar os motoristas a reduzirem a velocidade ao se aproximarem de áreas de risco, como entradas de pedestres, saídas de veículos e curvas acentuadas.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Fabricadas em </span><strong><span style=" ">EVA</span></strong><span style=""> ou outros materiais de alta resistência, as </span><strong><span style=" ">lombadas</span></strong><span style=""> ajudam a evitar acidentes causados pela velocidade excessiva, garantindo um tráfego mais seguro e organizado. São fáceis de instalar e eficazes na redução de riscos de colisões e atropelamentos dentro do estacionamento.</span>
+ <span>Fabricadas em </span><strong><span>EVA</span></strong><span> ou outros materiais de alta resistência, as </span><strong><span>lombadas</span></strong><span> ajudam a evitar acidentes causados pela velocidade excessiva, garantindo um tráfego mais seguro e organizado. São fáceis de instalar e eficazes na redução de riscos de colisões e atropelamentos dentro do estacionamento.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Vantagens dos Protetores, Cantoneiras e Lombadas Autocolantes de EVA</span></strong>
+ <strong><span>Vantagens dos Protetores, Cantoneiras e Lombadas Autocolantes de EVA</span></strong>
 
  </p>
 
@@ -219,37 +219,37 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Por Que Escolher a BS HSA?</span></strong>
+ <strong><span>Por Que Escolher a BS HSA?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style=" ">BS HSA</span></strong><span style=""> é uma empresa especializada em soluções de segurança para estacionamentos, oferecendo produtos de alta qualidade e eficácia. Nossos </span><strong><span style=" ">protetores de colunas</span></strong><span style="">, </span><strong><span style=" ">cantoneiras para estacionamentos</span></strong><span style=""> e </span><strong><span style=" ">lombadas autocolantes de EVA</span></strong><span style=""> seguem rigorosos padrões de qualidade, proporcionando o melhor em segurança e durabilidade.</span>
+ <span>A </span><strong><span>BS HSA</span></strong><span> é uma empresa especializada em soluções de segurança para estacionamentos, oferecendo produtos de alta qualidade e eficácia. Nossos </span><strong><span>protetores de colunas</span></strong><span>, </span><strong><span>cantoneiras para estacionamentos</span></strong><span> e </span><strong><span>lombadas autocolantes de EVA</span></strong><span> seguem rigorosos padrões de qualidade, proporcionando o melhor em segurança e durabilidade.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Com anos de experiência no mercado, garantimos que nossos produtos atendem às necessidades específicas de cada cliente, proporcionando soluções sob medida para proteger sua estrutura e veículos. Além disso, oferecemos atendimento personalizado, consultoria técnica e uma entrega rápida e eficiente.</span>
+ <span>Com anos de experiência no mercado, garantimos que nossos produtos atendem às necessidades específicas de cada cliente, proporcionando soluções sob medida para proteger sua estrutura e veículos. Além disso, oferecemos atendimento personalizado, consultoria técnica e uma entrega rápida e eficiente.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Conclusão: Invista na Proteção de Qualidade com a BS HSA</span></strong>
+ <strong><span>Conclusão: Invista na Proteção de Qualidade com a BS HSA</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Não deixe a segurança do seu estacionamento em segundo plano. Invista em </span><strong><span style=" ">protetores de colunas</span></strong><span style="">, </span><strong><span style=" ">cantoneiras para estacionamentos</span></strong><span style=""> e </span><strong><span style=" ">lombadas autocolantes de EVA</span></strong><span style=""> para garantir a proteção máxima das suas instalações e veículos. Com a </span><strong><span style=" ">BS HSA</span></strong><span style="">, você encontra a melhor solução para um estacionamento seguro, organizado e bem protegido.</span>
+ <span>Não deixe a segurança do seu estacionamento em segundo plano. Invista em </span><strong><span>protetores de colunas</span></strong><span>, </span><strong><span>cantoneiras para estacionamentos</span></strong><span> e </span><strong><span>lombadas autocolantes de EVA</span></strong><span> para garantir a proteção máxima das suas instalações e veículos. Com a </span><strong><span>BS HSA</span></strong><span>, você encontra a melhor solução para um estacionamento seguro, organizado e bem protegido.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Entre em contato conosco agora mesmo e solicite um orçamento personalizado para os </span><strong><span style=" ">protetores de colunas</span></strong><span style="">, </span><strong><span style=" ">cantoneiras para estacionamentos</span></strong><span style=""> e </span><strong><span style=" ">lombadas para estacionamentos</span></strong><span style=""> de EVA. Estamos aqui para ajudar a garantir a segurança do seu ambiente!</span>
+ <span>Entre em contato conosco agora mesmo e solicite um orçamento personalizado para os </span><strong><span>protetores de colunas</span></strong><span>, </span><strong><span>cantoneiras para estacionamentos</span></strong><span> e </span><strong><span>lombadas para estacionamentos</span></strong><span> de EVA. Estamos aqui para ajudar a garantir a segurança do seu ambiente!</span>
 
  </p>
 

@@ -1,213 +1,426 @@
-
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <!-- Google Tag Manager -->
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-        <!-- End Google Tag Manager -->
-	<title>Mangueira Tipo 4: Solução Robustez e Eficiência para Ambientes</title>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Mangueira Tipo 4: Solução Robustez e Eficiência para Ambientes">
-	<meta name="author" content="OtimizaMais Marketing Digital">
-	<meta name="keywords" content="Mangueiras de Incêndio, Brasil Segurança, Equipamentos Contra Incêndio" />
-
-	<!-- Bootstrap Core CSS -->
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	<script src="js/jquery.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-</head>
-<body>
-                <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-                <!-- End Google Tag Manager (noscript) -->
-	<main>	
-		<header>
-			<?php include ('includes/header.php'); ?>   	
-		</header>
-		<div class="tira-whats">
-   <a href="https://api.whatsapp.com/send?phone=5511940258669" target="_blank"> <img src="images/whatsaoologo.png" width="200" alt=""></a>
-</div>
-
-<style>
-    @media only screen and (max-width: 600px){
-.tira-whats{
-    display: block;
-    position: fixed;
-    left: 95%;
-    top: 82%;
-    margin-left: -178px;
-    z-index: 10;
-}
-}
-</style>
-	<section class="container">
-		<div class="row">	
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-				<img src="images/img-126.png" class="img-responsive" alt="">
-                
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
-				<strong><span style=" font-size:14pt; ">Mangueira Tipo 4: Solução Robustez e Eficiência para Ambientes Industriais e de Alto Risco</span></strong><strong><span style=" ">, </span></strong><strong><span style=" font-size:12pt; ">faça um orçamento agora</span></strong><strong><span style=" font-size:12pt; ">&#xa0;&#xa0;&#xa0;&#xa0; </span></strong><strong><span style=" font-size:12pt; ">(11) 94025 8669</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<span style="">Proteger áreas industriais, </span><strong><span style=" ">portos</span></strong><span style="">, </span><strong><span style=" ">aeroportos</span></strong><span style=""> e realizar operações de resgate com segurança e eficácia requer equipamentos de combate a incêndio de alta qualidade. A </span><strong><span style=" ">mangueira tipo 4 certificada ABNT</span></strong><span style="">, também conhecida como </span><strong><span style=" ">Plastflex</span></strong><span style="">, é uma escolha essencial para garantir uma resposta rápida e confiável em situações de emergência. Na </span><strong><span style=" ">Brasil Segurança HSA</span></strong><span style="">, oferecemos as melhores soluções em mangueiras tipo 4, desenvolvidas para resistir a condições extremas, com </span><strong><span style=" ">alta pressão de trabalho</span></strong><span style=""> e </span><strong><span style=" ">resistência comprovada</span></strong><span style="">.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
-				<strong><span style=" ">O Que Torna a Mangueira Tipo 4 (Plastflex) Ideal para Ambientes de Alto Risco?</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<span style="">A </span><strong><span style=" ">mangueira tipo 4</span></strong><span style=""> (Plastflex) é projetada para enfrentar os desafios impostos em ambientes industriais, aeroportuários e navais. Sua construção e especificações técnicas tornam-na uma das opções mais robustas do mercado. Com uma </span><strong><span style=" ">pressão de trabalho de 14 Kgf/cm²</span></strong><span style=""> e </span><strong><span style=" ">pressão de ruptura superior a 55 Kgf/cm²</span></strong><span style="">, ela oferece uma resistência excepcional para situações de incêndio, garantindo a proteção de seu patrimônio e a segurança de seus colaboradores.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
-				<strong><span style=" ">Características Técnicas da Mangueira Tipo 4</span></strong>
-			</p>
-			<ul style="margin:0pt; padding-left:0pt">
-				<li style="margin-top:14pt; margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
-					<strong><span style=" font-size:12pt; ">Pressão de Trabalho</span></strong><span style=" font-size:12pt">: 14 Kgf/cm²</span>
-				</li>
-				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
-					<strong><span style=" font-size:12pt; ">Pressão de Ruptura</span></strong><span style=" font-size:12pt">: Superior a 55 Kgf/cm²</span>
-				</li>
-				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
-					<strong><span style=" font-size:12pt; ">Diâmetro</span></strong><span style=" font-size:12pt">: Disponível em </span><strong><span style=" font-size:12pt; ">1 1/2"</span></strong><span style=" font-size:12pt"> e </span><strong><span style=" font-size:12pt; ">2 1/2"</span></strong>
-				</li>
-				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
-					<strong><span style=" font-size:12pt; ">Comprimentos</span></strong><span style=" font-size:12pt">: 15, 20, 25 e 30 metros</span>
-				</li>
-				<li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
-					<strong><span style=" font-size:12pt; ">Engate</span></strong><span style=" font-size:12pt">: Tipo </span><strong><span style=" font-size:12pt; ">Storz em latão</span></strong><span style=" font-size:12pt">, conhecido por sua durabilidade e praticidade.</span>
-				</li>
-			</ul>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<span style="">Essas especificações garantem que a </span><strong><span style=" ">mangueira tipo 4</span></strong><span style=""> seja altamente eficaz para uma ampla gama de cenários, oferecendo uma </span><strong><span style=" ">pressão contínua e consistente</span></strong><span style="">, necessária para combater incêndios de forma rápida e segura.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
-				<strong><span style=" ">Benefícios Exclusivos da Mangueira Tipo 4</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
-				<strong><span style=" ">1. Resistência Imbatível e Longa Vida Útil</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<span style="">Fabricada com </span><strong><span style=" ">materiais de alta qualidade</span></strong><span style="">, a </span><strong><span style=" ">mangueira tipo 4</span></strong><span style=""> é projetada para resistir a </span><strong><span style=" ">altas temperaturas</span></strong><span style="">, </span><strong><span style=" ">pressões extremas</span></strong><span style=""> e ao desgaste natural do uso diário. Sua construção garante durabilidade, tornando-a ideal para ambientes com </span><strong><span style=" ">grandes riscos</span></strong><span style=""> de incêndio, como </span><strong><span style=" ">indústrias químicas</span></strong><span style="">, </span><strong><span style=" ">navios</span></strong><span style=""> e </span><strong><span style=" ">aeroportos</span></strong><span style="">.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
-				<strong><span style=" ">2. Versatilidade para Diversos Ambientes</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<span style="">Com opções de diâmetros de </span><strong><span style=" ">1 1/2"</span></strong><span style=""> e </span><strong><span style=" ">2 1/2"</span></strong><span style="">, a </span><strong><span style=" ">mangueira tipo 4</span></strong><span style=""> oferece flexibilidade para se adaptar a </span><strong><span style=" ">diferentes sistemas de hidrantes</span></strong><span style="">. O </span><strong><span style=" ">engate tipo Storz em latão</span></strong><span style=""> facilita a conexão rápida e segura, garantindo que a mangueira esteja pronta para uso imediato, sem perder tempo em situações de emergência.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
-				<strong><span style=" ">3. Facilidade de Manuseio e Desenrolamento</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<span style="">A </span><strong><span style=" ">flexibilidade</span></strong><span style=""> e a </span><strong><span style=" ">leveza</span></strong><span style=""> da </span><strong><span style=" ">mangueira tipo 4</span></strong><span style=""> tornam seu manuseio muito mais ágil e eficiente. Durante uma emergência, é crucial que a mangueira seja </span><strong><span style=" ">desenrolada rapidamente</span></strong><span style=""> e seja </span><strong><span style=" ">fácil de manusear</span></strong><span style="">, o que a torna uma opção indispensável para os profissionais de combate a incêndio.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
-				<strong><span style=" ">4. Adequada para Diversas Condições e Localizações</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<span style="">Seja para uso em </span><strong><span style=" ">indústrias</span></strong><span style="">, </span><strong><span style=" ">portos</span></strong><span style="">, </span><strong><span style=" ">aeroportos</span></strong><span style=""> ou </span><strong><span style=" ">bases militares</span></strong><span style="">, a </span><strong><span style=" ">mangueira tipo 4</span></strong><span style=""> atende a uma variedade de necessidades, com comprimentos que variam de </span><strong><span style=" ">15 a 30 metros</span></strong><span style="">. Seu </span><strong><span style=" ">tamanho ajustável</span></strong><span style=""> garante que você tenha a cobertura necessária para áreas de diferentes dimensões e configurações.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
-				<strong><span style=" ">Como Escolher a Mangueira Tipo 4 Certificada?</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<span style="">Ao adquirir uma </span><strong><span style=" ">mangueira tipo 4</span></strong><span style="">, é importante verificar a conformidade com as </span><strong><span style=" ">normas de segurança</span></strong><span style=""> e as exigências locais do </span><strong><span style=" ">Corpo de Bombeiros</span></strong><span style="">. As mangueiras da </span><strong><span style=" ">Brasil Segurança HSA</span></strong><span style=""> são certificadas pela </span><strong><span style=" ">ABNT</span></strong><span style=""> e atendem aos </span><strong><span style=" ">mais altos padrões de segurança</span></strong><span style="">, oferecendo um produto de </span><strong><span style=" ">alta qualidade</span></strong><span style=""> que garante a proteção necessária em situações de risco.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
-				<strong><span style=" ">Por Que Comprar com a BS Brasil Segurança HSA?</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
-				<strong><span style=" ">Vantagens de Optar pela BS Brasil Segurança HSA</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<span style="">Na </span><strong><span style=" ">Brasil Segurança HSA</span></strong><span style="">, oferecemos </span><strong><span style=" ">mangueiras tipo 4</span></strong><span style=""> com </span><strong><span style=" ">certificação ABNT</span></strong><span style="">, garantindo que você adquira um produto que siga todas as </span><strong><span style=" ">normas técnicas</span></strong><span style=""> e que seja </span><strong><span style=" ">seguro</span></strong><span style=""> e </span><strong><span style=" ">eficaz</span></strong><span style="">. Além disso, comprando conosco, você tem acesso a uma série de benefícios exclusivos:</span>
-			</p>
-			<ul style="margin:0pt; padding-left:0pt">
-				<li style="margin-top:14pt; margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
-					<strong><span style=" font-size:12pt; ">Certificação de Qualidade</span></strong><span style=" font-size:12pt">: Todos os nossos produtos seguem os </span><strong><span style=" font-size:12pt; ">padrões da ABNT</span></strong><span style=" font-size:12pt">, garantindo a segurança e eficiência.</span>
-				</li>
-				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
-					<strong><span style=" font-size:12pt; ">Preços Competitivos</span></strong><span style=" font-size:12pt">: Oferecemos o </span><strong><span style=" font-size:12pt; ">melhor custo-benefício</span></strong><span style=" font-size:12pt">, sem comprometer a qualidade.</span>
-				</li>
-				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
-					<strong><span style=" font-size:12pt; ">Frete Grátis</span></strong><span style=" font-size:12pt">: Em regiões selecionadas, garantimos </span><strong><span style=" font-size:12pt; ">frete grátis</span></strong><span style=" font-size:12pt">, com </span><strong><span style=" font-size:12pt; ">entrega pontual</span></strong><span style=" font-size:12pt">.</span>
-				</li>
-				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
-					<strong><span style=" font-size:12pt; ">Suporte Ágil e Garantia</span></strong><span style=" font-size:12pt">: Garantia de </span><strong><span style=" font-size:12pt; ">12 meses</span></strong><span style=" font-size:12pt"> contra defeitos de fabricação, com </span><strong><span style=" font-size:12pt; ">suporte rápido</span></strong><span style=" font-size:12pt">.</span>
-				</li>
-				<li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
-					<strong><span style=" font-size:12pt; ">Consultoria Especializada</span></strong><span style=" font-size:12pt">: Ajudamos você a escolher a mangueira ideal para suas necessidades específicas.</span>
-				</li>
-			</ul>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
-				<strong><span style=" ">Tire Suas Dúvidas: Perguntas Frequentes</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<strong><span style=" ">1. Para quais ambientes a mangueira tipo 4 é indicada?</span></strong><br /><span style="">A </span><strong><span style=" ">mangueira tipo 4</span></strong><span style=""> é ideal para </span><strong><span style=" ">indústrias</span></strong><span style="">, </span><strong><span style=" ">portos</span></strong><span style="">, </span><strong><span style=" ">aeroportos</span></strong><span style=""> e </span><strong><span style=" ">operações de bombeiros</span></strong><span style="">, devido à sua alta resistência e flexibilidade.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<strong><span style=" ">2. Qual a pressão de trabalho da mangueira tipo 4?</span></strong><br /><span style="">Ela possui </span><strong><span style=" ">pressão de trabalho</span></strong><span style=""> de </span><strong><span style=" ">14 Kgf/cm²</span></strong><span style=""> e suporta </span><strong><span style=" ">pressão de ruptura</span></strong><span style=""> superior a </span><strong><span style=" ">55 Kgf/cm²</span></strong><span style="">.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<strong><span style=" ">3. Quais são os diâmetros disponíveis?</span></strong><br /><span style="">A mangueira tipo 4 está disponível nos diâmetros de </span><strong><span style=" ">1 1/2"</span></strong><span style=""> e </span><strong><span style=" ">2 1/2"</span></strong><span style="">, adaptando-se a diversos sistemas de hidrantes.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<strong><span style=" ">4. Quais comprimentos estão disponíveis?</span></strong><br /><span style="">A </span><strong><span style=" ">mangueira tipo 4</span></strong><span style=""> pode ser adquirida em </span><strong><span style=" ">15, 20, 25 e 30 metros</span></strong><span style="">, dependendo das necessidades do local.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<strong><span style=" ">5. A mangueira tipo 4 é resistente?</span></strong><br /><span style="">Sim, ela é fabricada para resistir a </span><strong><span style=" ">altas temperaturas</span></strong><span style="">, </span><strong><span style=" ">pressões extremas</span></strong><span style=""> e ao </span><strong><span style=" ">desgaste constante</span></strong><span style="">.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<strong><span style=" ">6. Como posso adquirir a mangueira tipo 4?</span></strong><br /><span style="">Você pode fazer a compra diretamente em nosso </span><strong><span style=" ">site</span></strong><span style=""> ou entrar em contato com nossa equipe para obter </span><strong><span style=" ">um orçamento personalizado</span></strong><span style="">.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
-				<strong><span style=" ">Conclusão: Proteja Seu Ambiente com a Mangueira Tipo 4 da BS Brasil Segurança HSA</span></strong>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<span style="">A </span><strong><span style=" ">mangueira tipo 4</span></strong><span style=""> é a solução ideal para garantir </span><strong><span style=" ">proteção máxima</span></strong><span style=""> em </span><strong><span style=" ">áreas industriais</span></strong><span style=""> e </span><strong><span style=" ">ambientes de alto risco</span></strong><span style="">. Com </span><strong><span style=" ">certificação ABNT</span></strong><span style="">, </span><strong><span style=" ">resistência incomparável</span></strong><span style=""> e </span><strong><span style=" ">preço justo</span></strong><span style="">, a </span><strong><span style=" ">Brasil Segurança HSA</span></strong><span style=""> oferece o que há de melhor em termos de </span><strong><span style=" ">equipamentos de combate a incêndio</span></strong><span style="">. Invista na segurança e </span><strong><span style=" ">proteja seu patrimônio</span></strong><span style=""> com as melhores mangueiras do mercado.</span>
-			</p>
-			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-				<strong><span style=" ">Solicite agora mesmo um orçamento personalizado</span></strong><span style=""> e descubra por que a </span><strong><span style=" ">Brasil Segurança HSA</span></strong><span style=""> é a sua escolha certa para soluções de segurança de alta qualidade!</span>
-			</p>
-			<p style="line-height:115%; font-size:12pt">
-				<strong>&#xa0;</strong>
-			</p>
-             
-               <?php include('includes/contato.php'); ?>
-             
-                
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-                <br><br>
-
-               </div>
-              
-              
-                       
-                        <?php include("includes/aside.php"); ?>
-                  
-            
-			</div>
-	</section>
-        
-	<footer>
-	<?php include ('includes/footer.php'); ?>   
-	</footer>
-
-</main>
-
-</body>
-
-</html>
+
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+
+    <!-- Google Tag Manager -->
+
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+
+        <!-- End Google Tag Manager -->
+
+	<title>Mangueira Tipo 4: Solução Robustez e Eficiência para Ambientes</title>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<meta name="description" content="Mangueira Tipo 4: Solução Robustez e Eficiência para Ambientes">
+
+	<meta name="author" content="OtimizaMais Marketing Digital">
+
+	<meta name="keywords" content="Mangueiras de Incêndio, Brasil Segurança, Equipamentos Contra Incêndio" />
+
+
+
+	<!-- Bootstrap Core CSS -->
+
+	<link href="css/bootstrap.css" rel="stylesheet">
+
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+	<script src="js/jquery.js"></script>
+
+	<script src="js/bootstrap.min.js"></script>
+
+
+
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+
+
+
+</head>
+
+<body>
+
+                <!-- Google Tag Manager (noscript) -->
+
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
+
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                <!-- End Google Tag Manager (noscript) -->
+
+	<main>	
+
+		<header>
+
+			<?php include ('includes/header.php'); ?>   	
+
+		</header>
+
+		<div class="tira-whats">
+
+   <a href="https://api.whatsapp.com/send?phone=5511940258669" target="_blank"> <img src="images/whatsaoologo.png" width="200" alt=""></a>
+
+</div>
+
+
+
+<style>
+
+    @media only screen and (max-width: 600px){
+
+.tira-whats{
+
+    display: block;
+
+    position: fixed;
+
+    left:
+
+    top: 82%;
+
+    margin-left: -178px;
+
+    z-index: 10;
+
+}
+
+}
+
+</style>
+
+	<section class="container">
+
+		<div class="row">	
+
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+
+
+				<img src="images/img-126.png" class="img-responsive" alt="">
+
+                
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
+
+				<strong><span style=" font-size:14pt; ">Mangueira Tipo 4: Solução Robustez e Eficiência para Ambientes Industriais e de Alto Risco</span></strong><strong><span>, </span></strong><strong><span style="font-size:12pt;">faça um orçamento agora</span></strong><strong><span style="font-size:12pt;">&#xa0;&#xa0;&#xa0;&#xa0; </span></strong><strong><span style="font-size:12pt;">(11) 94025 8669</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<span style="">Proteger áreas industriais, </span><strong><span>portos</span></strong><span style="">, </span><strong><span>aeroportos</span></strong><span style=""> e realizar operações de resgate com segurança e eficácia requer equipamentos de combate a incêndio de alta qualidade. A </span><strong><span>mangueira tipo 4 certificada ABNT</span></strong><span style="">, também conhecida como </span><strong><span>Plastflex</span></strong><span style="">, é uma escolha essencial para garantir uma resposta rápida e confiável em situações de emergência. Na </span><strong><span>Brasil Segurança HSA</span></strong><span style="">, oferecemos as melhores soluções em mangueiras tipo 4, desenvolvidas para resistir a condições extremas, com </span><strong><span>alta pressão de trabalho</span></strong><span style=""> e </span><strong><span>resistência comprovada</span></strong><span style="">.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
+
+				<strong><span>O Que Torna a Mangueira Tipo 4 (Plastflex) Ideal para Ambientes de Alto Risco?</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<span style="">A </span><strong><span>mangueira tipo 4</span></strong><span style=""> (Plastflex) é projetada para enfrentar os desafios impostos em ambientes industriais, aeroportuários e navais. Sua construção e especificações técnicas tornam-na uma das opções mais robustas do mercado. Com uma </span><strong><span>pressão de trabalho de 14 Kgf/cm²</span></strong><span style=""> e </span><strong><span>pressão de ruptura superior a 55 Kgf/cm²</span></strong><span style="">, ela oferece uma resistência excepcional para situações de incêndio, garantindo a proteção de seu patrimônio e a segurança de seus colaboradores.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
+
+				<strong><span>Características Técnicas da Mangueira Tipo 4</span></strong>
+
+			</p>
+
+			<ul style="margin:0pt; padding-left:0pt">
+
+				<li style="margin-top:14pt; margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
+
+					<strong><span style="font-size:12pt;">Pressão de Trabalho</span></strong><span style="font-size:12pt;">: 14 Kgf/cm²</span>
+
+				</li>
+
+				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
+
+					<strong><span style="font-size:12pt;">Pressão de Ruptura</span></strong><span style="font-size:12pt;">: Superior a 55 Kgf/cm²</span>
+
+				</li>
+
+				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
+
+					<strong><span style="font-size:12pt;">Diâmetro</span></strong><span style="font-size:12pt;">: Disponível em </span><strong><span style="font-size:12pt;">1 1/2"</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">2 1/2"</span></strong>
+
+				</li>
+
+				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
+
+					<strong><span style="font-size:12pt;">Comprimentos</span></strong><span style="font-size:12pt;">: 15, 20, 25 e 30 metros</span>
+
+				</li>
+
+				<li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
+
+					<strong><span style="font-size:12pt;">Engate</span></strong><span style="font-size:12pt;">: Tipo </span><strong><span style="font-size:12pt;">Storz em latão</span></strong><span style="font-size:12pt;">, conhecido por sua durabilidade e praticidade.</span>
+
+				</li>
+
+			</ul>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<span style="">Essas especificações garantem que a </span><strong><span>mangueira tipo 4</span></strong><span style=""> seja altamente eficaz para uma ampla gama de cenários, oferecendo uma </span><strong><span>pressão contínua e consistente</span></strong><span style="">, necessária para combater incêndios de forma rápida e segura.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
+
+				<strong><span>Benefícios Exclusivos da Mangueira Tipo 4</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
+
+				<strong><span>1. Resistência Imbatível e Longa Vida Útil</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<span style="">Fabricada com </span><strong><span>materiais de alta qualidade</span></strong><span style="">, a </span><strong><span>mangueira tipo 4</span></strong><span style=""> é projetada para resistir a </span><strong><span>altas temperaturas</span></strong><span style="">, </span><strong><span>pressões extremas</span></strong><span style=""> e ao desgaste natural do uso diário. Sua construção garante durabilidade, tornando-a ideal para ambientes com </span><strong><span>grandes riscos</span></strong><span style=""> de incêndio, como </span><strong><span>indústrias químicas</span></strong><span style="">, </span><strong><span>navios</span></strong><span style=""> e </span><strong><span>aeroportos</span></strong><span style="">.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
+
+				<strong><span>2. Versatilidade para Diversos Ambientes</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<span style="">Com opções de diâmetros de </span><strong><span>1 1/2"</span></strong><span style=""> e </span><strong><span>2 1/2"</span></strong><span style="">, a </span><strong><span>mangueira tipo 4</span></strong><span style=""> oferece flexibilidade para se adaptar a </span><strong><span>diferentes sistemas de hidrantes</span></strong><span style="">. O </span><strong><span>engate tipo Storz em latão</span></strong><span style=""> facilita a conexão rápida e segura, garantindo que a mangueira esteja pronta para uso imediato, sem perder tempo em situações de emergência.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
+
+				<strong><span>3. Facilidade de Manuseio e Desenrolamento</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<span style="">A </span><strong><span>flexibilidade</span></strong><span style=""> e a </span><strong><span>leveza</span></strong><span style=""> da </span><strong><span>mangueira tipo 4</span></strong><span style=""> tornam seu manuseio muito mais ágil e eficiente. Durante uma emergência, é crucial que a mangueira seja </span><strong><span>desenrolada rapidamente</span></strong><span style=""> e seja </span><strong><span>fácil de manusear</span></strong><span style="">, o que a torna uma opção indispensável para os profissionais de combate a incêndio.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
+
+				<strong><span>4. Adequada para Diversas Condições e Localizações</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<span style="">Seja para uso em </span><strong><span>indústrias</span></strong><span style="">, </span><strong><span>portos</span></strong><span style="">, </span><strong><span>aeroportos</span></strong><span style=""> ou </span><strong><span>bases militares</span></strong><span style="">, a </span><strong><span>mangueira tipo 4</span></strong><span style=""> atende a uma variedade de necessidades, com comprimentos que variam de </span><strong><span>15 a 30 metros</span></strong><span style="">. Seu </span><strong><span>tamanho ajustável</span></strong><span style=""> garante que você tenha a cobertura necessária para áreas de diferentes dimensões e configurações.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
+
+				<strong><span>Como Escolher a Mangueira Tipo 4 Certificada?</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<span style="">Ao adquirir uma </span><strong><span>mangueira tipo 4</span></strong><span style="">, é importante verificar a conformidade com as </span><strong><span>normas de segurança</span></strong><span style=""> e as exigências locais do </span><strong><span>Corpo de Bombeiros</span></strong><span style="">. As mangueiras da </span><strong><span>Brasil Segurança HSA</span></strong><span style=""> são certificadas pela </span><strong><span>ABNT</span></strong><span style=""> e atendem aos </span><strong><span>mais altos padrões de segurança</span></strong><span style="">, oferecendo um produto de </span><strong><span>alta qualidade</span></strong><span style=""> que garante a proteção necessária em situações de risco.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
+
+				<strong><span>Por Que Comprar com a BS Brasil Segurança HSA?</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
+
+				<strong><span>Vantagens de Optar pela BS Brasil Segurança HSA</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<span style="">Na </span><strong><span>Brasil Segurança HSA</span></strong><span style="">, oferecemos </span><strong><span>mangueiras tipo 4</span></strong><span style=""> com </span><strong><span>certificação ABNT</span></strong><span style="">, garantindo que você adquira um produto que siga todas as </span><strong><span>normas técnicas</span></strong><span style=""> e que seja </span><strong><span>seguro</span></strong><span style=""> e </span><strong><span>eficaz</span></strong><span style="">. Além disso, comprando conosco, você tem acesso a uma série de benefícios exclusivos:</span>
+
+			</p>
+
+			<ul style="margin:0pt; padding-left:0pt">
+
+				<li style="margin-top:14pt; margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
+
+					<strong><span style="font-size:12pt;">Certificação de Qualidade</span></strong><span style="font-size:12pt;">: Todos os nossos produtos seguem os </span><strong><span style="font-size:12pt;">padrões da ABNT</span></strong><span style="font-size:12pt;">, garantindo a segurança e eficiência.</span>
+
+				</li>
+
+				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
+
+					<strong><span style="font-size:12pt;">Preços Competitivos</span></strong><span style="font-size:12pt;">: Oferecemos o </span><strong><span style="font-size:12pt;">melhor custo-benefício</span></strong><span style="font-size:12pt;">, sem comprometer a qualidade.</span>
+
+				</li>
+
+				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
+
+					<strong><span style="font-size:12pt;">Frete Grátis</span></strong><span style="font-size:12pt;">: Em regiões selecionadas, garantimos </span><strong><span style="font-size:12pt;">frete grátis</span></strong><span style="font-size:12pt;">, com </span><strong><span style="font-size:12pt;">entrega pontual</span></strong><span style="font-size:12pt;">.</span>
+
+				</li>
+
+				<li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
+
+					<strong><span style="font-size:12pt;">Suporte Ágil e Garantia</span></strong><span style="font-size:12pt;">: Garantia de </span><strong><span style="font-size:12pt;">12 meses</span></strong><span style="font-size:12pt;"> contra defeitos de fabricação, com </span><strong><span style="font-size:12pt;">suporte rápido</span></strong><span style="font-size:12pt;">.</span>
+
+				</li>
+
+				<li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
+
+					<strong><span style="font-size:12pt;">Consultoria Especializada</span></strong><span style="font-size:12pt;">: Ajudamos você a escolher a mangueira ideal para suas necessidades específicas.</span>
+
+				</li>
+
+			</ul>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
+
+				<strong><span>Tire Suas Dúvidas: Perguntas Frequentes</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<strong><span>1. Para quais ambientes a mangueira tipo 4 é indicada?</span></strong><br /><span style="">A </span><strong><span>mangueira tipo 4</span></strong><span style=""> é ideal para </span><strong><span>indústrias</span></strong><span style="">, </span><strong><span>portos</span></strong><span style="">, </span><strong><span>aeroportos</span></strong><span style=""> e </span><strong><span>operações de bombeiros</span></strong><span style="">, devido à sua alta resistência e flexibilidade.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<strong><span>2. Qual a pressão de trabalho da mangueira tipo 4?</span></strong><br /><span style="">Ela possui </span><strong><span>pressão de trabalho</span></strong><span style=""> de </span><strong><span>14 Kgf/cm²</span></strong><span style=""> e suporta </span><strong><span>pressão de ruptura</span></strong><span style=""> superior a </span><strong><span>55 Kgf/cm²</span></strong><span style="">.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<strong><span>3. Quais são os diâmetros disponíveis?</span></strong><br /><span style="">A mangueira tipo 4 está disponível nos diâmetros de </span><strong><span>1 1/2"</span></strong><span style=""> e </span><strong><span>2 1/2"</span></strong><span style="">, adaptando-se a diversos sistemas de hidrantes.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<strong><span>4. Quais comprimentos estão disponíveis?</span></strong><br /><span style="">A </span><strong><span>mangueira tipo 4</span></strong><span style=""> pode ser adquirida em </span><strong><span>15, 20, 25 e 30 metros</span></strong><span style="">, dependendo das necessidades do local.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<strong><span>5. A mangueira tipo 4 é resistente?</span></strong><br /><span style="">Sim, ela é fabricada para resistir a </span><strong><span>altas temperaturas</span></strong><span style="">, </span><strong><span>pressões extremas</span></strong><span style=""> e ao </span><strong><span>desgaste constante</span></strong><span style="">.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<strong><span>6. Como posso adquirir a mangueira tipo 4?</span></strong><br /><span style="">Você pode fazer a compra diretamente em nosso </span><strong><span>site</span></strong><span style=""> ou entrar em contato com nossa equipe para obter </span><strong><span>um orçamento personalizado</span></strong><span style="">.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
+
+				<strong><span>Conclusão: Proteja Seu Ambiente com a Mangueira Tipo 4 da BS Brasil Segurança HSA</span></strong>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<span style="">A </span><strong><span>mangueira tipo 4</span></strong><span style=""> é a solução ideal para garantir </span><strong><span>proteção máxima</span></strong><span style=""> em </span><strong><span>áreas industriais</span></strong><span style=""> e </span><strong><span>ambientes de alto risco</span></strong><span style="">. Com </span><strong><span>certificação ABNT</span></strong><span style="">, </span><strong><span>resistência incomparável</span></strong><span style=""> e </span><strong><span>preço justo</span></strong><span style="">, a </span><strong><span>Brasil Segurança HSA</span></strong><span style=""> oferece o que há de melhor em termos de </span><strong><span>equipamentos de combate a incêndio</span></strong><span style="">. Invista na segurança e </span><strong><span>proteja seu patrimônio</span></strong><span style=""> com as melhores mangueiras do mercado.</span>
+
+			</p>
+
+			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
+
+				<strong><span>Solicite agora mesmo um orçamento personalizado</span></strong><span style=""> e descubra por que a </span><strong><span>Brasil Segurança HSA</span></strong><span style=""> é a sua escolha certa para soluções de segurança de alta qualidade!</span>
+
+			</p>
+
+			<p style="line-height:115%; font-size:12pt">
+
+				<strong>&#xa0;</strong>
+
+			</p>
+
+             
+
+               <?php include('includes/contato.php'); ?>
+
+             
+
+                
+
+
+
+                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
+
+                <br><br>
+
+
+
+               </div>
+
+              
+
+              
+
+                       
+
+                        <?php include("includes/aside.php"); ?>
+
+                  
+
+            
+
+			</div>
+
+	</section>
+
+        
+
+	<footer>
+
+	<?php include ('includes/footer.php'); ?>   
+
+	</footer>
+
+
+
+</main>
+
+
+
+</body>
+
+
+
+</html>
+

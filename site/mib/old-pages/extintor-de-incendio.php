@@ -95,67 +95,67 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:18pt">
 
- <strong><span style="'; ">Extintor de Incêndio </span></strong>
+ <strong><span>Extintor de Incêndio </span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:14pt">
 
- <strong><span style="'; ">Guia Completo Sobre Tipos, Aplicações e Especificações</span></strong>
+ <strong><span>Guia Completo Sobre Tipos, Aplicações e Especificações</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">O </span><strong><span style="'; ">extintor de incêndio</span></strong><span style="'"> é um equipamento indispensável para a prevenção e combate a incêndios em ambientes residenciais, comerciais e industriais. Escolher o modelo correto pode ser decisivo para evitar a propagação do fogo e minimizar danos.</span>
+ <span>O </span><strong><span>extintor de incêndio</span></strong><span> é um equipamento indispensável para a prevenção e combate a incêndios em ambientes residenciais, comerciais e industriais. Escolher o modelo correto pode ser decisivo para evitar a propagação do fogo e minimizar danos.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <strong><span style="'; ">Quer garantir economia e segurança do seu ambiente?</span></strong><span style="'"> Não espere até que seja tarde demais! Acesse agora </span><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><strong><u><span style="'; color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></strong></a><span style="'"> e confira nossa linha completa de </span><strong><span style="'; ">extintores de incêndio</span></strong><span style="'">. Temos modelos ideais para empresas, residências e todos os tipos de ambientes, com a </span><strong><span style="'; ">qualidade e confiabilidade</span></strong><span style="'"> que você merece.</span>
+ <strong><span>Quer garantir economia e segurança do seu ambiente?</span></strong><span> Não espere até que seja tarde demais! Acesse agora </span><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><strong><u><span style=" color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></strong></a><span> e confira nossa linha completa de </span><strong><span>extintores de incêndio</span></strong><span>. Temos modelos ideais para empresas, residências e todos os tipos de ambientes, com a </span><strong><span>qualidade e confiabilidade</span></strong><span> que você merece.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Este guia apresenta todas as informações necessárias para entender os tipos de </span><strong><span style="'; ">extintores de incêndio</span></strong><span style="'">, suas aplicações, especificações técnicas e regulamentações vigentes.</span>
+ <span>Este guia apresenta todas as informações necessárias para entender os tipos de </span><strong><span>extintores de incêndio</span></strong><span>, suas aplicações, especificações técnicas e regulamentações vigentes.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:14pt">
 
- <strong><span style="'; ">1. O que é um Extintor de Incêndio?</span></strong>
+ <strong><span>1. O que é um Extintor de Incêndio?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">O </span><strong><span style="'; ">extintor de incêndio</span></strong><span style="'"> é um dispositivo portátil ou sobre rodas, projetado para extinguir princípios de incêndios. Seu funcionamento se baseia na liberação de um agente extintor armazenado sob pressão, capaz de interromper a combustão e controlar o fogo.</span>
+ <span>O </span><strong><span>extintor de incêndio</span></strong><span> é um dispositivo portátil ou sobre rodas, projetado para extinguir princípios de incêndios. Seu funcionamento se baseia na liberação de um agente extintor armazenado sob pressão, capaz de interromper a combustão e controlar o fogo.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">A escolha do extintor deve considerar a classe de incêndio a ser combatida, sua capacidade e as normas de segurança.</span>
+ <span>A escolha do extintor deve considerar a classe de incêndio a ser combatida, sua capacidade e as normas de segurança.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:14pt">
 
- <strong><span style="'; ">2. Tipos de Extintores de Incêndio e Aplicações</span></strong>
+ <strong><span>2. Tipos de Extintores de Incêndio e Aplicações</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Os </span><strong><span style="'; ">extintores de incêndio</span></strong><span style="'"> são classificados conforme o agente extintor utilizado e o tipo de fogo que combatem, seguindo a norma </span><strong><span style="'; ">ABNT NBR 12962</span></strong><span style="'">.</span>
+ <span>Os </span><strong><span>extintores de incêndio</span></strong><span> são classificados conforme o agente extintor utilizado e o tipo de fogo que combatem, seguindo a norma </span><strong><span>ABNT NBR 12962</span></strong><span>.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">Incêndios Classe A – Materiais sólidos combustíveis (papel, madeira, tecidos, borracha, plásticos).</span></strong>
+ <strong><span>Incêndios Classe A – Materiais sólidos combustíveis (papel, madeira, tecidos, borracha, plásticos).</span></strong>
 
  </p>
 
@@ -163,13 +163,13 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de Água Pressurizada (H₂O):</span></strong><span style="'; font-size:12pt"> Atua por resfriamento, reduzindo a temperatura do fogo abaixo do ponto de combustão.</span>
+ <strong><span style="font-size:12pt;">Extintor de Água Pressurizada (H₂O):</span></strong><span style="font-size:12pt;"> Atua por resfriamento, reduzindo a temperatura do fogo abaixo do ponto de combustão.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de Espuma Mecânica (LGE - Líquido Gerador de Espuma):</span></strong><span style="'; font-size:12pt"> Além do resfriamento, cria uma camada de espuma que isola o combustível do oxigênio.</span>
+ <strong><span style="font-size:12pt;">Extintor de Espuma Mecânica (LGE - Líquido Gerador de Espuma):</span></strong><span style="font-size:12pt;"> Além do resfriamento, cria uma camada de espuma que isola o combustível do oxigênio.</span>
 
  </li>
 
@@ -177,7 +177,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">Incêndios Classe B – Líquidos inflamáveis (álcool, gasolina, óleos, tintas, solventes).</span></strong>
+ <strong><span>Incêndios Classe B – Líquidos inflamáveis (álcool, gasolina, óleos, tintas, solventes).</span></strong>
 
  </p>
 
@@ -185,19 +185,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de Espuma Mecânica:</span></strong><span style="'; font-size:12pt"> Forma uma camada sobre o líquido inflamável, abafando as chamas e impedindo a propagação.</span>
+ <strong><span style="font-size:12pt;">Extintor de Espuma Mecânica:</span></strong><span style="font-size:12pt;"> Forma uma camada sobre o líquido inflamável, abafando as chamas e impedindo a propagação.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de CO₂ (Gás Carbônico):</span></strong><span style="'; font-size:12pt"> Atua por resfriamento e abafamento, eliminando o oxigênio e reduzindo a temperatura do fogo.</span>
+ <strong><span style="font-size:12pt;">Extintor de CO₂ (Gás Carbônico):</span></strong><span style="font-size:12pt;"> Atua por resfriamento e abafamento, eliminando o oxigênio e reduzindo a temperatura do fogo.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de Pó Químico BC:</span></strong><span style="'; font-size:12pt"> Age interrompendo a reação química da combustão.</span>
+ <strong><span style="font-size:12pt;">Extintor de Pó Químico BC:</span></strong><span style="font-size:12pt;"> Age interrompendo a reação química da combustão.</span>
 
  </li>
 
@@ -205,7 +205,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">Incêndios Classe C – Equipamentos elétricos energizados.</span></strong>
+ <strong><span>Incêndios Classe C – Equipamentos elétricos energizados.</span></strong>
 
  </p>
 
@@ -213,13 +213,13 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de CO₂:</span></strong><span style="'; font-size:12pt"> Não conduz eletricidade, sendo ideal para incêndios em computadores, painéis elétricos e servidores.</span>
+ <strong><span style="font-size:12pt;">Extintor de CO₂:</span></strong><span style="font-size:12pt;"> Não conduz eletricidade, sendo ideal para incêndios em computadores, painéis elétricos e servidores.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de Pó Químico BC:</span></strong><span style="'; font-size:12pt"> Também recomendado, pois age interrompendo a combustão sem conduzir corrente elétrica.</span>
+ <strong><span style="font-size:12pt;">Extintor de Pó Químico BC:</span></strong><span style="font-size:12pt;"> Também recomendado, pois age interrompendo a combustão sem conduzir corrente elétrica.</span>
 
  </li>
 
@@ -227,7 +227,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">Incêndios Classe D – Metais inflamáveis (magnésio, titânio, lítio, alumínio em pó).</span></strong>
+ <strong><span>Incêndios Classe D – Metais inflamáveis (magnésio, titânio, lítio, alumínio em pó).</span></strong>
 
  </p>
 
@@ -235,7 +235,7 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; margin-bottom:14pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de Pó Químico Especial (Classe D):</span></strong><span style="'; font-size:12pt"> Formulado especificamente para combater incêndios em metais inflamáveis.</span>
+ <strong><span style="font-size:12pt;">Extintor de Pó Químico Especial (Classe D):</span></strong><span style="font-size:12pt;"> Formulado especificamente para combater incêndios em metais inflamáveis.</span>
 
  </li>
 
@@ -243,7 +243,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">Incêndios Classe K – Óleos e gorduras de cozinha.</span></strong>
+ <strong><span>Incêndios Classe K – Óleos e gorduras de cozinha.</span></strong>
 
  </p>
 
@@ -251,7 +251,7 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; margin-bottom:14pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de Acetato de Potássio (Classe K):</span></strong><span style="'; font-size:12pt"> Atua por resfriamento e saponificação, transformando o óleo inflamado em uma substância inerte.</span>
+ <strong><span style="font-size:12pt;">Extintor de Acetato de Potássio (Classe K):</span></strong><span style="font-size:12pt;"> Atua por resfriamento e saponificação, transformando o óleo inflamado em uma substância inerte.</span>
 
  </li>
 
@@ -259,25 +259,25 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:14pt">
 
- <strong><span style="'; ">3. Especificações Técnicas dos Extintores de Incêndio</span></strong>
+ <strong><span>3. Especificações Técnicas dos Extintores de Incêndio</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Cada </span><strong><span style="'; ">extintor de incêndio</span></strong><span style="'"> possui características técnicas que determinam seu desempenho e aplicabilidade.</span>
+ <span>Cada </span><strong><span>extintor de incêndio</span></strong><span> possui características técnicas que determinam seu desempenho e aplicabilidade.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">3.1. Capacidade e Peso</span></strong>
+ <strong><span>3.1. Capacidade e Peso</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">A capacidade do </span><strong><span style="'; ">extintor de incêndio</span></strong><span style="'"> é medida em litros (para líquidos) ou em quilogramas (para pós e gases).</span>
+ <span>A capacidade do </span><strong><span>extintor de incêndio</span></strong><span> é medida em litros (para líquidos) ou em quilogramas (para pós e gases).</span>
 
  </p>
 
@@ -285,25 +285,25 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de Pó Químico ABC:</span></strong><span style="'; font-size:12pt"> 1 kg, 4 kg, 6 kg, 8 kg e 12 kg.</span>
+ <strong><span style="font-size:12pt;">Extintor de Pó Químico ABC:</span></strong><span style="font-size:12pt;"> 1 kg, 4 kg, 6 kg, 8 kg e 12 kg.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de CO₂:</span></strong><span style="'; font-size:12pt"> 2 kg, 4 kg, 6 kg e 10 kg.</span>
+ <strong><span style="font-size:12pt;">Extintor de CO₂:</span></strong><span style="font-size:12pt;"> 2 kg, 4 kg, 6 kg e 10 kg.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de Água Pressurizada:</span></strong><span style="'; font-size:12pt"> 10 litros e 20 litros.</span>
+ <strong><span style="font-size:12pt;">Extintor de Água Pressurizada:</span></strong><span style="font-size:12pt;"> 10 litros e 20 litros.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintor de Espuma Mecânica:</span></strong><span style="'; font-size:12pt"> 9 litros e 45 litros.</span>
+ <strong><span style="font-size:12pt;">Extintor de Espuma Mecânica:</span></strong><span style="font-size:12pt;"> 9 litros e 45 litros.</span>
 
  </li>
 
@@ -311,13 +311,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">3.2. Pressão de Trabalho e Descarga</span></strong>
+ <strong><span>3.2. Pressão de Trabalho e Descarga</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Os </span><strong><span style="'; ">extintores de incêndio</span></strong><span style="'"> operam sob diferentes níveis de pressão, conforme o tipo de agente extintor:</span>
+ <span>Os </span><strong><span>extintores de incêndio</span></strong><span> operam sob diferentes níveis de pressão, conforme o tipo de agente extintor:</span>
 
  </p>
 
@@ -325,19 +325,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Pó Químico ABC e BC:</span></strong><span style="'; font-size:12pt"> Pressão de serviço entre 10 e 18 kgf/cm².</span>
+ <strong><span style="font-size:12pt;">Pó Químico ABC e BC:</span></strong><span style="font-size:12pt;"> Pressão de serviço entre 10 e 18 kgf/cm².</span>
 
  </li>
 
  <li style="margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">CO₂:</span></strong><span style="'; font-size:12pt"> Pressão variável conforme temperatura ambiente, podendo atingir 56 kgf/cm².</span>
+ <strong><span style="font-size:12pt;">CO₂:</span></strong><span style="font-size:12pt;"> Pressão variável conforme temperatura ambiente, podendo atingir 56 kgf/cm².</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Água Pressurizada e Espuma:</span></strong><span style="'; font-size:12pt"> Pressão de serviço em torno de 10 kgf/cm².</span>
+ <strong><span style="font-size:12pt;">Água Pressurizada e Espuma:</span></strong><span style="font-size:12pt;"> Pressão de serviço em torno de 10 kgf/cm².</span>
 
  </li>
 
@@ -345,19 +345,19 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">A duração da descarga varia entre </span><strong><span style="'; ">10 a 30 segundos</span></strong><span style="'">, dependendo do modelo.</span>
+ <span>A duração da descarga varia entre </span><strong><span>10 a 30 segundos</span></strong><span>, dependendo do modelo.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">3.3. Temperatura de Operação</span></strong>
+ <strong><span>3.3. Temperatura de Operação</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Os </span><strong><span style="'; ">extintores de incêndio</span></strong><span style="'"> devem ser armazenados e utilizados dentro de faixas de temperatura recomendadas para garantir seu desempenho:</span>
+ <span>Os </span><strong><span>extintores de incêndio</span></strong><span> devem ser armazenados e utilizados dentro de faixas de temperatura recomendadas para garantir seu desempenho:</span>
 
  </p>
 
@@ -365,19 +365,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintores de Pó Químico:</span></strong><span style="'; font-size:12pt"> -20°C a 50°C.</span>
+ <strong><span style="font-size:12pt;">Extintores de Pó Químico:</span></strong><span style="font-size:12pt;"> -20°C a 50°C.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintores de CO₂:</span></strong><span style="'; font-size:12pt"> -30°C a 60°C.</span>
+ <strong><span style="font-size:12pt;">Extintores de CO₂:</span></strong><span style="font-size:12pt;"> -30°C a 60°C.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintores de Água e Espuma:</span></strong><span style="'; font-size:12pt"> 0°C a 49°C (sujeito a congelamento em baixas temperaturas).</span>
+ <strong><span style="font-size:12pt;">Extintores de Água e Espuma:</span></strong><span style="font-size:12pt;"> 0°C a 49°C (sujeito a congelamento em baixas temperaturas).</span>
 
  </li>
 
@@ -385,25 +385,25 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">3.4. Material do Cilindro</span></strong>
+ <strong><span>3.4. Material do Cilindro</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Os cilindros dos </span><strong><span style="'; ">extintores de incêndio</span></strong><span style="'"> são fabricados em aço-carbono, aço inoxidável ou alumínio, conforme o tipo de agente extintor armazenado.</span>
+ <span>Os cilindros dos </span><strong><span>extintores de incêndio</span></strong><span> são fabricados em aço-carbono, aço inoxidável ou alumínio, conforme o tipo de agente extintor armazenado.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:14pt">
 
- <strong><span style="'; ">4. Regulamentação e Normas de Segurança</span></strong>
+ <strong><span>4. Regulamentação e Normas de Segurança</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Os </span><strong><span style="'; ">extintores de incêndio</span></strong><span style="'"> no Brasil devem atender às seguintes normas:</span>
+ <span>Os </span><strong><span>extintores de incêndio</span></strong><span> no Brasil devem atender às seguintes normas:</span>
 
  </p>
 
@@ -411,25 +411,25 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">ABNT NBR 15808:</span></strong><span style="'; font-size:12pt"> Requisitos para fabricação e ensaios de extintores portáteis.</span>
+ <strong><span style="font-size:12pt;">ABNT NBR 15808:</span></strong><span style="font-size:12pt;"> Requisitos para fabricação e ensaios de extintores portáteis.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">ABNT NBR 15809:</span></strong><span style="'; font-size:12pt"> Regulamentação de extintores sobre rodas.</span>
+ <strong><span style="font-size:12pt;">ABNT NBR 15809:</span></strong><span style="font-size:12pt;"> Regulamentação de extintores sobre rodas.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">NR 23 - Proteção Contra Incêndios:</span></strong><span style="'; font-size:12pt"> Define as regras de uso em locais de trabalho.</span>
+ <strong><span style="font-size:12pt;">NR 23 - Proteção Contra Incêndios:</span></strong><span style="font-size:12pt;"> Define as regras de uso em locais de trabalho.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Instruções Técnicas do Corpo de Bombeiros (ITCB):</span></strong><span style="'; font-size:12pt"> Determinam a quantidade e o posicionamento dos </span><strong><span style="'; font-size:12pt; ">extintores de incêndio</span></strong><span style="'; font-size:12pt"> nos estabelecimentos.</span>
+ <strong><span style="font-size:12pt;">Instruções Técnicas do Corpo de Bombeiros (ITCB):</span></strong><span style="font-size:12pt;"> Determinam a quantidade e o posicionamento dos </span><strong><span style="font-size:12pt;">extintores de incêndio</span></strong><span style="font-size:12pt;"> nos estabelecimentos.</span>
 
  </li>
 
@@ -437,43 +437,43 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:14pt">
 
- <strong><span style="'; ">5. Como Escolher o Extintor de Incêndio Adequado?</span></strong>
+ <strong><span>5. Como Escolher o Extintor de Incêndio Adequado?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Para selecionar o melhor </span><strong><span style="'; ">extintor de incêndio</span></strong><span style="'">, considere os seguintes fatores:</span>
+ <span>Para selecionar o melhor </span><strong><span>extintor de incêndio</span></strong><span>, considere os seguintes fatores:</span>
 
  </p>
 
  <ol type="1" style="margin:0pt; padding-left:0pt">
 
- <li style="margin-top:14pt; margin-left:32pt; padding-left:4pt; '">
+ <li style="margin-top:14pt; margin-left:32pt; padding-left:4pt;">
 
  <strong>Classe de incêndio predominante</strong> no ambiente.
 
  </li>
 
- <li style="margin-left:32pt; padding-left:4pt; '">
+ <li style="margin-left:32pt; padding-left:4pt;">
 
  <strong>Capacidade e alcance</strong> do extintor.
 
  </li>
 
- <li style="margin-left:32pt; padding-left:4pt; '">
+ <li style="margin-left:32pt; padding-left:4pt;">
 
  <strong>Normas regulamentadoras</strong> aplicáveis ao estabelecimento.
 
  </li>
 
- <li style="margin-left:32pt; padding-left:4pt; '">
+ <li style="margin-left:32pt; padding-left:4pt;">
 
  <strong>Local de instalação</strong> (interno ou externo).
 
  </li>
 
- <li style="margin-left:32pt; margin-bottom:14pt; padding-left:4pt; '">
+ <li style="margin-left:32pt; margin-bottom:14pt; padding-left:4pt;">
 
  <strong>Facilidade de manuseio e manutenção.</strong>
 
@@ -483,37 +483,37 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:18pt">
 
- <strong><span style="'; ">Conclusão</span></strong>
+ <strong><span>Conclusão</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">O </span><strong><span style="'; ">extintor de incêndio</span></strong><span style="'"> é um equipamento essencial para a segurança de qualquer ambiente, garantindo controle rápido e eficaz de incêndios em seus estágios iniciais. Para que sua funcionalidade seja assegurada, é fundamental escolher o modelo correto, considerando o tipo de fogo a ser combatido e as exigências das normas de segurança.</span>
+ <span>O </span><strong><span>extintor de incêndio</span></strong><span> é um equipamento essencial para a segurança de qualquer ambiente, garantindo controle rápido e eficaz de incêndios em seus estágios iniciais. Para que sua funcionalidade seja assegurada, é fundamental escolher o modelo correto, considerando o tipo de fogo a ser combatido e as exigências das normas de segurança.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:18pt">
 
- <strong><span style="'; ">Por que escolher a HSA?</span></strong>
+ <strong><span>Por que escolher a HSA?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Qualidade Certificada:</span></strong><span style="'"> Produtos testados e aprovados para máxima segurança.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Melhor Custo-Benefício:</span></strong><span style="'"> Preços competitivos e ofertas especiais para condomínios e indústrias.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Descontos Especiais:</span></strong><span style="'"> Condições diferenciadas para compras em grande quantidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Facilidade de Pagamento:</span></strong><span style="'"> Opções flexíveis para você comprar sem preocupação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Frete Grátis:</span></strong><span style="'"> Consulte nossa equipe e veja se sua região está na promoção.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Entrega Pontual:</span></strong><span style="'"> Compromisso com prazos para garantir sua segurança no momento certo.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Garantia Estendida:</span></strong><span style="'"> 12 meses contra defeitos de fabricação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Certificado de Garantia:</span></strong><span style="'"> Enviado junto com a nota fiscal para sua tranquilidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Suporte Rápido:</span></strong><span style="'"> Atendimento eficiente para resolver qualquer necessidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Clientes Satisfeitos:</span></strong><span style="'"> Mais de </span><strong><span style="'; ">2000 clientes atendidos</span></strong><span style="'">, incluindo condomínios e empresas.</span>
+ <span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Qualidade Certificada:</span></strong><span> Produtos testados e aprovados para máxima segurança.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Melhor Custo-Benefício:</span></strong><span> Preços competitivos e ofertas especiais para condomínios e indústrias.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Descontos Especiais:</span></strong><span> Condições diferenciadas para compras em grande quantidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Facilidade de Pagamento:</span></strong><span> Opções flexíveis para você comprar sem preocupação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Frete Grátis:</span></strong><span> Consulte nossa equipe e veja se sua região está na promoção.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Entrega Pontual:</span></strong><span> Compromisso com prazos para garantir sua segurança no momento certo.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Garantia Estendida:</span></strong><span> 12 meses contra defeitos de fabricação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Certificado de Garantia:</span></strong><span> Enviado junto com a nota fiscal para sua tranquilidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Suporte Rápido:</span></strong><span> Atendimento eficiente para resolver qualquer necessidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Clientes Satisfeitos:</span></strong><span> Mais de </span><strong><span>2000 clientes atendidos</span></strong><span>, incluindo condomínios e empresas.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">A </span><strong><span style="'; "> HSA</span></strong><span style="'"> oferece uma linha completa de </span><strong><span style="'; ">equipamentos de combate a incêndio</span></strong><span style="'">, projetados para garantir </span><strong><span style="'; ">proteção máxima</span></strong><span style="'"> em qualquer ambiente. </span><strong><span style="'; ">Entre em contato e solicite seu orçamento agora!</span></strong>
+ <span>A </span><strong><span> HSA</span></strong><span> oferece uma linha completa de </span><strong><span>equipamentos de combate a incêndio</span></strong><span>, projetados para garantir </span><strong><span>proteção máxima</span></strong><span> em qualquer ambiente. </span><strong><span>Entre em contato e solicite seu orçamento agora!</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="font-family:'Segoe UI Symbol'">📞</span><span style="'"> </span><strong><span style="'; ">Telefones:</span></strong><span style="'"> (11) 94025-8669</span><br ><span style="font-family:'Segoe UI Symbol'">📧</span><span style="'"> </span><strong><span style="'; ">E-mail:</span></strong><span style="'"> contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
+ <span style="font-family:'Segoe UI Symbol'">📞</span><span> </span><strong><span>Telefones:</span></strong><span> (11) 94025-8669</span><br ><span style="font-family:'Segoe UI Symbol'">📧</span><span> </span><strong><span>E-mail:</span></strong><span> contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
 
  </p>
 

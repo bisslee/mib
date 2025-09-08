@@ -119,7 +119,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
- <img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-para-predio.jpg" alt="Mangueira de Incêndio para Prédio" title="Mangueira de Incêndio para Prédio" style="">
+ <img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-para-predio.jpg" alt="Mangueira de Incêndio para Prédio" title="Mangueira de Incêndio para Prédio">
 
  </div>
 

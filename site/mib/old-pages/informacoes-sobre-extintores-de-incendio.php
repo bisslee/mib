@@ -221,11 +221,7 @@ ficará muito mais fácil escolher e manter o modelo mais adequado para cada amb
 
  </div>
 
- <div class="fixa2">
-
- <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
- </div>
+ 
 
  </div>
 

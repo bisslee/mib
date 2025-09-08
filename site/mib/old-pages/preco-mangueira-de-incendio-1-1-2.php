@@ -353,11 +353,7 @@ Nossa equipe está pronta para orientá-lo na escolha da melhor mangueira de inc
 
  </div>
 
- <div class="fixa2">
-
- <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
- </div>
+ 
 
  </div>
 

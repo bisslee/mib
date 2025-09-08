@@ -87,31 +87,31 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:18pt">
 
- <strong><span style=" ">Mangueira de Hidrante</span></strong>
+ <strong><span>Mangueira de Hidrante</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
- <strong><span style=" ">Segurança e Eficiência no Combate a Incêndios</span></strong>
+ <strong><span>Segurança e Eficiência no Combate a Incêndios</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Quando se trata de </span><strong><span style=" ">segurança contra incêndios</span></strong><span style="'">, a </span><strong><span style=" ">mangueira de hidrante</span></strong><span style="'"> é um dos principais equipamentos essenciais para garantir a proteção de vidas e patrimônios. Ideal para edifícios residenciais, comércios, indústrias e espaços públicos, a </span><strong><span style=" ">mangueira de hidrante</span></strong><span style="'"> desempenha um papel fundamental no combate a princípios de incêndio, e sua qualidade é decisiva para a eficiência da ação.</span>
+ <span>Quando se trata de </span><strong><span>segurança contra incêndios</span></strong><span>, a </span><strong><span>mangueira de hidrante</span></strong><span> é um dos principais equipamentos essenciais para garantir a proteção de vidas e patrimônios. Ideal para edifícios residenciais, comércios, indústrias e espaços públicos, a </span><strong><span>mangueira de hidrante</span></strong><span> desempenha um papel fundamental no combate a princípios de incêndio, e sua qualidade é decisiva para a eficiência da ação.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Garantia de Proteção e Confiabilidade em Mangueiras de Hidrante</span></strong>
+ <strong><span>Garantia de Proteção e Confiabilidade em Mangueiras de Hidrante</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">A </span><strong><span style=" "> HSA</span></strong><span style="'"> oferece uma linha completa de </span><strong><span style=" ">mangueiras de hidrante</span></strong><span style="'"> certificadas pela </span><strong><span style=" ">ABNT</span></strong><span style="'">, desenvolvidas para diversas necessidades e com total conformidade às normas de segurança. A melhor qualidade, durabilidade e resistência, com os melhores preços do mercado. </span><strong><span style=" ">Não deixe a segurança para depois</span></strong><span style="'">, acesse agora e confira nossa linha completa!</span>
+ <span>A </span><strong><span> HSA</span></strong><span> oferece uma linha completa de </span><strong><span>mangueiras de hidrante</span></strong><span> certificadas pela </span><strong><span>ABNT</span></strong><span>, desenvolvidas para diversas necessidades e com total conformidade às normas de segurança. A melhor qualidade, durabilidade e resistência, com os melhores preços do mercado. </span><strong><span>Não deixe a segurança para depois</span></strong><span>, acesse agora e confira nossa linha completa!</span>
 
  </p>
 
@@ -129,13 +129,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Por Que Escolher a Mangueira de Hidrante da HSA?</span></strong>
+ <strong><span>Por Que Escolher a Mangueira de Hidrante da HSA?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Selecionar a </span><strong><span style=" ">mangueira de hidrante</span></strong><span style="'"> certa para seu ambiente é crucial para garantir a eficiência no combate ao fogo. A </span><strong><span style=" "> HSA</span></strong><span style="'"> oferece diversos modelos com as melhores características para atender diferentes níveis de risco:</span>
+ <span>Selecionar a </span><strong><span>mangueira de hidrante</span></strong><span> certa para seu ambiente é crucial para garantir a eficiência no combate ao fogo. A </span><strong><span> HSA</span></strong><span> oferece diversos modelos com as melhores características para atender diferentes níveis de risco:</span>
 
  </p>
 
@@ -143,31 +143,31 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Normas de Qualidade</span></strong><span style=" font-size:12pt">: Certificadas pela </span><strong><span style=" font-size:12pt; ">ABNT NBR 11861</span></strong><span style=" font-size:12pt">, nossas </span><strong><span style=" font-size:12pt; ">mangueiras de hidrante</span></strong><span style=" font-size:12pt"> garantem o mais alto padrão de segurança e eficiência.</span>
+ <strong><span style="font-size:12pt;">Normas de Qualidade</span></strong><span style="font-size:12pt;">: Certificadas pela </span><strong><span style="font-size:12pt;">ABNT NBR 11861</span></strong><span style="font-size:12pt;">, nossas </span><strong><span style="font-size:12pt;">mangueiras de hidrante</span></strong><span style="font-size:12pt;"> garantem o mais alto padrão de segurança e eficiência.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Resistência e Durabilidade</span></strong><span style=" font-size:12pt">: Fabricadas com materiais de alta performance como poliéster e borracha nitrílica, nossas </span><strong><span style=" font-size:12pt; ">mangueiras de hidrante</span></strong><span style=" font-size:12pt"> suportam altas pressões e condições climáticas adversas.</span>
+ <strong><span style="font-size:12pt;">Resistência e Durabilidade</span></strong><span style="font-size:12pt;">: Fabricadas com materiais de alta performance como poliéster e borracha nitrílica, nossas </span><strong><span style="font-size:12pt;">mangueiras de hidrante</span></strong><span style="font-size:12pt;"> suportam altas pressões e condições climáticas adversas.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Modelos para Diversas Aplicações</span></strong><span style=" font-size:12pt">: Oferecemos soluções ideais para residências, comércios, indústrias e instalações especiais.</span>
+ <strong><span style="font-size:12pt;">Modelos para Diversas Aplicações</span></strong><span style="font-size:12pt;">: Oferecemos soluções ideais para residências, comércios, indústrias e instalações especiais.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Facilidade de Uso e Armazenamento</span></strong><span style=" font-size:12pt">: </span><strong><span style=" font-size:12pt; ">Mangueiras de hidrante</span></strong><span style=" font-size:12pt"> flexíveis e leves, projetadas para serem facilmente manuseadas em situações de emergência.</span>
+ <strong><span style="font-size:12pt;">Facilidade de Uso e Armazenamento</span></strong><span style="font-size:12pt;">: </span><strong><span style="font-size:12pt;">Mangueiras de hidrante</span></strong><span style="font-size:12pt;"> flexíveis e leves, projetadas para serem facilmente manuseadas em situações de emergência.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Atendimento Especializado</span></strong><span style=" font-size:12pt">: Nossa equipe está pronta para ajudar a escolher a </span><strong><span style=" font-size:12pt; ">mangueira de hidrante</span></strong><span style=" font-size:12pt"> mais adequada às suas necessidades.</span>
+ <strong><span style="font-size:12pt;">Atendimento Especializado</span></strong><span style="font-size:12pt;">: Nossa equipe está pronta para ajudar a escolher a </span><strong><span style="font-size:12pt;">mangueira de hidrante</span></strong><span style="font-size:12pt;"> mais adequada às suas necessidades.</span>
 
  </li>
 
@@ -181,13 +181,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Tipos de Mangueira de Hidrante Disponíveis</span></strong>
+ <strong><span>Tipos de Mangueira de Hidrante Disponíveis</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Escolher o tipo certo de </span><strong><span style=" ">mangueira de hidrante</span></strong><span style="'"> é essencial para a segurança do seu ambiente. Confira nossas opções, todas projetadas para oferecer o melhor desempenho em situações de emergência:</span>
+ <span>Escolher o tipo certo de </span><strong><span>mangueira de hidrante</span></strong><span> é essencial para a segurança do seu ambiente. Confira nossas opções, todas projetadas para oferecer o melhor desempenho em situações de emergência:</span>
 
  </p>
 
@@ -195,31 +195,31 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Mangueira Tipo 1 (Predyflex)</span></strong><span style=" font-size:12pt">: Ideal para condomínios residenciais e ambientes com risco baixo de incêndio.</span>
+ <strong><span style="font-size:12pt;">Mangueira Tipo 1 (Predyflex)</span></strong><span style="font-size:12pt;">: Ideal para condomínios residenciais e ambientes com risco baixo de incêndio.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Mangueira Tipo 2 (Superflex)</span></strong><span style=" font-size:12pt">: Recomendado para comércios e escritórios, onde há maior risco e a necessidade de resistência extra.</span>
+ <strong><span style="font-size:12pt;">Mangueira Tipo 2 (Superflex)</span></strong><span style="font-size:12pt;">: Recomendado para comércios e escritórios, onde há maior risco e a necessidade de resistência extra.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Mangueira Tipo 3 (Superflex Capa Dupla)</span></strong><span style=" font-size:12pt">: Perfeita para indústrias e locais de alto risco, garantindo alta durabilidade.</span>
+ <strong><span style="font-size:12pt;">Mangueira Tipo 3 (Superflex Capa Dupla)</span></strong><span style="font-size:12pt;">: Perfeita para indústrias e locais de alto risco, garantindo alta durabilidade.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Mangueira Tipo 4 (Plastflex)</span></strong><span style=" font-size:12pt">: Desenvolvida para ambientes que exigem resistência química, como laboratórios e indústrias químicas.</span>
+ <strong><span style="font-size:12pt;">Mangueira Tipo 4 (Plastflex)</span></strong><span style="font-size:12pt;">: Desenvolvida para ambientes que exigem resistência química, como laboratórios e indústrias químicas.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Mangueira Tipo 5 (Ruberflex)</span></strong><span style=" font-size:12pt">: Usada em plataformas offshore e ambientes especiais com condições extremas.</span>
+ <strong><span style="font-size:12pt;">Mangueira Tipo 5 (Ruberflex)</span></strong><span style="font-size:12pt;">: Usada em plataformas offshore e ambientes especiais com condições extremas.</span>
 
  </li>
 
@@ -233,13 +233,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Como Escolher a Melhor Mangueira de Hidrante para Seu Ambiente?</span></strong>
+ <strong><span>Como Escolher a Melhor Mangueira de Hidrante para Seu Ambiente?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">A escolha da </span><strong><span style=" ">mangueira de hidrante</span></strong><span style="'"> deve ser feita de acordo com o tipo de risco e as exigências do ambiente. Veja o que considerar:</span>
+ <span>A escolha da </span><strong><span>mangueira de hidrante</span></strong><span> deve ser feita de acordo com o tipo de risco e as exigências do ambiente. Veja o que considerar:</span>
 
  </p>
 
@@ -247,25 +247,25 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Nível de Risco</span></strong><span style=" font-size:12pt">:</span>
+ <strong><span style="font-size:12pt;">Nível de Risco</span></strong><span style="font-size:12pt;">:</span>
 
  <ul type="circle" style="margin-right:0pt; margin-left:0pt; padding-left:0pt">
 
  <li style="margin-left:29pt; padding-left:7pt">
 
- <span style=" font-size:12pt">Residências e condomínios: </span><strong><span style=" font-size:12pt; ">Mangueira Tipo 1 (Predyflex)</span></strong><span style=" font-size:12pt">.</span>
+ <span style="font-size:12pt;">Residências e condomínios: </span><strong><span style="font-size:12pt;">Mangueira Tipo 1 (Predyflex)</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
  <li style="margin-left:29pt; padding-left:7pt">
 
- <span style=" font-size:12pt">Comércios e escritórios: </span><strong><span style=" font-size:12pt; ">Mangueira Tipo 2 (Superflex)</span></strong><span style=" font-size:12pt">.</span>
+ <span style="font-size:12pt;">Comércios e escritórios: </span><strong><span style="font-size:12pt;">Mangueira Tipo 2 (Superflex)</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
  <li style="margin-left:29pt; padding-left:7pt">
 
- <span style=" font-size:12pt">Indústrias e locais de alto risco: </span><strong><span style=" font-size:12pt; ">Mangueira Tipo 3 (Superflex Capa Dupla)</span></strong><span style=" font-size:12pt"> ou </span><strong><span style=" font-size:12pt; ">Mangueira Tipo 4 (Plastflex)</span></strong><span style=" font-size:12pt">.</span>
+ <span style="font-size:12pt;">Indústrias e locais de alto risco: </span><strong><span style="font-size:12pt;">Mangueira Tipo 3 (Superflex Capa Dupla)</span></strong><span style="font-size:12pt;"> ou </span><strong><span style="font-size:12pt;">Mangueira Tipo 4 (Plastflex)</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
@@ -275,13 +275,13 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Dimensões Adequadas</span></strong><span style=" font-size:12pt">: Verifique o comprimento e diâmetro que melhor atendem à distância entre o hidrante e as áreas de risco.</span>
+ <strong><span style="font-size:12pt;">Dimensões Adequadas</span></strong><span style="font-size:12pt;">: Verifique o comprimento e diâmetro que melhor atendem à distância entre o hidrante e as áreas de risco.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Material e Resistência</span></strong><span style=" font-size:12pt">: Optar por materiais resistentes como borracha nitrílica e poliéster reforçado, que garantem eficácia e segurança no combate a incêndios.</span>
+ <strong><span style="font-size:12pt;">Material e Resistência</span></strong><span style="font-size:12pt;">: Optar por materiais resistentes como borracha nitrílica e poliéster reforçado, que garantem eficácia e segurança no combate a incêndios.</span>
 
  </li>
 
@@ -295,7 +295,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Vantagens de Comprar Mangueira de Hidrante com a HSA</span></strong>
+ <strong><span>Vantagens de Comprar Mangueira de Hidrante com a HSA</span></strong>
 
  </p>
 
@@ -303,31 +303,31 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Qualidade Comprovada</span></strong><span style=" font-size:12pt">: </span><strong><span style=" font-size:12pt; ">Mangueiras de hidrante</span></strong><span style=" font-size:12pt"> testadas e aprovadas conforme as normas técnicas.</span>
+ <strong><span style="font-size:12pt;">Qualidade Comprovada</span></strong><span style="font-size:12pt;">: </span><strong><span style="font-size:12pt;">Mangueiras de hidrante</span></strong><span style="font-size:12pt;"> testadas e aprovadas conforme as normas técnicas.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Variedade de Modelos</span></strong><span style=" font-size:12pt">: Soluções para todos os tipos de ambientes: residenciais, comerciais e industriais.</span>
+ <strong><span style="font-size:12pt;">Variedade de Modelos</span></strong><span style="font-size:12pt;">: Soluções para todos os tipos de ambientes: residenciais, comerciais e industriais.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Preço Competitivo</span></strong><span style=" font-size:12pt">: Oferecemos o melhor custo-benefício do mercado.</span>
+ <strong><span style="font-size:12pt;">Preço Competitivo</span></strong><span style="font-size:12pt;">: Oferecemos o melhor custo-benefício do mercado.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Entrega Rápida</span></strong><span style=" font-size:12pt">: Atendimento ágil e eficiente em todo o Brasil.</span>
+ <strong><span style="font-size:12pt;">Entrega Rápida</span></strong><span style="font-size:12pt;">: Atendimento ágil e eficiente em todo o Brasil.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Suporte Especializado</span></strong><span style=" font-size:12pt">: Nossa equipe está pronta para ajudar na escolha da melhor </span><strong><span style=" font-size:12pt; ">mangueira de hidrante</span></strong><span style=" font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">Suporte Especializado</span></strong><span style="font-size:12pt;">: Nossa equipe está pronta para ajudar na escolha da melhor </span><strong><span style="font-size:12pt;">mangueira de hidrante</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
@@ -341,13 +341,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Cuidados com a Manutenção da Mangueira de Hidrante</span></strong>
+ <strong><span>Cuidados com a Manutenção da Mangueira de Hidrante</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Para garantir que sua </span><strong><span style=" ">mangueira de hidrante</span></strong><span style="'"> esteja sempre pronta para o combate a incêndios, siga essas dicas de manutenção:</span>
+ <span>Para garantir que sua </span><strong><span>mangueira de hidrante</span></strong><span> esteja sempre pronta para o combate a incêndios, siga essas dicas de manutenção:</span>
 
  </p>
 
@@ -355,19 +355,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Verifique sinais de desgaste</span></strong><span style=" font-size:12pt">: Inspecione regularmente por cortes ou rachaduras.</span>
+ <strong><span style="font-size:12pt;">Verifique sinais de desgaste</span></strong><span style="font-size:12pt;">: Inspecione regularmente por cortes ou rachaduras.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Armazenamento adequado</span></strong><span style=" font-size:12pt">: Guarde a </span><strong><span style=" font-size:12pt; ">mangueira de hidrante</span></strong><span style=" font-size:12pt"> em local seco e protegido da luz solar direta.</span>
+ <strong><span style="font-size:12pt;">Armazenamento adequado</span></strong><span style="font-size:12pt;">: Guarde a </span><strong><span style="font-size:12pt;">mangueira de hidrante</span></strong><span style="font-size:12pt;"> em local seco e protegido da luz solar direta.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Teste de pressão</span></strong><span style=" font-size:12pt">: Realize verificações periódicas para garantir o funcionamento correto.</span>
+ <strong><span style="font-size:12pt;">Teste de pressão</span></strong><span style="font-size:12pt;">: Realize verificações periódicas para garantir o funcionamento correto.</span>
 
  </li>
 
@@ -381,19 +381,19 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Adquira Agora a Melhor Mangueira de Hidrante e Proteja Seu Patrimônio!</span></strong>
+ <strong><span>Adquira Agora a Melhor Mangueira de Hidrante e Proteja Seu Patrimônio!</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Não deixe para depois a segurança do seu ambiente! A </span><strong><span style=" "> HSA</span></strong><span style="'"> oferece </span><strong><span style=" ">mangueiras de hidrante</span></strong><span style="'"> certificadas e de alta qualidade para garantir proteção efetiva contra incêndios.</span>
+ <span>Não deixe para depois a segurança do seu ambiente! A </span><strong><span> HSA</span></strong><span> oferece </span><strong><span>mangueiras de hidrante</span></strong><span> certificadas e de alta qualidade para garantir proteção efetiva contra incêndios.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="font-family:'Segoe UI Symbol'">📞</span><span style="'"> Entre em contato agora via </span><strong><span style=" ">WhatsApp</span></strong><span style="'"> ou </span><strong><span style=" ">e-mail</span></strong><span style="'"> e solicite um orçamento personalizado. </span><strong><span style=" ">Proteja seu patrimônio com a melhor qualidade do mercado!</span></strong>
+ <span style="font-family:'Segoe UI Symbol'">📞</span><span> Entre em contato agora via </span><strong><span>WhatsApp</span></strong><span> ou </span><strong><span>e-mail</span></strong><span> e solicite um orçamento personalizado. </span><strong><span>Proteja seu patrimônio com a melhor qualidade do mercado!</span></strong>
 
  </p>
 
@@ -417,25 +417,25 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Mangueira Predial Tipo 1 (Predyflex) – HSA</span></strong>
+ <strong><span>Mangueira Predial Tipo 1 (Predyflex) – HSA</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">A </span><strong><span style=" ">Mangueira Predial Tipo 1 (Predyflex)</span></strong><span style="'"> da </span><strong><span style=" "> HSA</span></strong><span style="'"> é a escolha ideal para condomínios residenciais, oferecendo resistência e confiabilidade em situações de emergência. Com </span><strong><span style=" ">pressão de trabalho de 10 Kgf/cm²</span></strong><span style="'"> e </span><strong><span style=" ">pressão de ruptura acima de 45 Kgf/cm²</span></strong><span style="'">, ela garante alto desempenho e segurança.</span>
+ <span>A </span><strong><span>Mangueira Predial Tipo 1 (Predyflex)</span></strong><span> da </span><strong><span> HSA</span></strong><span> é a escolha ideal para condomínios residenciais, oferecendo resistência e confiabilidade em situações de emergência. Com </span><strong><span>pressão de trabalho de 10 Kgf/cm²</span></strong><span> e </span><strong><span>pressão de ruptura acima de 45 Kgf/cm²</span></strong><span>, ela garante alto desempenho e segurança.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Disponível em </span><strong><span style=" ">1 1/2"</span></strong><span style="'"> de diâmetro e comprimentos de </span><strong><span style=" ">15, 20, 25 e 30 metros</span></strong><span style="'">, acompanha </span><strong><span style=" ">engates Storz em latão</span></strong><span style="'">, que proporcionam instalação rápida e vedação segura.</span>
+ <span>Disponível em </span><strong><span>1 1/2"</span></strong><span> de diâmetro e comprimentos de </span><strong><span>15, 20, 25 e 30 metros</span></strong><span>, acompanha </span><strong><span>engates Storz em latão</span></strong><span>, que proporcionam instalação rápida e vedação segura.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Benefícios:</span></strong>
+ <strong><span>Benefícios:</span></strong>
 
  </p>
 
@@ -443,19 +443,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Alta resistência</span></strong><span style=" font-size:12pt">: Ideal para situações de emergência.</span>
+ <strong><span style="font-size:12pt;">Alta resistência</span></strong><span style="font-size:12pt;">: Ideal para situações de emergência.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Fácil instalação</span></strong><span style=" font-size:12pt">: Engates Storz para vedação segura.</span>
+ <strong><span style="font-size:12pt;">Fácil instalação</span></strong><span style="font-size:12pt;">: Engates Storz para vedação segura.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style=" font-size:12pt; ">Durabilidade</span></strong><span style=" font-size:12pt">: Fabricada com materiais de alta qualidade.</span>
+ <strong><span style="font-size:12pt;">Durabilidade</span></strong><span style="font-size:12pt;">: Fabricada com materiais de alta qualidade.</span>
 
  </li>
 
@@ -463,7 +463,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Escolha </span><strong><span style=" "> HSA</span></strong><span style="'"> e garanta proteção total para seu condomínio com nossa </span><strong><span style=" ">Mangueira Predial Tipo 1 (Predyflex)</span></strong><span style="'">. Consulte as exigências do Corpo de Bombeiros para garantir a conformidade.</span>
+ <span>Escolha </span><strong><span> HSA</span></strong><span> e garanta proteção total para seu condomínio com nossa </span><strong><span>Mangueira Predial Tipo 1 (Predyflex)</span></strong><span>. Consulte as exigências do Corpo de Bombeiros para garantir a conformidade.</span>
 
  </p>
 
@@ -481,31 +481,31 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Mangueira Predial Tipo 2 (Superflex) – HSA</span></strong>
+ <strong><span>Mangueira Predial Tipo 2 (Superflex) – HSA</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">A </span><strong><span style=" ">Mangueira Predial Tipo 2 (Superflex)</span></strong><span style="'"> da </span><strong><span style=" "> HSA</span></strong><span style="'"> é a escolha ideal para comércios e edificações que exigem alta resistência e confiabilidade no combate a incêndios. Com </span><strong><span style=" ">pressão de trabalho de 14 Kgf/cm²</span></strong><span style="'"> e </span><strong><span style=" ">pressão de ruptura acima de 55 Kgf/cm²</span></strong><span style="'">, garante eficiência e segurança em emergências.</span>
+ <span>A </span><strong><span>Mangueira Predial Tipo 2 (Superflex)</span></strong><span> da </span><strong><span> HSA</span></strong><span> é a escolha ideal para comércios e edificações que exigem alta resistência e confiabilidade no combate a incêndios. Com </span><strong><span>pressão de trabalho de 14 Kgf/cm²</span></strong><span> e </span><strong><span>pressão de ruptura acima de 55 Kgf/cm²</span></strong><span>, garante eficiência e segurança em emergências.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Disponível nos diâmetros </span><strong><span style=" ">1 1/2" e 2 1/2"</span></strong><span style="'"> e comprimentos de </span><strong><span style=" ">15 a 30 metros</span></strong><span style="'">, acompanha </span><strong><span style=" ">engates Storz em latão</span></strong><span style="'">, oferecendo vedação perfeita e facilidade de uso.</span>
+ <span>Disponível nos diâmetros </span><strong><span>1 1/2" e 2 1/2"</span></strong><span> e comprimentos de </span><strong><span>15 a 30 metros</span></strong><span>, acompanha </span><strong><span>engates Storz em latão</span></strong><span>, oferecendo vedação perfeita e facilidade de uso.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style=" ">Por que escolher a HSA?</span></strong><span style="'"> </span><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Qualidade certificada</span></strong><span style="'"> para máxima proteção</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Alta durabilidade</span></strong><span style="'"> para ambientes exigentes</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Atendimento especializado</span></strong><span style="'"> para garantir a escolha certa</span>
+ <strong><span>Por que escolher a HSA?</span></strong><span> </span><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Qualidade certificada</span></strong><span> para máxima proteção</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Alta durabilidade</span></strong><span> para ambientes exigentes</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Atendimento especializado</span></strong><span> para garantir a escolha certa</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style=" ">Solicite seu orçamento agora!</span></strong><span style="'"> Fale com nossa equipe por e-mail ou WhatsApp e tenha o melhor atendimento.</span>
+ <strong><span>Solicite seu orçamento agora!</span></strong><span> Fale com nossa equipe por e-mail ou WhatsApp e tenha o melhor atendimento.</span>
 
  </p>
 
@@ -523,31 +523,31 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Mangueira Predial Tipo 3 (Superflex Capa Dupla) – HSA</span></strong>
+ <strong><span>Mangueira Predial Tipo 3 (Superflex Capa Dupla) – HSA</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">A </span><strong><span style=" ">Mangueira Predial Tipo 3 (Superflex Capa Dupla)</span></strong><span style="'"> da </span><strong><span style=" "> HSA</span></strong><span style="'"> é a escolha perfeita para edificações que exigem resistência máxima e desempenho superior em situações extremas. Ideal para ambientes industriais, comerciais e locais de alto risco.</span>
+ <span>A </span><strong><span>Mangueira Predial Tipo 3 (Superflex Capa Dupla)</span></strong><span> da </span><strong><span> HSA</span></strong><span> é a escolha perfeita para edificações que exigem resistência máxima e desempenho superior em situações extremas. Ideal para ambientes industriais, comerciais e locais de alto risco.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Com </span><strong><span style=" ">pressão de trabalho de 15 Kgf/cm²</span></strong><span style="'"> e </span><strong><span style=" ">pressão de ruptura superior a 60 Kgf/cm²</span></strong><span style="'">, oferece alta durabilidade e segurança no combate a incêndios. Disponível nos diâmetros </span><strong><span style=" ">1 1/2" e 2 1/2"</span></strong><span style="'">, nos comprimentos de </span><strong><span style=" ">15 a 30 metros</span></strong><span style="'">, acompanha </span><strong><span style=" ">engates Storz em latão</span></strong><span style="'">, garantindo vedação eficiente e fácil instalação.</span>
+ <span>Com </span><strong><span>pressão de trabalho de 15 Kgf/cm²</span></strong><span> e </span><strong><span>pressão de ruptura superior a 60 Kgf/cm²</span></strong><span>, oferece alta durabilidade e segurança no combate a incêndios. Disponível nos diâmetros </span><strong><span>1 1/2" e 2 1/2"</span></strong><span>, nos comprimentos de </span><strong><span>15 a 30 metros</span></strong><span>, acompanha </span><strong><span>engates Storz em latão</span></strong><span>, garantindo vedação eficiente e fácil instalação.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style=" ">Por que escolher a HSA?</span></strong><span style="'"> </span><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Certificação de qualidade</span></strong><span style="'"> para máxima proteção</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Alta resistência</span></strong><span style="'"> para ambientes exigentes</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Suporte especializado</span></strong><span style="'"> para garantir a escolha ideal</span>
+ <strong><span>Por que escolher a HSA?</span></strong><span> </span><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Certificação de qualidade</span></strong><span> para máxima proteção</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Alta resistência</span></strong><span> para ambientes exigentes</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Suporte especializado</span></strong><span> para garantir a escolha ideal</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style=" ">Solicite seu orçamento agora!</span></strong><span style="'"> Entre em contato via WhatsApp ou e-mail e receba a melhor solução em segurança.</span>
+ <strong><span>Solicite seu orçamento agora!</span></strong><span> Entre em contato via WhatsApp ou e-mail e receba a melhor solução em segurança.</span>
 
  </p>
 
@@ -559,31 +559,31 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Mangueira Predial Tipo 4 (Plastflex) – HSA</span></strong>
+ <strong><span>Mangueira Predial Tipo 4 (Plastflex) – HSA</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">A </span><strong><span style=" ">Mangueira Predial Tipo 4 (Plastflex)</span></strong><span style="'"> da </span><strong><span style=" "> HSA</span></strong><span style="'"> é a opção ideal para edificações que exigem alta resistência e durabilidade no combate a incêndios. Ideal para ambientes industriais, comerciais e de risco elevado.</span>
+ <span>A </span><strong><span>Mangueira Predial Tipo 4 (Plastflex)</span></strong><span> da </span><strong><span> HSA</span></strong><span> é a opção ideal para edificações que exigem alta resistência e durabilidade no combate a incêndios. Ideal para ambientes industriais, comerciais e de risco elevado.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Com </span><strong><span style=" ">pressão de trabalho de 14 Kgf/cm²</span></strong><span style="'"> e </span><strong><span style=" ">pressão de ruptura superior a 55 Kgf/cm²</span></strong><span style="'">, oferece segurança confiável em situações de emergência. Disponível nos diâmetros </span><strong><span style=" ">1 1/2" e 2 1/2"</span></strong><span style="'">, nos comprimentos de </span><strong><span style=" ">15 a 30 metros</span></strong><span style="'">, e equipada com </span><strong><span style=" ">engates Storz em latão</span></strong><span style="'"> para uma conexão segura e eficiente.</span>
+ <span>Com </span><strong><span>pressão de trabalho de 14 Kgf/cm²</span></strong><span> e </span><strong><span>pressão de ruptura superior a 55 Kgf/cm²</span></strong><span>, oferece segurança confiável em situações de emergência. Disponível nos diâmetros </span><strong><span>1 1/2" e 2 1/2"</span></strong><span>, nos comprimentos de </span><strong><span>15 a 30 metros</span></strong><span>, e equipada com </span><strong><span>engates Storz em latão</span></strong><span> para uma conexão segura e eficiente.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style=" ">Por que escolher a HSA?</span></strong><span style="'"> </span><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Certificação de qualidade</span></strong><span style="'"> para máxima proteção</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Alta resistência</span></strong><span style="'"> para ambientes de risco elevado</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Atendimento especializado</span></strong><span style="'"> para garantir a melhor escolha para sua edificação</span>
+ <strong><span>Por que escolher a HSA?</span></strong><span> </span><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Certificação de qualidade</span></strong><span> para máxima proteção</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Alta resistência</span></strong><span> para ambientes de risco elevado</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Atendimento especializado</span></strong><span> para garantir a melhor escolha para sua edificação</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style=" ">Solicite seu orçamento agora!</span></strong><span style="'"> Entre em contato via WhatsApp ou e-mail e receba o suporte ágil e especializado.</span>
+ <strong><span>Solicite seu orçamento agora!</span></strong><span> Entre em contato via WhatsApp ou e-mail e receba o suporte ágil e especializado.</span>
 
  </p>
 
@@ -601,31 +601,31 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style=" ">Mangueira Predial Tipo 5 (Ruberflex) – HSA</span></strong>
+ <strong><span>Mangueira Predial Tipo 5 (Ruberflex) – HSA</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">A </span><strong><span style=" ">Mangueira Predial Tipo 5 (Ruberflex)</span></strong><span style="'"> da </span><strong><span style=" "> HSA</span></strong><span style="'"> é a escolha ideal para edificações comerciais e residenciais, garantindo alta resistência e eficiência no combate a incêndios.</span>
+ <span>A </span><strong><span>Mangueira Predial Tipo 5 (Ruberflex)</span></strong><span> da </span><strong><span> HSA</span></strong><span> é a escolha ideal para edificações comerciais e residenciais, garantindo alta resistência e eficiência no combate a incêndios.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Com </span><strong><span style=" ">pressão de trabalho de 14 Kgf/cm²</span></strong><span style="'"> e </span><strong><span style=" ">pressão de ruptura superior a 55 Kgf/cm²</span></strong><span style="'">, oferece desempenho seguro e eficaz em emergências. Disponível nos diâmetros </span><strong><span style=" ">1 1/2" e 2 1/2"</span></strong><span style="'">, nos comprimentos de </span><strong><span style=" ">15 a 30 metros</span></strong><span style="'">, e equipada com </span><strong><span style=" ">engates Storz em latão</span></strong><span style="'">, proporciona uma conexão rápida e segura.</span>
+ <span>Com </span><strong><span>pressão de trabalho de 14 Kgf/cm²</span></strong><span> e </span><strong><span>pressão de ruptura superior a 55 Kgf/cm²</span></strong><span>, oferece desempenho seguro e eficaz em emergências. Disponível nos diâmetros </span><strong><span>1 1/2" e 2 1/2"</span></strong><span>, nos comprimentos de </span><strong><span>15 a 30 metros</span></strong><span>, e equipada com </span><strong><span>engates Storz em latão</span></strong><span>, proporciona uma conexão rápida e segura.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style=" ">Por que escolher a HSA?</span></strong><span style="'"> </span><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Qualidade certificada</span></strong><span style="'"> para proteção máxima</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Alta resistência</span></strong><span style="'"> para ambientes de risco</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Atendimento especializado</span></strong><span style="'"> para garantir a melhor escolha para seu imóvel</span>
+ <strong><span>Por que escolher a HSA?</span></strong><span> </span><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Qualidade certificada</span></strong><span> para proteção máxima</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Alta resistência</span></strong><span> para ambientes de risco</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Atendimento especializado</span></strong><span> para garantir a melhor escolha para seu imóvel</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style=" ">Solicite seu orçamento agora!</span></strong><span style="'"> Entre em contato via WhatsApp ou e-mail para um suporte rápido e personalizado.</span>
+ <strong><span>Solicite seu orçamento agora!</span></strong><span> Entre em contato via WhatsApp ou e-mail para um suporte rápido e personalizado.</span>
 
  </p>
 
@@ -643,43 +643,43 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:18pt">
 
- <strong><span style=" ">Vantagens de Comprar com a HSA</span></strong>
+ <strong><span>Vantagens de Comprar com a HSA</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">Ao escolher a </span><strong><span style=" "> HSA</span></strong><span style="'">, você garante </span><strong><span style=" ">credibilidade, segurança e garantia</span></strong><span style="'"> em todos os produtos comercializados. Nossa prioridade é oferecer equipamentos de alta qualidade, certificados e prontos para atender às suas necessidades com eficiência.</span>
+ <span>Ao escolher a </span><strong><span> HSA</span></strong><span>, você garante </span><strong><span>credibilidade, segurança e garantia</span></strong><span> em todos os produtos comercializados. Nossa prioridade é oferecer equipamentos de alta qualidade, certificados e prontos para atender às suas necessidades com eficiência.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:18pt">
 
- <strong><span style=" ">Por que escolher a HSA?</span></strong>
+ <strong><span>Por que escolher a HSA?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Qualidade Certificada:</span></strong><span style="'"> Produtos testados e aprovados para máxima segurança.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Melhor Custo-Benefício:</span></strong><span style="'"> Preços competitivos e ofertas especiais para condomínios e indústrias.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Descontos Especiais:</span></strong><span style="'"> Condições diferenciadas para compras em grande quantidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Facilidade de Pagamento:</span></strong><span style="'"> Opções flexíveis para você comprar sem preocupação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Frete Grátis:</span></strong><span style="'"> Consulte nossa equipe e veja se sua região está na promoção.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Entrega Pontual:</span></strong><span style="'"> Compromisso com prazos para garantir sua segurança no momento certo.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Garantia Estendida:</span></strong><span style="'"> 12 meses contra defeitos de fabricação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Certificado de Garantia:</span></strong><span style="'"> Enviado junto com a nota fiscal para sua tranquilidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Suporte Rápido:</span></strong><span style="'"> Atendimento eficiente para resolver qualquer necessidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style=" ">Clientes Satisfeitos:</span></strong><span style="'"> Mais de </span><strong><span style=" ">2000 clientes atendidos</span></strong><span style="'">, incluindo condomínios e empresas.</span>
+ <span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Qualidade Certificada:</span></strong><span> Produtos testados e aprovados para máxima segurança.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Melhor Custo-Benefício:</span></strong><span> Preços competitivos e ofertas especiais para condomínios e indústrias.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Descontos Especiais:</span></strong><span> Condições diferenciadas para compras em grande quantidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Facilidade de Pagamento:</span></strong><span> Opções flexíveis para você comprar sem preocupação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Frete Grátis:</span></strong><span> Consulte nossa equipe e veja se sua região está na promoção.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Entrega Pontual:</span></strong><span> Compromisso com prazos para garantir sua segurança no momento certo.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Garantia Estendida:</span></strong><span> 12 meses contra defeitos de fabricação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Certificado de Garantia:</span></strong><span> Enviado junto com a nota fiscal para sua tranquilidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Suporte Rápido:</span></strong><span> Atendimento eficiente para resolver qualquer necessidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Clientes Satisfeitos:</span></strong><span> Mais de </span><strong><span>2000 clientes atendidos</span></strong><span>, incluindo condomínios e empresas.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="'">A </span><strong><span style=" "> HSA</span></strong><span style="'"> oferece uma linha completa de </span><strong><span style=" ">equipamentos de combate a incêndio</span></strong><span style="'">, projetados para garantir </span><strong><span style=" ">proteção máxima</span></strong><span style="'"> em qualquer ambiente. </span><strong><span style=" ">Entre em contato e solicite seu orçamento agora!</span></strong>
+ <span>A </span><strong><span> HSA</span></strong><span> oferece uma linha completa de </span><strong><span>equipamentos de combate a incêndio</span></strong><span>, projetados para garantir </span><strong><span>proteção máxima</span></strong><span> em qualquer ambiente. </span><strong><span>Entre em contato e solicite seu orçamento agora!</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="font-family:'Segoe UI Symbol'">📞</span><span style="'"> </span><strong><span style=" ">Telefones:</span></strong><span style="'"> (11) 94025-8669</span><br ><span style="font-family:'Segoe UI Symbol'">📧</span><span style="'"> </span><strong><span style=" ">E-mail:</span></strong><span style="'"> contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
+ <span style="font-family:'Segoe UI Symbol'">📞</span><span> </span><strong><span>Telefones:</span></strong><span> (11) 94025-8669</span><br ><span style="font-family:'Segoe UI Symbol'">📧</span><span> </span><strong><span>E-mail:</span></strong><span> contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:15pt">
 
- <br ><span style=" font-size:12pt">&#xa0;</span>
+ <br ><span style="font-size:12pt;">&#xa0;</span>
 
  </p>
 

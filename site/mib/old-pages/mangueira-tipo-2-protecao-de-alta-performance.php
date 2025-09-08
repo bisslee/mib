@@ -83,7 +83,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:24pt">
 
- <strong><span style=" ">Mangueira Tipo 2: Proteção de Alta Performance para Ambientes Industriais e Comerciais,</span></strong><strong><span > </span></strong><strong><span style="; font-size:14pt; ">faça seu orçamento agora (11) 94025 8669 </span></strong>
+ <strong><span>Mangueira Tipo 2: Proteção de Alta Performance para Ambientes Industriais e Comerciais,</span></strong><strong><span > </span></strong><strong><span style="font-size:14pt; ">faça seu orçamento agora (11) 94025 8669 </span></strong>
 
  </p>
 
@@ -121,31 +121,31 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Pressão de Trabalho</span></strong><span style="; font-size:12pt">: 14 Kgf/cm²</span>
+ <strong><span style="font-size:12pt;">Pressão de Trabalho</span></strong><span style="font-size:12pt;">: 14 Kgf/cm²</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Pressão de Ruptura</span></strong><span style="; font-size:12pt">: Acima de 55 Kgf/cm²</span>
+ <strong><span style="font-size:12pt;">Pressão de Ruptura</span></strong><span style="font-size:12pt;">: Acima de 55 Kgf/cm²</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Diâmetros Disponíveis</span></strong><span style="; font-size:12pt">: 1 1/2" e 2 1/2"</span>
+ <strong><span style="font-size:12pt;">Diâmetros Disponíveis</span></strong><span style="font-size:12pt;">: 1 1/2" e 2 1/2"</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Disponíveis nos comprimentos de 15,20,25 e 30 metros. </span></strong>
+ <strong><span style="font-size:12pt;">Disponíveis nos comprimentos de 15,20,25 e 30 metros. </span></strong>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Engate</span></strong><span style="; font-size:12pt">: Tipo Storz em latão, conhecido pela alta resistência e facilidade de conexão.</span>
+ <strong><span style="font-size:12pt;">Engate</span></strong><span style="font-size:12pt;">: Tipo Storz em latão, conhecido pela alta resistência e facilidade de conexão.</span>
 
  </li>
 
@@ -221,19 +221,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Distância até os hidrantes</span></strong><span style="; font-size:12pt">: Garantindo que a mangueira cubra adequadamente toda a área em caso de incêndio.</span>
+ <strong><span style="font-size:12pt;">Distância até os hidrantes</span></strong><span style="font-size:12pt;">: Garantindo que a mangueira cubra adequadamente toda a área em caso de incêndio.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Eficiência no combate</span></strong><span style="; font-size:12pt">: O comprimento correto garante que você tenha o alcance necessário para uma </span><strong><span style="; font-size:12pt; ">extinção rápida</span></strong><span style="; font-size:12pt"> e eficaz.</span>
+ <strong><span style="font-size:12pt;">Eficiência no combate</span></strong><span style="font-size:12pt;">: O comprimento correto garante que você tenha o alcance necessário para uma </span><strong><span style="font-size:12pt;">extinção rápida</span></strong><span style="font-size:12pt;"> e eficaz.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Cumprimento das normas ABNT</span></strong><span style="; font-size:12pt">: A variedade de tamanhos ajuda a garantir o </span><strong><span style="; font-size:12pt; ">atendimento completo às normas de segurança</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">Cumprimento das normas ABNT</span></strong><span style="font-size:12pt;">: A variedade de tamanhos ajuda a garantir o </span><strong><span style="font-size:12pt;">atendimento completo às normas de segurança</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
@@ -247,7 +247,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:18pt">
 
- <strong><span style="; font-size:14pt; ">Por Que Comprar a Mangueira Tipo 2 da BS HSA</span></strong><strong><span >?</span></strong>
+ <strong><span style="font-size:14pt; ">Por Que Comprar a Mangueira Tipo 2 da BS HSA</span></strong><strong><span >?</span></strong>
 
  </p>
 
@@ -261,31 +261,31 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Qualidade Certificada</span></strong><span style="; font-size:12pt">: Nossas </span><strong><span style="; font-size:12pt; ">mangueiras tipo 2</span></strong><span style="; font-size:12pt"> possuem </span><strong><span style="; font-size:12pt; ">certificação ABNT</span></strong><span style="; font-size:12pt">, garantindo que você está adquirindo um produto que segue os mais altos </span><strong><span style="; font-size:12pt; ">padrões de segurança</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">Qualidade Certificada</span></strong><span style="font-size:12pt;">: Nossas </span><strong><span style="font-size:12pt;">mangueiras tipo 2</span></strong><span style="font-size:12pt;"> possuem </span><strong><span style="font-size:12pt;">certificação ABNT</span></strong><span style="font-size:12pt;">, garantindo que você está adquirindo um produto que segue os mais altos </span><strong><span style="font-size:12pt;">padrões de segurança</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Preço Justo e Custo-Benefício</span></strong><span style="; font-size:12pt">: Oferecemos </span><strong><span style="; font-size:12pt; ">preços competitivos</span></strong><span style="; font-size:12pt"> sem abrir mão da </span><strong><span style="; font-size:12pt; ">qualidade</span></strong><span style="; font-size:12pt">. Garantimos que você tenha o melhor retorno sobre seu investimento.</span>
+ <strong><span style="font-size:12pt;">Preço Justo e Custo-Benefício</span></strong><span style="font-size:12pt;">: Oferecemos </span><strong><span style="font-size:12pt;">preços competitivos</span></strong><span style="font-size:12pt;"> sem abrir mão da </span><strong><span style="font-size:12pt;">qualidade</span></strong><span style="font-size:12pt;">. Garantimos que você tenha o melhor retorno sobre seu investimento.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Frete Grátis</span></strong><span style="; font-size:12pt">: Em regiões selecionadas, garantimos </span><strong><span style="; font-size:12pt; ">frete grátis</span></strong><span style="; font-size:12pt"> com entrega pontual, para que você tenha </span><strong><span style="; font-size:12pt; ">segurança e praticidade</span></strong><span style="; font-size:12pt"> ao adquirir nossos produtos.</span>
+ <strong><span style="font-size:12pt;">Frete Grátis</span></strong><span style="font-size:12pt;">: Em regiões selecionadas, garantimos </span><strong><span style="font-size:12pt;">frete grátis</span></strong><span style="font-size:12pt;"> com entrega pontual, para que você tenha </span><strong><span style="font-size:12pt;">segurança e praticidade</span></strong><span style="font-size:12pt;"> ao adquirir nossos produtos.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:0pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Garantia de 12 Meses</span></strong><span style="; font-size:12pt">: Todas as nossas </span><strong><span style="; font-size:12pt; ">mangueiras tipo 2</span></strong><span style="; font-size:12pt"> vêm com </span><strong><span style="; font-size:12pt; ">garantia de 12 meses</span></strong><span style="; font-size:12pt"> contra defeitos de fabricação, para sua total tranquilidade.</span>
+ <strong><span style="font-size:12pt;">Garantia de 12 Meses</span></strong><span style="font-size:12pt;">: Todas as nossas </span><strong><span style="font-size:12pt;">mangueiras tipo 2</span></strong><span style="font-size:12pt;"> vêm com </span><strong><span style="font-size:12pt;">garantia de 12 meses</span></strong><span style="font-size:12pt;"> contra defeitos de fabricação, para sua total tranquilidade.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Suporte Ágil e Eficiente</span></strong><span style="; font-size:12pt">: Caso precise acionar a </span><strong><span style="; font-size:12pt; ">garantia</span></strong><span style="; font-size:12pt"> ou tenha dúvidas, nossa equipe está pronta para oferecer </span><strong><span style="; font-size:12pt; ">suporte rápido</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">eficaz</span></strong><span style="; font-size:12pt">, garantindo que você tenha a melhor experiência de compra.</span>
+ <strong><span style="font-size:12pt;">Suporte Ágil e Eficiente</span></strong><span style="font-size:12pt;">: Caso precise acionar a </span><strong><span style="font-size:12pt;">garantia</span></strong><span style="font-size:12pt;"> ou tenha dúvidas, nossa equipe está pronta para oferecer </span><strong><span style="font-size:12pt;">suporte rápido</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">eficaz</span></strong><span style="font-size:12pt;">, garantindo que você tenha a melhor experiência de compra.</span>
 
  </li>
 

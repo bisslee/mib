@@ -73,11 +73,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <div class="fixa2">
-
- <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
- </div>
+ 
 
  <section class="container"> 
 

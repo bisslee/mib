@@ -87,13 +87,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Mangueira Tipo 2 Preço Imbatível – Garantia de Qualidade e Desempenho para Áreas Comerciais e industriais.</span></strong>
+ <strong><span >Mangueira Tipo 2 Preço Imbatível – Garantia de Qualidade e Desempenho para Áreas Comerciais e industriais.</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Está em busca de uma </span><strong><span style="; ">Mangueira Tipo 2</span></strong><span style=""> com </span><strong><span style="; ">preço acessível</span></strong><span style=""> e </span><strong><span style="; ">qualidade excepcional</span></strong><span style=""> para proteger sua edificação comercial ou industrial? A </span><strong><span style="; ">BS </span></strong><span style=""> é especializada em fornecer </span><strong><span style="; ">Mangueiras de Combate a Incêndio Tipo 2</span></strong><span style="">, certificadas pela </span><strong><span style="; ">ABNT</span></strong><span style=""> e homologadas pelo </span><strong><span style="; ">INMETRO</span></strong><span style="">, garantindo a máxima qualidade, desempenho e segurança em todos os ambientes de risco, como áreas industriais, comerciais e para Corpo de Bombeiros.</span>
+ <span>Está em busca de uma </span><strong><span >Mangueira Tipo 2</span></strong><span> com </span><strong><span >preço acessível</span></strong><span> e </span><strong><span >qualidade excepcional</span></strong><span> para proteger sua edificação comercial ou industrial? A </span><strong><span >BS </span></strong><span> é especializada em fornecer </span><strong><span >Mangueiras de Combate a Incêndio Tipo 2</span></strong><span>, certificadas pela </span><strong><span >ABNT</span></strong><span> e homologadas pelo </span><strong><span >INMETRO</span></strong><span>, garantindo a máxima qualidade, desempenho e segurança em todos os ambientes de risco, como áreas industriais, comerciais e para Corpo de Bombeiros.</span>
 
  </p>
 
@@ -105,19 +105,19 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
- <strong><span style="; ">Importante: Escolha com Base em Projeto de Incêndio Aprovado</span></strong>
+ <strong><span >Importante: Escolha com Base em Projeto de Incêndio Aprovado</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A escolha dos equipamentos de combate a incêndio, como </span><strong><span style="; ">mangueiras</span></strong><span style="">, </span><strong><span style="; ">extintores</span></strong><span style="">, </span><strong><span style="; ">hidrantes</span></strong><span style=""> e outros </span><strong><span style="; ">acessórios</span></strong><span style="">, deve ser realizada com base em um </span><strong><span style="; ">projeto de incêndio aprovado</span></strong><span style="">, elaborado por </span><strong><span style="; ">profissionais qualificados</span></strong><span style="">. Esse projeto garante que o sistema de segurança contra incêndio seja </span><strong><span style="; ">adequadamente dimensionado</span></strong><span style="">, proporcionando a </span><strong><span style="; ">máxima segurança</span></strong><span style=""> para os ocupantes do local e garantindo que todos os itens atendam às </span><strong><span style="; ">normas exigidas</span></strong><span style=""> pelos órgãos competentes.</span>
+ <span>A escolha dos equipamentos de combate a incêndio, como </span><strong><span >mangueiras</span></strong><span>, </span><strong><span >extintores</span></strong><span>, </span><strong><span >hidrantes</span></strong><span> e outros </span><strong><span >acessórios</span></strong><span>, deve ser realizada com base em um </span><strong><span >projeto de incêndio aprovado</span></strong><span>, elaborado por </span><strong><span >profissionais qualificados</span></strong><span>. Esse projeto garante que o sistema de segurança contra incêndio seja </span><strong><span >adequadamente dimensionado</span></strong><span>, proporcionando a </span><strong><span >máxima segurança</span></strong><span> para os ocupantes do local e garantindo que todos os itens atendam às </span><strong><span >normas exigidas</span></strong><span> pelos órgãos competentes.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Além disso, é sempre </span><strong><span style="; ">fundamental consultar o Corpo de Bombeiros local</span></strong><span style=""> ou uma </span><strong><span style="; ">empresa especializada em engenharia de incêndio</span></strong><span style=""> para assegurar que os produtos escolhidos atendam às necessidades específicas de sua edificação e cumpram com as exigências técnicas e legais vigentes.</span>
+ <span>Além disso, é sempre </span><strong><span >fundamental consultar o Corpo de Bombeiros local</span></strong><span> ou uma </span><strong><span >empresa especializada em engenharia de incêndio</span></strong><span> para assegurar que os produtos escolhidos atendam às necessidades específicas de sua edificação e cumpram com as exigências técnicas e legais vigentes.</span>
 
  </p>
 
@@ -129,13 +129,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Solicite Seu Orçamento Agora!</span></strong>
+ <strong><span >Solicite Seu Orçamento Agora!</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Envie sua solicitação agora pelo </span><strong><span style="; ">WhatsApp</span></strong><span style=""> ou preencha nosso </span><strong><span style="; ">formulário</span></strong><span style=""> e receba um atendimento imediato! Você será atendido por um </span><strong><span style="; ">vendedor real</span></strong><span style="">, uma pessoa de verdade, pronta para ouvir suas necessidades e oferecer </span><strong><span style="; ">soluções personalizadas</span></strong><span style="">. Nada de robôs! Nossa </span><strong><span style="; ">equipe dedicada</span></strong><span style=""> está aqui para garantir uma experiência ágil, com toda a </span><strong><span style="; ">segurança</span></strong><span style="">, </span><strong><span style="; ">qualidade</span></strong><span style=""> e </span><strong><span style="; ">empatia</span></strong><span style=""> que você merece.</span>
+ <span>Envie sua solicitação agora pelo </span><strong><span >WhatsApp</span></strong><span> ou preencha nosso </span><strong><span >formulário</span></strong><span> e receba um atendimento imediato! Você será atendido por um </span><strong><span >vendedor real</span></strong><span>, uma pessoa de verdade, pronta para ouvir suas necessidades e oferecer </span><strong><span >soluções personalizadas</span></strong><span>. Nada de robôs! Nossa </span><strong><span >equipe dedicada</span></strong><span> está aqui para garantir uma experiência ágil, com toda a </span><strong><span >segurança</span></strong><span>, </span><strong><span >qualidade</span></strong><span> e </span><strong><span >empatia</span></strong><span> que você merece.</span>
 
  </p>
 
@@ -147,13 +147,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Vantagens de Comprar com a BS </span></strong>
+ <strong><span >Vantagens de Comprar com a BS </span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Ao escolher a </span><strong><span style="; ">BS </span></strong><span style="">, você tem a certeza de estar adquirindo </span><strong><span style="; ">produtos de alta qualidade</span></strong><span style="">, com </span><strong><span style="; ">certificação</span></strong><span style=""> e </span><strong><span style="; ">garantia</span></strong><span style="">. Estamos comprometidos em oferecer equipamentos </span><strong><span style="; ">confiáveis</span></strong><span style="">, prontos para atender às suas necessidades com a máxima </span><strong><span style="; ">eficiência</span></strong><span style=""> e </span><strong><span style="; ">segurança</span></strong><span style="">.</span>
+ <span>Ao escolher a </span><strong><span >BS </span></strong><span>, você tem a certeza de estar adquirindo </span><strong><span >produtos de alta qualidade</span></strong><span>, com </span><strong><span >certificação</span></strong><span> e </span><strong><span >garantia</span></strong><span>. Estamos comprometidos em oferecer equipamentos </span><strong><span >confiáveis</span></strong><span>, prontos para atender às suas necessidades com a máxima </span><strong><span >eficiência</span></strong><span> e </span><strong><span >segurança</span></strong><span>.</span>
 
  </p>
 
@@ -165,7 +165,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style="; ">Por que escolher a BS ?</span></strong>
+ <strong><span >Por que escolher a BS ?</span></strong>
 
  </p>
 
@@ -173,25 +173,25 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Qualidade Certificada</span></strong><span style="; font-size:12pt">: Mangueiras Tipo 2 com </span><strong><span style="; font-size:12pt; ">certificação ABNT</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">homologação INMETRO</span></strong><span style="; font-size:12pt">, atendendo às </span><strong><span style="; font-size:12pt; ">normas de segurança mais exigentes</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Qualidade Certificada</span></strong><span style="font-size:12pt;">: Mangueiras Tipo 2 com </span><strong><span style="font-size:12pt;">certificação ABNT</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">homologação INMETRO</span></strong><span style="font-size:12pt;">, atendendo às </span><strong><span style="font-size:12pt;">normas de segurança mais exigentes</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Melhor Custo-Benefício</span></strong><span style="; font-size:12pt">: </span><strong><span style="; font-size:12pt; ">Preços competitivos</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">condições especiais</span></strong><span style="; font-size:12pt"> para indústrias e comércios, com </span><strong><span style="; font-size:12pt; ">descontos exclusivos</span></strong><span style="; font-size:12pt"> em compras em grande quantidade.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Melhor Custo-Benefício</span></strong><span style="font-size:12pt;">: </span><strong><span style="font-size:12pt;">Preços competitivos</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">condições especiais</span></strong><span style="font-size:12pt;"> para indústrias e comércios, com </span><strong><span style="font-size:12pt;">descontos exclusivos</span></strong><span style="font-size:12pt;"> em compras em grande quantidade.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Atendimento Personalizado</span></strong><span style="; font-size:12pt">: </span><strong><span style="; font-size:12pt; ">Suporte técnico especializado</span></strong><span style="; font-size:12pt">, com atendimento exclusivo para </span><strong><span style="; font-size:12pt; ">áreas comerciais</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">industriais</span></strong><span style="; font-size:12pt">, garantindo que você faça a </span><strong><span style="; font-size:12pt; ">melhor escolha</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Atendimento Personalizado</span></strong><span style="font-size:12pt;">: </span><strong><span style="font-size:12pt;">Suporte técnico especializado</span></strong><span style="font-size:12pt;">, com atendimento exclusivo para </span><strong><span style="font-size:12pt;">áreas comerciais</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">industriais</span></strong><span style="font-size:12pt;">, garantindo que você faça a </span><strong><span style="font-size:12pt;">melhor escolha</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Entrega Rápida</span></strong><span style="; font-size:12pt">: Garantimos uma </span><strong><span style="; font-size:12pt; ">entrega ágil</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">segura</span></strong><span style="; font-size:12pt">, para que sua edificação esteja protegida o quanto antes.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Entrega Rápida</span></strong><span style="font-size:12pt;">: Garantimos uma </span><strong><span style="font-size:12pt;">entrega ágil</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">segura</span></strong><span style="font-size:12pt;">, para que sua edificação esteja protegida o quanto antes.</span>
 
  </li>
 
@@ -205,13 +205,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Por que escolher a Mangueira Tipo 2 da BS ?</span></strong>
+ <strong><span >Por que escolher a Mangueira Tipo 2 da BS ?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">Mangueira Tipo 2</span></strong><span style=""> da </span><strong><span style="; ">BS </span></strong><span style=""> é a melhor escolha para </span><strong><span style="; ">comércios</span></strong><span style="">, </span><strong><span style="; ">indústrias</span></strong><span style=""> e </span><strong><span style="; ">Corpo de Bombeiros</span></strong><span style=""> que buscam </span><strong><span style="; ">segurança</span></strong><span style="">, </span><strong><span style="; ">durabilidade</span></strong><span style=""> e </span><strong><span style="; ">eficiência</span></strong><span style="">. Aqui estão os principais motivos para escolher a nossa </span><strong><span style="; ">Mangueira Tipo 2 (Superflex)</span></strong><span style="">:</span>
+ <span>A </span><strong><span >Mangueira Tipo 2</span></strong><span> da </span><strong><span >BS </span></strong><span> é a melhor escolha para </span><strong><span >comércios</span></strong><span>, </span><strong><span >indústrias</span></strong><span> e </span><strong><span >Corpo de Bombeiros</span></strong><span> que buscam </span><strong><span >segurança</span></strong><span>, </span><strong><span >durabilidade</span></strong><span> e </span><strong><span >eficiência</span></strong><span>. Aqui estão os principais motivos para escolher a nossa </span><strong><span >Mangueira Tipo 2 (Superflex)</span></strong><span>:</span>
 
  </p>
 
@@ -219,19 +219,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Alta Durabilidade</span></strong><span style="; font-size:12pt">: Fabricada com </span><strong><span style="; font-size:12pt; ">materiais de alta resistência</span></strong><span style="; font-size:12pt">, a nossa mangueira é projetada para suportar pressões de até </span><strong><span style="; font-size:12pt; ">14 Kgf/cm²</span></strong><span style="; font-size:12pt"> e resistir a ambientes </span><strong><span style="; font-size:12pt; ">industriais</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">comerciais</span></strong><span style="; font-size:12pt"> de alto risco.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Alta Durabilidade</span></strong><span style="font-size:12pt;">: Fabricada com </span><strong><span style="font-size:12pt;">materiais de alta resistência</span></strong><span style="font-size:12pt;">, a nossa mangueira é projetada para suportar pressões de até </span><strong><span style="font-size:12pt;">14 Kgf/cm²</span></strong><span style="font-size:12pt;"> e resistir a ambientes </span><strong><span style="font-size:12pt;">industriais</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">comerciais</span></strong><span style="font-size:12pt;"> de alto risco.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Certificação e Homologação</span></strong><span style="; font-size:12pt">: Nossas mangueiras atendem aos </span><strong><span style="; font-size:12pt; ">mais altos padrões de qualidade</span></strong><span style="; font-size:12pt">, conforme a </span><strong><span style="; font-size:12pt; ">NBR 11.861</span></strong><span style="; font-size:12pt">, garantindo a </span><strong><span style="; font-size:12pt; ">máxima segurança</span></strong><span style="; font-size:12pt"> em situações críticas.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Certificação e Homologação</span></strong><span style="font-size:12pt;">: Nossas mangueiras atendem aos </span><strong><span style="font-size:12pt;">mais altos padrões de qualidade</span></strong><span style="font-size:12pt;">, conforme a </span><strong><span style="font-size:12pt;">NBR 11.861</span></strong><span style="font-size:12pt;">, garantindo a </span><strong><span style="font-size:12pt;">máxima segurança</span></strong><span style="font-size:12pt;"> em situações críticas.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Resistência Superior</span></strong><span style="; font-size:12pt">: O </span><strong><span style="; font-size:12pt; ">material de alta qualidade</span></strong><span style="; font-size:12pt"> garante resistência ao desgaste e a condições adversas, proporcionando confiabilidade durante o </span><strong><span style="; font-size:12pt; ">combate a incêndios</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Resistência Superior</span></strong><span style="font-size:12pt;">: O </span><strong><span style="font-size:12pt;">material de alta qualidade</span></strong><span style="font-size:12pt;"> garante resistência ao desgaste e a condições adversas, proporcionando confiabilidade durante o </span><strong><span style="font-size:12pt;">combate a incêndios</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
@@ -245,13 +245,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Especificações da Mangueira Tipo 2</span></strong>
+ <strong><span >Especificações da Mangueira Tipo 2</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">Mangueira Tipo 2 Superflex</span></strong><span style=""> da </span><strong><span style="; ">BS </span></strong><span style=""> foi desenvolvida para suportar os desafios mais exigentes. Conheça as </span><strong><span style="; ">especificações técnicas</span></strong><span style="">:</span>
+ <span>A </span><strong><span >Mangueira Tipo 2 Superflex</span></strong><span> da </span><strong><span >BS </span></strong><span> foi desenvolvida para suportar os desafios mais exigentes. Conheça as </span><strong><span >especificações técnicas</span></strong><span>:</span>
 
  </p>
 
@@ -259,37 +259,37 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Diâmetro Disponível</span></strong><span style="; font-size:12pt">: 1 1/2" e 2 1/2" (atende diversas necessidades de instalação)</span>
+ <strong><span style="font-size:12pt;">Diâmetro Disponível</span></strong><span style="font-size:12pt;">: 1 1/2" e 2 1/2" (atende diversas necessidades de instalação)</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Comprimentos Disponíveis</span></strong><span style="; font-size:12pt">: 15m, 20m, 25m, 30m (flexibilidade para diferentes tipos de ambiente)</span>
+ <strong><span style="font-size:12pt;">Comprimentos Disponíveis</span></strong><span style="font-size:12pt;">: 15m, 20m, 25m, 30m (flexibilidade para diferentes tipos de ambiente)</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Pressão Máxima de Trabalho</span></strong><span style="; font-size:12pt">: 14 Kgf/cm² (alta resistência para situações de risco elevado)</span>
+ <strong><span style="font-size:12pt;">Pressão Máxima de Trabalho</span></strong><span style="font-size:12pt;">: 14 Kgf/cm² (alta resistência para situações de risco elevado)</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Material Interno</span></strong><span style="; font-size:12pt">: </span><strong><span style="; font-size:12pt; ">Borracha Nitrílica ou Sintética</span></strong><span style="; font-size:12pt"> (alta resistência à abrasão e à temperatura)</span>
+ <strong><span style="font-size:12pt;">Material Interno</span></strong><span style="font-size:12pt;">: </span><strong><span style="font-size:12pt;">Borracha Nitrílica ou Sintética</span></strong><span style="font-size:12pt;"> (alta resistência à abrasão e à temperatura)</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Revestimento</span></strong><span style="; font-size:12pt">: </span><strong><span style="; font-size:12pt; ">Fios Sintéticos</span></strong><span style="; font-size:12pt"> (proporcionam alta resistência)</span>
+ <strong><span style="font-size:12pt;">Revestimento</span></strong><span style="font-size:12pt;">: </span><strong><span style="font-size:12pt;">Fios Sintéticos</span></strong><span style="font-size:12pt;"> (proporcionam alta resistência)</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Norma de Fabricação</span></strong><span style="; font-size:12pt">: </span><strong><span style="; font-size:12pt; ">NBR 11.861</span></strong><span style="; font-size:12pt"> (certificação de conformidade com normas de segurança)</span>
+ <strong><span style="font-size:12pt;">Norma de Fabricação</span></strong><span style="font-size:12pt;">: </span><strong><span style="font-size:12pt;">NBR 11.861</span></strong><span style="font-size:12pt;"> (certificação de conformidade com normas de segurança)</span>
 
  </li>
 
@@ -303,13 +303,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Escolha a Mangueira Tipo 2 Ideal para Sua Edificação</span></strong>
+ <strong><span >Escolha a Mangueira Tipo 2 Ideal para Sua Edificação</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A escolha do </span><strong><span style="; ">comprimento</span></strong><span style=""> e da </span><strong><span style="; ">pressão máxima de trabalho</span></strong><span style=""> da </span><strong><span style="; ">Mangueira Tipo 2</span></strong><span style=""> são essenciais para garantir que ela atenda de forma eficaz às necessidades de sua edificação comercial ou industrial. A </span><strong><span style="; ">BS </span></strong><span style=""> oferece </span><strong><span style="; ">mangueiras</span></strong><span style=""> nos </span><strong><span style="; ">comprimentos de 15m</span></strong><span style="">, </span><strong><span style="; ">20m</span></strong><span style="">, </span><strong><span style="; ">25m</span></strong><span style=""> e </span><strong><span style="; ">30m</span></strong><span style="">, permitindo que você selecione a opção mais adequada para sua estrutura.</span>
+ <span>A escolha do </span><strong><span >comprimento</span></strong><span> e da </span><strong><span >pressão máxima de trabalho</span></strong><span> da </span><strong><span >Mangueira Tipo 2</span></strong><span> são essenciais para garantir que ela atenda de forma eficaz às necessidades de sua edificação comercial ou industrial. A </span><strong><span >BS </span></strong><span> oferece </span><strong><span >mangueiras</span></strong><span> nos </span><strong><span >comprimentos de 15m</span></strong><span>, </span><strong><span >20m</span></strong><span>, </span><strong><span >25m</span></strong><span> e </span><strong><span >30m</span></strong><span>, permitindo que você selecione a opção mais adequada para sua estrutura.</span>
 
  </p>
 
@@ -321,19 +321,19 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Dicas para Maximizar a Proteção Contra Incêndios em Sua Edificação</span></strong>
+ <strong><span >Dicas para Maximizar a Proteção Contra Incêndios em Sua Edificação</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Acesse nosso </span><strong><span style="; ">link</span></strong><span style=""> com </span><strong><span style="; ">dicas e cuidados</span></strong><span style=""> para </span><strong><span style="; ">mangueiras de incêndio</span></strong><span style=""> e saiba como garantir que sua </span><strong><span style="; ">Mangueira Tipo 2</span></strong><span style=""> esteja sempre pronta para atuar quando mais for necessário:</span>
+ <span>Acesse nosso </span><strong><span >link</span></strong><span> com </span><strong><span >dicas e cuidados</span></strong><span> para </span><strong><span >mangueiras de incêndio</span></strong><span> e saiba como garantir que sua </span><strong><span >Mangueira Tipo 2</span></strong><span> esteja sempre pronta para atuar quando mais for necessário:</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style="; ">Clique aqui para acessar as dicas de cuidado com mangueiras de incêndio</span></strong>
+ <strong><span >Clique aqui para acessar as dicas de cuidado com mangueiras de incêndio</span></strong>
 
  </p>
 
@@ -345,25 +345,25 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Solicite Seu Orçamento Agora Mesmo!</span></strong>
+ <strong><span >Solicite Seu Orçamento Agora Mesmo!</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">BS </span></strong><span style=""> oferece as melhores condições para você garantir a proteção de sua edificação comercial ou industrial com a </span><strong><span style="; ">Mangueira Tipo 2 Superflex</span></strong><span style="">, de </span><strong><span style="; ">alta qualidade</span></strong><span style=""> e </span><strong><span style="; ">preço acessível</span></strong><span style="">. Não deixe a </span><strong><span style="; ">segurança</span></strong><span style=""> de seu patrimônio para depois!</span>
+ <span>A </span><strong><span >BS </span></strong><span> oferece as melhores condições para você garantir a proteção de sua edificação comercial ou industrial com a </span><strong><span >Mangueira Tipo 2 Superflex</span></strong><span>, de </span><strong><span >alta qualidade</span></strong><span> e </span><strong><span >preço acessível</span></strong><span>. Não deixe a </span><strong><span >segurança</span></strong><span> de seu patrimônio para depois!</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style="; ">Clique no WhatsApp</span></strong><span style=""> para solicitar um orçamento ou tire suas </span><strong><span style="; ">dúvidas diretamente</span></strong><span style=""> com nossa </span><strong><span style="; ">equipe especializada</span></strong><span style="">. A </span><strong><span style="; ">segurança</span></strong><span style=""> do seu estabelecimento </span><strong><span style="; ">não pode esperar</span></strong><span style=""> – aproveite as melhores condições e a melhor qualidade no mercado!</span>
+ <strong><span >Clique no WhatsApp</span></strong><span> para solicitar um orçamento ou tire suas </span><strong><span >dúvidas diretamente</span></strong><span> com nossa </span><strong><span >equipe especializada</span></strong><span>. A </span><strong><span >segurança</span></strong><span> do seu estabelecimento </span><strong><span >não pode esperar</span></strong><span> – aproveite as melhores condições e a melhor qualidade no mercado!</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><strong><u><span style="; color:#0000ff">Acesse nossa linha completa de produtos para proteção contra incêndios em</span></u></strong></a>
+ <a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><strong><u><span style="color:#0000ff">Acesse nossa linha completa de produtos para proteção contra incêndios em</span></u></strong></a>
 
  </p>
 
@@ -375,7 +375,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Benefícios Exclusivos ao Comprar com a BS </span></strong>
+ <strong><span >Benefícios Exclusivos ao Comprar com a BS </span></strong>
 
  </p>
 
@@ -383,25 +383,25 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Preços Competitivos</span></strong><span style="; font-size:12pt">: </span><strong><span style="; font-size:12pt; ">Condições especiais de pagamento</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">descontos exclusivos</span></strong><span style="; font-size:12pt"> para compras em grandes quantidades.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Preços Competitivos</span></strong><span style="font-size:12pt;">: </span><strong><span style="font-size:12pt;">Condições especiais de pagamento</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">descontos exclusivos</span></strong><span style="font-size:12pt;"> para compras em grandes quantidades.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Frete Rápido e Grátis</span></strong><span style="; font-size:12pt">: Consulte a disponibilidade para </span><strong><span style="; font-size:12pt; ">entrega gratuita</span></strong><span style="; font-size:12pt">, dependendo da sua região.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Frete Rápido e Grátis</span></strong><span style="font-size:12pt;">: Consulte a disponibilidade para </span><strong><span style="font-size:12pt;">entrega gratuita</span></strong><span style="font-size:12pt;">, dependendo da sua região.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Garantia de Qualidade</span></strong><span style="; font-size:12pt">: Garantia </span><strong><span style="; font-size:12pt; ">estendida de até 12 meses</span></strong><span style="; font-size:12pt"> contra defeitos de fabricação.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Garantia de Qualidade</span></strong><span style="font-size:12pt;">: Garantia </span><strong><span style="font-size:12pt;">estendida de até 12 meses</span></strong><span style="font-size:12pt;"> contra defeitos de fabricação.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Suporte Pós-Venda</span></strong><span style="; font-size:12pt">: </span><strong><span style="; font-size:12pt; ">Atendimento contínuo</span></strong><span style="; font-size:12pt"> para qualquer dúvida ou necessidade relacionada à </span><strong><span style="; font-size:12pt; ">instalação</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">manutenção</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Suporte Pós-Venda</span></strong><span style="font-size:12pt;">: </span><strong><span style="font-size:12pt;">Atendimento contínuo</span></strong><span style="font-size:12pt;"> para qualquer dúvida ou necessidade relacionada à </span><strong><span style="font-size:12pt;">instalação</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">manutenção</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
@@ -415,7 +415,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">segurança</span></strong><span style=""> do seu patrimônio é nossa prioridade! </span><strong><span style="; ">Escolha a qualidade</span></strong><span style=""> e </span><strong><span style="; ">eficiência</span></strong><span style=""> da </span><strong><span style="; ">Mangueira Tipo 2 Superflex</span></strong><span style=""> da </span><strong><span style="; ">BS </span></strong><span style="">. Estamos à disposição para garantir que você tenha a proteção de incêndio que sua edificação necessita.</span>
+ <span>A </span><strong><span >segurança</span></strong><span> do seu patrimônio é nossa prioridade! </span><strong><span >Escolha a qualidade</span></strong><span> e </span><strong><span >eficiência</span></strong><span> da </span><strong><span >Mangueira Tipo 2 Superflex</span></strong><span> da </span><strong><span >BS </span></strong><span>. Estamos à disposição para garantir que você tenha a proteção de incêndio que sua edificação necessita.</span>
 
  </p>
 
@@ -451,13 +451,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Mangueira Predial Tipo 1 (Predyflex) – BS </span></strong>
+ <strong><span >Mangueira Predial Tipo 1 (Predyflex) – BS </span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Garantir a </span><strong><span style="; ">segurança de condomínios residenciais</span></strong><span style=""> exige </span><strong><span style="; ">equipamentos confiáveis</span></strong><span style=""> e de </span><strong><span style="; ">alta qualidade</span></strong><span style="">. A </span><strong><span style="; ">Mangueira Predial Tipo 1 (Predyflex)</span></strong><span style=""> da </span><strong><span style="; ">BS </span></strong><span style=""> foi projetada para oferecer </span><strong><span style="; ">proteção eficiente</span></strong><span style=""> em emergências, unindo </span><strong><span style="; ">resistência</span></strong><span style="">, </span><strong><span style="; ">durabilidade</span></strong><span style=""> e </span><strong><span style="; ">praticidade</span></strong><span style="">.</span>
+ <span>Garantir a </span><strong><span >segurança de condomínios residenciais</span></strong><span> exige </span><strong><span >equipamentos confiáveis</span></strong><span> e de </span><strong><span >alta qualidade</span></strong><span>. A </span><strong><span >Mangueira Predial Tipo 1 (Predyflex)</span></strong><span> da </span><strong><span >BS </span></strong><span> foi projetada para oferecer </span><strong><span >proteção eficiente</span></strong><span> em emergências, unindo </span><strong><span >resistência</span></strong><span>, </span><strong><span >durabilidade</span></strong><span> e </span><strong><span >praticidade</span></strong><span>.</span>
 
  </p>
 
@@ -469,13 +469,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Desempenho e Qualidade comprovados</span></strong>
+ <strong><span >Desempenho e Qualidade comprovados</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Com uma </span><strong><span style="; ">pressão de trabalho</span></strong><span style=""> de </span><strong><span style="; ">10 Kgf/cm²</span></strong><span style=""> e uma </span><strong><span style="; ">pressão de ruptura</span></strong><span style=""> superior a </span><strong><span style="; ">45 Kgf/cm²</span></strong><span style="">, a </span><strong><span style="; ">Mangueira Predyflex</span></strong><span style=""> garante </span><strong><span style="; ">alto desempenho</span></strong><span style=""> no </span><strong><span style="; ">combate a incêndios</span></strong><span style="">, atendendo plenamente as exigências de </span><strong><span style="; ">edificações residenciais</span></strong><span style=""> que necessitam de </span><strong><span style="; ">equipamentos certificados</span></strong><span style=""> e </span><strong><span style="; ">eficazes</span></strong><span style="">.</span>
+ <span>Com uma </span><strong><span >pressão de trabalho</span></strong><span> de </span><strong><span >10 Kgf/cm²</span></strong><span> e uma </span><strong><span >pressão de ruptura</span></strong><span> superior a </span><strong><span >45 Kgf/cm²</span></strong><span>, a </span><strong><span >Mangueira Predyflex</span></strong><span> garante </span><strong><span >alto desempenho</span></strong><span> no </span><strong><span >combate a incêndios</span></strong><span>, atendendo plenamente as exigências de </span><strong><span >edificações residenciais</span></strong><span> que necessitam de </span><strong><span >equipamentos certificados</span></strong><span> e </span><strong><span >eficazes</span></strong><span>.</span>
 
  </p>
 
@@ -487,13 +487,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Especificações Técnicas</span></strong>
+ <strong><span >Especificações Técnicas</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">Mangueira Predial Tipo 1 (Predyflex)</span></strong><span style=""> possui as seguintes características:</span>
+ <span>A </span><strong><span >Mangueira Predial Tipo 1 (Predyflex)</span></strong><span> possui as seguintes características:</span>
 
  </p>
 
@@ -501,19 +501,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Diâmetro</span></strong><span style="; font-size:12pt">: 1 1/2" polegada</span>
+ <strong><span style="font-size:12pt;">Diâmetro</span></strong><span style="font-size:12pt;">: 1 1/2" polegada</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Comprimentos disponíveis</span></strong><span style="; font-size:12pt">: 15m, 20m, 25m e 30m</span>
+ <strong><span style="font-size:12pt;">Comprimentos disponíveis</span></strong><span style="font-size:12pt;">: 15m, 20m, 25m e 30m</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Engates Storz em latão</span></strong><span style="; font-size:12pt">: Proporcionam </span><strong><span style="; font-size:12pt; ">vedação eficiente</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">instalação rápida</span></strong>
+ <strong><span style="font-size:12pt;">Engates Storz em latão</span></strong><span style="font-size:12pt;">: Proporcionam </span><strong><span style="font-size:12pt;">vedação eficiente</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">instalação rápida</span></strong>
 
  </li>
 
@@ -527,13 +527,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Diferenciais da Mangueira Predyflex da BS </span></strong>
+ <strong><span >Diferenciais da Mangueira Predyflex da BS </span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">Mangueira Predial Tipo 1</span></strong><span style=""> da </span><strong><span style="; ">BS </span></strong><span style=""> se destaca por seus diferenciais, garantindo a melhor proteção para seu condomínio:</span>
+ <span>A </span><strong><span >Mangueira Predial Tipo 1</span></strong><span> da </span><strong><span >BS </span></strong><span> se destaca por seus diferenciais, garantindo a melhor proteção para seu condomínio:</span>
 
  </p>
 
@@ -541,19 +541,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Resistência excepcional</span></strong><span style="; font-size:12pt">: Fabricada com </span><strong><span style="; font-size:12pt; ">materiais de alto desempenho</span></strong><span style="; font-size:12pt">, capaz de suportar </span><strong><span style="; font-size:12pt; ">condições extremas</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Resistência excepcional</span></strong><span style="font-size:12pt;">: Fabricada com </span><strong><span style="font-size:12pt;">materiais de alto desempenho</span></strong><span style="font-size:12pt;">, capaz de suportar </span><strong><span style="font-size:12pt;">condições extremas</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Instalação ágil e segura</span></strong><span style="; font-size:12pt">: Os </span><strong><span style="; font-size:12pt; ">engates Storz</span></strong><span style="; font-size:12pt"> permitem uma </span><strong><span style="; font-size:12pt; ">montagem rápida</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">eficaz</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Instalação ágil e segura</span></strong><span style="font-size:12pt;">: Os </span><strong><span style="font-size:12pt;">engates Storz</span></strong><span style="font-size:12pt;"> permitem uma </span><strong><span style="font-size:12pt;">montagem rápida</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">eficaz</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Conformidade com as normas</span></strong><span style="; font-size:12pt">: Desenvolvida para </span><strong><span style="; font-size:12pt; ">atender aos padrões exigidos pelo Corpo de Bombeiros</span></strong><span style="; font-size:12pt">, garantindo </span><strong><span style="; font-size:12pt; ">segurança</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">eficiência</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Conformidade com as normas</span></strong><span style="font-size:12pt;">: Desenvolvida para </span><strong><span style="font-size:12pt;">atender aos padrões exigidos pelo Corpo de Bombeiros</span></strong><span style="font-size:12pt;">, garantindo </span><strong><span style="font-size:12pt;">segurança</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">eficiência</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
@@ -567,13 +567,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Não Deixe a Segurança do Seu Condomínio ao Acaso</span></strong>
+ <strong><span >Não Deixe a Segurança do Seu Condomínio ao Acaso</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Escolha a </span><strong><span style="; ">Mangueira Predial Tipo 1 (Predyflex)</span></strong><span style=""> da </span><strong><span style="; ">BS </span></strong><span style=""> e invista em um </span><strong><span style="; ">equipamento confiável</span></strong><span style="">, </span><strong><span style="; ">durável</span></strong><span style=""> e totalmente compatível com as </span><strong><span style="; ">regulamentações vigentes</span></strong><span style="">. Não deixe a segurança de sua edificação para depois.</span>
+ <span>Escolha a </span><strong><span >Mangueira Predial Tipo 1 (Predyflex)</span></strong><span> da </span><strong><span >BS </span></strong><span> e invista em um </span><strong><span >equipamento confiável</span></strong><span>, </span><strong><span >durável</span></strong><span> e totalmente compatível com as </span><strong><span >regulamentações vigentes</span></strong><span>. Não deixe a segurança de sua edificação para depois.</span>
 
  </p>
 
@@ -597,13 +597,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Mangueira Tipo 3 (Superflex Capa Dupla) da BS </span></strong>
+ <strong><span >Mangueira Tipo 3 (Superflex Capa Dupla) da BS </span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">Mangueira Tipo 3 (Superflex Capa Dupla)</span></strong><span style=""> da </span><strong><span style="; ">BS </span></strong><span style=""> é a </span><strong><span style="; ">solução definitiva</span></strong><span style=""> para quem busca </span><strong><span style="; ">excelência</span></strong><span style=""> e </span><strong><span style="; ">proteção contra incêndios</span></strong><span style=""> em </span><strong><span style="; ">locais de risco elevado</span></strong><span style="">. Projetada especialmente para </span><strong><span style="; ">ambientes industriais e comerciais</span></strong><span style="">, essa mangueira se destaca pela </span><strong><span style="; ">resistência imbatível</span></strong><span style=""> e </span><strong><span style="; ">desempenho de alta performance</span></strong><span style=""> em situações extremas.</span>
+ <span>A </span><strong><span >Mangueira Tipo 3 (Superflex Capa Dupla)</span></strong><span> da </span><strong><span >BS </span></strong><span> é a </span><strong><span >solução definitiva</span></strong><span> para quem busca </span><strong><span >excelência</span></strong><span> e </span><strong><span >proteção contra incêndios</span></strong><span> em </span><strong><span >locais de risco elevado</span></strong><span>. Projetada especialmente para </span><strong><span >ambientes industriais e comerciais</span></strong><span>, essa mangueira se destaca pela </span><strong><span >resistência imbatível</span></strong><span> e </span><strong><span >desempenho de alta performance</span></strong><span> em situações extremas.</span>
 
  </p>
 
@@ -615,13 +615,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Desempenho e Durabilidade Incomparáveis</span></strong>
+ <strong><span >Desempenho e Durabilidade Incomparáveis</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Com uma </span><strong><span style="; ">pressão de trabalho</span></strong><span style=""> de </span><strong><span style="; ">15 Kgf/cm²</span></strong><span style=""> e uma impressionante </span><strong><span style="; ">pressão de ruptura</span></strong><span style=""> superior a </span><strong><span style="; ">60 Kgf/cm²</span></strong><span style="">, a </span><strong><span style="; ">Mangueira Tipo 3 Superflex</span></strong><span style=""> garante </span><strong><span style="; ">máxima durabilidade</span></strong><span style=""> e </span><strong><span style="; ">confiabilidade</span></strong><span style=""> no combate ao fogo. Disponível nos diâmetros de </span><strong><span style="; ">1 1/2"</span></strong><span style=""> e </span><strong><span style="; ">2 1/2"</span></strong><span style="">, com comprimentos que variam de </span><strong><span style="; ">15m</span></strong><span style=""> a </span><strong><span style="; ">30m</span></strong><span style="">, ela oferece </span><strong><span style="; ">flexibilidade</span></strong><span style=""> e </span><strong><span style="; ">eficiência</span></strong><span style=""> para diversas necessidades.</span>
+ <span>Com uma </span><strong><span >pressão de trabalho</span></strong><span> de </span><strong><span >15 Kgf/cm²</span></strong><span> e uma impressionante </span><strong><span >pressão de ruptura</span></strong><span> superior a </span><strong><span >60 Kgf/cm²</span></strong><span>, a </span><strong><span >Mangueira Tipo 3 Superflex</span></strong><span> garante </span><strong><span >máxima durabilidade</span></strong><span> e </span><strong><span >confiabilidade</span></strong><span> no combate ao fogo. Disponível nos diâmetros de </span><strong><span >1 1/2"</span></strong><span> e </span><strong><span >2 1/2"</span></strong><span>, com comprimentos que variam de </span><strong><span >15m</span></strong><span> a </span><strong><span >30m</span></strong><span>, ela oferece </span><strong><span >flexibilidade</span></strong><span> e </span><strong><span >eficiência</span></strong><span> para diversas necessidades.</span>
 
  </p>
 
@@ -633,13 +633,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Especificações da Mangueira Tipo 3 (Superflex Capa Dupla)</span></strong>
+ <strong><span >Especificações da Mangueira Tipo 3 (Superflex Capa Dupla)</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">Mangueira Tipo 3</span></strong><span style=""> possui as seguintes especificações técnicas:</span>
+ <span>A </span><strong><span >Mangueira Tipo 3</span></strong><span> possui as seguintes especificações técnicas:</span>
 
  </p>
 
@@ -647,31 +647,31 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Diâmetros disponíveis</span></strong><span style="; font-size:12pt">: 1 1/2" e 2 1/2"</span>
+ <strong><span style="font-size:12pt;">Diâmetros disponíveis</span></strong><span style="font-size:12pt;">: 1 1/2" e 2 1/2"</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Comprimentos</span></strong><span style="; font-size:12pt">: 15m, 20m, 25m e 30m</span>
+ <strong><span style="font-size:12pt;">Comprimentos</span></strong><span style="font-size:12pt;">: 15m, 20m, 25m e 30m</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Pressão máxima de trabalho</span></strong><span style="; font-size:12pt">: 15 Kgf/cm²</span>
+ <strong><span style="font-size:12pt;">Pressão máxima de trabalho</span></strong><span style="font-size:12pt;">: 15 Kgf/cm²</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Pressão de ruptura</span></strong><span style="; font-size:12pt">: superior a 60 Kgf/cm²</span>
+ <strong><span style="font-size:12pt;">Pressão de ruptura</span></strong><span style="font-size:12pt;">: superior a 60 Kgf/cm²</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Engates Storz em latão</span></strong><span style="; font-size:12pt">: Proporcionam </span><strong><span style="; font-size:12pt; ">vedação eficiente</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">instalação descomplicada</span></strong>
+ <strong><span style="font-size:12pt;">Engates Storz em latão</span></strong><span style="font-size:12pt;">: Proporcionam </span><strong><span style="font-size:12pt;">vedação eficiente</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">instalação descomplicada</span></strong>
 
  </li>
 
@@ -685,13 +685,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Por que Escolher a BS ?</span></strong>
+ <strong><span >Por que Escolher a BS ?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Ao escolher a </span><strong><span style="; ">Mangueira Tipo 3 Superflex Capa Dupla</span></strong><span style="">, você está investindo em um produto de </span><strong><span style="; ">qualidade superior</span></strong><span style="">. Veja os motivos para confiar na </span><strong><span style="; ">BS </span></strong><span style="">:</span>
+ <span>Ao escolher a </span><strong><span >Mangueira Tipo 3 Superflex Capa Dupla</span></strong><span>, você está investindo em um produto de </span><strong><span >qualidade superior</span></strong><span>. Veja os motivos para confiar na </span><strong><span >BS </span></strong><span>:</span>
 
  </p>
 
@@ -699,19 +699,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Certificação de qualidade</span></strong><span style="; font-size:12pt"> que assegura </span><strong><span style="; font-size:12pt; ">proteção de alto nível</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Certificação de qualidade</span></strong><span style="font-size:12pt;"> que assegura </span><strong><span style="font-size:12pt;">proteção de alto nível</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Resistência incomparável</span></strong><span style="; font-size:12pt">, ideal para ambientes de </span><strong><span style="; font-size:12pt; ">alto risco</span></strong><span style="; font-size:12pt"> como </span><strong><span style="; font-size:12pt; ">indústrias</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">comércios</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Resistência incomparável</span></strong><span style="font-size:12pt;">, ideal para ambientes de </span><strong><span style="font-size:12pt;">alto risco</span></strong><span style="font-size:12pt;"> como </span><strong><span style="font-size:12pt;">indústrias</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">comércios</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Suporte especializado</span></strong><span style="; font-size:12pt"> para ajudá-lo a fazer a </span><strong><span style="; font-size:12pt; ">melhor escolha</span></strong><span style="; font-size:12pt"> e garantir a </span><strong><span style="; font-size:12pt; ">segurança</span></strong><span style="; font-size:12pt"> da sua edificação.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Suporte especializado</span></strong><span style="font-size:12pt;"> para ajudá-lo a fazer a </span><strong><span style="font-size:12pt;">melhor escolha</span></strong><span style="font-size:12pt;"> e garantir a </span><strong><span style="font-size:12pt;">segurança</span></strong><span style="font-size:12pt;"> da sua edificação.</span>
 
  </li>
 
@@ -725,13 +725,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Solicite um Orçamento Personalizado Agora Mesmo!</span></strong>
+ <strong><span >Solicite um Orçamento Personalizado Agora Mesmo!</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Não deixe sua </span><strong><span style="; ">segurança</span></strong><span style=""> para depois. </span><strong><span style="; ">Solicite um orçamento personalizado</span></strong><span style=""> agora mesmo! Entre em contato via </span><strong><span style="; ">WhatsApp</span></strong><span style=""> ou </span><strong><span style="; ">e-mail</span></strong><span style=""> e garanta a </span><strong><span style="; ">melhor solução em mangueiras de combate a incêndio</span></strong><span style="">.</span>
+ <span>Não deixe sua </span><strong><span >segurança</span></strong><span> para depois. </span><strong><span >Solicite um orçamento personalizado</span></strong><span> agora mesmo! Entre em contato via </span><strong><span >WhatsApp</span></strong><span> ou </span><strong><span >e-mail</span></strong><span> e garanta a </span><strong><span >melhor solução em mangueiras de combate a incêndio</span></strong><span>.</span>
 
  </p>
 
@@ -749,13 +749,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Mangueira de Incêndio Tipo 4 (Plastflex) – BS </span></strong>
+ <strong><span >Mangueira de Incêndio Tipo 4 (Plastflex) – BS </span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">Mangueira Tipo 4 (Plastflex)</span></strong><span style=""> da </span><strong><span style="; ">BS </span></strong><span style=""> é a </span><strong><span style="; ">solução perfeita</span></strong><span style=""> para edificações que exigem </span><strong><span style="; ">alto desempenho</span></strong><span style=""> no combate a incêndios. Projetada para </span><strong><span style="; ">ambientes industriais</span></strong><span style="">, </span><strong><span style="; ">comerciais</span></strong><span style=""> e de </span><strong><span style="; ">alto risco</span></strong><span style="">, esta mangueira combina </span><strong><span style="; ">resistência superior</span></strong><span style=""> e </span><strong><span style="; ">durabilidade</span></strong><span style=""> para garantir a segurança necessária em momentos críticos.</span>
+ <span>A </span><strong><span >Mangueira Tipo 4 (Plastflex)</span></strong><span> da </span><strong><span >BS </span></strong><span> é a </span><strong><span >solução perfeita</span></strong><span> para edificações que exigem </span><strong><span >alto desempenho</span></strong><span> no combate a incêndios. Projetada para </span><strong><span >ambientes industriais</span></strong><span>, </span><strong><span >comerciais</span></strong><span> e de </span><strong><span >alto risco</span></strong><span>, esta mangueira combina </span><strong><span >resistência superior</span></strong><span> e </span><strong><span >durabilidade</span></strong><span> para garantir a segurança necessária em momentos críticos.</span>
 
  </p>
 
@@ -767,13 +767,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Desempenho e Características Técnicas da Mangueira Plastflex</span></strong>
+ <strong><span >Desempenho e Características Técnicas da Mangueira Plastflex</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Com uma </span><strong><span style="; ">pressão de trabalho</span></strong><span style=""> de </span><strong><span style="; ">14 Kgf/cm²</span></strong><span style=""> e </span><strong><span style="; ">resistência à ruptura</span></strong><span style=""> acima de </span><strong><span style="; ">55 Kgf/cm²</span></strong><span style="">, a </span><strong><span style="; ">Mangueira Tipo 4 Plastflex</span></strong><span style=""> oferece </span><strong><span style="; ">confiabilidade</span></strong><span style=""> e </span><strong><span style="; ">segurança</span></strong><span style=""> em situações extremas, assegurando a eficiência no combate ao fogo. A mangueira está disponível nas seguintes especificações:</span>
+ <span>Com uma </span><strong><span >pressão de trabalho</span></strong><span> de </span><strong><span >14 Kgf/cm²</span></strong><span> e </span><strong><span >resistência à ruptura</span></strong><span> acima de </span><strong><span >55 Kgf/cm²</span></strong><span>, a </span><strong><span >Mangueira Tipo 4 Plastflex</span></strong><span> oferece </span><strong><span >confiabilidade</span></strong><span> e </span><strong><span >segurança</span></strong><span> em situações extremas, assegurando a eficiência no combate ao fogo. A mangueira está disponível nas seguintes especificações:</span>
 
  </p>
 
@@ -781,31 +781,31 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Diâmetros disponíveis</span></strong><span style="; font-size:12pt">: 1 1/2" e 2 1/2"</span>
+ <strong><span style="font-size:12pt;">Diâmetros disponíveis</span></strong><span style="font-size:12pt;">: 1 1/2" e 2 1/2"</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Comprimentos disponíveis</span></strong><span style="; font-size:12pt">: 15m, 20m, 25m e 30m</span>
+ <strong><span style="font-size:12pt;">Comprimentos disponíveis</span></strong><span style="font-size:12pt;">: 15m, 20m, 25m e 30m</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Pressão máxima de trabalho</span></strong><span style="; font-size:12pt">: 14 Kgf/cm²</span>
+ <strong><span style="font-size:12pt;">Pressão máxima de trabalho</span></strong><span style="font-size:12pt;">: 14 Kgf/cm²</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Pressão de ruptura</span></strong><span style="; font-size:12pt">: superior a 55 Kgf/cm²</span>
+ <strong><span style="font-size:12pt;">Pressão de ruptura</span></strong><span style="font-size:12pt;">: superior a 55 Kgf/cm²</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Engates Storz em latão</span></strong><span style="; font-size:12pt">: Garantem </span><strong><span style="; font-size:12pt; ">conexões rápidas</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">seguras</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">Engates Storz em latão</span></strong><span style="font-size:12pt;">: Garantem </span><strong><span style="font-size:12pt;">conexões rápidas</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">seguras</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
@@ -819,13 +819,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Por que Escolher a BS ?</span></strong>
+ <strong><span >Por que Escolher a BS ?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Escolher a </span><strong><span style="; ">Mangueira Tipo 4 (Plastflex)</span></strong><span style=""> da </span><strong><span style="; ">BS </span></strong><span style=""> significa optar por </span><strong><span style="; ">qualidade</span></strong><span style=""> e </span><strong><span style="; ">segurança</span></strong><span style=""> comprovadas. Aqui estão os principais motivos para confiar na nossa solução:</span>
+ <span>Escolher a </span><strong><span >Mangueira Tipo 4 (Plastflex)</span></strong><span> da </span><strong><span >BS </span></strong><span> significa optar por </span><strong><span >qualidade</span></strong><span> e </span><strong><span >segurança</span></strong><span> comprovadas. Aqui estão os principais motivos para confiar na nossa solução:</span>
 
  </p>
 
@@ -833,19 +833,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Certificação de Qualidade</span></strong><span style="; font-size:12pt">: Produto certificado que garante a máxima proteção para sua edificação.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Certificação de Qualidade</span></strong><span style="font-size:12pt;">: Produto certificado que garante a máxima proteção para sua edificação.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Alta Resistência</span></strong><span style="; font-size:12pt">: Ideal para ambientes com </span><strong><span style="; font-size:12pt; ">risco elevado</span></strong><span style="; font-size:12pt"> de incêndio, assegurando a segurança necessária.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Alta Resistência</span></strong><span style="font-size:12pt;">: Ideal para ambientes com </span><strong><span style="font-size:12pt;">risco elevado</span></strong><span style="font-size:12pt;"> de incêndio, assegurando a segurança necessária.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Atendimento Personalizado</span></strong><span style="; font-size:12pt">: Nossa equipe especializada oferece </span><strong><span style="; font-size:12pt; ">orientação</span></strong><span style="; font-size:12pt"> para que você faça a </span><strong><span style="; font-size:12pt; ">melhor escolha</span></strong><span style="; font-size:12pt"> para a sua necessidade.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Atendimento Personalizado</span></strong><span style="font-size:12pt;">: Nossa equipe especializada oferece </span><strong><span style="font-size:12pt;">orientação</span></strong><span style="font-size:12pt;"> para que você faça a </span><strong><span style="font-size:12pt;">melhor escolha</span></strong><span style="font-size:12pt;"> para a sua necessidade.</span>
 
  </li>
 
@@ -877,13 +877,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Mangueira Tipo 5 (Ruberflex) – BS : Eficiência e Alta Resistência no Combate a Incêndios</span></strong>
+ <strong><span >Mangueira Tipo 5 (Ruberflex) – BS : Eficiência e Alta Resistência no Combate a Incêndios</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">Mangueira Tipo 5 (Ruberflex)</span></strong><span style=""> da </span><strong><span style="; ">BS </span></strong><span style=""> é a solução ideal para proteger </span><strong><span style="; ">edificações comerciais</span></strong><span style=""> e </span><strong><span style="; ">residenciais</span></strong><span style="">, oferecendo </span><strong><span style="; ">alta resistência</span></strong><span style=""> e </span><strong><span style="; ">desempenho superior</span></strong><span style=""> em situações de emergência. Desenvolvida com foco na segurança, essa mangueira garante a </span><strong><span style="; ">eficiência necessária</span></strong><span style=""> no combate a incêndios, atendendo às necessidades de ambientes diversos, desde </span><strong><span style="; ">residências</span></strong><span style=""> até locais com maior risco de incêndio.</span>
+ <span>A </span><strong><span >Mangueira Tipo 5 (Ruberflex)</span></strong><span> da </span><strong><span >BS </span></strong><span> é a solução ideal para proteger </span><strong><span >edificações comerciais</span></strong><span> e </span><strong><span >residenciais</span></strong><span>, oferecendo </span><strong><span >alta resistência</span></strong><span> e </span><strong><span >desempenho superior</span></strong><span> em situações de emergência. Desenvolvida com foco na segurança, essa mangueira garante a </span><strong><span >eficiência necessária</span></strong><span> no combate a incêndios, atendendo às necessidades de ambientes diversos, desde </span><strong><span >residências</span></strong><span> até locais com maior risco de incêndio.</span>
 
  </p>
 
@@ -895,13 +895,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Desempenho e Características Técnicas da Mangueira Tipo 5 (Ruberflex)</span></strong>
+ <strong><span >Desempenho e Características Técnicas da Mangueira Tipo 5 (Ruberflex)</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Com uma </span><strong><span style="; ">pressão de trabalho</span></strong><span style=""> de </span><strong><span style="; ">14 Kgf/cm²</span></strong><span style=""> e uma </span><strong><span style="; ">pressão de ruptura superior</span></strong><span style=""> a </span><strong><span style="; ">55 Kgf/cm²</span></strong><span style="">, a </span><strong><span style="; ">Mangueira Ruberflex</span></strong><span style=""> oferece </span><strong><span style="; ">confiabilidade excepcional</span></strong><span style=""> em momentos críticos. Ela está disponível nas seguintes especificações:</span>
+ <span>Com uma </span><strong><span >pressão de trabalho</span></strong><span> de </span><strong><span >14 Kgf/cm²</span></strong><span> e uma </span><strong><span >pressão de ruptura superior</span></strong><span> a </span><strong><span >55 Kgf/cm²</span></strong><span>, a </span><strong><span >Mangueira Ruberflex</span></strong><span> oferece </span><strong><span >confiabilidade excepcional</span></strong><span> em momentos críticos. Ela está disponível nas seguintes especificações:</span>
 
  </p>
 
@@ -909,31 +909,31 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Diâmetros disponíveis</span></strong><span style="; font-size:12pt">: 1 1/2" e 2 1/2"</span>
+ <strong><span style="font-size:12pt;">Diâmetros disponíveis</span></strong><span style="font-size:12pt;">: 1 1/2" e 2 1/2"</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Comprimentos disponíveis</span></strong><span style="; font-size:12pt">: 15m, 20m, 25m, 30m</span>
+ <strong><span style="font-size:12pt;">Comprimentos disponíveis</span></strong><span style="font-size:12pt;">: 15m, 20m, 25m, 30m</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Pressão máxima de trabalho</span></strong><span style="; font-size:12pt">: 14 Kgf/cm²</span>
+ <strong><span style="font-size:12pt;">Pressão máxima de trabalho</span></strong><span style="font-size:12pt;">: 14 Kgf/cm²</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Pressão de ruptura</span></strong><span style="; font-size:12pt">: superior a 55 Kgf/cm²</span>
+ <strong><span style="font-size:12pt;">Pressão de ruptura</span></strong><span style="font-size:12pt;">: superior a 55 Kgf/cm²</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">Engates Storz em latão</span></strong><span style="; font-size:12pt">: Garantem </span><strong><span style="; font-size:12pt; ">conexões rápidas</span></strong><span style="; font-size:12pt">, </span><strong><span style="; font-size:12pt; ">seguras</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">duráveis</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">Engates Storz em latão</span></strong><span style="font-size:12pt;">: Garantem </span><strong><span style="font-size:12pt;">conexões rápidas</span></strong><span style="font-size:12pt;">, </span><strong><span style="font-size:12pt;">seguras</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">duráveis</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
@@ -947,13 +947,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Por que Escolher a BS ?</span></strong>
+ <strong><span >Por que Escolher a BS ?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Ao escolher a </span><strong><span style="; ">BS </span></strong><span style="">, você opta por mais do que apenas produtos de qualidade. Você garante a </span><strong><span style="; ">segurança total</span></strong><span style=""> e o </span><strong><span style="; ">desempenho superior</span></strong><span style=""> para suas necessidades. Aqui estão os motivos principais para confiar em nós:</span>
+ <span>Ao escolher a </span><strong><span >BS </span></strong><span>, você opta por mais do que apenas produtos de qualidade. Você garante a </span><strong><span >segurança total</span></strong><span> e o </span><strong><span >desempenho superior</span></strong><span> para suas necessidades. Aqui estão os motivos principais para confiar em nós:</span>
 
  </p>
 
@@ -961,61 +961,61 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Qualidade Garantida</span></strong><span style="; font-size:12pt">: Todos os nossos equipamentos são </span><strong><span style="; font-size:12pt; ">certificados</span></strong><span style="; font-size:12pt"> por órgãos reguladores e testados rigorosamente para garantir que atendem aos </span><strong><span style="; font-size:12pt; ">mais altos padrões de segurança</span></strong><span style="; font-size:12pt"> e desempenho, proporcionando </span><strong><span style="; font-size:12pt; ">máxima confiança</span></strong><span style="; font-size:12pt"> na hora de proteger seu patrimônio.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Qualidade Garantida</span></strong><span style="font-size:12pt;">: Todos os nossos equipamentos são </span><strong><span style="font-size:12pt;">certificados</span></strong><span style="font-size:12pt;"> por órgãos reguladores e testados rigorosamente para garantir que atendem aos </span><strong><span style="font-size:12pt;">mais altos padrões de segurança</span></strong><span style="font-size:12pt;"> e desempenho, proporcionando </span><strong><span style="font-size:12pt;">máxima confiança</span></strong><span style="font-size:12pt;"> na hora de proteger seu patrimônio.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Custo-Benefício Imbatível</span></strong><span style="; font-size:12pt">: Oferecemos </span><strong><span style="; font-size:12pt; ">preços acessíveis</span></strong><span style="; font-size:12pt"> e condições exclusivas para compras em grandes quantidades, especialmente desenvolvidas para atender as necessidades de </span><strong><span style="; font-size:12pt; ">condomínios</span></strong><span style="; font-size:12pt">, </span><strong><span style="; font-size:12pt; ">indústrias</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">empresas de grande porte</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Custo-Benefício Imbatível</span></strong><span style="font-size:12pt;">: Oferecemos </span><strong><span style="font-size:12pt;">preços acessíveis</span></strong><span style="font-size:12pt;"> e condições exclusivas para compras em grandes quantidades, especialmente desenvolvidas para atender as necessidades de </span><strong><span style="font-size:12pt;">condomínios</span></strong><span style="font-size:12pt;">, </span><strong><span style="font-size:12pt;">indústrias</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">empresas de grande porte</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Descontos Exclusivos</span></strong><span style="; font-size:12pt">: Oferecemos </span><strong><span style="; font-size:12pt; ">ofertas especiais</span></strong><span style="; font-size:12pt"> e condições diferenciadas para quem precisa de grande volume de equipamentos, permitindo economizar sem abrir mão da </span><strong><span style="; font-size:12pt; ">qualidade</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">segurança</span></strong><span style="; font-size:12pt">.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Descontos Exclusivos</span></strong><span style="font-size:12pt;">: Oferecemos </span><strong><span style="font-size:12pt;">ofertas especiais</span></strong><span style="font-size:12pt;"> e condições diferenciadas para quem precisa de grande volume de equipamentos, permitindo economizar sem abrir mão da </span><strong><span style="font-size:12pt;">qualidade</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">segurança</span></strong><span style="font-size:12pt;">.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Facilidade de Pagamento</span></strong><span style="; font-size:12pt">: Proporcionamos </span><strong><span style="; font-size:12pt; ">opções de pagamento flexíveis</span></strong><span style="; font-size:12pt">, para que você adquira os melhores produtos de combate a incêndio com </span><strong><span style="; font-size:12pt; ">tranquilidade</span></strong><span style="; font-size:12pt">, sem comprometer seu fluxo de caixa.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Facilidade de Pagamento</span></strong><span style="font-size:12pt;">: Proporcionamos </span><strong><span style="font-size:12pt;">opções de pagamento flexíveis</span></strong><span style="font-size:12pt;">, para que você adquira os melhores produtos de combate a incêndio com </span><strong><span style="font-size:12pt;">tranquilidade</span></strong><span style="font-size:12pt;">, sem comprometer seu fluxo de caixa.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Frete Grátis</span></strong><span style="; font-size:12pt">: Consulte nossa equipe para saber se sua localização está qualificada para o </span><strong><span style="; font-size:12pt; ">benefício de frete gratuito</span></strong><span style="; font-size:12pt">, proporcionando ainda mais economia na hora da compra.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Frete Grátis</span></strong><span style="font-size:12pt;">: Consulte nossa equipe para saber se sua localização está qualificada para o </span><strong><span style="font-size:12pt;">benefício de frete gratuito</span></strong><span style="font-size:12pt;">, proporcionando ainda mais economia na hora da compra.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Entrega Rápida e Pontual</span></strong><span style="; font-size:12pt">: Nosso compromisso é com a </span><strong><span style="; font-size:12pt; ">pontualidade</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">eficiência</span></strong><span style="; font-size:12pt">. Garantimos que os produtos sejam entregues </span><strong><span style="; font-size:12pt; ">no prazo</span></strong><span style="; font-size:12pt">, para que sua segurança nunca seja comprometida.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Entrega Rápida e Pontual</span></strong><span style="font-size:12pt;">: Nosso compromisso é com a </span><strong><span style="font-size:12pt;">pontualidade</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">eficiência</span></strong><span style="font-size:12pt;">. Garantimos que os produtos sejam entregues </span><strong><span style="font-size:12pt;">no prazo</span></strong><span style="font-size:12pt;">, para que sua segurança nunca seja comprometida.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Garantia Estendida</span></strong><span style="; font-size:12pt">: Todos os nossos produtos contam com </span><strong><span style="; font-size:12pt; ">garantia de 12 meses</span></strong><span style="; font-size:12pt"> contra defeitos de fabricação, oferecendo-lhe </span><strong><span style="; font-size:12pt; ">tranquilidade</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">confiança</span></strong><span style="; font-size:12pt"> em sua compra.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Garantia Estendida</span></strong><span style="font-size:12pt;">: Todos os nossos produtos contam com </span><strong><span style="font-size:12pt;">garantia de 12 meses</span></strong><span style="font-size:12pt;"> contra defeitos de fabricação, oferecendo-lhe </span><strong><span style="font-size:12pt;">tranquilidade</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">confiança</span></strong><span style="font-size:12pt;"> em sua compra.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Certificado de Garantia</span></strong><span style="; font-size:12pt">: Com a </span><strong><span style="; font-size:12pt; ">nota fiscal</span></strong><span style="; font-size:12pt">, você receberá o </span><strong><span style="; font-size:12pt; ">certificado de garantia</span></strong><span style="; font-size:12pt">, para maior segurança e transparência.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Certificado de Garantia</span></strong><span style="font-size:12pt;">: Com a </span><strong><span style="font-size:12pt;">nota fiscal</span></strong><span style="font-size:12pt;">, você receberá o </span><strong><span style="font-size:12pt;">certificado de garantia</span></strong><span style="font-size:12pt;">, para maior segurança e transparência.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Atendimento Personalizado e Ágil</span></strong><span style="; font-size:12pt">: Nossa </span><strong><span style="; font-size:12pt; ">equipe especializada</span></strong><span style="; font-size:12pt"> está sempre disponível para esclarecer dúvidas, orientar sobre os melhores produtos e garantir que você tenha a </span><strong><span style="; font-size:12pt; ">solução ideal</span></strong><span style="; font-size:12pt"> para suas necessidades de combate a incêndio.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Atendimento Personalizado e Ágil</span></strong><span style="font-size:12pt;">: Nossa </span><strong><span style="font-size:12pt;">equipe especializada</span></strong><span style="font-size:12pt;"> está sempre disponível para esclarecer dúvidas, orientar sobre os melhores produtos e garantir que você tenha a </span><strong><span style="font-size:12pt;">solução ideal</span></strong><span style="font-size:12pt;"> para suas necessidades de combate a incêndio.</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <strong><span style="; font-size:12pt; ">✔</span></strong><strong><span style="; font-size:12pt; "> Clientes Satisfeitos</span></strong><span style="; font-size:12pt">: Com </span><strong><span style="; font-size:12pt; ">mais de 2.000 clientes atendidos</span></strong><span style="; font-size:12pt">, incluindo </span><strong><span style="; font-size:12pt; ">grandes empresas</span></strong><span style="; font-size:12pt">, </span><strong><span style="; font-size:12pt; ">indústrias</span></strong><span style="; font-size:12pt"> e </span><strong><span style="; font-size:12pt; ">condomínios</span></strong><span style="; font-size:12pt">, temos a confiança e o comprometimento para proporcionar a </span><strong><span style="; font-size:12pt; ">melhor experiência</span></strong><span style="; font-size:12pt"> em segurança contra incêndio.</span>
+ <strong><span style="font-size:12pt;">✔</span></strong><strong><span style="font-size:12pt;"> Clientes Satisfeitos</span></strong><span style="font-size:12pt;">: Com </span><strong><span style="font-size:12pt;">mais de 2.000 clientes atendidos</span></strong><span style="font-size:12pt;">, incluindo </span><strong><span style="font-size:12pt;">grandes empresas</span></strong><span style="font-size:12pt;">, </span><strong><span style="font-size:12pt;">indústrias</span></strong><span style="font-size:12pt;"> e </span><strong><span style="font-size:12pt;">condomínios</span></strong><span style="font-size:12pt;">, temos a confiança e o comprometimento para proporcionar a </span><strong><span style="font-size:12pt;">melhor experiência</span></strong><span style="font-size:12pt;"> em segurança contra incêndio.</span>
 
  </li>
 
@@ -1029,13 +1029,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Linha Completa de Equipamentos de Combate a Incêndio</span></strong>
+ <strong><span >Linha Completa de Equipamentos de Combate a Incêndio</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">BS </span></strong><span style=""> oferece uma </span><strong><span style="; ">linha completa de mangueiras e equipamentos</span></strong><span style=""> de combate a incêndio, desenvolvidos com a mais alta tecnologia e materiais de qualidade superior. Nossos produtos são perfeitos para garantir a </span><strong><span style="; ">proteção total</span></strong><span style=""> em </span><strong><span style="; ">ambientes industriais</span></strong><span style="">, </span><strong><span style="; ">comerciais</span></strong><span style=""> e </span><strong><span style="; ">residenciais</span></strong><span style="">, além de estarem em total conformidade com as </span><strong><span style="; ">normas de segurança</span></strong><span style="">.</span>
+ <span>A </span><strong><span >BS </span></strong><span> oferece uma </span><strong><span >linha completa de mangueiras e equipamentos</span></strong><span> de combate a incêndio, desenvolvidos com a mais alta tecnologia e materiais de qualidade superior. Nossos produtos são perfeitos para garantir a </span><strong><span >proteção total</span></strong><span> em </span><strong><span >ambientes industriais</span></strong><span>, </span><strong><span >comerciais</span></strong><span> e </span><strong><span >residenciais</span></strong><span>, além de estarem em total conformidade com as </span><strong><span >normas de segurança</span></strong><span>.</span>
 
  </p>
 
@@ -1047,13 +1047,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">Solicite Seu Orçamento Personalizado Agora Mesmo!</span></strong>
+ <strong><span >Solicite Seu Orçamento Personalizado Agora Mesmo!</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Entre em contato e solicite seu orçamento </span><strong><span style="; ">personalizado agora mesmo</span></strong><span style="">! Nossa equipe está pronta para fornecer a solução ideal para proteger sua edificação com </span><strong><span style="; ">qualidade e eficiência</span></strong><span style="">.</span>
+ <span>Entre em contato e solicite seu orçamento </span><strong><span >personalizado agora mesmo</span></strong><span>! Nossa equipe está pronta para fornecer a solução ideal para proteger sua edificação com </span><strong><span >qualidade e eficiência</span></strong><span>.</span>
 
  </p>
 
@@ -1061,13 +1061,13 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <span style="; font-size:12pt">📞</span><span style="; font-size:12pt"> </span><strong><span style="; font-size:12pt; ">Telefones</span></strong><span style="; font-size:12pt">: (11) 94025-8669</span>
+ <span style="font-size:12pt;">📞</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">Telefones</span></strong><span style="font-size:12pt;">: (11) 94025-8669</span>
 
  </li>
 
  <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
 
- <span style="; font-size:12pt">📧</span><span style="; font-size:12pt"> </span><strong><span style="; font-size:12pt; ">E-mail</span></strong><span style="; font-size:12pt">: contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
+ <span style="font-size:12pt;">📧</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">E-mail</span></strong><span style="font-size:12pt;">: contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
 
  </li>
 
@@ -1081,13 +1081,13 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span style="; ">A BS é Sua Parceira de Confiança</span></strong>
+ <strong><span >A BS é Sua Parceira de Confiança</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Na </span><strong><span style="; ">BS </span></strong><span style="">, entendemos a importância da </span><strong><span style="; ">proteção contra incêndios</span></strong><span style=""> e estamos aqui para garantir que sua edificação esteja sempre segura, com equipamentos de combate a incêndio de </span><strong><span style="; ">excelência</span></strong><span style="">. Confie em quem entende do assunto e tenha a tranquilidade de saber que sua </span><strong><span style="; ">segurança</span></strong><span style=""> está em boas mãos. Compre com quem tem a </span><strong><span style="; ">experiência</span></strong><span style=""> e a </span><strong><span style="; ">expertise</span></strong><span style=""> para garantir a </span><strong><span style="; ">proteção</span></strong><span style=""> de seu patrimônio.</span>
+ <span>Na </span><strong><span >BS </span></strong><span>, entendemos a importância da </span><strong><span >proteção contra incêndios</span></strong><span> e estamos aqui para garantir que sua edificação esteja sempre segura, com equipamentos de combate a incêndio de </span><strong><span >excelência</span></strong><span>. Confie em quem entende do assunto e tenha a tranquilidade de saber que sua </span><strong><span >segurança</span></strong><span> está em boas mãos. Compre com quem tem a </span><strong><span >experiência</span></strong><span> e a </span><strong><span >expertise</span></strong><span> para garantir a </span><strong><span >proteção</span></strong><span> de seu patrimônio.</span>
 
  </p>
 

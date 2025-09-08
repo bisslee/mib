@@ -83,37 +83,37 @@ if (isset($breadcrumbs)) {
 
  <h1 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
- <span style="">Equipamentos para Condomínios: Garantia de Segurança e Proteção Completa com a BS , faça um orçamento agora</span><span style="">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span><span style="">(11) 94025 8669</span>
+ <span>Equipamentos para Condomínios: Garantia de Segurança e Proteção Completa com a BS , faça um orçamento agora</span><span>&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span><span>(11) 94025 8669</span>
 
  </h1>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">segurança contra incêndios</span></strong><span style=""> em </span><strong><span style="; ">condomínios</span></strong><span style=""> não pode ser deixada ao acaso. Com o aumento da complexidade dos edifícios e a maior quantidade de moradores, é essencial que os </span><strong><span style="; ">equipamentos para condomínios</span></strong><span style=""> estejam sempre em perfeitas condições, oferecendo a proteção necessária em caso de emergência. A </span><strong><span style="; ">BS </span></strong><span style=""> oferece uma linha completa de </span><strong><span style="; ">equipamentos contra incêndio</span></strong><span style="">, incluindo </span><strong><span style="; ">mangueiras</span></strong><span style="">, </span><strong><span style="; ">extintores</span></strong><span style="">, </span><strong><span style="; ">acessórios para hidrantes</span></strong><span style="">, </span><strong><span style="; ">placas de sinalização</span></strong><span style=""> e </span><strong><span style="; ">sistemas de alarme</span></strong><span style="">, tudo para garantir a máxima segurança de seu condomínio.</span>
+ <span>A </span><strong><span >segurança contra incêndios</span></strong><span> em </span><strong><span >condomínios</span></strong><span> não pode ser deixada ao acaso. Com o aumento da complexidade dos edifícios e a maior quantidade de moradores, é essencial que os </span><strong><span >equipamentos para condomínios</span></strong><span> estejam sempre em perfeitas condições, oferecendo a proteção necessária em caso de emergência. A </span><strong><span >BS </span></strong><span> oferece uma linha completa de </span><strong><span >equipamentos contra incêndio</span></strong><span>, incluindo </span><strong><span >mangueiras</span></strong><span>, </span><strong><span >extintores</span></strong><span>, </span><strong><span >acessórios para hidrantes</span></strong><span>, </span><strong><span >placas de sinalização</span></strong><span> e </span><strong><span >sistemas de alarme</span></strong><span>, tudo para garantir a máxima segurança de seu condomínio.</span>
 
  </p>
 
  <h2 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
- <span style="">Proteção Eficaz: Os Principais Equipamentos para Condomínios</span>
+ <span>Proteção Eficaz: Os Principais Equipamentos para Condomínios</span>
 
  </h2>
 
  <h3 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <span style="">Mangueiras de Incêndio: A Linha de Defesa Inicial</span>
+ <span>Mangueiras de Incêndio: A Linha de Defesa Inicial</span>
 
  </h3>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">As </span><strong><span style="; ">mangueiras de incêndio</span></strong><span style=""> são essenciais em qualquer plano de </span><strong><span style="; ">segurança contra incêndio</span></strong><span style="">. Elas são conectadas aos </span><strong><span style="; ">hidrantes</span></strong><span style=""> e possibilitam um combate imediato ao fogo. A </span><strong><span style="; ">BS </span></strong><span style=""> oferece mangueiras com </span><strong><span style="; ">alta resistência</span></strong><span style=""> e </span><strong><span style="; ">flexibilidade</span></strong><span style="">, disponíveis em diversos </span><strong><span style="; ">comprimentos</span></strong><span style=""> e </span><strong><span style="; ">diâmetros</span></strong><span style="">, garantindo que você tenha a </span><strong><span style="; ">cobertura</span></strong><span style=""> necessária para qualquer tipo de emergência.</span>
+ <span>As </span><strong><span >mangueiras de incêndio</span></strong><span> são essenciais em qualquer plano de </span><strong><span >segurança contra incêndio</span></strong><span>. Elas são conectadas aos </span><strong><span >hidrantes</span></strong><span> e possibilitam um combate imediato ao fogo. A </span><strong><span >BS </span></strong><span> oferece mangueiras com </span><strong><span >alta resistência</span></strong><span> e </span><strong><span >flexibilidade</span></strong><span>, disponíveis em diversos </span><strong><span >comprimentos</span></strong><span> e </span><strong><span >diâmetros</span></strong><span>, garantindo que você tenha a </span><strong><span >cobertura</span></strong><span> necessária para qualquer tipo de emergência.</span>
 
  </p>
 
  <h4 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Benefícios das Mangueiras de Incêndio</span>
+ <span>Benefícios das Mangueiras de Incêndio</span>
 
  </h4>
 
@@ -141,19 +141,19 @@ if (isset($breadcrumbs)) {
 
  <h3 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <span style="">Extintores de Incêndio: Ação Imediata em Caso de Emergência</span>
+ <span>Extintores de Incêndio: Ação Imediata em Caso de Emergência</span>
 
  </h3>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Os </span><strong><span style="; ">extintores de incêndio</span></strong><span style=""> são imprescindíveis para a segurança de qualquer condomínio. Eles devem estar posicionados em pontos estratégicos, sendo facilmente acessíveis para os moradores ou equipe de segurança.</span>
+ <span>Os </span><strong><span >extintores de incêndio</span></strong><span> são imprescindíveis para a segurança de qualquer condomínio. Eles devem estar posicionados em pontos estratégicos, sendo facilmente acessíveis para os moradores ou equipe de segurança.</span>
 
  </p>
 
  <h4 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Tipos de Extintores para Condomínios</span>
+ <span>Tipos de Extintores para Condomínios</span>
 
  </h4>
 
@@ -187,19 +187,19 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Na </span><strong><span style="; ">BS </span></strong><span style="">, garantimos </span><strong><span style="; ">extintores de alta qualidade</span></strong><span style="">, atendendo a todas as </span><strong><span style="; ">normas de segurança</span></strong><span style=""> e </span><strong><span style="; ">certificados pelo Corpo de Bombeiros</span></strong><span style="">.</span>
+ <span>Na </span><strong><span >BS </span></strong><span>, garantimos </span><strong><span >extintores de alta qualidade</span></strong><span>, atendendo a todas as </span><strong><span >normas de segurança</span></strong><span> e </span><strong><span >certificados pelo Corpo de Bombeiros</span></strong><span>.</span>
 
  </p>
 
  <h3 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <span style="">Acessórios para Hidrantes: Essenciais para Combate ao Fogo</span>
+ <span>Acessórios para Hidrantes: Essenciais para Combate ao Fogo</span>
 
  </h3>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Os </span><strong><span style="; ">acessórios para hidrantes</span></strong><span style=""> são fundamentais para garantir que o sistema de </span><strong><span style="; ">combate a incêndio</span></strong><span style=""> seja eficiente. Entre os principais estão:</span>
+ <span>Os </span><strong><span >acessórios para hidrantes</span></strong><span> são fundamentais para garantir que o sistema de </span><strong><span >combate a incêndio</span></strong><span> seja eficiente. Entre os principais estão:</span>
 
  </p>
 
@@ -227,25 +227,25 @@ if (isset($breadcrumbs)) {
 
  <h3 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <span style="">Placas de Sinalização: Orientação Clara e Eficaz</span>
+ <span>Placas de Sinalização: Orientação Clara e Eficaz</span>
 
  </h3>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Em uma emergência, as </span><strong><span style="; ">placas de sinalização</span></strong><span style=""> são essenciais para guiar rapidamente os moradores até os </span><strong><span style="; ">pontos de evacuação</span></strong><span style=""> e para os locais dos </span><strong><span style="; ">extintores</span></strong><span style=""> e </span><strong><span style="; ">hidrantes</span></strong><span style="">. Na </span><strong><span style="; ">BS </span></strong><span style="">, oferecemos placas </span><strong><span style="; ">reflexivas</span></strong><span style="">, com </span><strong><span style="; ">alto poder de visibilidade</span></strong><span style="">, que atendem às exigências legais e de segurança.</span>
+ <span>Em uma emergência, as </span><strong><span >placas de sinalização</span></strong><span> são essenciais para guiar rapidamente os moradores até os </span><strong><span >pontos de evacuação</span></strong><span> e para os locais dos </span><strong><span >extintores</span></strong><span> e </span><strong><span >hidrantes</span></strong><span>. Na </span><strong><span >BS </span></strong><span>, oferecemos placas </span><strong><span >reflexivas</span></strong><span>, com </span><strong><span >alto poder de visibilidade</span></strong><span>, que atendem às exigências legais e de segurança.</span>
 
  </p>
 
  <h3 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <span style="">Sistema de Alarme de Incêndio: Detectando o Perigo Precocemente</span>
+ <span>Sistema de Alarme de Incêndio: Detectando o Perigo Precocemente</span>
 
  </h3>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">O </span><strong><span style="; ">sistema de alarme</span></strong><span style=""> é fundamental para alertar a todos sobre a presença de um incêndio. Ele pode incluir:</span>
+ <span>O </span><strong><span >sistema de alarme</span></strong><span> é fundamental para alertar a todos sobre a presença de um incêndio. Ele pode incluir:</span>
 
  </p>
 
@@ -273,19 +273,19 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Na </span><strong><span style="; ">BS </span></strong><span style="">, oferecemos </span><strong><span style="; ">sistemas de alarme,</span></strong><span style="">&#xa0; </span><span style="">que detectam e alertam com rapidez, permitindo que o </span><strong><span style="; ">condomínio</span></strong><span style=""> tome ações preventivas de forma eficiente.</span>
+ <span>Na </span><strong><span >BS </span></strong><span>, oferecemos </span><strong><span >sistemas de alarme,</span></strong><span>&#xa0; </span><span>que detectam e alertam com rapidez, permitindo que o </span><strong><span >condomínio</span></strong><span> tome ações preventivas de forma eficiente.</span>
 
  </p>
 
  <h2 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
- <span style="">Por Que Escolher a BS para Equipamentos de Condomínios?</span>
+ <span>Por Que Escolher a BS para Equipamentos de Condomínios?</span>
 
  </h2>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">BS </span></strong><span style=""> é referência em </span><strong><span style="; ">equipamentos para condomínios</span></strong><span style="">. Nossos produtos atendem às </span><strong><span style="; ">normas nacionais de segurança</span></strong><span style="">, oferecendo </span><strong><span style="; ">garantia</span></strong><span style=""> de </span><strong><span style="; ">qualidade</span></strong><span style=""> e </span><strong><span style="; ">eficiência</span></strong><span style="">. Ao optar por nossos produtos, você está garantindo:</span>
+ <span>A </span><strong><span >BS </span></strong><span> é referência em </span><strong><span >equipamentos para condomínios</span></strong><span>. Nossos produtos atendem às </span><strong><span >normas nacionais de segurança</span></strong><span>, oferecendo </span><strong><span >garantia</span></strong><span> de </span><strong><span >qualidade</span></strong><span> e </span><strong><span >eficiência</span></strong><span>. Ao optar por nossos produtos, você está garantindo:</span>
 
  </p>
 
@@ -319,79 +319,79 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
- <span style="">Perguntas Frequentes sobre Equipamentos para Condomínios</span>
+ <span>Perguntas Frequentes sobre Equipamentos para Condomínios</span>
 
  </h2>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style="; ">1. Quais equipamentos de combate a incêndio são obrigatórios para condomínios?</span></strong><br ><span style="">Mangueiras de incêndio, extintores, hidrantes, e sistema de alarme são essenciais, conforme as normas da ABNT.</span>
+ <strong><span >1. Quais equipamentos de combate a incêndio são obrigatórios para condomínios?</span></strong><br ><span>Mangueiras de incêndio, extintores, hidrantes, e sistema de alarme são essenciais, conforme as normas da ABNT.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style="; ">2. Como escolher o extintor ideal para meu condomínio?</span></strong><br ><span style="">A escolha do extintor depende da área e do tipo de risco. Podemos ajudá-lo a selecionar os modelos adequados.</span>
+ <strong><span >2. Como escolher o extintor ideal para meu condomínio?</span></strong><br ><span>A escolha do extintor depende da área e do tipo de risco. Podemos ajudá-lo a selecionar os modelos adequados.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style="; ">3. Como faço para garantir que os hidrantes estejam funcionando?</span></strong><br ><span style="">É importante realizar manutenção periódica e verificar se todos os acessórios estão em perfeito estado.</span>
+ <strong><span >3. Como faço para garantir que os hidrantes estejam funcionando?</span></strong><br ><span>É importante realizar manutenção periódica e verificar se todos os acessórios estão em perfeito estado.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style="; ">4. Os produtos da BS atendem à legislação de segurança?</span></strong><br ><span style="">Sim, todos os nossos produtos são certificados e seguem as exigências do Corpo de Bombeiros.</span>
+ <strong><span >4. Os produtos da BS atendem à legislação de segurança?</span></strong><br ><span>Sim, todos os nossos produtos são certificados e seguem as exigências do Corpo de Bombeiros.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style="; ">5. Posso obter um orçamento personalizado para meu condomínio?</span></strong><br ><span style="">Claro! Entre em contato e elaboramos um orçamento específico para suas necessidades.</span>
+ <strong><span >5. Posso obter um orçamento personalizado para meu condomínio?</span></strong><br ><span>Claro! Entre em contato e elaboramos um orçamento específico para suas necessidades.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style="; ">6. Como faço para adquirir os produtos?</span></strong><br ><span style="">Entre em contato conosco através do chat ou solicite um orçamento em nosso site!</span>
+ <strong><span >6. Como faço para adquirir os produtos?</span></strong><br ><span>Entre em contato conosco através do chat ou solicite um orçamento em nosso site!</span>
 
  </p>
 
  <h2 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:18pt">
 
- <span style="">Garanta a Segurança do Seu Condomínio Agora!</span>
+ <span>Garanta a Segurança do Seu Condomínio Agora!</span>
 
  </h2>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">A </span><strong><span style="; ">BS </span></strong><span style=""> é a escolha certa para quem busca </span><strong><span style="; ">equipamentos para condomínios</span></strong><span style=""> com </span><strong><span style="; ">qualidade garantida</span></strong><span style=""> e </span><strong><span style="; ">excelente custo-benefício</span></strong><span style="">. Não deixe a segurança do seu prédio para depois. </span><strong><span style="; ">Solicite um orçamento</span></strong><span style=""> agora mesmo e proteja sua propriedade com os melhores produtos contra incêndios!</span>
+ <span>A </span><strong><span >BS </span></strong><span> é a escolha certa para quem busca </span><strong><span >equipamentos para condomínios</span></strong><span> com </span><strong><span >qualidade garantida</span></strong><span> e </span><strong><span >excelente custo-benefício</span></strong><span>. Não deixe a segurança do seu prédio para depois. </span><strong><span >Solicite um orçamento</span></strong><span> agora mesmo e proteja sua propriedade com os melhores produtos contra incêndios!</span>
 
  </p>
 
  <h2 style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
- <span style="">Conclusão: Garanta a Segurança do Seu Condomínio com os Equipamentos da BS </span>
+ <span>Conclusão: Garanta a Segurança do Seu Condomínio com os Equipamentos da BS </span>
 
  </h2>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Ao escolher os </span><strong><span style="; ">equipamentos para condomínios</span></strong><span style=""> da </span><strong><span style="; ">BS </span></strong><span style="">, você está garantindo qualidade e confiabilidade para proteger seu patrimônio e a vida dos moradores. Oferecemos </span><strong><span style="; ">equipamentos contra incêndio</span></strong><span style=""> certificados, como </span><strong><span style="; ">mangueiras</span></strong><span style="">, </span><strong><span style="; ">extintores</span></strong><span style="">, </span><strong><span style="; ">acessórios para hidrantes</span></strong><span style="">, </span><strong><span style="; ">placas de sinalização</span></strong><span style=""> e </span><strong><span style="; ">sistemas de alarme</span></strong><span style="">, tudo para garantir uma resposta rápida e eficiente em caso de emergência.</span>
+ <span>Ao escolher os </span><strong><span >equipamentos para condomínios</span></strong><span> da </span><strong><span >BS </span></strong><span>, você está garantindo qualidade e confiabilidade para proteger seu patrimônio e a vida dos moradores. Oferecemos </span><strong><span >equipamentos contra incêndio</span></strong><span> certificados, como </span><strong><span >mangueiras</span></strong><span>, </span><strong><span >extintores</span></strong><span>, </span><strong><span >acessórios para hidrantes</span></strong><span>, </span><strong><span >placas de sinalização</span></strong><span> e </span><strong><span >sistemas de alarme</span></strong><span>, tudo para garantir uma resposta rápida e eficiente em caso de emergência.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <span style="">Com a </span><strong><span style="; ">BS </span></strong><span style="">, seu condomínio estará totalmente preparado para situações de risco, com produtos que atendem às normas de segurança e estão prontos para o uso imediato. Não deixe a segurança para depois.</span>
+ <span>Com a </span><strong><span >BS </span></strong><span>, seu condomínio estará totalmente preparado para situações de risco, com produtos que atendem às normas de segurança e estão prontos para o uso imediato. Não deixe a segurança para depois.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <strong><span style="; ">Entre em contato conosco hoje mesmo</span></strong><span style=""> e solicite um orçamento personalizado para garantir a proteção total do seu condomínio!</span>
+ <strong><span >Entre em contato conosco hoje mesmo</span></strong><span> e solicite um orçamento personalizado para garantir a proteção total do seu condomínio!</span>
 
  </p>
 

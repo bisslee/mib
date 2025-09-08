@@ -95,55 +95,55 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">Extintor de Incêndio Preço</span></strong>
+ <strong><span>Extintor de Incêndio Preço</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">Como Avaliar o Valor e Garantir a Melhor Proteção</span></strong>
+ <strong><span>Como Avaliar o Valor e Garantir a Melhor Proteção</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <strong><span style="'; ">Procurando por extintor de incêndio preço?</span></strong><span style="'"> Não comprometa a segurança do seu ambiente. Na </span><strong><span style="'; "> HSA</span></strong><span style="'">, oferecemos soluções de alta qualidade a preços justos. Solicite um orçamento agora e proteja seu patrimônio com a melhor opção disponível no mercado.</span>
+ <strong><span>Procurando por extintor de incêndio preço?</span></strong><span> Não comprometa a segurança do seu ambiente. Na </span><strong><span> HSA</span></strong><span>, oferecemos soluções de alta qualidade a preços justos. Solicite um orçamento agora e proteja seu patrimônio com a melhor opção disponível no mercado.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <strong><span style="'; ">Quer garantir economia e segurança do seu ambiente?</span></strong><span style="'"> Não espere até que seja tarde demais! Acesse agora </span><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><strong><u><span style="'; color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></strong></a><span style="'"> e confira nossa linha completa de </span><strong><span style="'; ">extintores de incêndio</span></strong><span style="'">. Temos modelos ideais para empresas, residências e todos os tipos de ambientes, com a </span><strong><span style="'; ">qualidade e confiabilidade</span></strong><span style="'"> que você merece.</span>
+ <strong><span>Quer garantir economia e segurança do seu ambiente?</span></strong><span> Não espere até que seja tarde demais! Acesse agora </span><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><strong><u><span style=" color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></strong></a><span> e confira nossa linha completa de </span><strong><span>extintores de incêndio</span></strong><span>. Temos modelos ideais para empresas, residências e todos os tipos de ambientes, com a </span><strong><span>qualidade e confiabilidade</span></strong><span> que você merece.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Quando você busca </span><strong><span style="'; ">extintor de incêndio preço</span></strong><span style="'">, é importante entender todos os fatores que influenciam o valor de um bom extintor. Mais do que procurar o menor preço, é fundamental escolher o produto certo para o seu ambiente e garantir que ele atenda às normas de segurança necessárias. Continue lendo para saber como avaliar o preço de um extintor de incêndio de forma eficiente.</span>
+ <span>Quando você busca </span><strong><span>extintor de incêndio preço</span></strong><span>, é importante entender todos os fatores que influenciam o valor de um bom extintor. Mais do que procurar o menor preço, é fundamental escolher o produto certo para o seu ambiente e garantir que ele atenda às normas de segurança necessárias. Continue lendo para saber como avaliar o preço de um extintor de incêndio de forma eficiente.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">Por Que Avaliar o Preço do Extintor de Incêndio?</span></strong>
+ <strong><span>Por Que Avaliar o Preço do Extintor de Incêndio?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">A compra de um extintor de incêndio deve ir além do simples valor monetário. A segurança e a adequação ao seu ambiente são fatores decisivos. Ao pesquisar por </span><strong><span style="'; ">extintor de incêndio preço</span></strong><span style="'">, você deve considerar o tipo, a capacidade, a certificação e outros fatores que impactam tanto a eficácia do produto quanto o seu custo.</span>
+ <span>A compra de um extintor de incêndio deve ir além do simples valor monetário. A segurança e a adequação ao seu ambiente são fatores decisivos. Ao pesquisar por </span><strong><span>extintor de incêndio preço</span></strong><span>, você deve considerar o tipo, a capacidade, a certificação e outros fatores que impactam tanto a eficácia do produto quanto o seu custo.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">Fatores Que Influenciam o Preço do Extintor de Incêndio</span></strong>
+ <strong><span>Fatores Que Influenciam o Preço do Extintor de Incêndio</span></strong>
 
  </p>
 
  <ol type="1" style="margin:0pt; padding-left:0pt">
 
- <li style="margin-top:14pt; margin-left:32pt; padding-left:4pt; '">
+ <li style="margin-top:14pt; margin-left:32pt; padding-left:4pt;">
 
  <strong>Tipo de Extintor</strong> O tipo de extintor escolhido é um dos principais fatores que influenciam o <strong>preço do extintor de incêndio</strong>. Há diferentes modelos para diferentes tipos de incêndios, como:
 
@@ -151,19 +151,19 @@ if (isset($breadcrumbs)) {
 
  <li style="margin-left:29pt; padding-left:7pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintores de Pó ABC</span></strong><span style="'; font-size:12pt">: São versáteis e utilizados em incêndios em materiais sólidos, líquidos inflamáveis e equipamentos elétricos.</span>
+ <strong><span style="font-size:12pt;">Extintores de Pó ABC</span></strong><span style="font-size:12pt;">: São versáteis e utilizados em incêndios em materiais sólidos, líquidos inflamáveis e equipamentos elétricos.</span>
 
  </li>
 
  <li style="margin-left:29pt; padding-left:7pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintores de CO2</span></strong><span style="'; font-size:12pt">: Indicado para incêndios em equipamentos eletrônicos e líquidos inflamáveis, não deixa resíduos e não danifica a eletrônica.</span>
+ <strong><span style="font-size:12pt;">Extintores de CO2</span></strong><span style="font-size:12pt;">: Indicado para incêndios em equipamentos eletrônicos e líquidos inflamáveis, não deixa resíduos e não danifica a eletrônica.</span>
 
  </li>
 
  <li style="margin-left:29pt; padding-left:7pt; font-family:serif; font-size:10pt">
 
- <strong><span style="'; font-size:12pt; ">Extintores de Água</span></strong><span style="'; font-size:12pt">: Ideais para incêndios em materiais sólidos, como madeira e papel.</span>
+ <strong><span style="font-size:12pt;">Extintores de Água</span></strong><span style="font-size:12pt;">: Ideais para incêndios em materiais sólidos, como madeira e papel.</span>
 
  </li>
 
@@ -171,25 +171,25 @@ if (isset($breadcrumbs)) {
 
  </li>
 
- <li style="margin-left:32pt; padding-left:4pt; '">
+ <li style="margin-left:32pt; padding-left:4pt;">
 
  <strong>Capacidade do Extintor</strong> A capacidade, que determina a quantidade de agente extintor no produto, impacta diretamente o <strong>preço do extintor de incêndio</strong>. Extintores de maior capacidade são mais caros, mas são necessários para cobrir ambientes maiores ou com maior risco de incêndio.
 
  </li>
 
- <li style="margin-left:32pt; padding-left:4pt; '">
+ <li style="margin-left:32pt; padding-left:4pt;">
 
  <strong>Conformidade com Normas de Segurança</strong> Extintores certificados pelas normas da <strong>ABNT</strong> e do <strong>Corpo de Bombeiros</strong> oferecem mais segurança e confiabilidade. Produtos de marcas confiáveis podem ter um custo inicial mais alto, mas são essenciais para garantir a proteção e o cumprimento da legislação.
 
  </li>
 
- <li style="margin-left:32pt; padding-left:4pt; '">
+ <li style="margin-left:32pt; padding-left:4pt;">
 
  <strong>Marca e Fabricante</strong> A marca do extintor também influencia o preço. <strong>Marcas reconhecidas</strong> oferecem produtos com garantia de durabilidade e confiabilidade, que muitas vezes justificam o custo mais elevado.
 
  </li>
 
- <li style="margin-left:32pt; margin-bottom:14pt; padding-left:4pt; '">
+ <li style="margin-left:32pt; margin-bottom:14pt; padding-left:4pt;">
 
  <strong>Manutenção e Durabilidade</strong> Modelos de extintores com facilidade de manutenção e verificação de pressão podem ter um preço um pouco mais alto. No entanto, esses modelos são um bom investimento, pois proporcionam economia e segurança a longo prazo.
 
@@ -199,37 +199,37 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">Como Avaliar o Preço do Extintor de Incêndio Antes de Comprar?</span></strong>
+ <strong><span>Como Avaliar o Preço do Extintor de Incêndio Antes de Comprar?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Para garantir que você está fazendo a escolha certa, considere os seguintes aspectos ao avaliar o </span><strong><span style="'; ">preço do extintor de incêndio</span></strong><span style="'">:</span>
+ <span>Para garantir que você está fazendo a escolha certa, considere os seguintes aspectos ao avaliar o </span><strong><span>preço do extintor de incêndio</span></strong><span>:</span>
 
  </p>
 
  <ol type="1" style="margin:0pt; padding-left:0pt">
 
- <li style="margin-top:14pt; margin-left:32pt; padding-left:4pt; '">
+ <li style="margin-top:14pt; margin-left:32pt; padding-left:4pt;">
 
  <strong>Escolha o Tipo Adequado</strong>: O tipo de extintor influencia diretamente o preço. Escolher o produto certo para o seu ambiente é crucial para a segurança.
 
  </li>
 
- <li style="margin-left:32pt; padding-left:4pt; '">
+ <li style="margin-left:32pt; padding-left:4pt;">
 
  <strong>Capacidade vs. Custo</strong>: Extintores com maior capacidade podem ser mais caros, mas são mais eficazes para ambientes de maior risco.
 
  </li>
 
- <li style="margin-left:32pt; padding-left:4pt; '">
+ <li style="margin-left:32pt; padding-left:4pt;">
 
  <strong>Certificação e Qualidade</strong>: Não economize quando se trata de segurança. Optar por extintores certificados é uma garantia de qualidade e conformidade com as normas de segurança.
 
  </li>
 
- <li style="margin-left:32pt; margin-bottom:14pt; padding-left:4pt; '">
+ <li style="margin-left:32pt; margin-bottom:14pt; padding-left:4pt;">
 
  <strong>Considere o Longo Prazo</strong>: Extintores de qualidade superior podem ter um preço mais alto, mas oferecem maior durabilidade e menos gastos com manutenção e recarga.
 
@@ -239,43 +239,43 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 
- <strong><span style="'; ">Conclusão: Invista na Proteção e Segurança</span></strong>
+ <strong><span>Conclusão: Invista na Proteção e Segurança</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Ao procurar </span><strong><span style="'; ">extintor de incêndio preço</span></strong><span style="'">, lembre-se de que o mais importante é garantir a segurança de seu ambiente. Invista em produtos de alta qualidade e com certificações, garantindo a tranquilidade de estar protegido contra incêndios.</span>
+ <span>Ao procurar </span><strong><span>extintor de incêndio preço</span></strong><span>, lembre-se de que o mais importante é garantir a segurança de seu ambiente. Invista em produtos de alta qualidade e com certificações, garantindo a tranquilidade de estar protegido contra incêndios.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">Na </span><strong><span style="'; "> HSA</span></strong><span style="'">, oferecemos uma linha completa de extintores de incêndio, com diferentes tipos e capacidades, todos em conformidade com as normas de segurança. </span><strong><span style="'; ">Solicite seu orçamento agora mesmo</span></strong><span style="'"> e tenha a certeza de estar fazendo a melhor escolha para a segurança do seu ambiente.</span>
+ <span>Na </span><strong><span> HSA</span></strong><span>, oferecemos uma linha completa de extintores de incêndio, com diferentes tipos e capacidades, todos em conformidade com as normas de segurança. </span><strong><span>Solicite seu orçamento agora mesmo</span></strong><span> e tenha a certeza de estar fazendo a melhor escolha para a segurança do seu ambiente.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:18pt">
 
- <strong><span style="'; ">Por que escolher a HSA?</span></strong>
+ <strong><span>Por que escolher a HSA?</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Qualidade Certificada:</span></strong><span style="'"> Produtos testados e aprovados para máxima segurança.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Melhor Custo-Benefício:</span></strong><span style="'"> Preços competitivos e ofertas especiais para condomínios e indústrias.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Descontos Especiais:</span></strong><span style="'"> Condições diferenciadas para compras em grande quantidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Facilidade de Pagamento:</span></strong><span style="'"> Opções flexíveis para você comprar sem preocupação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Frete Grátis:</span></strong><span style="'"> Consulte nossa equipe e veja se sua região está na promoção.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Entrega Pontual:</span></strong><span style="'"> Compromisso com prazos para garantir sua segurança no momento certo.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Garantia Estendida:</span></strong><span style="'"> 12 meses contra defeitos de fabricação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Certificado de Garantia:</span></strong><span style="'"> Enviado junto com a nota fiscal para sua tranquilidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Suporte Rápido:</span></strong><span style="'"> Atendimento eficiente para resolver qualquer necessidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span style="'"> </span><strong><span style="'; ">Clientes Satisfeitos:</span></strong><span style="'"> Mais de </span><strong><span style="'; ">2000 clientes atendidos</span></strong><span style="'">, incluindo condomínios e empresas.</span>
+ <span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Qualidade Certificada:</span></strong><span> Produtos testados e aprovados para máxima segurança.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Melhor Custo-Benefício:</span></strong><span> Preços competitivos e ofertas especiais para condomínios e indústrias.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Descontos Especiais:</span></strong><span> Condições diferenciadas para compras em grande quantidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Facilidade de Pagamento:</span></strong><span> Opções flexíveis para você comprar sem preocupação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Frete Grátis:</span></strong><span> Consulte nossa equipe e veja se sua região está na promoção.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Entrega Pontual:</span></strong><span> Compromisso com prazos para garantir sua segurança no momento certo.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Garantia Estendida:</span></strong><span> 12 meses contra defeitos de fabricação.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Certificado de Garantia:</span></strong><span> Enviado junto com a nota fiscal para sua tranquilidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Suporte Rápido:</span></strong><span> Atendimento eficiente para resolver qualquer necessidade.</span><br ><span style="font-family:'Segoe UI Symbol'">✔</span><span> </span><strong><span>Clientes Satisfeitos:</span></strong><span> Mais de </span><strong><span>2000 clientes atendidos</span></strong><span>, incluindo condomínios e empresas.</span>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="'">A </span><strong><span style="'; "> HSA</span></strong><span style="'"> oferece uma linha completa de </span><strong><span style="'; ">equipamentos de combate a incêndio</span></strong><span style="'">, projetados para garantir </span><strong><span style="'; ">proteção máxima</span></strong><span style="'"> em qualquer ambiente. </span><strong><span style="'; ">Entre em contato e solicite seu orçamento agora!</span></strong>
+ <span>A </span><strong><span> HSA</span></strong><span> oferece uma linha completa de </span><strong><span>equipamentos de combate a incêndio</span></strong><span>, projetados para garantir </span><strong><span>proteção máxima</span></strong><span> em qualquer ambiente. </span><strong><span>Entre em contato e solicite seu orçamento agora!</span></strong>
 
  </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt">
 
- <span style="font-family:'Segoe UI Symbol'">📞</span><span style="'"> </span><strong><span style="'; ">Telefones:</span></strong><span style="'"> (11) 94025-8669</span><br ><span style="font-family:'Segoe UI Symbol'">📧</span><span style="'"> </span><strong><span style="'; ">E-mail:</span></strong><span style="'"> contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
+ <span style="font-family:'Segoe UI Symbol'">📞</span><span> </span><strong><span>Telefones:</span></strong><span> (11) 94025-8669</span><br ><span style="font-family:'Segoe UI Symbol'">📧</span><span> </span><strong><span>E-mail:</span></strong><span> contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
 
  </p>
 

@@ -189,11 +189,7 @@ seja no condomínio, na empresa ou na fábrica e, assim, garantira segurança de
 
  </div>
 
- <div class="fixa2">
-
- <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
- </div>
+ 
 
  </div>
 

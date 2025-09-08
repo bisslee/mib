@@ -2585,3 +2585,35 @@ h4 { font-size: 1.25rem; }
         margin: 0 2px;
     }
 }
+
+/* ===== ESTILOS PARA PÁGINAS DE INFORMAÇÕES TÉCNICAS ===== */
+.content-image img {
+    max-width: 300px !important;
+    max-height: 300px !important;
+    width: auto !important;
+    height: auto !important;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: var(--mib-shadow);
+    transition: var(--mib-transition);
+}
+
+.content-image img:hover {
+    transform: scale(1.05);
+    box-shadow: var(--mib-shadow-hover);
+}
+
+/* Responsividade para imagens */
+@media (max-width: 768px) {
+    .content-image img {
+        max-width: 250px !important;
+        max-height: 250px !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .content-image img {
+        max-width: 200px !important;
+        max-height: 200px !important;
+    }
+}
