@@ -2617,3 +2617,34 @@ h4 { font-size: 1.25rem; }
         max-height: 200px !important;
     }
 }
+
+/* ===== ESTILOS PARA LISTA COM URLS ===== */
+.content-list-with-title-urls .card {
+    border: 1px solid #e9ecef;
+    transition: var(--mib-transition);
+}
+
+.content-list-with-title-urls .card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--mib-shadow-hover);
+    border-color: var(--mib-orange);
+}
+
+.content-list-with-title-urls .card-title a {
+    color: var(--mib-green) !important;
+    font-weight: 500;
+    transition: var(--mib-transition);
+}
+
+.content-list-with-title-urls .card-title a:hover {
+    color: var(--mib-orange) !important;
+    text-decoration: underline !important;
+}
+
+.content-list-with-title-urls .list-title {
+    color: var(--mib-green);
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    border-bottom: 2px solid var(--mib-orange);
+    padding-bottom: 0.5rem;
+}
