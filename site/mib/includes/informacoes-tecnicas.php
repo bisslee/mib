@@ -3,11 +3,11 @@
 <li><a class="dropdown-item" href="/informacoes-tecnicas/dicas-de-cuidados-mangueira-de-incendio.php">Dicas para conservação das mangueiras de incêndio</a></li>
 <li><a class="dropdown-item" href="/informacoes-tecnicas/fabricante-de-mangueiras-de-incendio-em-sao-paulo.php">Fabricante de mangueira de incêndio em São Paulo</a></li>
 <li><a class="dropdown-item" href="/informacoes-tecnicas/mangueiras-de-incendio-certificada.php">Mangueiras de incêndio certificada</a></li>
-<li><a class="dropdown-item" href="/old-pages/mangueiras-de-incendio-na-grande-sp.php">6- Mangueiras de incêndio na grande São Paulo</a></li>
-<li><a class="dropdown-item" href="/old-pages/mangueiras-de-incendio-para-area-residencial.php">7- Mangueira de incêndio para residencia</a></li>
-<li><a class="dropdown-item" href="/old-pages/validade-da-mangueira-de-incendio.php">8- Validade da mangueira de Incêndio</a></li>
-<li><a class="dropdown-item" href="/old-pages/inspecao-de-equipamento-de-combante-a-incendio.php">9- Inspeção de equipamentos de combate a incêndio</a></li>
-<li><a class="dropdown-item" href="/old-pages/mangueira-de-incendio-para-condominio.php">10- Mangueiras de incêndio para condomínio</a></li>
+<li><a class="dropdown-item" href="/informacoes-tecnicas/mangueiras-de-incendio-na-grande-sp.php">Mangueiras de incêndio na grande São Paulo</a></li>
+<li><a class="dropdown-item" href="/informacoes-tecnicas/mangueiras-de-incendio-para-area-residencial.php">Mangueira de incêndio para área residencial</a></li>
+<li><a class="dropdown-item" href="/informacoes-tecnicas/validade-da-mangueira-de-incendio.php">Validade da mangueira de Incêndio</a></li>
+<li><a class="dropdown-item" href="/informacoes-tecnicas/inspecao-de-equipamento-de-combante-a-incendio.php">Inspeção de equipamentos de combate a incêndio</a></li>
+<li><a class="dropdown-item" href="/informacoes-tecnicas/mangueira-de-incendio-para-condominio.php">Mangueiras de incêndio para condomínio</a></li>
 <li><a class="dropdown-item" href="/old-pages/o-que-e-avcb-corpo-de-bombeiros.php">11- O que é AVCB corpo de bombeiros</a></li>
 <li><a class="dropdown-item" href="/old-pages/tipos-de-mangueira-de-combate-a-incendio.php">12- Tipos de mangueiras de combate a incêndio</a></li>
 <li><a class="dropdown-item" href="/old-pages/tampa-de-incendio-para-recalque.php">13- Tampa de incêndio para recalque</a></li>

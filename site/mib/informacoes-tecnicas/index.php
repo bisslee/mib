@@ -90,27 +90,27 @@ $PageContent = [
                             [
                                 'order' => 6,
                                 'text' => 'Mangueiras de incêndio na grande São Paulo',
-                                'url' => '/old-pages/mangueiras-de-incendio-na-grande-sp.php'
+                                'url' => '/informacoes-tecnicas/mangueiras-de-incendio-na-grande-sp.php'
                             ],
                             [
                                 'order' => 7,
                                 'text' => 'Mangueira de incêndio para residencia',
-                                'url' => '/old-pages/mangueiras-de-incendio-para-area-residencial.php'
+                                'url' => '/informacoes-tecnicas/mangueiras-de-incendio-para-area-residencial.php'
                             ],
                             [
                                 'order' => 8,
                                 'text' => 'Validade da mangueira de Incêndio',
-                                'url' => '/old-pages/validade-da-mangueira-de-incendio.php'
+                                'url' => '/informacoes-tecnicas/validade-da-mangueira-de-incendio.php'
                             ],
                             [
                                 'order' => 9,
                                 'text' => 'Inspeção de equipamentos de combate a incêndio',
-                                'url' => '/old-pages/inspecao-de-equipamento-de-combante-a-incendio.php'
+                                'url' => '/informacoes-tecnicas/inspecao-de-equipamento-de-combante-a-incendio.php'
                             ],
                             [
                                 'order' => 10,
                                 'text' => 'Mangueiras de incêndio para condomínio',
-                                'url' => '/old-pages/mangueira-de-incendio-para-condominio.php'
+                                'url' => '/informacoes-tecnicas/mangueira-de-incendio-para-condominio.php'
                             ],
                             [
                                 'order' => 11,
