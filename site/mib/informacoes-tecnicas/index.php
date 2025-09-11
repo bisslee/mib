@@ -105,7 +105,7 @@ $PageContent = [
                             [
                                 'order' => 9,
                                 'text' => 'Inspeção de equipamentos de combate a incêndio',
-                                'url' => '/informacoes-tecnicas/inspecao-de-equipamento-de-combante-a-incendio.php'
+                                'url' => '/informacoes-tecnicas/inspecao-de-equipamentos-de-combate-a-incendio.php'
                             ],
                             [
                                 'order' => 10,
