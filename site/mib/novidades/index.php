@@ -5,14 +5,14 @@
  */
 
 // Incluir configurações comuns
-require_once 'includes/config.php';
+require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
     'title' => 'Novidades em Equipamentos contra Incêndio - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Novidades em Equipamentos contra Incêndio é na MIB. Contamos com diversos equipamentos contra incêndio. Novidades sobre Equipamentos contra Incêndio em SP é aqui!',
     'keywords' => 'Mangueiras de Incêndio, MIB, Equipamentos Contra Incêndio, Novidades, Tanques CMC',
-    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/novidades.php'
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/novidades/'
 ];
 
 // Identificar página atual para menu ativo
@@ -24,10 +24,10 @@ $breadcrumbs = [
 ];
 
 // Incluir header
-include 'includes/header.php';
+include '../includes/header.php';
 
 // Incluir breadcrumb
-include 'includes/breadcrumb.php';
+include '../includes/breadcrumb.php';
 ?>
 
     <!-- Hero Section da Página -->
@@ -64,7 +64,7 @@ include 'includes/breadcrumb.php';
                         <div class="row mb-5">
                             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-4">
                                 <div class="product-image">
-                                    <img src="assets/img/novidades/novidade-em-equipamentos-contra-incendio.webp" 
+                                    <img src="../assets/img/novidades/novidade-em-equipamentos-contra-incendio.webp" 
                                          alt="Novidades em Equipamentos Contra Incêndio" 
                                          title="Novidades em Equipamentos Contra Incêndio"
                                          class="img-fluid rounded shadow" />
@@ -215,7 +215,7 @@ include 'includes/breadcrumb.php';
 
                         <div class="row mt-4">
                             <div class="col-12 text-center">
-                                <a href="contato.php" class="btn btn-primary btn-lg">Entre em Contato</a>
+                                <a href="../contact.php" class="btn btn-primary btn-lg">Entre em Contato</a>
                             </div>
                         </div>
                     </div>
@@ -226,5 +226,5 @@ include 'includes/breadcrumb.php';
 
 <?php
 // Incluir footer
-include 'includes/footer.php';
+include '../includes/footer.php';
 ?>

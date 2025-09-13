@@ -19,25 +19,18 @@ $page_config = [
 // Identificar página atual para menu ativo
 $current_page = 'Inspeção de Equipamentos de Combate a Incêndio'; // deve corresponder ao item do menu
 
-// Breadcrumbs
-$breadcrumbs = array(
-    0 => array(
-        'url' => '/informacoes-tecnicas/',
-        'text' => 'Informações Técnicas',
-    ),
-    1 => array(
-        'url' => '',
-        'text' => 'Inspeção de Equipamentos de Combate a Incêndio',
-    ),
-);
+// Configurar breadcrumbs
+$breadcrumbs = [
+    ['text' => 'Home', 'url' => '/'],
+    ['text' => 'Informações Técnicas', 'url' => '/informacoes-tecnicas/'],
+    ['text' => 'Inspeção de Equipamentos de Combate a Incêndio', 'active' => true]
+];
 
 // Incluir header
 include __DIR__ . '/../includes/header.php';
 
-// Incluir breadcrumb (opcional)
-if (isset($breadcrumbs)) {
-    include __DIR__ . '/../includes/breadcrumb.php';
-}
+// Incluir breadcrumb
+include __DIR__ . '/../includes/breadcrumb.php';
 
 $HeroSection = [
     'title' => 'Inspeção de Equipamentos de Combate a Incêndio',

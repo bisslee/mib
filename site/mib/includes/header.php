@@ -145,17 +145,17 @@
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                            <a class="nav-link dropdown-toggle <?php echo ($current_page === 'equipamentos') ? 'active' : ''; ?>" href="#" role="button" data-bs-toggle="dropdown">
                                 Equipamentos
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="/old-pages/mangueiras-de-incendio.php">Mangueiras de Incêndio</a> </li>
-                                <li><a class="dropdown-item" href="/old-pages/extintores-de-incendio.php">Extintores de Incêndio</a> </li>
-                                <li><a class="dropdown-item" href="/old-pages/esguichos-para-equipamentos-contra-incendio.php">Esguichos</a> </li>
-                                <li><a class="dropdown-item" href="/old-pages/canhao-monitor-de-combate-a-incendio.php">Canhão Monitor</a> </li>
-                                <li><a class="dropdown-item" href="/old-pages/derivante-para-mangueira-de-incendio.php">Derivante para Mangueira de Incêndio</a> </li>
-                                <li><a class="dropdown-item" href="/old-pages/sistema-aerossol-de-supressao-a-incendio.php">Sistema aerossol de supressão a incêndio</a> </li>                
-                                <li><a class="dropdown-item" href="/old-pages/hidrante-contra-incendio.php">Hidrantes</a> </li>
+                                <li><a class="dropdown-item" href="/equipamentos/mangueiras-de-incendio.php">Mangueiras de Incêndio</a></li>
+                                <li><a class="dropdown-item" href="/equipamentos/extintores-de-incendio.php">Extintores de Incêndio</a></li>
+                                <li><a class="dropdown-item" href="/equipamentos/esguichos-para-equipamentos-contra-incendio.php">Esguichos</a></li>
+                                <li><a class="dropdown-item" href="/equipamentos/canhao-monitor-de-combate-a-incendio.php">Canhão Monitor</a></li>
+                                <li><a class="dropdown-item" href="/equipamentos/derivante-para-mangueira-de-incendio.php">Derivante para Mangueira de Incêndio</a></li>
+                                <li><a class="dropdown-item" href="/equipamentos/sistema-aerossol-de-supressao-a-incendio.php">Sistema aerossol de supressão a incêndio</a></li>
+                                <li><a class="dropdown-item" href="/equipamentos/hidrante-contra-incendio.php">Hidrantes</a></li>
                             </ul>
                         </li>
 
@@ -164,21 +164,21 @@
                                 Produtos
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="/old-pages/abrigos-para-equipamentos-contra-incendio.php">Abrigos</a></li>
-                                <li><a class="dropdown-item" href="/old-pages/adaptador-para-mangueira-de-incendio.php">Adaptador para Mangueira de Incêndio</a></li>
-                                <li><a class="dropdown-item" href="/old-pages/armario-para-mangueira-de-incendio.php">Armário para Mangueira de Incêndio</a></li>
-                                <li><a class="dropdown-item" href="/old-pages/bico-para-mangueira-de-incendio.php">Bico para Mangueira de Incêndio</a></li>
-                                <li><a class="dropdown-item" href="/old-pages/caixas-para-equipamentos-contra-incendio.php">Caixas</a></li>
-                                <li><a class="dropdown-item" href="/old-pages/conjunto-da-mangueira-de-incendio.php">Conjunto da Mangueira de Incêndio</a></li>
-                                <li><a class="dropdown-item" href="/old-pages/gabinete-para-hidrante.php">Gabinete para Hidrante</a></li>
-                                <li><a class="dropdown-item" href="/old-pages/liquido-gerador-de-espuma.php">Líquido Gerador de Espuma</a></li>
-                                <li><a class="dropdown-item" href="/old-pages/material-de-combate-a-incendio.php">Material de Combate a Incêndio</a></li>
-                                <li><a class="dropdown-item" href="/old-pages/placas-de-sinalizacao.php">Placas de Sinalização</a></li>
-                                <li><a class="dropdown-item" href="/old-pages/valvulas.php">Válvulas</a></li>
+                                <li><a class="dropdown-item" href="/produtos/abrigos-para-equipamentos-contra-incendio.php">Abrigos</a></li>
+                                <li><a class="dropdown-item" href="/produtos/adaptador-para-mangueira-de-incendio.php">Adaptador para Mangueira de Incêndio</a></li>
+                                <li><a class="dropdown-item" href="/produtos/armario-para-mangueira-de-incendio.php">Armário para Mangueira de Incêndio</a></li>
+                                <li><a class="dropdown-item" href="/produtos/bico-para-mangueira-de-incendio.php">Bico para Mangueira de Incêndio</a></li>
+                                <li><a class="dropdown-item" href="/produtos/caixas-para-equipamentos-contra-incendio.php">Caixas</a></li>
+                                <li><a class="dropdown-item" href="/produtos/conjunto-da-mangueira-de-incendio.php">Conjunto da Mangueira de Incêndio</a></li>
+                                <li><a class="dropdown-item" href="/produtos/gabinete-para-hidrante.php">Gabinete para Hidrante</a></li>
+                                <li><a class="dropdown-item" href="/produtos/liquido-gerador-de-espuma.php">Líquido Gerador de Espuma</a></li>
+                                <li><a class="dropdown-item" href="/produtos/material-de-combate-a-incendio.php">Material de Combate a Incêndio</a></li>
+                                <li><a class="dropdown-item" href="/produtos/placas-de-sinalizacao.php">Placas de Sinalização</a></li>
+                                <li><a class="dropdown-item" href="/produtos/valvulas.php">Válvulas</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link <?php echo ($current_page === 'novidades') ? 'active' : ''; ?>" href="/novidades.php">Novidades</a>
+                            <a class="nav-link <?php echo ($current_page === 'novidades') ? 'active' : ''; ?>" href="/novidades/">Novidades</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link <?php echo ($current_page === 'contato') ? 'active' : ''; ?>" href="/contact.php">Contato</a>
