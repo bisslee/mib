@@ -34,6 +34,7 @@
                          <li><a href="novidades.php">Novidades</a></li>
                          <li><a href="contact.php">Contato</a></li>
                          <li><a href="privacy.php">Política de Privacidade</a></li>
+                         <li><a href="all-links.php">Todos os Links</a></li>
                      </ul>
                  </div>
                 
