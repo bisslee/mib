@@ -19,25 +19,18 @@ $page_config = [
 // Identificar página atual para menu ativo
 $current_page = 'Mangueira de Incêndio para Condomínio'; // deve corresponder ao item do menu
 
-// Breadcrumbs
-$breadcrumbs = array(
-    0 => array(
-        'url' => '/informacoes-tecnicas/',
-        'text' => 'Informações Técnicas',
-    ),
-    1 => array(
-        'url' => '',
-        'text' => 'Mangueira de Incêndio para Condomínio',
-    ),
-);
+// Configurar breadcrumbs
+$breadcrumbs = [
+    ['text' => 'Home', 'url' => '/'],
+    ['text' => 'Informações Técnicas', 'url' => '/informacoes-tecnicas/'],
+    ['text' => 'Mangueira de Incêndio para Condomínio', 'active' => true]
+];
 
 // Incluir header
 include __DIR__ . '/../includes/header.php';
 
-// Incluir breadcrumb (opcional)
-if (isset($breadcrumbs)) {
-    include __DIR__ . '/../includes/breadcrumb.php';
-}
+// Incluir breadcrumb
+include __DIR__ . '/../includes/breadcrumb.php';
 
 $HeroSection = [
     'title' => 'Mangueira de Incêndio para Condomínio (Tipo 1 ABNT NBR 11861)',

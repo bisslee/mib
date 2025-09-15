@@ -19,25 +19,18 @@ $page_config = [
 // Identificar página atual para menu ativo
 $current_page = 'Fabricante de Mangueiras de Incêndio em São Paulo'; // deve corresponder ao item do menu
 
-// Breadcrumbs
-$breadcrumbs = array(
-    0 => array(
-        'url' => '/informacoes-tecnicas/',
-        'text' => 'Informações Técnicas',
-    ),
-    1 => array(
-        'url' => '',
-        'text' => 'Fabricante de Mangueiras de Incêndio em São Paulo',
-    ),
-);
+// Configurar breadcrumbs
+$breadcrumbs = [
+    ['text' => 'Home', 'url' => '/'],
+    ['text' => 'Informações Técnicas', 'url' => '/informacoes-tecnicas/'],
+    ['text' => 'Fabricante de Mangueiras de Incêndio em São Paulo', 'active' => true]
+];
 
 // Incluir header
 include __DIR__ . '/../includes/header.php';
 
-// Incluir breadcrumb (opcional)
-if (isset($breadcrumbs)) {
-    include __DIR__ . '/../includes/breadcrumb.php';
-}
+// Incluir breadcrumb
+include __DIR__ . '/../includes/breadcrumb.php';
 
 $HeroSection = [
     'title' => 'Fabricante de Mangueiras de Incêndio em São Paulo',
