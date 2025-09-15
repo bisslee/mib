@@ -1,378 +1,305 @@
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: carretel-de-mesa-mangotinho.php
+ */
 
+// Configuração da página
+$page_config = array(
+    'title' => 'Carretel de Mesa para Mangotinho de 1  Alta Performance e Durabilidade - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Aprimore o desempenho e a eficiência com o Carretel de Mesa para Mangotinho de 1” polegada, ideal para ambientes que exigem alta performance. Fabri...',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/carretel-de-mesa-mangotinho.php',
+);
 
-<!DOCTYPE html>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Carretel de Mesa para Mangotinho de 1  Alta Performance e Durabilidade',
+    ),
+);
 
-<html lang="pt-br">
+$heroConfig = array(
+    'title' => 'Carretel de Mesa para Mangotinho de 1  Alta Performance e Durabilidade',
+    'description' => 'Aprimore o desempenho e a eficiência com o Carretel de Mesa para Mangotinho de 1” polegada, ideal para ambientes que exigem alta performance. Fabri...',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-<head>
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-    <!-- Google Tag Manager -->
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ <!-- Google Tag Manager (noscript) -->
 
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-        <!-- End Google Tag Manager -->
+ <!-- End Google Tag Manager (noscript) -->
 
-	<title>Carretel de Mesa para Mangotinho de 1” – Alta Performance e Durabilidade</title>
+ <section class="container">
 
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <div class="row"> 
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-	<meta name="description" content="Carretel de Mesa para Mangotinho de 1” – Alta Performance e Durabilidade">
+<img src="/assets/img/old-site/img1000.png" class="img-responsive" alt="">
 
-	<meta name="author" content="OtimizaMais Marketing Digital">
+ <h1>Carretel de Mesa para Mangotinho de 1” – Alta Performance e Durabilidade</h1>
 
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
+ <p>Aprimore o desempenho e a eficiência com o Carretel de Mesa para Mangotinho de 1” polegada, ideal para ambientes que exigem alta performance. Fabricado com materiais de alta qualidade, oferece resistência superior e durabilidade prolongada. Disponível em versões com mangueiras de 30m, 50m ou 60m, este modelo fixo manual é perfeito para garantir praticidade e segurança no uso diário.</p>
 
+ <p>Confie na excelência da BS para sua empresa ou projeto!</p>
 
+ <h2>Compre agora</h2>
 
-	<!-- Bootstrap Core CSS -->
+ <p>Ideal para caminhões pipa, bombeiros e lavagens industriais. Garanta a alta qualidade, performance e flexibilidade de mangueira que sua operação precisa!</p>
 
-	<link href="css/bootstrap.css" rel="stylesheet">
+ <h2>Contato para Mais Informações</h2>
 
+ <ul>
 
+ <li>📞 WhatsApp: <a href="https://wa.me/5511940258669">Clique para conversar 11 94025-8669</a></li>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ <li>📧 E-mail: <a href="mailto:contato@mangueirasdeincendiobrasil.com.br">contato@mangueirasdeincendiobrasil.com.br</a></li>
 
-	<script src="js/jquery.js"></script>
+ <li>🌐 Site: <a href="https://mangueirasdeincendiobrasil.com.br">mangueirasdeincendiobrasil.com.br</a></li>
 
-	<script src="js/bootstrap.min.js"></script>
+ </ul>
 
+ <h2>Solução Robusta e Eficiente para Aplicações Exigentes</h2>
 
+ <p>O Carretel de Mesa para Mangotinho Fixo Manual 50m da BS é ideal para caminhões pipa, combate a incêndios e lavagens industriais.</p>
 
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+ <p>Suporta até 50 metros de mangueira, com pressão de trabalho entre 3 e 14 kgf/cm².</p>
 
+ <h2>Dados Construtivos</h2>
 
+<img src="/assets/img/old-site/img1001.png" class="img-responsive" alt="">
 
-</head>
+ <ul>
 
-<body>
+ <li><strong>Descritivo:</strong> Suporte Carretel para Mangueira 1" (Carretel Mangotinho)</li>
 
-                <!-- Google Tag Manager (noscript) -->
+ <li><strong>Material Construtivo:</strong>
 
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
+ <ul>
 
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <li>Estrutura: Aço carbono</li>
 
-                <!-- End Google Tag Manager (noscript) -->
+ <li>Mancais: Rolamento blindado</li>
 
-	<main>	
+ <li>Junta Rotatória: Engate hidráulico de fluxo livre 1"</li>
 
-		<header>
+ <li>Vedações: Neoprene</li>
 
-			<?php include ('includes/header.php'); ?>   	
+ <li>Acabamento: Pintura vermelha segurança EPOX</li>
 
-		</header>
+ <li>Roletes e Esguicho: Cromados</li>
 
+ </ul>
 
+ </li>
 
-	<section class="container">
+ </ul>
 
-		<div class="row">	
+ <h2>Características de Utilização</h2>
 
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <ul>
 
-<img src="images/img1000.png" class="img-responsive" alt="">
+ <li>Agente Extintor: Água</li>
 
-  <h1>Carretel de Mesa para Mangotinho de 1” – Alta Performance e Durabilidade</h1>
+ <li>Alimentação: Axial</li>
 
-  <p>Aprimore o desempenho e a eficiência com o Carretel de Mesa para Mangotinho de 1” polegada, ideal para ambientes que exigem alta performance. Fabricado com materiais de alta qualidade, oferece resistência superior e durabilidade prolongada. Disponível em versões com mangueiras de 30m, 50m ou 60m, este modelo fixo manual é perfeito para garantir praticidade e segurança no uso diário.</p>
+ <li>Pressão ideal: 5 a 14 kgf/cm² (90 a 200 PSI)</li>
 
-  <p>Confie na excelência da BS  para sua empresa ou projeto!</p>
+ <li>Pressão de Teste: 21 kgf/cm² (300 PSI)</li>
 
+ <li>Funcionamento: Contínuo mesmo com mangueira enrolada</li>
 
+ <li>Tipo de Mangueira: Borracha</li>
 
-  <h2>Compre agora</h2>
+ <li>Esguicho: Regulável Ø 1”</li>
 
-  <p>Ideal para caminhões pipa, bombeiros e lavagens industriais. Garanta a alta qualidade, performance e flexibilidade de mangueira que sua operação precisa!</p>
+ <li>Comprimentos: 30m, 50m ou 60m</li>
 
+ </ul>
 
+ <h2>Características Técnicas</h2>
 
-  <h2>Contato para Mais Informações</h2>
+<img src="/assets/img/old-site/img1002.png" class="img-responsive" alt="">
 
-  <ul>
+ <ul>
 
-    <li>📞 WhatsApp: <a href="https://wa.me/5511940258669">Clique para conversar 11 94025-8669</a></li>
+ <li>Capacidade: 30m, 50m ou 60m</li>
 
-    <li>📧 E-mail: <a href="mailto:contato@mangueirasdeincendiobrasil.com.br">contato@mangueirasdeincendiobrasil.com.br</a></li>
+ <li>Pressão de Trabalho: 3 a 14 kgf/cm²</li>
 
-    <li>🌐 Site: <a href="https://mangueirasdeincendiobrasil.com.br">mangueirasdeincendiobrasil.com.br</a></li>
+ <li>Entrada: Giratória fêmea 1" BSP</li>
 
-  </ul>
+ <li>Espigão: 1"</li>
 
+ <li>Alavanca Lateral: Controle preciso</li>
 
+ <li>Segurança: Pino de trava</li>
 
-  <h2>Solução Robusta e Eficiente para Aplicações Exigentes</h2>
+ <li>Acabamento: Pintura vermelha resistente à corrosão</li>
 
-  <p>O Carretel de Mesa para Mangotinho Fixo Manual 50m da BS  é ideal para caminhões pipa, combate a incêndios e lavagens industriais.</p>
+ </ul>
 
-  <p>Suporta até 50 metros de mangueira, com pressão de trabalho entre 3 e 14 kgf/cm².</p>
+ <h3>Dimensões</h3>
 
+ <ul>
 
+ <li>Comprimento: 780 mm</li>
 
-  <h2>Dados Construtivos</h2>
+ <li>Largura: 450 mm</li>
 
-<img src="images/img1001.png" class="img-responsive" alt="">
+ <li>Altura: 510 mm</li>
 
+ </ul>
 
+ <p><strong>Importante:</strong> Verifique o espaço disponível antes da instalação.</p>
 
-  <ul>
+ <h2>Vantagens de Comprar com a BS </h2>
 
-    <li><strong>Descritivo:</strong> Suporte Carretel para Mangueira 1" (Carretel Mangotinho)</li>
+ <ul>
 
-    <li><strong>Material Construtivo:</strong>
+ <li>Durabilidade: Aço carbono resistente</li>
 
-      <ul>
+ <li>Flexibilidade: Mangueiras em diversos comprimentos</li>
 
-        <li>Estrutura: Aço carbono</li>
+ <li>Atendimento Especializado</li>
 
-        <li>Mancais: Rolamento blindado</li>
+ <li>Suporte Pós-Venda</li>
 
-        <li>Junta Rotatória: Engate hidráulico de fluxo livre 1"</li>
+ </ul>
 
-        <li>Vedações: Neoprene</li>
+ <h2>Principais Aplicações</h2>
 
-        <li>Acabamento: Pintura vermelha segurança EPOX</li>
+ <ul>
 
-        <li>Roletes e Esguicho: Cromados</li>
+ <li>Caminhões Pipa</li>
 
-      </ul>
+ <li>Corpos de Bombeiros</li>
 
-    </li>
+ <li>Lavagens Industriais</li>
 
-  </ul>
+ </ul>
 
+ <h2>Benefícios</h2>
 
+ <ul>
 
-  <h2>Características de Utilização</h2>
+ <li>Controle preciso com alavanca lateral</li>
 
-  <ul>
+ <li>Segurança com pino de trava</li>
 
-    <li>Agente Extintor: Água</li>
+ <li>Alta resistência e acabamento EPOX</li>
 
-    <li>Alimentação: Axial</li>
+ <li>Fácil operação</li>
 
-    <li>Pressão ideal: 5 a 14 kgf/cm² (90 a 200 PSI)</li>
+ </ul>
 
-    <li>Pressão de Teste: 21 kgf/cm² (300 PSI)</li>
+ <h2>Como Comprar</h2>
 
-    <li>Funcionamento: Contínuo mesmo com mangueira enrolada</li>
+ <p>Compra simples e segura. Pagamento facilitado e entrega rápida. Contate-nos para mais informações.</p>
 
-    <li>Tipo de Mangueira: Borracha</li>
+ <h2>Perguntas Frequentes (FAQ)</h2>
 
-    <li>Esguicho: Regulável Ø 1”</li>
+ <ol>
 
-    <li>Comprimentos: 30m, 50m ou 60m</li>
+ <li><strong>Qual a pressão de trabalho ideal?</strong> De 3 a 14 kgf/cm².</li>
 
-  </ul>
+ <li><strong>Posso escolher o comprimento da mangueira?</strong> Sim, em 30m, 50m ou 60m. Outros sob consulta.</li>
 
+ <li><strong>Qual material é usado?</strong> Aço carbono de alta resistência.</li>
 
+ </ol>
 
-  <h2>Características Técnicas</h2>
+ <h2>Por Que Escolher a BS ?</h2>
 
-<img src="images/img1002.png" class="img-responsive" alt="">
+ <ul>
 
+ <li>Qualidade Certificada</li>
 
+ <li>Melhor Custo-Benefício</li>
 
-  <ul>
+ <li>Facilidade de Pagamento</li>
 
-    <li>Capacidade: 30m, 50m ou 60m</li>
+ <li>Garantia Estendida: 12 meses</li>
 
-    <li>Pressão de Trabalho: 3 a 14 kgf/cm²</li>
+ </ul>
 
-    <li>Entrada: Giratória fêmea 1" BSP</li>
+ <p><strong>Garanta a melhor proteção com a BS . Solicite seu orçamento agora mesmo!</strong></p>
 
-    <li>Espigão: 1"</li>
+ <h2>Contato</h2>
 
-    <li>Alavanca Lateral: Controle preciso</li>
+ <ul>
 
-    <li>Segurança: Pino de trava</li>
+ <li>📞 Telefones: (11) 94025-8669</li>
 
-    <li>Acabamento: Pintura vermelha resistente à corrosão</li>
+ <li>📧 E-mail: <a href="mailto:contato@mangueirasdeincendiobrasil.com.br">contato@mangueirasdeincendiobrasil.com.br</a> | <a href="mailto:hsaseguranca@gmail.com">hsaseguranca@gmail.com</a></li>
 
-  </ul>
+ </ul>
 
+ </article>
 
+ <br><br>
 
-  <h3>Dimensões</h3>
+ </div>
 
-  <ul>
+ 
 
-    <li>Comprimento: 780 mm</li>
+ </div>
 
-    <li>Largura: 450 mm</li>
+ </section>
 
-    <li>Altura: 510 mm</li>
 
-  </ul>
-
-  <p><strong>Importante:</strong> Verifique o espaço disponível antes da instalação.</p>
-
-
-
-  <h2>Vantagens de Comprar com a BS </h2>
-
-  <ul>
-
-    <li>Durabilidade: Aço carbono resistente</li>
-
-    <li>Flexibilidade: Mangueiras em diversos comprimentos</li>
-
-    <li>Atendimento Especializado</li>
-
-    <li>Suporte Pós-Venda</li>
-
-  </ul>
-
-
-
-  <h2>Principais Aplicações</h2>
-
-  <ul>
-
-    <li>Caminhões Pipa</li>
-
-    <li>Corpos de Bombeiros</li>
-
-    <li>Lavagens Industriais</li>
-
-  </ul>
-
-
-
-  <h2>Benefícios</h2>
-
-  <ul>
-
-    <li>Controle preciso com alavanca lateral</li>
-
-    <li>Segurança com pino de trava</li>
-
-    <li>Alta resistência e acabamento EPOX</li>
-
-    <li>Fácil operação</li>
-
-  </ul>
-
-
-
-  <h2>Como Comprar</h2>
-
-  <p>Compra simples e segura. Pagamento facilitado e entrega rápida. Contate-nos para mais informações.</p>
-
-
-
-  <h2>Perguntas Frequentes (FAQ)</h2>
-
-  <ol>
-
-    <li><strong>Qual a pressão de trabalho ideal?</strong> De 3 a 14 kgf/cm².</li>
-
-    <li><strong>Posso escolher o comprimento da mangueira?</strong> Sim, em 30m, 50m ou 60m. Outros sob consulta.</li>
-
-    <li><strong>Qual material é usado?</strong> Aço carbono de alta resistência.</li>
-
-  </ol>
-
-
-
-  <h2>Por Que Escolher a BS ?</h2>
-
-  <ul>
-
-    <li>Qualidade Certificada</li>
-
-    <li>Melhor Custo-Benefício</li>
-
-    <li>Facilidade de Pagamento</li>
-
-    <li>Garantia Estendida: 12 meses</li>
-
-  </ul>
-
-
-
-  <p><strong>Garanta a melhor proteção com a BS . Solicite seu orçamento agora mesmo!</strong></p>
-
-
-
-  <h2>Contato</h2>
-
-  <ul>
-
-    <li>📞 Telefones: (11) 94025-8669</li>
-
-    <li>📧 E-mail: <a href="mailto:contato@mangueirasdeincendiobrasil.com.br">contato@mangueirasdeincendiobrasil.com.br</a> | <a href="mailto:hsaseguranca@gmail.com">hsaseguranca@gmail.com</a></li>
-
-  </ul>
-
-               
-
-               <?php include('includes/contato.php'); ?>
-
-                </article>
-
-  
-
-                
-
-                
-
-
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

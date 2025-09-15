@@ -1,794 +1,563 @@
-<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: validade-da-mangueira-de-incendio.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'VALIDADE DA MANGUEIRA DE INCÊNDIO - MIB | Mangueiras de Incêndio Brasil',
+    'description' => '(11) 4442 3565 WhatsApp (11) 94025 8669',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/validade-da-mangueira-de-incendio.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'VALIDADE DA MANGUEIRA DE INCÊNDIO',
+    ),
+);
 
-    <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'VALIDADE DA MANGUEIRA DE INCÊNDIO',
+    'description' => '(11) 4442 3565 WhatsApp (11) 94025 8669',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-
-        <!-- End Google Tag Manager -->
-
-	<title>Validade da mangueira de Incêndio  - Mangueiras de Incêndio Brasil </title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Validade da mangueira de Incêndio">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-    <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
-
-
-
-        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-
-
-	<section class="container">
-
-		<div class="row">	
-
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-            <div>
-
-            <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
-
-                      <img src="images/panilha-29.png" class="img-responsive">
-
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
             </div>
+        </div>
+    </div>
+</section>
 
-                
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-                
 
-                <h2><strong>VALIDADE DA MANGUEIRA DE INCÊNDIO</strong></h2>
+ <!-- Google Tag Manager (noscript) -->
 
-                <br>
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-                <p>Quando se fala em <strong>validade da mangueira de incêndio</strong> está se referindo à
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-                periodicidade da realização de testes aos quais ela deve ser submetida, uma
+ <!-- End Google Tag Manager (noscript) -->
 
-                vez que o produto em si possui longa vida útil, especialmente se armazenado e
+ 
 
-                aplicado de forma correta.</p>
+ <section class="container">
 
-                
+ <div class="row"> 
 
-                <p>Logo, são recomendadas inspeções visuais, que podem ser realizadas mesmo
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-                por leigos, a cada seis meses para certificar que não há furos ou rasgos nas
+ <div>
 
-                mangueiras, porém, uma vez ao ano, são necessárias a inspeção e a
+ <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
 
-                realização de testes conduzidos por profissionais especializados.</p>
+ <img src="/assets/img/old-site/panilha-29.png" class="img-responsive">
 
-                
+ </div>
 
-                <p>A inspeção anual, portanto, volta-se à verificação de todos os componentes da
+ <h2><strong>VALIDADE DA MANGUEIRA DE INCÊNDIO</strong></h2>
 
-                mangueira, tais como engates e acoplamentos, sendo o mais comum dentre
+ <br>
 
-                eles o Storz. Caso haja necessidade de troca ou manutenção, esta é apontada
+ <p>Quando se fala em <strong>validade da mangueira de incêndio</strong> está se referindo à
 
-                após a verificação.</p>
+ periodicidade da realização de testes aos quais ela deve ser submetida, uma
 
-                
+ vez que o produto em si possui longa vida útil, especialmente se armazenado e
 
-                <p>É importante lembrar que caso a verificação anual não seja realizada e, por
+ aplicado de forma correta.</p>
 
-                consequência, não sejam emitidos os laudos que comprovam o bom estado
+ <p>Logo, são recomendadas inspeções visuais, que podem ser realizadas mesmo
 
+ por leigos, a cada seis meses para certificar que não há furos ou rasgos nas
 
+ mangueiras, porém, uma vez ao ano, são necessárias a inspeção e a
 
-                dos equipamentos, não há o pagamento por parte de companhias de seguro
+ realização de testes conduzidos por profissionais especializados.</p>
 
-                caso ocorram incêndios nos imóveis.</p>
+ <p>A inspeção anual, portanto, volta-se à verificação de todos os componentes da
 
-                
+ mangueira, tais como engates e acoplamentos, sendo o mais comum dentre
 
-                
+ eles o Storz. Caso haja necessidade de troca ou manutenção, esta é apontada
 
-                <h2><strong>Saiba como aumentar a vida útil e a validade da mangueira de
+ após a verificação.</p>
 
-                        incêndio</strong></h2>
+ <p>É importante lembrar que caso a verificação anual não seja realizada e, por
 
-                <br>
+ consequência, não sejam emitidos os laudos que comprovam o bom estado
 
-                
+ dos equipamentos, não há o pagamento por parte de companhias de seguro
 
-                <P>Para que as mangueiras durem mais e permaneçam sempre em bom estado,
+ caso ocorram incêndios nos imóveis.</p>
 
-                alguns cuidados devem ser tomados para evitar problemas não apenas durante
+ <h2><strong>Saiba como aumentar a vida útil e a validade da mangueira de
 
-                o uso, mas também no armazenamento desses equipamentos. Algumas dicas
+ incêndio</strong></h2>
 
-                importantes são:</P>
+ <br>
 
-                
+ <P>Para que as mangueiras durem mais e permaneçam sempre em bom estado,
 
-                <ul>
+ alguns cuidados devem ser tomados para evitar problemas não apenas durante
 
-                  <li><strong>Dobradura:</strong> para enrolar corretamente a mangueira é preciso dobrá-la
+ o uso, mas também no armazenamento desses equipamentos. Algumas dicas
 
-                    de forma que ambas as extremidades fiquem para o mesmo lado, porém
+ importantes são:</P>
 
-                    distantes um metro uma da outra. Depois, basta enrolar o lado oposto,
+ <ul>
 
-                    até que as extremidades se aproximem;</li>
+ <li><strong>Dobradura:</strong> para enrolar corretamente a mangueira é preciso dobrá-la
 
-                    
+ de forma que ambas as extremidades fiquem para o mesmo lado, porém
 
-                    <li><strong>Manutenção:</strong>a mangueira deve ser guardada sempre seca; ademais,
+ distantes um metro uma da outra. Depois, basta enrolar o lado oposto,
 
-                    não é recomendado arrastá-la pelo chão para não deformar os engates.
+ até que as extremidades se aproximem;</li>
 
-                    Por fim, durante o uso, as válvulas devem ser abertas de forma gradual,
+ <li><strong>Manutenção:</strong>a mangueira deve ser guardada sempre seca; ademais,
 
-                    a fim de que a pressão não a rompa;</li>
+ não é recomendado arrastá-la pelo chão para não deformar os engates.
 
-                    
+ Por fim, durante o uso, as válvulas devem ser abertas de forma gradual,
 
-                    <li><strong>Limpeza:</strong>caso haja sujidades e resíduos, estes devem ser removidos
+ a fim de que a pressão não a rompa;</li>
 
-                    com detergente neutro e uma escova macia, sem a necessidade de
+ <li><strong>Limpeza:</strong>caso haja sujidades e resíduos, estes devem ser removidos
 
-                    colocar muita força. Jatos e sprays de água também podem ajudar a
+ com detergente neutro e uma escova macia, sem a necessidade de
 
-                    remover manchas e sujeiras.</li>
+ colocar muita força. Jatos e sprays de água também podem ajudar a
 
-                   
+ remover manchas e sujeiras.</li>
 
-                </ul>
+ </ul>
 
-            
+ <h2><strong>Mangueiras confiáveis e os melhores profissionais</strong></h2>
 
-                
+ <br>
 
-                 
+ <p>Com o propósito de atender e satisfazer todas as demandas de seus clientes e
 
-                    <h2><strong>Mangueiras confiáveis e os melhores profissionais</strong></h2>
+ fornecer equipamentos de alta qualidade, a comercializa
 
-                    <br>
+ apenas mangueiras em total conformidade com a ABNT, certificadas pelo ISO
 
-                    <p>Com o propósito de atender e satisfazer todas as demandas de seus clientes e
+ 9001, testadas e aprovadas pelo Inmetro.</p>
 
-                    fornecer equipamentos de alta qualidade, a  comercializa
+ <p>Além disso, a empresa fornece os cincos tipos de mangueiras de combate a
 
-                    apenas mangueiras em total conformidade com a ABNT, certificadas pelo ISO
+ incêndio em todo território nacional, com maior foco nas cidades que integram
 
-                    9001, testadas e aprovadas pelo Inmetro.</p>
+ o estado de São Paulo, sempre oferecendo preços competitivos, pontualidade
 
-                    
+ nas entregas e formas de aquisição facilitadas.</p>
 
-                    <p>Além disso, a empresa fornece os cincos tipos de mangueiras de combate a
+ <h2 class="text-center"><strong>Tipos de mangueiras de combate a incêndio.</strong></h2>
 
-                        incêndio em todo território nacional, com maior foco nas cidades que integram
+ <br>
 
-                        o estado de São Paulo, sempre oferecendo preços competitivos, pontualidade
+ <h3 class="meni "><strong><span class="span-fla">Predyflex - Tipo 1 -</span>Destina-se à edifícios residenciais.</strong></h3>
 
-                            nas entregas e formas de aquisição facilitadas.</p>
+ <img src="/assets/img/old-site/panilha-34.png" class="img-responsive">
 
-                    
+ <p>Mangueira de incêndio tipo 1, na cor branca, revestida externamente com
 
-                    <h2 class="text-center"><strong>Tipos de mangueiras de combate a incêndio.</strong></h2>
+ reforço têxtil confeccionado 100% em fio poliéster de alta tenacidade e
 
-                <br>
+ internamente com tubo de borracha sintética na cor preta; dotada de união tipo
 
-                
+ engate rápido (“storz”) conforme NBR 14349, é leve e durável pela excelente
 
-                <h3 class="meni "><strong><span class="span-fla">Predyflex - Tipo 1 -</span>Destina-se à edifícios residenciais.</strong></h3>
+ resistência a ruptura, abrasão e deterioração por bolor e fungos. Em
 
-                
+ conformidade com a norma ABNT – NBR 11861 e com certificado da marca
 
-                <img src="images/panilha-34.png" class="img-responsive">
+ de conformidade ABNT n° 40.001/01 (1.1/2”). Uso recomendado para
 
-                
+ prédios de ocupação residencial.</p>
 
-                
+ <div class="table-responsive">
 
-                <p>Mangueira de incêndio tipo 1, na cor branca, revestida externamente com
+ <table class="table table-bordered table-striped ">
 
-                reforço têxtil confeccionado 100% em fio poliéster de alta tenacidade e
+ <thead style="color: #FF8000;">
 
-                internamente com tubo de borracha sintética na cor preta; dotada de união tipo
+ <tr>
 
-                engate rápido (“storz”) conforme NBR 14349, é leve e durável pela excelente
+ <th>Modelo</th>
 
-                resistência a ruptura, abrasão e deterioração por bolor e fungos. Em
+ <th>Pressão de Trabalho</th>
 
-                conformidade com a norma ABNT – NBR 11861 e com certificado da marca
+ <th>Pressão de Ruptura</th>
 
-                de conformidade ABNT n° 40.001/01 (1.1/2”). Uso recomendado para
+ <th>Diâmetro</th>
 
-                prédios de ocupação residencial.</p>
+ <th>Conformidade</th>
 
-                
+ </tr>
 
-                 <div class="table-responsive">
+ </thead>
 
-          <table class="table table-bordered table-striped ">
+ <tbody >
 
-				<thead style="color: #FF8000;">
+ <tr>
 
-					<tr>
+ <td>Predyflex</td>
 
-						<th>Modelo</th>
+ <td>10 Kgf/cm²</td>
 
-						<th>Pressão de Trabalho</th>
+ <td>Acima de 42 Kgf/cm²</td>
 
-						<th>Pressão de Ruptura</th>
+ <td>1 ¹/2</td>
 
-						<th>Diâmetro</th>
+ <td>20.001/01</td>
 
-						<th>Conformidade</th>
+ </tr>
 
-                       
+ </tbody>
 
-					</tr>
+ </table>
 
-				</thead>
+ </div>
 
+ <p class="text-center"><strong>(11) 4442 3565 WhatsApp (11) 94025 8669</strong></p>
 
+ <p class="text-center"><strong>Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</strong></p>
 
-				<tbody >
+ <br>
 
-					<tr>
-
-						<td>Predyflex</td>
-
-						<td>10 Kgf/cm²</td>
-
-						<td>Acima de 42 Kgf/cm²</td>
-
-						<td>1 ¹/2</td>
-
-						<td>20.001/01</td>
-
-           
-
-
-
-					</tr>
-
-
-
-				</tbody>
-
-			</table>
-
-                </div>
-
-                
-
-                
-
-                <p class="text-center"><strong>(11) 4442 3565 WhatsApp (11) 94025 8669</strong></p>
-
-
-
-                    <p class="text-center"><strong>Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</strong></p>
-
-                
-
-                
-
-                <br>
-
-                
-
-                <h3 class="meni "><strong><span class="span-fla">Superflex - Tipo 2 -</span>Destina-se à edifícios comerciais, instalações industriais e
+ <h3 class="meni "><strong><span class="span-fla">Superflex - Tipo 2 -</span>Destina-se à edifícios comerciais, instalações industriais e
 
 Corpo de Bombeiros.</strong></h3>
 
-                
+ <img src="/assets/img/old-site/panilha-35.png" class="img-responsive">
 
-                
+ <p>Mangueira de incêndio tipo 2, na cor branca, revestida externamente com reforço
 
-                 <img src="images/panilha-35.png" class="img-responsive">
+ têxtil confeccionado 100% em fio poliéster de alta tenacidade e internamente com
 
-                
+ tubo de borracha sintética na cor preta; dotada de união tipo engate rápido (storz)
 
-                <p>Mangueira de incêndio tipo 2, na cor branca, revestida externamente com reforço
+ conforme NBR 14349, possui excelente resistência a ruptura, abrasão e deterioração
 
-                têxtil confeccionado 100% em fio poliéster de alta tenacidade e internamente com
+ por bolor e fungos. Em conformidade com a norma ABNT – NBR 11861 e com
 
-                tubo de borracha sintética na cor preta; dotada de união tipo engate rápido (storz)
+ certificado da marca de conformidade ABNT n° 40.002/01 (1.1/2”) e 40.003/01
 
-                conforme NBR 14349, possui excelente resistência a ruptura, abrasão e deterioração
+ (2.1/2”). Uso recomendado para prédios de ocupação comercial, industrias, depósitos
 
-                por bolor e fungos. Em conformidade com a norma ABNT – NBR 11861 e com
+ e Corpo de Bombeiros.</p>
 
-                certificado da marca de conformidade ABNT n° 40.002/01 (1.1/2”) e 40.003/01
+ <div class="table-responsive">
 
-                (2.1/2”). Uso recomendado para prédios de ocupação comercial, industrias, depósitos
+ <table class="table table-bordered table-striped ">
 
-                e Corpo de Bombeiros.</p>
+ <thead style="color: #FF8000;">
 
-                
+ <tr>
 
-            <div class="table-responsive">
+ <th>Modelo</th>
 
-                      <table class="table table-bordered table-striped ">
+ <th>Pressão de Trabalho</th>
 
-                            <thead style="color: #FF8000;">
+ <th>Pressão de Ruptura</th>
 
-                                <tr>
+ <th>Diâmetro</th>
 
-                                    <th>Modelo</th>
+ <th>Conformidade</th>
 
-                                    <th>Pressão de Trabalho</th>
+ </tr>
 
-                                    <th>Pressão de Ruptura</th>
+ </thead>
 
-                                    <th>Diâmetro</th>
+ <tbody >
 
-                                    <th>Conformidade</th>
+ <tr>
 
+ <td>Superflex</td>
 
+ <td>14 Kgf/cm²</td>
 
-                                </tr>
+ <td>Acima de 58 Kgf/cm²</td>
 
-                            </thead>
+ <td>1 ¹/2 e 2 ¹/2</td>
 
+ <td>40.002/01 | 40.003/01</td>
 
+ </tr>
 
-                            <tbody >
+ </tbody>
 
-                                <tr>
+ </table>
 
-                                    <td>Superflex</td>
+ </div>
 
-                                    <td>14 Kgf/cm²</td>
+ <p class="text-center"><strong>(11) 4442 3565 WhatsApp (11) 94025 8669</strong></p>
 
-                                    <td>Acima de 58 Kgf/cm²</td>
+ <p class="text-center"><strong>Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</strong></p>
 
-                                    <td>1 ¹/2 e 2 ¹/2</td>
+ <br>
 
-                                    <td>40.002/01 | 40.003/01</td>
+ <h3 class="meni "><strong><span class="span-fla">Superflex Capa Dupla - Tipo 3</span>Destina-se ao meio naval, instalações
 
+ industriais e Corpo de Bombeiros.</strong></h3>
 
+ <img src="/assets/img/old-site/panilha-35.png" class="img-responsive">
 
+ <p>Mangueira de incêndio tipo 3, na cor branca, revestida externamente com duplo
 
+ reforço têxtil confeccionado 100% em fio poliéster de alta tenacidade e internamente
 
-                                </tr>
+ com tubo de borracha sintética na cor preta: dotada de união tipo engate rápido (storz)
 
+ conforme NBR 14349, possui maior resistência a ruptura, abrasão e deterioração por
 
+ bolor e fungos. Em conformidade com a norma ABNT – NBR 11861 e com
 
-                            </tbody>
+ certificado da marca de conformidade ABNT n° 40.004/01 (1.1/2”) e 40.005/01
 
-                        </table>
+ (2.1/2”). Uso recomendado para ambientes onde é desejável uma maior resistência a
 
-                            </div>
+ abrasão, como áreas industriais, navais e Corpo de Bombeiros.</p>
 
-                
+ <div class="table-responsive">
 
-                
+ <table class="table table-bordered table-striped ">
 
-                 <p class="text-center"><strong>(11) 4442 3565 WhatsApp (11) 94025 8669</strong></p>
+ <thead style="color: #FF8000;">
 
+ <tr>
 
+ <th>Modelo</th>
 
-                    <p class="text-center"><strong>Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</strong></p>
+ <th>Pressão de Trabalho</th>
 
-                
+ <th>Pressão de Ruptura</th>
 
-                
+ <th>Diâmetro</th>
 
-                <br>
+ <th>Conformidade</th>
 
-                
+ </tr>
 
-                
+ </thead>
 
-                 <h3 class="meni "><strong><span class="span-fla">Superflex Capa Dupla - Tipo 3</span>Destina-se ao meio naval, instalações
+ <tbody >
 
-                        industriais e Corpo de Bombeiros.</strong></h3>
+ <tr>
 
-                
+ <td>Superflex <br> CD</td>
 
-                
+ <td>15 Kgf/cm²</td>
 
-                 <img src="images/panilha-35.png" class="img-responsive">
+ <td>Acima de 65 Kgf/cm²</td>
 
-                
+ <td>1 ¹/2 e 2 ¹/2</td>
 
-                
+ <td>40.004/01 | 40.005/01</td>
 
-                <p>Mangueira de incêndio tipo 3, na cor branca, revestida externamente com duplo
+ </tr>
 
-                reforço têxtil confeccionado 100% em fio poliéster de alta tenacidade e internamente
+ </tbody>
 
-                com tubo de borracha sintética na cor preta: dotada de união tipo engate rápido (storz)
+ </table>
 
-                conforme NBR 14349, possui maior resistência a ruptura, abrasão e deterioração por
+ </div>
 
-                bolor e fungos. Em conformidade com a norma ABNT – NBR 11861 e com
+ <p class="text-center"><strong>(11) 4442 3565 WhatsApp (11) 94025 8669</strong></p>
 
-                certificado da marca de conformidade ABNT n° 40.004/01 (1.1/2”) e 40.005/01
+ <p class="text-center"><strong>Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</strong></p>
 
-                (2.1/2”). Uso recomendado para ambientes onde é desejável uma maior resistência a
+ <br>
 
-                abrasão, como áreas industriais, navais e Corpo de Bombeiros.</p>
+ <h3 class="meni "><strong><span class="span-fla">Plastflex - Tipo 4 - </span>Destina-se à instalações industriais.</strong></h3>
 
-                
+ <img src="/assets/img/old-site/panilha-36.png" class="img-responsive">
 
-                
+ <p>Mangueira de incêndio tipo 4, na cor vermelha, com reforço têxtil confeccionado</p>
 
-                  <div class="table-responsive">
+ <p>100% em fio poliéster de alta tenacidade, revestida externamente com “blend” de
 
-                      <table class="table table-bordered table-striped ">
+ PVC + borracha nitrílica e internamente com tubo de borracha sintética; dotada de
 
-                            <thead style="color: #FF8000;">
+ união tipo engate rápido (storz) conforme NBR 14349, possui alta resistência a
 
-                                <tr>
+ ruptura, abrasão e a produtos químicos. Em conformidade com a norma ABNT – NBR
 
-                                    <th>Modelo</th>
+ 11861 e com certificado da marca de conformidade ABNT n° 40.006/01 (1.1/2”) e
 
-                                    <th>Pressão de Trabalho</th>
+ 40.007/01 (2.1/2”). Uso recomendado para ambientes onde é desejável uma maior
 
-                                    <th>Pressão de Ruptura</th>
+ resistência a abrasão, como áreas industriais. e Corpo de Bombeiros.</p>
 
-                                    <th>Diâmetro</th>
+ <div class="table-responsive">
 
-                                    <th>Conformidade</th>
+ <table class="table table-bordered table-striped ">
 
+ <thead style="color: #FF8000;">
 
+ <tr>
 
-                                </tr>
+ <th>Modelo</th>
 
-                            </thead>
+ <th>Pressão de Trabalho</th>
 
+ <th>Pressão de Ruptura</th>
 
+ <th>Diâmetro</th>
 
-                            <tbody >
+ <th>Conformidade</th>
 
-                                <tr>
+ </tr>
 
-                                    <td>Superflex <br> CD</td>
+ </thead>
 
-                                    <td>15 Kgf/cm²</td>
+ <tbody >
 
-                                    <td>Acima de 65 Kgf/cm²</td>
+ <tr>
 
-                                    <td>1 ¹/2 e 2 ¹/2</td>
+ <td>Plastflex</td>
 
-                                    <td>40.004/01 | 40.005/01</td>
+ <td>14 Kgf/cm²</td>
 
+ <td>Acima de 55 Kgf/cm²</td>
 
+ <td>1 ¹/2 e 2 ¹/2</td>
 
+ <td>40.006/01 | 40.007/01</td>
 
+ </tr>
 
-                                </tr>
+ </tbody>
 
+ </table>
 
+ </div>
 
-                            </tbody>
+ <p class="text-center"><strong>(11) 4442 3565 WhatsApp (11) 94025 8669</strong></p>
 
-                        </table>
+ <p class="text-center"><strong>Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</strong></p>
 
-                            </div>
+ <br>
 
-                
-
-                     
-
-                 <p class="text-center"><strong>(11) 4442 3565 WhatsApp (11) 94025 8669</strong></p>
-
-
-
-                    <p class="text-center"><strong>Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</strong></p>
-
-                
-
-                <br>
-
-
-
-                
-
-                  <h3 class="meni "><strong><span class="span-fla">Plastflex - Tipo 4 - </span>Destina-se à instalações industriais.</strong></h3>
-
-                
-
-                <img src="images/panilha-36.png" class="img-responsive">
-
-                
-
-                
-
-                <p>Mangueira de incêndio tipo 4, na cor vermelha, com reforço têxtil confeccionado</p>
-
-                
-
-                <p>100% em fio poliéster de alta tenacidade, revestida externamente com “blend” de
-
-                PVC + borracha nitrílica e internamente com tubo de borracha sintética; dotada de
-
-                união tipo engate rápido (storz) conforme NBR 14349, possui alta resistência a
-
-                ruptura, abrasão e a produtos químicos. Em conformidade com a norma ABNT – NBR
-
-                11861 e com certificado da marca de conformidade ABNT n° 40.006/01 (1.1/2”) e
-
-                40.007/01 (2.1/2”). Uso recomendado para ambientes onde é desejável uma maior
-
-                resistência a abrasão, como áreas industriais. e Corpo de Bombeiros.</p>
-
-                
-
-             <div class="table-responsive">
-
-                                  <table class="table table-bordered table-striped ">
-
-                                        <thead style="color: #FF8000;">
-
-                                            <tr>
-
-                                                <th>Modelo</th>
-
-                                                <th>Pressão de Trabalho</th>
-
-                                                <th>Pressão de Ruptura</th>
-
-                                                <th>Diâmetro</th>
-
-                                                <th>Conformidade</th>
-
-
-
-                                            </tr>
-
-                                        </thead>
-
-
-
-                                        <tbody >
-
-                                            <tr>
-
-                                                <td>Plastflex</td>
-
-                                                <td>14 Kgf/cm²</td>
-
-                                                <td>Acima de 55 Kgf/cm²</td>
-
-                                                <td>1 ¹/2 e 2 ¹/2</td>
-
-                                                <td>40.006/01 | 40.007/01</td>
-
-
-
-
-
-                                            </tr>
-
-
-
-                                        </tbody>
-
-                                    </table>
-
-                </div>
-
-                
-
-                
-
-                 <p class="text-center"><strong>(11) 4442 3565 WhatsApp (11) 94025 8669</strong></p>
-
-
-
-                    <p class="text-center"><strong>Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</strong></p>
-
-                
-
-                <br>
-
-                
-
-                
-
-                <h3 class="meni "><strong><span class="span-fla">Ruberflex - Tipo 5 -</span>Destina-se à instalações industriais, cujas necessidades
+ <h3 class="meni "><strong><span class="span-fla">Ruberflex - Tipo 5 -</span>Destina-se à instalações industriais, cujas necessidades
 
 incluem maiores resistências.</strong></h3>
 
-                
+ <img src="/assets/img/old-site/panilha-37.png" class="img-responsive">
 
-                <img src="images/panilha-37.png" class="img-responsive">
+ <p>Mangueira de incêndio tipo 5, na cor preta, com reforço têxtil em fio sintético de alta
 
-                
+ tenacidade, revestida externamente em borracha nitrílica e internamente com tubo de
 
-                
+ borracha sintética; dotada de união tipo engate rápido (storz) conforme NBR 14349,
 
-                <p>Mangueira de incêndio tipo 5, na cor preta, com reforço têxtil em fio sintético de alta
+ possui superior resistência a perfurações, cortes e a produtos químicos. Tem elevada
 
-                tenacidade, revestida externamente em borracha nitrílica e internamente com tubo de
+ resistência a abrasão e a superfícies quentes. Em conformidade com a norma ABNT –
 
-                borracha sintética; dotada de união tipo engate rápido (storz) conforme NBR 14349,
+ NBR 11861 e com certificado da marca de conformidade ABNT n° 40.008/01 (1.1/2”)
 
-                possui superior resistência a perfurações, cortes e a produtos químicos. Tem elevada
+ e 40.009/01 (1.1/2”). Uso recomendado para ambientes onde é desejável elevada
 
-                resistência a abrasão e a superfícies quentes. Em conformidade com a norma ABNT –
+ resistência a abrasão, como áreas industriais.</p>
 
-                NBR 11861 e com certificado da marca de conformidade ABNT n° 40.008/01 (1.1/2”)
+ <div class="table-responsive">
 
-                e 40.009/01 (1.1/2”). Uso recomendado para ambientes onde é desejável elevada
+ <table class="table table-bordered table-striped ">
 
+ <thead style="color: #FF8000;">
 
+ <tr>
 
-                resistência a abrasão, como áreas industriais.</p>
+ <th>Modelo</th>
 
-                
+ <th>Pressão de Trabalho</th>
 
-                
+ <th>Pressão de Ruptura</th>
 
+ <th>Diâmetro</th>
 
+ <th>Conformidade</th>
 
-  <div class="table-responsive">
+ </tr>
 
-                                  <table class="table table-bordered table-striped ">
+ </thead>
 
-                                        <thead style="color: #FF8000;">
+ <tbody >
 
-                                            <tr>
+ <tr>
 
-                                                <th>Modelo</th>
+ <td>Ruberflex</td>
 
-                                                <th>Pressão de Trabalho</th>
+ <td>14 Kgf/cm²</td>
 
-                                                <th>Pressão de Ruptura</th>
+ <td>Acima de 55 Kgf/cm²</td>
 
-                                                <th>Diâmetro</th>
+ <td>1 ¹/2 e 2 ¹/2</td>
 
-                                                <th>Conformidade</th>
+ <td>40.008/01 | 40.009/01</td>
 
+ </tr>
 
+ </tbody>
 
-                                            </tr>
+ </table>
 
-                                        </thead>
+ </div>
 
+ <br><br>
 
+ </div>
 
-                                        <tbody >
+ </div>
 
-                                            <tr>
-
-                                                <td>Ruberflex</td>
-
-                                                <td>14 Kgf/cm²</td>
-
-                                                <td>Acima de 55 Kgf/cm²</td>
-
-                                                <td>1 ¹/2 e 2 ¹/2</td>
-
-                                                <td>40.008/01 | 40.009/01</td>
+ </section>
 
 
-
-
-
-                                            </tr>
-
-
-
-                                        </tbody>
-
-                                    </table>
-
+                    </article>
                 </div>
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-               </div>
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-        
-
-        <style>
-
-        
-
-            .span-fla{
-
-                font-size:29px;
-
-            }
-
-            
-
-            .meni{
-
-               font-size:  19px;
-
-            }
-
-        </style>
-
-
-
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

@@ -1,136 +1,99 @@
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: abrigo-para-mangueiras-de-incendio.php
+ */
 
+// Configuração da página
+$page_config = array(
+    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Descrição da página',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/abrigo-para-mangueiras-de-incendio.php',
+);
 
-<!DOCTYPE html>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Título da Página',
+    ),
+);
 
-<html lang="pt-br">
+$heroConfig = array(
+    'title' => 'Título da Página',
+    'description' => 'Descrição da página',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-<head>
-
-    <!-- Google Tag Manager -->
-
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-
-        <!-- End Google Tag Manager -->
-
-	<title>Abrigo para Mangueiras de Incêndio: Segurança e Qualidade com a
-
-	BS  HSA,</title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Abrigo para Mangueiras de Incêndio: Segurança e Qualidade com a
-
-BS  HSA,">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-                <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
-
-		<div class="tira-whats">
-
-   <a href="https://api.whatsapp.com/send?phone=5511940258669" target="_blank"> <img src="images/whatsaoologo.png" width="200" alt=""></a>
-
-</div>
-
-
-
-<style>
-
-    @media only screen and (max-width: 600px){
-
-.tira-whats{
-
-    display: block;
-
-    position: fixed;
-
-    left: 95%;
-
-    top: 82%;
-
-    margin-left: -178px;
-
-    z-index: 10;
-
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
 }
+?>
 
-}
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-</style>
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-	<section class="container">
 
-		<div class="row">	
+ <!-- Google Tag Manager (noscript) -->
 
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
+ <!-- End Google Tag Manager (noscript) -->
 
-				<img src="images/img-120.png" class="img-responsive" alt="">
+ <section class="container">
 
-				<h4><strong>Abrigo para Mangueiras de Incêndio: Segurança e Qualidade com a
+ <div class="row"> 
 
-				BS  HSA, faça um orçamento agora (11) 94025 8669.</strong></h4>
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-				<h5><strong>Modelos padrões e especiais, consulte-nos e faça um orçamento.</strong></h5>
+ <img src="/assets/img/old-site/img-120.png" class="img-responsive" alt="">
 
-				<img src="images/img-121.png" alt="">
+ <h4><strong>Abrigo para Mangueiras de Incêndio: Segurança e Qualidade com a
 
-				<p>Proteja suas mangueiras de incêndio com os abrigos de alta qualidade da BS Brasil
+ BS HSA, faça um orçamento agora (11) 94025 8669.</strong></h4>
 
-				Segurança HSA. Descubra como nossos produtos garantem segurança e durabilidade!</p>
+ <h5><strong>Modelos padrões e especiais, consulte-nos e faça um orçamento.</strong></h5>
 
-				<p>A segurança contra incêndios é uma prioridade em qualquer instalação, seja industrial,
+ <img src="/assets/img/old-site/img-121.png" alt="">
+
+ <p>Proteja suas mangueiras de incêndio com os abrigos de alta qualidade da BS Brasil
+
+ Segurança HSA. Descubra como nossos produtos garantem segurança e durabilidade!</p>
+
+ <p>A segurança contra incêndios é uma prioridade em qualquer instalação, seja industrial,
 
 comercial ou residencial. Um dos componentes essenciais para garantir essa segurança é
 
@@ -138,7 +101,7 @@ o abrigo para mangueiras de incêndio. Este equipamento é fundamental para prot
 
 as mangueiras contra intempéries e danos físicos, assegurando que estejam sempre
 
-prontas para uso em situações de emergência. A BS  HSA oferece
+prontas para uso em situações de emergência. A BS HSA oferece
 
 soluções de alta qualidade nesse segmento, garantindo a proteção e a eficácia dos
 
@@ -170,7 +133,7 @@ situações emergenciais.</p>
 
 <h3><strong>Especificações Técnicas do Abrigo para Mangueiras de Incêndio</strong></h3>
 
-<p>Os abrigos para mangueiras de incêndio da BS  HSA são
+<p>Os abrigos para mangueiras de incêndio da BS HSA são
 
 desenvolvidos seguindo rigorosos padrões de qualidade e segurança. Aqui estão
 
@@ -178,31 +141,31 @@ algumas especificações técnicas importantes:</p>
 
 <ul>
 
-	<li>Material: Fabricados em aço galvanizado resistência, oferecendo durabilidade e
+ <li>Material: Fabricados em aço galvanizado resistência, oferecendo durabilidade e
 
-	proteção contra corrosão.</li>
+ proteção contra corrosão.</li>
 
-	<li>Dimensões: Disponíveis em várias dimensões, adequando-se a diferentes tipos
+ <li>Dimensões: Disponíveis em várias dimensões, adequando-se a diferentes tipos
 
-	de mangueiras e necessidades operacionais.</li>
+ de mangueiras e necessidades operacionais.</li>
 
-	<li>Capacidade: Podem comportar mangueiras de diferentes tamanhos, desde 1,5”
+ <li>Capacidade: Podem comportar mangueiras de diferentes tamanhos, desde 1,5”
 
-	até 2 ½” com 15,20,25 ou 30 metros garantindo versatilidade.</li>
+ até 2 ½” com 15,20,25 ou 30 metros garantindo versatilidade.</li>
 
-	<li>Acesso: Abertura frontal com portas que permitem acesso rápido e fácil às
+ <li>Acesso: Abertura frontal com portas que permitem acesso rápido e fácil às
 
-	mangueiras, garantindo que as equipes possam agir rapidamente.</li>
+ mangueiras, garantindo que as equipes possam agir rapidamente.</li>
 
-	<li>Ventilação: Alguns modelos contam com ventilação para evitar o acúmulo de
+ <li>Ventilação: Alguns modelos contam com ventilação para evitar o acúmulo de
 
-	umidade, prolongando a vida útil das mangueiras.</li>
+ umidade, prolongando a vida útil das mangueiras.</li>
 
 </ul>
 
-<h3><strong>Qualidade e Garantia da BS  HSA</strong></h3>
+<h3><strong>Qualidade e Garantia da BS HSA</strong></h3>
 
-<p>A BS  HSA é reconhecida pela qualidade de seus produtos e pela
+<p>A BS HSA é reconhecida pela qualidade de seus produtos e pela
 
 confiança que inspira em seus clientes. Cada abrigo para mangueiras de incêndio é
 
@@ -214,29 +177,29 @@ demonstrando seu compromisso com a satisfação do cliente e a durabilidade de s
 
 soluções.</p>
 
-<h3><strong>Benefícios de Escolher a BS  HSA</strong></h3>
+<h3><strong>Benefícios de Escolher a BS HSA</strong></h3>
 
-<p>Optar pela BS  HSA para adquirir um abrigo para mangueiras de
+<p>Optar pela BS HSA para adquirir um abrigo para mangueiras de
 
 incêndio traz uma série de benefícios:</p>
 
 <ul>
 
-	<li>Experiência: Com anos de atuação no mercado, a empresa possui conhecimento
+ <li>Experiência: Com anos de atuação no mercado, a empresa possui conhecimento
 
-	profundo sobre as necessidades de segurança em combate a incêndios.</li>
+ profundo sobre as necessidades de segurança em combate a incêndios.</li>
 
-	<li>Atendimento Personalizado: A equipe de especialistas está sempre pronta para
+ <li>Atendimento Personalizado: A equipe de especialistas está sempre pronta para
 
-	ajudar na escolha do produto mais adequado às suas necessidades.</li>
+ ajudar na escolha do produto mais adequado às suas necessidades.</li>
 
-	<li>Inovação: Investimos em tecnologia e inovação, oferecendo produtos modernos
+ <li>Inovação: Investimos em tecnologia e inovação, oferecendo produtos modernos
 
-	e eficazes.</li>
+ e eficazes.</li>
 
-	<li>Suporte Pós-Venda: Proporcionamos um excelente suporte pós-venda,
+ <li>Suporte Pós-Venda: Proporcionamos um excelente suporte pós-venda,
 
-	assegurando que os clientes tenham toda a assistência necessária após a compra.</li>
+ assegurando que os clientes tenham toda a assistência necessária após a compra.</li>
 
 </ul>
 
@@ -244,69 +207,35 @@ incêndio traz uma série de benefícios:</p>
 
 <p>Um abrigo para mangueiras de incêndio é um investimento crucial para garantir a
 
-segurança de qualquer instalação. Com a BS  HSA, você pode contar
+segurança de qualquer instalação. Com a BS HSA, você pode contar
 
 com produtos de alta qualidade, especificações técnicas rigorosas e uma garantia que
 
 assegura a durabilidade e eficácia do equipamento. Não comprometa a segurança da sua
 
-propriedade; escolha a BS  HSA e tenha a certeza de que suas
+propriedade; escolha a BS HSA e tenha a certeza de que suas
 
 mangueiras de incêndio estarão sempre protegidas e prontas para uso. A proteção do seu
 
 patrimônio começa aqui!</p>
 
+ <br><br>
+
+ </div>
+
+ </div>
+
+ </section>
 
 
-               <?php include('includes/contato.php'); ?>
-
-             
-
-                
-
-
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-
-
-               </div>
-
-              
-
-              
-
-                       
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

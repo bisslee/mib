@@ -15,8 +15,16 @@ $host = $_SERVER['HTTP_HOST'];
 
 // Configurar base_url baseado no ambiente
 if (strpos($host, 'localhost') !== false) {
+    // Ambiente LOCAL: http://localhost:8133/
+    $base_url = $protocol . '://' . $host;
+} elseif (strpos($host, 'mib.biss.com.br') !== false) {
+    // Ambiente HOMOLOGAÇÃO: https://mib.biss.com.br/
+    $base_url = $protocol . '://' . $host;
+} elseif (strpos($host, 'mangueirasdeincendiobrasil.com.br') !== false) {
+    // Ambiente PRODUÇÃO: https://mangueirasdeincendiobrasil.com.br/
     $base_url = $protocol . '://' . $host;
 } else {
+    // Fallback para produção (caso não detecte o ambiente)
     $base_url = 'https://mangueirasdeincendiobrasil.com.br';
 }
 

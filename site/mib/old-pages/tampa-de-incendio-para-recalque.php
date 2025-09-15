@@ -1,260 +1,199 @@
-<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: tampa-de-incendio-para-recalque.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'TAMPA DE INCÊNDIO PARA RECALQUE - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Descrição da página',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/tampa-de-incendio-para-recalque.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'TAMPA DE INCÊNDIO PARA RECALQUE',
+    ),
+);
 
-    <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'TAMPA DE INCÊNDIO PARA RECALQUE',
+    'description' => 'Descrição da página',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+ <!-- Google Tag Manager (noscript) -->
 
-        <!-- End Google Tag Manager -->
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-	<title>Tampa de incêndio para recalque - Mangueiras de Incêndio Brasil </title>
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <!-- End Google Tag Manager (noscript) -->
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+ 
 
-	<meta name="description" content="Tampa de incêndio para recalque">
+ <section class="container">
 
-	<meta name="author" content="OtimizaMais Marketing Digital">
+ <div class="row"> 
 
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
+ <div>
 
+ <img src="/assets/img/old-site/panilha-50.png" class="img-responsive">
 
-	<!-- Bootstrap Core CSS -->
+ </div>
 
-	<link href="css/bootstrap.css" rel="stylesheet">
+ <h2><strong>TAMPA DE INCÊNDIO PARA RECALQUE</strong></h2>
 
+ <p>A <strong>tampa de incêndio para recalque</strong> é um equipamento robusto, fabricado em
 
+ ferro fundido com acabamento jateado, cuja principal função é manter
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ protegido o registro de recalque e sua caixa. Suas dimensões, em centímetros,
 
-	<script src="js/jquery.js"></script>
+ são de 60 de largura por 40 de altura.</p>
 
-	<script src="js/bootstrap.min.js"></script>
+ <p>O registro, por sua vez, é utilizado para abastecer a coluna de hidrantes
 
+ presentes nas edificações e sua presença é obrigatória, uma vez que durante
 
+ incêndios de grande porte o fornecimento público de água pode não ser
 
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+ suficiente para contenção das chamas.</p>
 
+ <p>Assim, quando situado nas vias públicas, o registro deve ser enterrado no
 
+ interior de uma caixa de alvenaria com dreno ou fundo permeável, protegida
 
-</head>
+ pela tampa articulada e identificada pela palavra “Incêndio”, trata-se de uma
 
-<body>
+ exigência legal que não pode ser descumprida.</p>
 
-    <!-- Google Tag Manager (noscript) -->
+ <h2><strong>Segurança em primeiro lugar</strong></h2>
 
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
+ <P>A aquisição de equipamentos de segurança viabiliza de forma plena o uso de
 
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ imóveis, sejam eles residenciais, comerciais ou fabris, e proporcionam mais
 
-                <!-- End Google Tag Manager (noscript) -->
+ proteção e bem-estar às pessoas, além de manter as estruturas prediais
 
-	<main>	
+ asseguradas em caso de sinistro.</P>
 
-		<header>
+ <ul>
 
-			<?php include ('includes/header.php'); ?>   	
+ <li>A não instalação de dispositivos, como o registro de recalque ou mesmo
 
-		</header>
+ extintores e mangueiras de incêndio, acarreta em diversos problemas
 
+ legais, pagamento de multas e mesmo a desapropriação do imóvel, uma
 
+ vez que esse apresenta riscos à população;</li>
 
-        <div class="fixa2">
+ <li>Ademais, imóveis irregulares não possuem a cobertura de seguradoras.
 
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
+ Em caso de sinistro e ao comprovar que as estruturas não estavam
 
-                        </div>
+ devidamente equipadas, se recusam a realizar o pagamento de
 
-                        <?php include("includes/aside.php"); ?>
+ indenizações, fator que acarreta diversos prejuízos;</li>
 
-                  
+ <li>Por fim, a ausência desses equipamentos também é um fator que
 
+ impede a total eficiência do Corpo de Bombeiros e pode resultar em
 
+ perdas humanas e materiais. Logo, a regularização dos imóveis não é
 
-	<section class="container">
+ apenas desejada, mas altamente necessária.</li>
 
-		<div class="row">	
+ </ul>
 
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <h2><strong>Tampa de incêndio para recalque, extintores e muito mais</strong></h2>
 
-            <div>
+ <p>Para a correta adequação dos imóveis, é necessário que sua planta seja
 
-	
+ avaliada pelo Corpo de Bombeiros. Eles são os responsáveis por dar o aval ao
 
-                      
+ seu funcionamento junto aos órgãos governamentais e também emitir laudos
 
-                      <img src="images/panilha-50.png" class="img-responsive">
+ que devem ser enviados às seguradoras.</p>
 
-                   </div>
+ <p>A escolha dos equipamentos ideais também é avaliada. Locais com alta
 
-                
+ abrasividade, temperaturas elevadas e presença de componentes químicos
 
-                <h2><strong>TAMPA DE INCÊNDIO PARA RECALQUE</strong></h2>
+ agressivos, como é o caso de diversas indústrias, é exigido um aparato
 
-                
+ especial para conter situações extremas.</p>
 
-                <p>A <strong>tampa de incêndio para recalque</strong> é um equipamento robusto, fabricado em
+ <p>Para sua aquisição com preços competitivos e excelentes prazos de entrega, o
 
-                ferro fundido com acabamento jateado, cuja principal função é manter
+ mais recomendado é contar com a , uma empresa sólida e
 
-                protegido o registro de recalque e sua caixa. Suas dimensões, em centímetros,
+ experiente, com amplo estoque de produtos a pronta entrega e sempre em
 
-                são de 60 de largura por 40 de altura.</p>
+ conformidade com a legislação.</p>
 
-                
+ <br><br>
 
-                <p>O registro, por sua vez, é utilizado para abastecer a coluna de hidrantes
+ </div>
 
-                    presentes nas edificações e sua presença é obrigatória, uma vez que durante
+ </div>
 
-                    incêndios de grande porte o fornecimento público de água pode não ser
+ </section>
 
-                    suficiente para contenção das chamas.</p>
 
-                
-
-                <p>Assim, quando situado nas vias públicas, o registro deve ser enterrado no
-
-                interior de uma caixa de alvenaria com dreno ou fundo permeável, protegida
-
-                pela tampa articulada e identificada pela palavra “Incêndio”, trata-se de uma
-
-                exigência legal que não pode ser descumprida.</p>
-
-                
-
-                <h2><strong>Segurança em primeiro lugar</strong></h2>
-
-                
-
-                <P>A aquisição de equipamentos de segurança viabiliza de forma plena o uso de
-
-                imóveis, sejam eles residenciais, comerciais ou fabris, e proporcionam mais
-
-                proteção e bem-estar às pessoas, além de manter as estruturas prediais
-
-                asseguradas em caso de sinistro.</P>
-
-                
-
-                <ul>
-
-                
-
-                    <li>A não instalação de dispositivos, como o registro de recalque ou mesmo
-
-                        extintores e mangueiras de incêndio, acarreta em diversos problemas
-
-                        legais, pagamento de multas e mesmo a desapropriação do imóvel, uma
-
-                        vez que esse apresenta riscos à população;</li>
-
-                    
-
-                    <li>Ademais, imóveis irregulares não possuem a cobertura de seguradoras.
-
-                    Em caso de sinistro e ao comprovar que as estruturas não estavam
-
-                    devidamente equipadas, se recusam a realizar o pagamento de
-
-                    indenizações, fator que acarreta diversos prejuízos;</li>
-
-                    
-
-                    <li>Por fim, a ausência desses equipamentos também é um fator que
-
-                    impede a total eficiência do Corpo de Bombeiros e pode resultar em
-
-                    perdas humanas e materiais. Logo, a regularização dos imóveis não é
-
-                    apenas desejada, mas altamente necessária.</li>
-
-                    
-
-                </ul>
-
-                
-
-                <h2><strong>Tampa de incêndio para recalque, extintores e muito mais</strong></h2>
-
-                
-
-                <p>Para a correta adequação dos imóveis, é necessário que sua planta seja
-
-                avaliada pelo Corpo de Bombeiros. Eles são os responsáveis por dar o aval ao
-
-                seu funcionamento junto aos órgãos governamentais e também emitir laudos
-
-                que devem ser enviados às seguradoras.</p>
-
-                
-
-                
-
-                <p>A escolha dos equipamentos ideais também é avaliada. Locais com alta
-
-                abrasividade, temperaturas elevadas e presença de componentes químicos
-
-                agressivos, como é o caso de diversas indústrias, é exigido um aparato
-
-                especial para conter situações extremas.</p>
-
-                
-
-                <p>Para sua aquisição com preços competitivos e excelentes prazos de entrega, o
-
-                mais recomendado é contar com a , uma empresa sólida e
-
-                experiente, com amplo estoque de produtos a pronta entrega e sempre em
-
-                conformidade com a legislação.</p>
-
-                
-
-                
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-                
-
-               </div>
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

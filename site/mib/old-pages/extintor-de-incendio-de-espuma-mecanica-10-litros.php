@@ -1,166 +1,149 @@
-e<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: extintor-de-incendio-de-espuma-mecanica-10-litros.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'Referência Extintor de espuma mecânica - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'EXTINTOR DE INCÊNDIO DE ESPUMA MECÂNICA 10 LITROS',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/extintor-de-incendio-de-espuma-mecanica-10-litros.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Referência Extintor de espuma mecânica',
+    ),
+);
 
-    <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'Referência Extintor de espuma mecânica',
+    'description' => 'EXTINTOR DE INCÊNDIO DE ESPUMA MECÂNICA 10 LITROS',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+ <!-- Google Tag Manager (noscript) -->
 
-        <!-- End Google Tag Manager -->
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-	<title>Extintor de espuma mecânica. - Mangueiras de Incêndio Brasil </title>
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <!-- End Google Tag Manager (noscript) -->
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+ <section class="container">
 
-	<meta name="description" content="Extintor de espuma mecânica. ">
+ <div class="row"> 
 
-	<meta name="author" content="OtimizaMais Marketing Digital">
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
+ <div>
 
+ <img src="/assets/img/old-site/planilha-65.png" alt="">
 
+ </div>
 
-	<!-- Bootstrap Core CSS -->
+ <h2><strong>Referência: Extintor de espuma mecânica..</strong></h2>
 
-	<link href="css/bootstrap.css" rel="stylesheet">
+ <div class="table-responsive">
 
+ <table class="table table-bordered table-striped ">
 
+ <thead style="color: #FF8000;">
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ <tr>
 
-	<script src="js/jquery.js"></script>
+ <th>Capacidade Extintora</th>
 
-	<script src="js/bootstrap.min.js"></script>
+ <th>Material</th>
 
+ <th>Carga</th>
 
+ <th>Pressurização</th>
 
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+ <th>Tempo de Descarga</th>
 
+ <th>Norma</th>
 
+ </tr>
 
-</head>
+ </thead>
 
-<body>
+ <tbody >
 
-                <!-- Google Tag Manager (noscript) -->
+ <tr>
 
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
+ <td>2A - 10B</td>
 
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <td>Espuma Mecânica</td>
 
-                <!-- End Google Tag Manager (noscript) -->
+ <td>10 Litros</td>
 
-	<main>	
+ <td>Direta</td>
 
-		<header>
+ <td>5 Seg</td>
 
-			<?php include ('includes/header.php'); ?>   	
+ <td>NBR 15808</td>
 
-		</header>
+ </tr>
 
+ </tbody>
 
+ </table>
 
-	<section class="container">
+ </div>
 
-		<div class="row">	
+ <article>
 
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <p>EXTINTOR DE INCÊNDIO DE ESPUMA MECÂNICA 10 LITROS</p>
 
-
-
-                <div>
-
-                    <img src="images/planilha-65.png" alt="">
-
-                </div>
-
-                <h2><strong>Referência: Extintor de espuma mecânica..</strong></h2>
-
-                
-
-                
-
-    <div class="table-responsive">
-
-          <table class="table table-bordered table-striped ">
-
-				<thead style="color: #FF8000;">
-
-					<tr>
-
-						<th>Capacidade Extintora</th>
-
-						<th>Material</th>
-
-						<th>Carga</th>
-
-						<th>Pressurização</th>
-
-						<th>Tempo de Descarga</th>
-
-                        <th>Norma</th>
-
-					</tr>
-
-				</thead>
-
-
-
-				<tbody >
-
-					<tr>
-
-						<td>2A - 10B</td>
-
-						<td>Espuma Mecânica</td>
-
-						<td>10 Litros</td>
-
-						<td>Direta</td>
-
-						<td>5 Seg</td>
-
-                        <td>NBR 15808</td>
-
-
-
-					</tr>
-
-
-
-				</tbody>
-
-			</table>
-
-                </div>
-
-                
-
-                <article>
-
-					<p>EXTINTOR DE INCÊNDIO DE ESPUMA MECÂNICA 10 LITROS</p>
-
-
-
-                    <p>Com a função de combater incêndios, assim como eliminar ou controlar focos menores
+ <p>Com a função de combater incêndios, assim como eliminar ou controlar focos menores
 
 do fogo, o extintor de incêndio de espuma mecânica 10 litros é um dos modelos
 
 destinados à prevenção e resolução de incêndios de classe A e classe B.</p>
-
-
 
 <p>As classes de incêndio referem-se ao tipo de material que é queimado, por isso, no
 
@@ -168,29 +151,23 @@ caso do extintor de incêndio de espuma mecânica 10 litros é possível lidar d
 
 mais eficiente quando o acidente envolve:</p>
 
-
-
 <ul>
 
-            <li>Aparas de papel,</li>
+ <li>Aparas de papel,</li>
 
-            <li>Madeira,</li>
+ <li>Madeira,</li>
 
-            <li>Combustíveis sólidos,</li>
+ <li>Combustíveis sólidos,</li>
 
-            <li>Tecidos e</li>
+ <li>Tecidos e</li>
 
-            <li>Líquidos inflamáveis.</li>
+ <li>Líquidos inflamáveis.</li>
 
 </ul>
-
-
 
 <p>AS PRINCIPAIS VANTAGENS DO EXTINTOR DE INCÊNDIO DE ESPUMA MECÂNICA 10
 
 LITROS</p>
-
-
 
 <p>Com uma série de vantagens ligadas, principalmente, ao tempo de resposta e à sua
 
@@ -200,15 +177,11 @@ agentes mais utilizados no combate ao incêndio: o detergente concentrado (LGE).
 
 Conheça um pouco mais sobre a sua estrutura.</p>
 
-
-
 <p>O LEG é gerado por meio do batimento mecânico com água e ar, o que confere uma
 
 ação de resfriamento e abafamento mútua, já que a espuma funciona como um tipo
 
 de manta.</p>
-
-
 
 <p>O extintor de incêndio de espuma mecânica 10 litros possui um tempo de descarga de
 
@@ -220,8 +193,6 @@ litros funciona por meio de acionamento simples, além de ter um manuseio muito
 
 fácil, o que agiliza ainda mais a sua utilização.</p>
 
-
-
 <p>Podendo ser levado até o local de combate ao fogo devido ao seu peso, o extintor
 
 espuma mecânica 10 litros, possui descarga de alta vazão, o que permite, por exemplo,
@@ -232,11 +203,7 @@ Além dessas vantagens, esse tipo de extintor leva aditivo anticorrosivo e antic
 
 que ajuda em sua extensa durabilidade.</p>
 
-
-
 <p>RESPONSABILIDADE E COMPROMISSO COM EQUIPAMENTOS DE SEGURANÇA</p>
-
-
 
 <p>Ao pensar nas melhores soluções em segurança para ambientes dos mais variados
 
@@ -244,19 +211,13 @@ segmentos, é preciso levar em consideração a origem dos equipamentos. Por iss
 
 confiar na empresa fornecedora é um dos primeiros passos para fazer tudo dar certo.</p>
 
-
-
 <p>A BS Brasil segurança é uma empresa que se preocupa com todo esse processo, além
 
 de oferecer uma série de produtos certificados por órgãos oficiais, ela trabalha para
 
 promover a tranquilidade e a total satisfação de seus clientes e parceiros.</p>
 
-
-
 <p><strong>Vantagens de Comprar com a BS Brasil segurança.</strong></p>
-
-
 
 <p>Credibilidade segurança e garantia</p>
 
@@ -282,63 +243,27 @@ promover a tranquilidade e a total satisfação de seus clientes e parceiros.</p
 
 <p>Mais de 2000 clientes atendidos e satisfeitos entre condomínios e empresas.</p>
 
+ </article>
+
+ <br><br>
+
+ </div>
+
+ 
+
+ </div>
+
+ </section>
 
 
-                </article>
-
-  
-
-                
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-
-
-             
-
-
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

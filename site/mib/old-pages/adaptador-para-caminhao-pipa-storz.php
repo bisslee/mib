@@ -1,100 +1,95 @@
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: adaptador-para-caminhao-pipa-storz.php
+ */
+
+// Configuração da página
+$page_config = array(
+    'title' => 'Adaptador Storz - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Está procurando por um adaptador para caminhão pipa com alta durabilidade, segurança e entrega imediata? A BS é especialista em conectores Storz e ...',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/adaptador-para-caminhao-pipa-storz.php',
+);
+
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Adaptador Storz',
+    ),
+);
+
+$heroConfig = array(
+    'title' => 'Adaptador Storz',
+    'description' => 'Está procurando por um adaptador para caminhão pipa com alta durabilidade, segurança e entrega imediata? A BS é especialista em conectores Storz e ...',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
+
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
+
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
 
-<!DOCTYPE html>
+ <!-- Google Tag Manager (noscript) -->
 
-<html lang="pt-br">
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-<head>
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-    <!-- Google Tag Manager -->
+ <!-- End Google Tag Manager (noscript) -->
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ <section class="container">
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ <div class="row"> 
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ </article>
 
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+ <h1>Adaptador Storz</h1>
 
-        <!-- End Google Tag Manager -->
-
-	<title>Adaptadores Storz para Caminhão Pipa: Conexão Rápida, Segura e Eficiente</title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Adaptadores Storz para Caminhão Pipa: Conexão Rápida, Segura e Eficiente">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-                <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
-
-
-
-	<section class="container">
-
-		<div class="row">	
-
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
- 
-
-          
-
-                </article>
-
-  <h1>Adaptador Storz</h1>
-
-<img src="images/img1010.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1010.png" class="img-responsive" alt="">
 
 <h2>🚚 Adaptadores Storz para Caminhão Pipa: Conexão Rápida, Segura e Eficiente</h2>
 
 <!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
-<p>Está procurando por um adaptador para caminhão pipa com alta durabilidade, segurança e entrega imediata? A BS  é especialista em conectores Storz e engates rápidos para sistemas de abastecimento de água em caminhões, oferecendo soluções ideais para:</p>
+<p>Está procurando por um adaptador para caminhão pipa com alta durabilidade, segurança e entrega imediata? A BS é especialista em conectores Storz e engates rápidos para sistemas de abastecimento de água em caminhões, oferecendo soluções ideais para:</p>
 
 <p>Combate a incêndios</p>
 
@@ -160,13 +155,13 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Modelos de Adaptadores Storz para Caminhões-Pipa</p>
 
-<img src="images/img1011.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1011.png" class="img-responsive" alt="">
 
 <p>Os adaptadores Storz para caminhões-pipa estão disponíveis em diversos modelos, atendendo a diferentes necessidades de conexões e vazões. A seguir, apresentamos os principais modelos de adaptadores Storz para caminhões-pipa disponíveis:</p>
 
 <p>Adaptadores Storz com Rosca Fêmea</p>
 
-<img src="images/img1012.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1012.png" class="img-responsive" alt="">
 
 <p>GM 44: 1 1/2" Storz x Rosca 1 ½” Fêmea 11 FPP</p>
 
@@ -178,7 +173,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Adaptadores Storz com Rosca Macho</p>
 
-<img src="images/img1013.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1013.png" class="img-responsive" alt="">
 
 <p>GM 74: 1 1/2" Storz x Rosca 1 1/2" Macho 11 FPP</p>
 
@@ -188,7 +183,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Uniões Storz com Espigões</p>
 
-<img src="images/img1014.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1014.png" class="img-responsive" alt="">
 
 <p>As uniões Storz com espigões são ideais para conectar mangueiras de diferentes diâmetros, permitindo uma adaptação eficiente entre componentes diversos, sem comprometer a pressão e o fluxo de água.</p>
 
@@ -204,7 +199,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Redução Storz Fixa</p>
 
-<img src="images/img1015.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1015.png" class="img-responsive" alt="">
 
 <p>As reduções Storz fixas são ideais para adaptar mangueiras de diferentes diâmetros, com uma face Storz de 2 1/2" e outra face com 1 1/2", garantindo a continuidade do abastecimento de água sem perda de eficiência.</p>
 
@@ -212,7 +207,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Esguichos de Jato Sólido e Reguláveis</p>
 
-<img src="images/img1016.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1016.png" class="img-responsive" alt="">
 
 <p>Além dos adaptadores, oferecemos esguichos tipo jato sólido e regulável, perfeitos para controle preciso do fluxo de água:</p>
 
@@ -248,59 +243,25 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 E-mail: contato@mangueirasdeincendiobrasil.com.br</strong></p>
 
+ <br><br>
+
+ </div>
+
+ 
+
+ </div>
+
+ </section>
 
 
-                     <?php include('includes/contato.php'); ?>
-
-                
-
-
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

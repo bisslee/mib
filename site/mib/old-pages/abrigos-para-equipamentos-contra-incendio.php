@@ -1,569 +1,359 @@
-	<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: abrigos-para-equipamentos-contra-incendio.php
+ */
 
-	<html lang="en">
+// Configuração da página
+$page_config = array(
+    'title' => 'Abrigos para Equipamentos Contra Incêndio - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Solicite um orçamento!',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/abrigos-para-equipamentos-contra-incendio.php',
+);
 
-	<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Abrigos para Equipamentos Contra Incêndio',
+    ),
+);
 
-	      <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'Abrigos para Equipamentos Contra Incêndio',
+    'description' => 'Solicite um orçamento!',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+ <!-- Google Tag Manager (noscript) -->
 
-        <!-- End Google Tag Manager -->
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-	    
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-	    <meta charset="utf-8">
+ <!-- End Google Tag Manager (noscript) -->
 
-	    
+ <?php include ('includes/header.php'); ?> 
 
-	    <title>Abrigos para Equipamentos Contra Incêndio</title>
+ <div class="row" style="margin: 0px auto; ">
 
-	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <div class="col-lg-12 hgroupinternas" style="padding-top:20px; padding-bottom:10px;">
 
-	    <meta name="viewport" content="width=device-width, initial-scale=1">
+ <div class="container ">
 
-	    <meta name="description" content="Abrigos para Equipamentos Contra Incêndio é na . Contamos com diversos equipamentos contra incêndio. Abrigos para Equipamentos Contra Incêndio em SP é aqui!">
+ <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12" style="padding:20px 0px 20px 0px;">
 
-	    <meta name="author" content="OtimizaMais Marketing Digital">
+ <h1>Abrigos para Equipamentos Contra Incêndio</h1>
 
-	    <meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
+ </div>
 
+ <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding:20px 0px 20px 0px;">
 
+ <p style="text-align:right;"><a href="contato.php" class="btn btn-info" role="button">Solicite um orçamento!</a></p>
 
-	    <!-- Bootstrap Core CSS -->
+ </div>
 
-	    <link href="css/bootstrap.css" rel="stylesheet">
+ </div>
 
-	    
+ </div>
 
-	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ </div>
 
-	    <script src="js/jquery.js"></script>
+ <div class="row" style="margin: 0px auto; ">
 
-	    <script src="js/bootstrap.min.js"></script>
+ <div class="col-lg-12">
 
+ <div class="container ">
 
+ <ol class="breadcrumb"><li><a href="index.php">Home</a></li><li><a href="produtos-e-acessorios-contra-incendio.php">Produtos e Acessórios</a></li><li class="active">Abrigos para Equipamentos Contra Incêndio</li></ol>
 
-	    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-	  
+ <h2>Abrigos para Equipamentos Contra Incêndio</h2>
 
-	  <style type="text/css">
+ </div>
 
-	      table
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
-	      {
+ <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
 
-			border-collapse:collapse;
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px; margin-top:10px;">
 
-			background-color:#F9F9F9;
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
-			margin-bottom:20px;
+ <p> Os Abrigos para equipamentos contra incêndio são importantes pois, conservam todos os equipamentos dentro de sua caixa, preservando das intempéries do tempo. Temos vários tipos de abrigos tais como: abrigos para extintortes de incêndio, abrigos para hidrantes e abrigos para mangueiras de incêndio. </p>
 
-			text-align:center;
+ <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="margin-top:10px;">
 
-	      }
+ <h2 style="margin-top:0px;">Modelo Industrial</h2>
 
-	      table td, th
+ <p>Fabricado em aço carbono, 1010 - 1020 com acabento em pintura epox, na cor vermelha padrão bombeiro. Porta dotada de trinco, visor para vidro e veneziana de ventilação.</p>
 
-	      {
+ <p>
 
-	        border:solid 1px #E8E8E8;
+ Modelo 2 Portas<br>
 
-	        padding:3px 7px 2px 7px;
+ Mangueira:
 
-			text-align:center;
+ Ø: 1.1/2" ou 2.1/2"<br>
 
-	      }
+ Comprimento: 30<br>
 
-	      table th
+ Quantidade: 4<br>
 
-	      {
+ Suporte Tipo: 1/2 Lua ou Basculante
 
-	        font-size:16px;
+ <p>
 
-	        text-align:center;
+ </div>
 
-	        padding-top:5px;
+ <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="margin-top:10px;">
 
-	        padding-bottom:4px;
+ <img class="img-responsive" src="/assets/img/old-site/abrigo-industrial.jpg" alt="Abrigo Modelo Industrial" title="Abrigo Modelo Industrial" style="margin:0px auto;">
 
-	        background-color:#ff8000;
+ </div>
 
-	        color:#fff;
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
-			
+ <img class="img-responsive" src="/assets/img/old-site/tabela-padrao.jpg" alt="Tabela Padrão" title="Tabela Padrão" style="margin:0px auto;">
 
-	      }
+ <p><strong>*Modelo para extintores pó quimico 4,6,8, 12 Kg e agua 10 litros <br>
 
-		  table td.center
+ Medidas 75 altura x 30 largura x 25 de profundidade cm </strong><p>
 
-		  {
+ <p><strong>*Modelo extintor de co2 6Kg <br>
 
-			  text-align:center
+ Medidas 85 altura x 40 largura x 30 profundidade cm.</strong></p>
 
-		  }
+ </div>
 
-		  
+ </div>
 
-		   table td.center span
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
-		  {
+ <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:4px; text-align:center;">
 
-			  font-size:10px;
+ <div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:300px; ">
 
-		  }
+ <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="abrigo-para-extintor-de-incendio.php" style="color:#fff; margin:0px;">Abrigo para Extintor</a></h2>
 
-		  
+ <a href="abrigo-para-extintor-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/abrigo-para-extintor-de-incendio.jpg" alt="Abrigo para Extintor de Incêndio" title="Abrigo para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
-	      table tr.alt td
+ <div class="caption">
 
-	      {
+ <p style="text-align:center;"><a href="abrigo-para-extintor-de-incendio.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
 
-	        color:#000;
+ </div>
 
-	        background-color:#F9F9F9;
+ </div>
 
-	      }
+ </div>
 
-		  
+ <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:4px; text-align:center;">
 
-	    </style>
+ <div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:300px; ">
 
+ <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="abrigo-para-hidrante.php" style="color:#fff; margin:0px;">Abrigo para Hidrante</a></h2>
 
+ <a href="abrigo-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/abrigo-para-hidrante.jpg" alt="Abrigo para Hidrante" title="Abrigo para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
-		
+ <div class="caption">
 
+ <p style="text-align:center;"><a href="abrigo-para-hidrante.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
 
+ </div>
 
-	</head>
+ </div>
 
-	    
+ </div>
 
-	<body>
+ <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:4px; text-align:center;">
 
-	     <!-- Google Tag Manager (noscript) -->
+ <div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:300px; ">
 
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
+ <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="abrigo-para-mangueira-de-incendio.php" style="color:#fff; margin:0px;">Abrigo para Mangueira de Incêndio</a></h2>
 
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <a href="abrigo-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/abrigo-para-mangueira-de-incendio.jpg" alt="Abrigo para Mangueira de Incêndio" title="Abrigo para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
-                <!-- End Google Tag Manager (noscript) -->
+ <div class="caption">
 
-	   
+ <p style="text-align:center;"><a href="abrigo-para-mangueira-de-incendio.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
 
-	   <?php include ('includes/header.php'); ?>   
+ </div>
 
-	    
+ </div>
 
-	<div class="row" style="margin: 0px auto; ">
+ </div>
 
-	            <div class="col-lg-12 hgroupinternas" style="padding-top:20px; padding-bottom:10px;">
+ </div>
 
-	                <div class="container ">
+ </div>
 
-						
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
-							<div class="col-lg-9 col-md-9 col-sm-8 col-xs-12" style="padding:20px 0px 20px 0px;">
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px; margin-bottom:5px; background:#ff8000; padding:5px; color:#fff;">
 
-							<h1>Abrigos para Equipamentos Contra Incêndio</h1>
+ <p style="margin:0px;">Veja também:</p>
 
-							</div>
+ </div>
 
-							
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
-							<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding:20px 0px 20px 0px;">
+ <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="padding:0px;">
 
-							<p style="text-align:right;"><a href="contato.php" class="btn btn-info" role="button">Solicite um orçamento!</a></p>
+ <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
 
-							</div>
+ <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
-					
+ <a href="adaptador-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
-	                </div>
+ <div class="caption">
 
-	            </div>
+ <h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="adaptador-para-mangueira-de-incendio.php" style="color:#fff;">Adaptador para Mangueira de Incêndio</a></h2>
 
-	    </div>
+ <p style="text-align:center;"><a href="adaptador-para-mangueira-de-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
 
-		
+ </div>
 
-		
+ </div>
 
-		
+ </div>
 
-		<div class="row" style="margin: 0px auto; ">
+ <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
 
-	        <div class="col-lg-12">
+ <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
-	            <div class="container ">
+ <a href="armario-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/armario-para-mangueira-de-incendio.jpg" alt="Armário para Mangueira de Incêndio" title="Armário para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
-					<ol class="breadcrumb"><li><a href="index.php">Home</a></li><li><a href="produtos-e-acessorios-contra-incendio.php">Produtos e Acessórios</a></li><li class="active">Abrigos para Equipamentos Contra Incêndio</li></ol>
+ <div class="caption">
 
-					
+ <h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="armario-para-mangueira-de-incendio.php" style="color:#fff;">Armário para Mangueira de Incêndio</a></h2>
 
-					
+ <p style="text-align:center;"><a href="armario-para-mangueira-de-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
 
-						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ </div>
 
-						<h2>Abrigos para Equipamentos Contra Incêndio</h2>
+ </div>
 
-						</div>
+ </div>
 
-					
+ </div>
 
-					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
+ <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="padding:0px;">
 
-					<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+ <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
 
-						
+ <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
-						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px; margin-top:10px;">
+ <a href="bico-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/bico-para-mangueira-de-incendio.jpg" alt="Bico para Mangueira de Incêndio" title="Bico para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
-							
+ <div class="caption">
 
-							<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
+ <h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="bico-para-mangueira-de-incendio.php" style="color:#fff;">Bico para Mangueira de Incêndio</a></h2>
 
-							
+ <p style="text-align:center;"><a href="bico-para-mangueira-de-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
 
-							<p> Os Abrigos para equipamentos contra incêndio são importantes pois, conservam todos os equipamentos dentro de sua caixa, preservando das intempéries do tempo. Temos vários tipos de abrigos tais como: abrigos para extintortes de incêndio, abrigos para hidrantes e abrigos para mangueiras de incêndio. </p>
+ </div>
 
-								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"  style="margin-top:10px;">
+ </div>
 
-								
+ </div>
 
-				
+ <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
 
-								<h2 style="margin-top:0px;">Modelo Industrial</h2>
+ <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
-								<p>Fabricado em aço carbono, 1010 - 1020 com acabento em pintura epox, na cor vermelha padrão bombeiro. Porta dotada de trinco, visor para vidro e veneziana de ventilação.</p>
+ <a href="caixas-para-equipamentos-contra-incendio.php"><img class="img-responsive" src="/assets/img/old-site/caixas-para-equipamentos-contra-incendio.jpg" alt="Caixas para Equipamentos Contra Incêndio" title="Caixas para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
-								
+ <div class="caption">
 
-								<p>
+ <h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="caixas-para-equipamentos-contra-incendio.php" style="color:#fff;">Caixas para Equipamentos</a></h2>
 
-								Modelo 2 Portas<br>
+ <p style="text-align:center;"><a href="caixas-para-equipamentos-contra-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
 
+ </div>
 
+ </div>
 
-								Mangueira:
+ </div>
 
-								Ø: 1.1/2" ou 2.1/2"<br>
+ </div>
 
+ </div>
 
+ <p><a href="equipamentos-contra-incendio.php" class="btn btn-primary" role="button">Ver todos</a></p>
 
-								Comprimento: 30<br>
+ </div>
 
+ <br><br>
 
+ </div>
 
-								Quantidade: 4<br>
+ <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
+ <?php include ('includes/corpolateral.php'); ?> 
 
+ </div>
 
-								Suporte Tipo: 1/2 Lua ou Basculante
+ </div>
 
-								<p>
+ </div>
 
-								
+ </div>
 
-								</div>
+ </div>
 
-								
+ <?php include ('includes/footer.php'); ?> 
 
-								
+ 
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
 
-								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="margin-top:10px;">
-
-								<img class="img-responsive"  src="images/abrigo-industrial.jpg" alt="Abrigo Modelo Industrial" title="Abrigo Modelo Industrial" style="margin:0px auto;">
-
-								</div>
-
-								
-
-								<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
-
-								<img class="img-responsive"  src="images/tabela-padrao.jpg" alt="Tabela Padrão" title="Tabela Padrão" style="margin:0px auto;">
-
-									<p><strong>*Modelo para extintores  pó quimico 4,6,8, 12 Kg  e agua 10 litros <br>
-
-									Medidas  75 altura x 30 largura x 25 de profundidade cm </strong><p>
-
-
-
-									<p><strong>*Modelo extintor de co2 6Kg <br>
-
-									Medidas  85 altura x 40 largura x 30 profundidade cm.</strong></p>
-
-
-
-								</div>
-
-								
-
-							</div>
-
-								
-
-						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
-
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:4px; text-align:center;">
-
-							<div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:300px; ">
-
-							<h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="abrigo-para-extintor-de-incendio.php"  style="color:#fff; margin:0px;">Abrigo para Extintor</a></h2>
-
-							  <a href="abrigo-para-extintor-de-incendio.php"><img class="img-responsive"  src="images/abrigo-para-extintor-de-incendio.jpg" alt="Abrigo para Extintor de Incêndio" title="Abrigo para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
-
-							  <div class="caption">
-
-								
-
-								<p style="text-align:center;"><a href="abrigo-para-extintor-de-incendio.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
-
-							  </div>
-
-							</div>
-
-						</div>
-
-						
-
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:4px; text-align:center;">
-
-							<div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:300px; ">
-
-							<h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="abrigo-para-hidrante.php"  style="color:#fff; margin:0px;">Abrigo para Hidrante</a></h2>
-
-							  <a href="abrigo-para-hidrante.php"><img class="img-responsive"  src="images/abrigo-para-hidrante.jpg" alt="Abrigo para Hidrante" title="Abrigo para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
-
-							  <div class="caption">
-
-							
-
-								<p style="text-align:center;"><a href="abrigo-para-hidrante.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
-
-							  </div>
-
-							</div>
-
-						</div>
-
-						
-
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:4px; text-align:center;">
-
-							<div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:300px; ">
-
-							<h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="abrigo-para-mangueira-de-incendio.php"  style="color:#fff; margin:0px;">Abrigo para Mangueira de Incêndio</a></h2>
-
-							  <a href="abrigo-para-mangueira-de-incendio.php"><img class="img-responsive"  src="images/abrigo-para-mangueira-de-incendio.jpg" alt="Abrigo para Mangueira de Incêndio" title="Abrigo para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
-
-							  <div class="caption">
-
-								
-
-								<p style="text-align:center;"><a href="abrigo-para-mangueira-de-incendio.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
-
-							  </div>
-
-							</div>
-
-						</div>
-
-						</div>
-
-						</div>
-
-						
-
-						
-
-						
-
-						
-
-						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
-
-							<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px; margin-bottom:5px; background:#ff8000; padding:5px; color:#fff;">
-
-								<p style="margin:0px;">Veja também:</p>
-
-							</div>
-
-						
-
-						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
-
-						
-
-						
-
-						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="padding:0px;">
-
-						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
-
-							<div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px;  ">
-
-							  <a href="adaptador-para-mangueira-de-incendio.php"><img class="img-responsive"  src="images/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
-
-							  <div class="caption">
-
-								<h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="adaptador-para-mangueira-de-incendio.php" style="color:#fff;">Adaptador para Mangueira de Incêndio</a></h2>
-
-								<p style="text-align:center;"><a href="adaptador-para-mangueira-de-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
-
-							  </div>
-
-							</div>
-
-						</div>
-
-						
-
-						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
-
-							<div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px;  ">
-
-							  <a href="armario-para-mangueira-de-incendio.php"><img class="img-responsive"  src="images/armario-para-mangueira-de-incendio.jpg" alt="Armário para Mangueira de Incêndio" title="Armário para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
-
-							  <div class="caption">
-
-								<h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="armario-para-mangueira-de-incendio.php" style="color:#fff;">Armário para Mangueira de Incêndio</a></h2>
-
-								<p style="text-align:center;"><a href="armario-para-mangueira-de-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
-
-							  </div>
-
-							</div>
-
-						</div>
-
-						</div>
-
-						
-
-						
-
-						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" style="padding:0px;">
-
-						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
-
-							<div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px;  ">
-
-							  <a href="bico-para-mangueira-de-incendio.php"><img class="img-responsive"  src="images/bico-para-mangueira-de-incendio.jpg" alt="Bico para Mangueira de Incêndio" title="Bico para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
-
-							  <div class="caption">
-
-								<h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="bico-para-mangueira-de-incendio.php" style="color:#fff;">Bico para Mangueira de Incêndio</a></h2>
-
-								<p style="text-align:center;"><a href="bico-para-mangueira-de-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
-
-							  </div>
-
-							</div>
-
-						</div>
-
-						
-
-						
-
-						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="padding:4px; text-align:center;" >
-
-							<div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px;  ">
-
-							  <a href="caixas-para-equipamentos-contra-incendio.php"><img class="img-responsive"  src="images/caixas-para-equipamentos-contra-incendio.jpg" alt="Caixas para Equipamentos Contra Incêndio" title="Caixas para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
-
-							  <div class="caption">
-
-								<h2 style="margin-top:0px; font-size:14px; font-weight:bold;"><a href="caixas-para-equipamentos-contra-incendio.php" style="color:#fff;">Caixas para Equipamentos</a></h2>
-
-								<p style="text-align:center;"><a href="caixas-para-equipamentos-contra-incendio.php" style="font-size:10px;" class="btn btn-default" role="button">SAIBA MAIS</a></p>
-
-							  </div>
-
-							</div>
-
-						</div>
-
-						</div>
-
-						
-
-						</div>
-
-						
-
-						<p><a href="equipamentos-contra-incendio.php" class="btn btn-primary" role="button">Ver todos</a></p>
-
-						
-
-						</div>
-
-						
-
-						
-
-						<a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-
-
-						
-
-					</div>
-
-					
-
-					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px;  margin-bottom:25px;">
-
-						<?php include ('includes/corpolateral.php'); ?>  
-
-					</div>
-
-
-
-					
-
-					</div>
-
-					
-
-					
-
-					
-
-					
-
-				</div>
-
-			</div>
-
-		</div>
-
-		
-
-
-
-	 <?php include ('includes/footer.php'); ?>   
-
-	 
-
-
-
-
-
-	</body>
-
-
-
-	</html>
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

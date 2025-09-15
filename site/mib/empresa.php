@@ -59,7 +59,7 @@ include 'includes/breadcrumb.php';
                         <p>Atuamos principalmente na Grande São Paulo, oferecendo soluções completas em equipamentos de combate a incêndio, com atendimento personalizado e suporte técnico especializado.</p>
                     </div>
                     <div class="col-lg-6 text-center">
-                        <img src="assets/img/logo-tagline.png" alt="MIB Logo" class="img-fluid about-image">
+                        <img src="assets/img/logo-tagline-transp.png" alt="MIB Logo" class="img-fluid about-image">
                     </div>
                 </div>
             </div>

@@ -1,136 +1,133 @@
-<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: extintor-de-incendio-novo.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Extintor de incêndio novo – investimento em qualidade, segurança e proteção',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/extintor-de-incendio-novo.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Título da Página',
+    ),
+);
 
-    <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'Título da Página',
+    'description' => 'Extintor de incêndio novo – investimento em qualidade, segurança e proteção',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-
-        <!-- End Google Tag Manager -->
-
-	<title>Extintor de incêndio novo – investimento em qualidade, segurança e proteção </title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Mangueira de Incêndio Coutoflex ">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-                <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
 
+ <!-- Google Tag Manager (noscript) -->
 
-	<section class="container">
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-		<div class="row">	
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <!-- End Google Tag Manager (noscript) -->
 
+ <section class="container">
 
+ <div class="row"> 
 
-                <div>
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-                    <img src="images/planilha-102.png" class="img-responsive" alt="">
+ <div>
 
-                </div>
+ <img src="/assets/img/old-site/planilha-102.png" class="img-responsive" alt="">
 
-                <p><strong>Extintor de incêndio novo – investimento em qualidade, segurança e proteção</strong></p>
+ </div>
 
+ <p><strong>Extintor de incêndio novo – investimento em qualidade, segurança e proteção</strong></p>
 
-
-                <p>A escolha de um extintor de incêndio novo é essencial para garantir a segurança de ambientes
+ <p>A escolha de um extintor de incêndio novo é essencial para garantir a segurança de ambientes
 
 residenciais, comerciais e industriais.</p>
 
-                <p>Na BS  HSA, você encontra uma ampla variedade de extintores novos,
+ <p>Na BS HSA, você encontra uma ampla variedade de extintores novos,
 
 fabricados com os mais altos padrões de qualidade e segurança.</p>
 
-                <p>Neste texto, vamos abordar a importância de investir em um extintor de incêndio novo e como
+ <p>Neste texto, vamos abordar a importância de investir em um extintor de incêndio novo e como
 
-a BS  pode atender às suas necessidades de proteção contra incêndios.</p>
+a BS pode atender às suas necessidades de proteção contra incêndios.</p>
 
-<p><strong>Por que optar por um extintor de incêndio novo?</strong></p>  
+<p><strong>Por que optar por um extintor de incêndio novo?</strong></p> 
 
-<p>Investir em um extintor de incêndio novo traz diversos benefícios, tais como:</p>  
+<p>Investir em um extintor de incêndio novo traz diversos benefícios, tais como:</p> 
 
 <ul>
 
-    <li>Eficiência na proteção: Extintores novos garantem uma performance eficaz no
+ <li>Eficiência na proteção: Extintores novos garantem uma performance eficaz no
 
 combate a incêndios, pois estão em perfeitas condições de funcionamento e contam
 
 com agentes extintores de alta qualidade.</li>
 
-    <li>Conformidade com normas técnicas: Extintores novos estão em conformidade com as
+ <li>Conformidade com normas técnicas: Extintores novos estão em conformidade com as
 
 normas técnicas estabelecidas pelos órgãos reguladores, como a NBR 12693, que
 
 define os requisitos mínimos para fabricação e manutenção de extintores de incêndio.</li>
 
-    <li>Confiança e tranquilidade: Ao adquirir um extintor de incêndio novo, você tem a
+ <li>Confiança e tranquilidade: Ao adquirir um extintor de incêndio novo, você tem a
 
 garantia de estar investindo em um equipamento confiável e capaz de proteger sua
 
 vida e patrimônio em situações de emergência.</li>
 
-</ul>   
+</ul> 
 
-<p><strong>A BS  HSA: Sua fonte confiável de extintores de incêndio novos</strong></p>        
+<p><strong>A BS HSA: Sua fonte confiável de extintores de incêndio novos</strong></p> 
 
-<p>A BS  é reconhecida como uma das principais fornecedoras de extintores de
+<p>A BS é reconhecida como uma das principais fornecedoras de extintores de
 
 incêndio novos no mercado, graças aos diferenciais que oferece aos seus clientes.</p>
 
@@ -140,13 +137,13 @@ químico, CO 2 , água e espuma, entre outros. Essa variedade permite que você 
 
 mais adequado para as necessidades específicas de seu ambiente.</p>
 
-<p>Além disso, todos os extintores novos da BS  são fabricados com materiais de
+<p>Além disso, todos os extintores novos da BS são fabricados com materiais de
 
 alta qualidade e passam por rigorosos testes de qualidade para garantir sua eficácia e
 
 durabilidade.</p>
 
-<p>A BS  HSA possui um compromisso inabalável com a segurança de seus
+<p>A BS HSA possui um compromisso inabalável com a segurança de seus
 
 clientes. Além de oferecer extintores de incêndio novos de qualidade, a empresa também
 
@@ -154,71 +151,35 @@ fornece treinamentos e orientações sobre o uso correto dos equipamentos, contr
 
 uma cultura de prevenção de incêndios.</p>
 
-<p>Ao escolher a BS  HSA como sua fornecedora de extintores de incêndio novos,
+<p>Ao escolher a BS HSA como sua fornecedora de extintores de incêndio novos,
 
 você pode ter a certeza de estar investindo em qualidade, confiabilidade e segurança.</p>
 
 <p>Não deixe a proteção de sua vida e patrimônio para depois. Adquira seu extintor de incêndio
 
-novo na BS  HSA e tenha a tranquilidade de estar protegido contra incêndios.</p>
+novo na BS HSA e tenha a tranquilidade de estar protegido contra incêndios.</p>
 
-               <?php include('includes/contato.php'); ?>
+ </article>
 
-                </article>
+ <br><br>
 
-  
+ </div>
 
-                
+ 
 
-                
+ </div>
 
-
-
-             
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
+ </section>
 
 
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

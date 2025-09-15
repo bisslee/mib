@@ -1,246 +1,199 @@
-<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: o-que-e-avcb-corpo-de-bombeiros.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'O QUE É AVCB CORPO DE BOMBEIROS - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Descrição da página',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/o-que-e-avcb-corpo-de-bombeiros.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'O QUE É AVCB CORPO DE BOMBEIROS',
+    ),
+);
 
-    <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'O QUE É AVCB CORPO DE BOMBEIROS',
+    'description' => 'Descrição da página',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+ <!-- Google Tag Manager (noscript) -->
 
-        <!-- End Google Tag Manager -->
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-	<title>O que é AVCB corpo de bombeiros  - Mangueiras de Incêndio Brasil </title>
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <!-- End Google Tag Manager (noscript) -->
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+ 
 
-	<meta name="description" content="O que é AVCB corpo de bombeiros">
+ <section class="container">
 
-	<meta name="author" content="OtimizaMais Marketing Digital">
+ <div class="row"> 
 
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
+ <h2><strong>O QUE É AVCB CORPO DE BOMBEIROS</strong></h2>
 
+ <img src="/assets/img/old-site/panilha-44.png" class="img-responsive">
 
-	<!-- Bootstrap Core CSS -->
+ <p>No processo de adequação de imóveis e a requisição de documentos que
 
-	<link href="css/bootstrap.css" rel="stylesheet">
+ comprovam sua viabilidade é comum ouvir a pergunta sobre <strong>o que é AVCB
 
+ Corpo de Bombeiros.</strong> Apesar de ser pouco conhecido pelo público não
 
+ especializado, o AVCB é um documento de suma importância.</p>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ <h2><strong>Mas, afinal, o que é AVCB Corpo de Bombeiros?</strong></h2>
 
-	<script src="js/jquery.js"></script>
+ <br>
 
-	<script src="js/bootstrap.min.js"></script>
+ <p>A sigla AVCB significa Auto de Vistoria do Corpo de Bombeiros e a emissão
 
+ desse documento indica que determinada edificação está apta a funcionar, pois
 
+ apresenta os equipamentos e dispositivos necessários para a contenção de
 
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+ situações de emergência, como incêndios.</p>
 
+ <p>O AVCB deve, portanto, atestar que as edificações possuem todas as
 
+ condições de segurança contra a propagação das chamas, as quais devem
 
-</head>
+ integrar medidas estruturais, organizacionais e técnicas previstas legalmente e
 
-<body>
+ imprescindíveis para o pleno funcionamento dos imóveis.</p>
 
-    <!-- Google Tag Manager (noscript) -->
+ <p>O documento é emitido pelo Corpo de Bombeiros da Polícia Militar do Estado
 
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
+ de São Paulo e apenas não é obrigatório para residências exclusivamente
 
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ unifamiliares, localizadas em via pública ou em pavimento superior em
 
-                <!-- End Google Tag Manager (noscript) -->
+ edificações com até dois pavimentos e acessos independentes.</p>
 
-	<main>	
+ <ul>
 
-		<header>
+ <li>Assim sendo, o Auto é obrigatório em construções e reformas, quando
 
-			<?php include ('includes/header.php'); ?>   	
+ há ampliação da área construída, mudança do uso ou ocupação do
 
-		</header>
+ imóvel, em construções provisórias, como circos e eventos, além de
 
+ regularização de áreas de risco e edificações;</li>
 
+ <li>A validade do AVCB varia entre 2 e 5 anos, a depender da avaliação de
 
-        <div class="fixa2">
+ risco, ou seja, em áreas que apresentam maior risco, as avaliações
 
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
+ devem ser feitas com menor intervalo quando comparadas àquelas mais
 
-                        </div>
+ estáveis e seguras;</li>
 
-                        <?php include("includes/aside.php"); ?>
+ <li>A adequação dos imóveis inclui a presença de elementos estruturais,
 
-                  
+ tais como saídas e escadas de emergência, organizacionais, como
 
+ sinalização de emergência e placas fotoluminescentes, e técnicas, como
 
+ extintores e mangueiras de incêndio;</li>
 
-	<section class="container">
+ <li>A aquisição desses equipamentos também deve ser criteriosa, uma vez
 
-		<div class="row">	
+ que eles devem ser adequados ao contexto nos quais serão aplicados
 
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ (fábricas, imóveis residenciais, lojas) e estarem posicionados de forma
 
-               
+ correta, com fácil acesso e visibilidade;</li>
 
-                <h2><strong>O QUE É AVCB CORPO DE BOMBEIROS</strong></h2>
+ <li>A dispensa da solicitação e obtenção do AVCB resulta no pagamento de
 
-                
+ multas e na inviabilização do imóvel, visto que este não estará seguro
 
-                <img src="images/panilha-44.png" class="img-responsive">
+ para usufruto de moradores, frequentadores e funcionários,
 
-                
+ representando alto risco às pessoas e estruturas adjacentes.</li>
 
-                <p>No processo de adequação de imóveis e a requisição de documentos que
+ </ul>
 
-                        comprovam sua viabilidade é comum ouvir a pergunta sobre <strong>o que é AVCB
+ <h2><strong>Equipamentos acessíveis e em conformação com a legislação</strong></h2>
 
-                        Corpo de Bombeiros.</strong> Apesar de ser pouco conhecido pelo público não
+ <br>
 
-                        especializado, o AVCB é um documento de suma importância.</p>
+ <p>Para adequar os imóveis com mais economia, de acordo com a legislação e,
 
-                
+ assim, obter o AVCB, o mais indicado é procurar a , empresa
 
-                <h2><strong>Mas, afinal, o que é AVCB Corpo de Bombeiros?</strong></h2>
+ especialista no comércio de equipamentos de segurança com preços mais
 
-                <br>
+ justos e certificados pela ABNT, Inmetro e ISO 9001.</p>
 
-                <p>A sigla AVCB significa Auto de Vistoria do Corpo de Bombeiros e a emissão
+ <br><br>
 
-                desse documento indica que determinada edificação está apta a funcionar, pois
+ </div>
 
-                apresenta os equipamentos e dispositivos necessários para a contenção de
+ </div>
 
-                situações de emergência, como incêndios.</p>
+ </section>
 
-                
 
-                <p>O AVCB deve, portanto, atestar que as edificações possuem todas as
-
-                condições de segurança contra a propagação das chamas, as quais devem
-
-                integrar medidas estruturais, organizacionais e técnicas previstas legalmente e
-
-                imprescindíveis para o pleno funcionamento dos imóveis.</p>
-
-                
-
-                <p>O documento é emitido pelo Corpo de Bombeiros da Polícia Militar do Estado
-
-                de São Paulo e apenas não é obrigatório para residências exclusivamente
-
-                unifamiliares, localizadas em via pública ou em pavimento superior em
-
-                edificações com até dois pavimentos e acessos independentes.</p>
-
-                
-
-                <ul>
-
-                    <li>Assim sendo, o Auto é obrigatório em construções e reformas, quando
-
-                    há ampliação da área construída, mudança do uso ou ocupação do
-
-                    imóvel, em construções provisórias, como circos e eventos, além de
-
-                    regularização de áreas de risco e edificações;</li>
-
-                    
-
-                    <li>A validade do AVCB varia entre 2 e 5 anos, a depender da avaliação de
-
-                    risco, ou seja, em áreas que apresentam maior risco, as avaliações
-
-                    devem ser feitas com menor intervalo quando comparadas àquelas mais
-
-                    estáveis e seguras;</li>
-
-                    
-
-                    <li>A adequação dos imóveis inclui a presença de elementos estruturais,
-
-                    tais como saídas e escadas de emergência, organizacionais, como
-
-                    sinalização de emergência e placas fotoluminescentes, e técnicas, como
-
-                    extintores e mangueiras de incêndio;</li>
-
-                    
-
-                    
-
-                    <li>A aquisição desses equipamentos também deve ser criteriosa, uma vez
-
-                    que eles devem ser adequados ao contexto nos quais serão aplicados
-
-                    (fábricas, imóveis residenciais, lojas) e estarem posicionados de forma
-
-                    correta, com fácil acesso e visibilidade;</li>
-
-                    
-
-                    <li>A dispensa da solicitação e obtenção do AVCB resulta no pagamento de
-
-                    multas e na inviabilização do imóvel, visto que este não estará seguro
-
-                    para usufruto de moradores, frequentadores e funcionários,
-
-                    representando alto risco às pessoas e estruturas adjacentes.</li>
-
-                </ul>
-
-                
-
-                <h2><strong>Equipamentos acessíveis e em conformação com a legislação</strong></h2>
-
-                <br>
-
-                <p>Para adequar os imóveis com mais economia, de acordo com a legislação e,
-
-                assim, obter o AVCB, o mais indicado é procurar a , empresa
-
-                especialista no comércio de equipamentos de segurança com preços mais
-
-                justos e certificados pela ABNT, Inmetro e ISO 9001.</p>
-
-               
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
-
-               </div>
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>

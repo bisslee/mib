@@ -1,112 +1,101 @@
-<!DOCTYPE html>
+<?php
+/**
+ * Página migrada do old-site
+ * Arquivo original: extintor-de-incendio-po-quimico-bc.php
+ */
 
-<html lang="pt-br">
+// Configuração da página
+$page_config = array(
+    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Referência: Quando utilizar extintor de pó químico BC',
+    'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
+    'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/extintor-de-incendio-po-quimico-bc.php',
+);
 
-<head>
+// Breadcrumbs
+$breadcrumbs = array(
+    0 => array(
+        'url' => '/',
+        'text' => 'Home',
+    ),
+    1 => array(
+        'url' => '',
+        'text' => 'Título da Página',
+    ),
+);
 
-    <!-- Google Tag Manager -->
+$heroConfig = array(
+    'title' => 'Título da Página',
+    'description' => 'Referência: Quando utilizar extintor de pó químico BC',
+    'image' => '/assets/img/old-site/default-image.jpg',
+);
 
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// Incluir template
+require_once '../includes/config.php';
+include '../includes/header.php';
+if (isset($breadcrumbs)) {
+    include '../includes/breadcrumb.php';
+}
+?>
 
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+<!-- Hero Section da Página -->
+<section class="page-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="page-title">
+                    <?php echo $heroConfig['title']; ?>
+                </h1>
+                <p class="page-subtitle">
+                    <?php echo $heroConfig['description']; ?>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-
-        <!-- End Google Tag Manager -->
-
-	<title>Extintor de incêndio pó químico ABC. - Mangueiras de Incêndio Brasil </title>
-
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<meta name="description" content="Extintor de incêndio pó químico ABC. ">
-
-	<meta name="author" content="OtimizaMais Marketing Digital">
-
-	<meta name="keywords" content="Mangueiras de Incêndio, , Equipamentos Contra Incêndio" />
-
-
-
-	<!-- Bootstrap Core CSS -->
-
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-	<script src="js/jquery.js"></script>
-
-	<script src="js/bootstrap.min.js"></script>
-
-
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-
-
-</head>
-
-<body>
-
-                <!-- Google Tag Manager (noscript) -->
-
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-                <!-- End Google Tag Manager (noscript) -->
-
-	<main>	
-
-		<header>
-
-			<?php include ('includes/header.php'); ?>   	
-
-		</header>
+<!-- Conteúdo Principal -->
+<main id="main-content">
+    <!-- Seção de Conteúdo -->
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <article class="text-justify">
 
 
+ <!-- Google Tag Manager (noscript) -->
 
-	<section class="container">
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
 
-		<div class="row">	
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <!-- End Google Tag Manager (noscript) -->
 
+ <section class="container">
 
+ <div class="row"> 
 
-                <div>
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-                   
+ <div>
 
-                    <img src="images/planilha-69.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-69.png" class="img-responsive" alt="">
 
-                </div>
+ </div>
 
-               
+ <article>
 
-                
+ <p>Referência: Quando utilizar extintor de pó químico BC</p>
 
-                <article>
+ <p>SAIBA QUANDO UTILIZAR EXTINTOR DE INCÊNDIO PÓ QUÍMICO BC</p>
 
-                <p>Referência: Quando utilizar extintor de pó químico BC</p>
-
-               <p>SAIBA QUANDO UTILIZAR EXTINTOR DE INCÊNDIO PÓ QUÍMICO BC</p>
-
-
-
-               <p>O extintor de incêndio pó químico BC é utilizado para apagar o fogo em equipamentos
+ <p>O extintor de incêndio pó químico BC é utilizado para apagar o fogo em equipamentos
 
 elétricos e em líquidos inflamáveis, por isso, ele deve ser aplicado apenas quando o incêndio
 
 se der nesses materiais, como recomendado pelos profissionais da BS .</p>
-
-
 
 <p>Isso implica na importância em identificar os tipos de materiais presentes em cada ambiente a
 
@@ -114,11 +103,7 @@ fim de adquirir o extintor adequado, o que requer um bom planejamento, conhecime
 
 normas de segurança e dos equipamentos de combate ao fogo.</p>
 
-
-
 <p>COMPOSIÇÃO DO EXTINTOR DE INCÊNDIO PÓ QUÍMICO BC</p>
-
-
 
 <p>O extintor de incêndio pó químico BC é denominado “químico”, pois, ao ser acionado, ele
 
@@ -126,15 +111,11 @@ libera um composto capaz de apagar as chamas sem colocar em risco a vida das pes
 
 afinal, jogar água em um equipamento eletrônico em chamas poderia causar um curto circuito.</p>
 
-
-
 <p>Por isso, cada tipo de extintor foi desenvolvido tendo em vista o incêndio que deverá ser
 
 cessado, assim, para combater o fogo em equipamentos elétricos e líquidos inflamáveis, o
 
 extintor de incêndio pó químico BC é composto por um pó a base de bicarbonato de sódio.</p>
-
-
 
 <p>Esse pó branco é capaz de controlar as chamas sem causar danos e panes elétricas, além de
 
@@ -142,11 +123,7 @@ evitar sua propagação no ambiente e a intoxicação de pessoas que possam esta
 
 fim, o pó ainda atua secando e absorvendo os componentes líquidos.</p>
 
-
-
 <p>O EXTINTOR DE INCÊNDIO PÓ QUÍMICO BC E OUTROS CUIDADOS</p>
-
-
 
 <p>Os sistemas de proteção contra incêndios incluem uma série de ações a fim de evitar a
 
@@ -154,31 +131,27 @@ ocorrência e a propagação das chamas, por isso, aplicá-los corretamente gara
 
 segurança e, em casos extremos, salvam vidas.</p>
 
-
-
 <p>Por isso, para além de escolher o extintor correto para cada tipo de material, é preciso tomar
 
 alguns cuidados, como recomenda a BS , empresa líder no comércio de
 
 equipamentos de prevenção e combate às chamas:</p>
 
-
-
 <ul>
 
-            <li>Verificar a capacidade extintora do equipamento para que ele, de fato, se constitua
+ <li>Verificar a capacidade extintora do equipamento para que ele, de fato, se constitua
 
 unidade extintora. No caso do extintor de incêndio pó químico BC, a capacidade
 
 recomendada é 80-B:C;</li>
 
-            <li>O planejamento e a implementação de sinalização adequada é etapa indispensável,
+ <li>O planejamento e a implementação de sinalização adequada é etapa indispensável,
 
 pois, dessa forma, é possível visualizar extintores, saídas e rotas de emergência,
 
 mangueiras de combate ao fogo, dentre outros elementos de proteção;</li>
 
-            <li>Cuidar para que todos os equipamentos adquiridos e instalados estejam em boas
+ <li>Cuidar para que todos os equipamentos adquiridos e instalados estejam em boas
 
 condições de uso, dentro das normas estipuladas pelo Corpo de Bombeiros, pelos
 
@@ -186,19 +159,13 @@ condições de uso, dentro das normas estipuladas pelo Corpo de Bombeiros, pelos
 
 </ul>
 
-
-
 <p>Vale lembrar que para que os imóveis possam ser devidamente utilizados, em especial os
 
 comerciais, industriais e prédios residenciais, eles devem passar pela inspeção do Corpo de
 
 Bombeiros e cumprir com todas as suas recomendações.</p>
 
-
-
 <p><strong>Vantagens de Comprar com a BS Brasil segurança.</strong></p>
-
-
 
 <p>Credibilidade segurança e garantia</p>
 
@@ -224,61 +191,27 @@ Bombeiros e cumprir com todas as suas recomendações.</p>
 
 <p>Mais de 2000 clientes atendidos e satisfeitos entre condomínios e empresas.</p>
 
-                </article>
+ </article>
 
-  
+ <br><br>
 
-                
+ </div>
 
-                
+ 
 
+ </div>
 
-
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-
-                <br><br>
+ </section>
 
 
-
-               </div>
-
-              
-
-              
-
-                        <div class="fixa2">
-
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-
-                        </div>
-
-                        <?php include("includes/aside.php"); ?>
-
-                  
-
-            
-
-			</div>
-
-	</section>
-
-        
-
-	<footer>
-
-	<?php include ('includes/footer.php'); ?>   
-
-	</footer>
-
-
-
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
-
-
-</body>
-
-
-
-</html>
-
+<?php
+// Incluir footer
+include '../includes/footer.php';
+?>
