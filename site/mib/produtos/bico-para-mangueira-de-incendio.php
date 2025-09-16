@@ -8,9 +8,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Bico para Mangueira de Incêndio - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Bicos e esguichos para mangueiras de incêndio com diferentes tipos e aplicações.',
-    'keywords' => 'Bico, Esguicho, Mangueira de Incêndio, MIB',
+    'title' => 'Bico para Mangueira de Incêndio Certificado ABNT - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Bicos e esguichos para mangueiras de incêndio com diferentes tipos e aplicações certificados ABNT. Controle de jato e direcionamento. MIB São Paulo.',
+    'keywords' => 'Bico São Paulo, Esguicho SP, Mangueira Incêndio, Equipamentos Contra Incêndio, MIB, bico certificado ABNT, controle jato, direcionamento água',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/produtos/bico-para-mangueira-de-incendio.php'
 ];
 
@@ -36,7 +36,7 @@ include '../includes/breadcrumb.php';
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h1 class="page-title">Bico para Mangueira de Incêndio</h1>
+                    <h1 class="page-title">Bico para Mangueira de Incêndio Certificado ABNT - MIB Brasil</h1>
                     <p class="page-subtitle">Bicos e esguichos para mangueiras de incêndio com diferentes tipos e aplicações</p>
                 </div>
             </div>
@@ -50,7 +50,7 @@ include '../includes/breadcrumb.php';
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="section-title">Bico para Mangueira de Incêndio</h2>
+                        <h2 class="section-title">Bico para Mangueira - Especificações Técnicas</h2>
                         
                         <div class="row mb-4">
                             <div class="col-12">

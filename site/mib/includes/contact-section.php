@@ -7,10 +7,10 @@
 // Processar formulário de contato
 $contact_message = '';
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['contact_form'])) {
-    $nome = sanitize_input($_POST['nome'] ?? '');
-    $email = sanitize_input($_POST['email'] ?? '');
-    $telefone = sanitize_input($_POST['telefone'] ?? '');
-    $mensagem = sanitize_input($_POST['mensagem'] ?? '');
+    $nome = sanitize_input(isset($_POST['nome']) ? $_POST['nome'] : '');
+    $email = sanitize_input(isset($_POST['email']) ? $_POST['email'] : '');
+    $telefone = sanitize_input(isset($_POST['telefone']) ? $_POST['telefone'] : '');
+    $mensagem = sanitize_input(isset($_POST['mensagem']) ? $_POST['mensagem'] : '');
     
     if (!empty($nome) && !empty($email) && !empty($mensagem)) {
         // Aqui você implementaria o envio real do email

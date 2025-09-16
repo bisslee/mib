@@ -14,8 +14,8 @@ require_once 'includes/config.php';
 // Configurações específicas da página
 $page_config = [
     'title' => 'MIB - Mangueiras de Incêndio Brasil | Equipamentos Contra Incêndio',
-    'description' => 'Especialistas em mangueiras de incêndio, extintores e equipamentos de segurança. Qualidade certificada ABNT para condomínios, indústrias e residências.',
-    'keywords' => 'mangueira de incêndio, extintor, equipamento contra incêndio, segurança, ABNT, São Paulo',
+    'description' => 'Especialistas em mangueiras de incêndio, extintores e equipamentos de segurança. Qualidade certificada ABNT para condomínios, indústrias e residências em todo o Brasil.',
+    'keywords' => 'mangueira de incêndio, extintor, equipamento contra incêndio, segurança, ABNT, Brasil, nacional',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/'
 ];
 
@@ -38,7 +38,7 @@ include 'includes/header.php';
         <div class="container">
             <div class="row text-center mb-5">
                 <div class="col-12">
-                    <h2 class="section-title">Por que escolher a MIB?</h2>
+                    <h1 class="section-title">Por que escolher a MIB?</h1>
                     <p class="section-subtitle">Qualidade certificada e atendimento especializado</p>
                 </div>
             </div>

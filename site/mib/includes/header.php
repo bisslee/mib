@@ -9,27 +9,42 @@
 <html lang="pt-BR">
 
 <head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+    <!-- End Google Tag Manager -->
+    
+    <?php 
+    // Incluir configurações do GTM
+    if (file_exists(__DIR__ . '/gtm-config.php')) {
+        include_once __DIR__ . '/gtm-config.php';
+    }
+    ?>
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="<?php echo htmlspecialchars($page_config['description'] ?? $site_config['description'] ?? ''); ?>">
-    <meta name="keywords" content="<?php echo htmlspecialchars($page_config['keywords'] ?? $site_config['keywords'] ?? ''); ?>">
-    <meta name="author" content="<?php echo htmlspecialchars($page_config['author'] ?? $site_config['author'] ?? 'MIB - Mangueiras de Incêndio Brasil'); ?>">
+    <meta name="description" content="<?php echo htmlspecialchars(isset($page_config['description']) ? $page_config['description'] : (isset($site_config['description']) ? $site_config['description'] : '')); ?>">
+    <meta name="keywords" content="<?php echo htmlspecialchars(isset($page_config['keywords']) ? $page_config['keywords'] : (isset($site_config['keywords']) ? $site_config['keywords'] : '')); ?>">
+    <meta name="author" content="<?php echo htmlspecialchars(isset($page_config['author']) ? $page_config['author'] : (isset($site_config['author']) ? $site_config['author'] : 'MIB - Mangueiras de Incêndio Brasil')); ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo htmlspecialchars($page_config['canonical'] ?? $site_config['canonical'] ?? ''); ?>">
+    <link rel="canonical" href="<?php echo htmlspecialchars(isset($page_config['canonical']) ? $page_config['canonical'] : (isset($site_config['canonical']) ? $site_config['canonical'] : '')); ?>">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="<?php echo htmlspecialchars($page_config['title'] ?? $site_config['title'] ?? ''); ?>">
-    <meta property="og:description" content="<?php echo htmlspecialchars($page_config['description'] ?? $site_config['description'] ?? ''); ?>">
+    <meta property="og:title" content="<?php echo htmlspecialchars(isset($page_config['title']) ? $page_config['title'] : (isset($site_config['title']) ? $site_config['title'] : '')); ?>">
+    <meta property="og:description" content="<?php echo htmlspecialchars(isset($page_config['description']) ? $page_config['description'] : (isset($site_config['description']) ? $site_config['description'] : '')); ?>">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="<?php echo htmlspecialchars($page_config['canonical'] ?? $site_config['canonical'] ?? ''); ?>">
+    <meta property="og:url" content="<?php echo htmlspecialchars(isset($page_config['canonical']) ? $page_config['canonical'] : (isset($site_config['canonical']) ? $site_config['canonical'] : '')); ?>">
     <meta property="og:image" content="<?php echo $site_config['base_url']; ?>/assets/img/logo-tagline.png">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="<?php echo htmlspecialchars($page_config['title'] ?? $site_config['title'] ?? ''); ?>">
-    <meta name="twitter:description" content="<?php echo htmlspecialchars($page_config['description'] ?? $site_config['description'] ?? ''); ?>">
+    <meta name="twitter:title" content="<?php echo htmlspecialchars(isset($page_config['title']) ? $page_config['title'] : (isset($site_config['title']) ? $site_config['title'] : '')); ?>">
+    <meta name="twitter:description" content="<?php echo htmlspecialchars(isset($page_config['description']) ? $page_config['description'] : (isset($site_config['description']) ? $site_config['description'] : '')); ?>">
 
-    <title><?php echo htmlspecialchars($page_config['title'] ?? $site_config['title'] ?? 'MIB - Mangueiras de Incêndio Brasil'); ?></title>
+    <title><?php echo htmlspecialchars(isset($page_config['title']) ? $page_config['title'] : (isset($site_config['title']) ? $site_config['title'] : 'MIB - Mangueiras de Incêndio Brasil')); ?></title>
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="<?php echo $site_config['base_url']; ?>/favicon.ico">
@@ -40,26 +55,72 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <link href="<?php echo $site_config['base_url']; ?>/assets/css/style.css" rel="stylesheet">
 
-    <!-- Schema.org -->
+    <!-- Schema.org - Organization -->
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "MIB - Mangueiras de Incêndio Brasil",
+            "alternateName": "MIB",
             "url": "https://mangueirasdeincendiobrasil.com.br",
             "logo": "https://mangueirasdeincendiobrasil.com.br/assets/img/logo-tagline.png",
-            "description": "Especialistas em equipamentos contra incêndio e mangueiras de segurança",
+            "description": "Especialistas em equipamentos contra incêndio e mangueiras de segurança certificadas ABNT em São Paulo",
+            "foundingDate": "2020",
+            "slogan": "Segurança e Qualidade em Equipamentos Contra Incêndio",
             "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "São Paulo",
                 "addressRegion": "SP",
-                "addressCountry": "BR"
+                "addressCountry": "BR",
+                "postalCode": "00000-000"
             },
-            "contactPoint": {
-                "@type": "ContactPoint",
-                "telephone": "+55-11-4442-3565",
-                "contactType": "customer service",
-                "email": "contato@mangueirasdeincendiobrasil.com.br"
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+55-11-4442-3565",
+                    "contactType": "customer service",
+                    "email": "contato@mangueirasdeincendiobrasil.com.br",
+                    "availableLanguage": "Portuguese",
+                    "areaServed": "São Paulo, SP, Brasil"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+55-11-94025-8669",
+                    "contactType": "sales",
+                    "contactOption": "TollFree"
+                }
+            ],
+            "sameAs": [
+                "https://www.instagram.com/mib_equipamentos",
+                "https://www.facebook.com/mib.equipamentos",
+                "https://wa.me/5511940258669"
+            ],
+            "hasOfferCatalog": {
+                "@type": "OfferCatalog",
+                "name": "Equipamentos Contra Incêndio",
+                "itemListElement": [
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Product",
+                            "name": "Mangueiras de Incêndio"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Product",
+                            "name": "Extintores de Incêndio"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Product",
+                            "name": "Hidrantes Contra Incêndio"
+                        }
+                    }
+                ]
             }
         }
     </script>
@@ -76,39 +137,35 @@
                         <div class="header-contact">
                             <span class="contact-item">
                                 <i class="fas fa-phone me-2"></i>
-                                <a href="tel:1144423565">11 4442-3565</a> /
-                                <a href="tel:11940258669">11 94025-8669</a>
+                                11 4442-3565 / 11 94025-8669
                             </span>
                             <span class="contact-item">
                                 <i class="fas fa-envelope me-2"></i>
-                                <a href="mailto:contato@mangueirasdeincendiobrasil.com.br">contato@mangueirasdeincendiobrasil.com.br</a>
+                                <a href="mailto:contato@mangueirasdeincendiobrasil.com.br" style="color: #fff;" onclick="dataLayer.push({'event': 'email_click', 'event_category': 'contact', 'event_action': 'email_click', 'event_label': 'header_email'});">contato@mangueirasdeincendiobrasil.com.br</a>
                             </span>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="header-social text-md-end">
-                            <a href="#" class="social-link" title="Instagram">
+                            <a href="https://www.instagram.com/mib_equipamentos" target="_blank" class="social-link" title="Instagram">
                                 <i class="fab fa-instagram"></i>
                             </a>
-                            <a href="#" class="social-link" title="Twitter">
+                            <a href="https://twitter.com/mib_equipamentos" target="_blank" class="social-link" title="Twitter">
                                 <i class="fab fa-twitter"></i>
                             </a>
-                            <!-- <a href="#" class="social-link" title="Bluesky">
-                                <i class="fa-brands fa-bluesky"></i>
-                            </a> -->
-                            <a href="#" class="social-link" title="YouTube">
+                            <a href="https://www.youtube.com/@mibequipamentos" target="_blank" class="social-link" title="YouTube">
                                 <i class="fab fa-youtube"></i>
                             </a>
-                            <a href="#" class="social-link" title="Facebook">
+                            <a href="https://www.facebook.com/mib.equipamentos" target="_blank" class="social-link" title="Facebook">
                                 <i class="fab fa-facebook"></i>
                             </a>
-                            <a href="#" class="social-link" title="TikTok">
+                            <a href="https://www.tiktok.com/@mibequipamentos" target="_blank" class="social-link" title="TikTok">
                                 <i class="fab fa-tiktok"></i>
                             </a>
-                            <a href="#" class="social-link" title="LinkedIn">
+                            <a href="https://www.linkedin.com/company/mib-equipamentos" target="_blank" class="social-link" title="LinkedIn">
                                 <i class="fab fa-linkedin"></i>
                             </a>
-                            <a href="https://wa.me/5511940258669?text=Olá! Gostaria de informações sobre equipamentos contra incêndio." target="_blank" class="social-link" title="WhatsApp">
+                            <a href="https://wa.me/5511940258669?text=Olá! Gostaria de informações sobre equipamentos contra incêndio." target="_blank" class="social-link" title="WhatsApp" onclick="dataLayer.push({'event': 'whatsapp_click', 'event_category': 'contact', 'event_action': 'whatsapp_click', 'event_label': 'header_whatsapp'});">
                                 <i class="fab fa-whatsapp"></i>
                             </a>
                         </div>

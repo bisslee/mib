@@ -8,9 +8,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Material de Combate a Incêndio - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Materiais diversos para combate a incêndio e segurança.',
-    'keywords' => 'Material, Combate a Incêndio, Segurança, MIB',
+    'title' => 'Material de Combate a Incêndio Certificado ABNT - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Materiais diversos para combate a incêndio e segurança certificados ABNT. Acessórios e equipamentos complementares para sistemas de proteção. MIB São Paulo.',
+    'keywords' => 'Material São Paulo, Combate Incêndio SP, Segurança, Equipamentos Contra Incêndio, MIB, material certificado ABNT, acessórios incêndio, equipamentos proteção',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/produtos/material-de-combate-a-incendio.php'
 ];
 

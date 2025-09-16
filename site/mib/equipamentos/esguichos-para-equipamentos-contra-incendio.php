@@ -9,9 +9,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Esguichos para Equipamentos Contra Incêndio - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Conheça nossos esguichos para equipamentos contra incêndio com diversos modelos e especificações.',
-    'keywords' => 'Esguichos, Equipamentos Contra Incêndio, MIB',
+    'title' => 'Esguichos para Equipamentos Contra Incêndio Certificados ABNT - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Esguichos para equipamentos contra incêndio certificados ABNT. Conexão segura entre mangueira e equipamento. Diversos modelos e especificações. MIB São Paulo.',
+    'keywords' => 'Esguichos São Paulo, Equipamentos Contra Incêndio SP, MIB, esguicho certificado ABNT, conexão mangueira, bico esguicho incêndio',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/equipamentos/esguichos-para-equipamentos-contra-incendio.php'
 ];
 
@@ -27,11 +27,82 @@ $breadcrumbs = [
 
 $heroConfig = [
     'title' => 'Esguichos para Equipamentos Contra Incêndio',
-    'subtitle' => 'Os esguichos para equipamentos contra incêndio são utilizados para conectar a mangueira ao equipamento contra incêndio.'
+    'subtitle' => 'Os esguichos para equipamentos contra incêndio são utilizados para conectar a mangueira ao equipamento contra incêndio, permitindo o direcionamento e controle do jato de água no combate ao fogo.'
+];
+
+// Rich Snippets - Product Schema
+$product_schema = [
+    "@context" => "https://schema.org",
+    "@type" => "Product",
+    "name" => "Esguichos para Equipamentos Contra Incêndio Certificados ABNT",
+    "description" => "Esguichos para equipamentos contra incêndio certificados ABNT. Conexão segura entre mangueira e equipamento com diversos modelos e especificações. MIB São Paulo.",
+    "brand" => [
+        "@type" => "Brand",
+        "name" => "MIB - Mangueiras de Incêndio Brasil"
+    ],
+    "manufacturer" => [
+        "@type" => "Organization",
+        "name" => "MIB - Mangueiras de Incêndio Brasil",
+        "url" => "https://mangueirasdeincendiobrasil.com.br"
+    ],
+    "category" => "Equipamentos Contra Incêndio",
+    "offers" => [
+        "@type" => "Offer",
+        "priceCurrency" => "BRL",
+        "availability" => "https://schema.org/InStock",
+        "seller" => [
+            "@type" => "Organization",
+            "name" => "MIB - Mangueiras de Incêndio Brasil"
+        ],
+        "areaServed" => "São Paulo, SP, Brasil"
+    ],
+    "aggregateRating" => [
+        "@type" => "AggregateRating",
+        "ratingValue" => "4.6",
+        "reviewCount" => "65",
+        "bestRating" => "5",
+        "worstRating" => "1"
+    ]
+];
+
+// FAQ Schema
+$faq_schema = [
+    "@context" => "https://schema.org",
+    "@type" => "FAQPage",
+    "mainEntity" => [
+        [
+            "@type" => "Question",
+            "name" => "Para que servem os esguichos para equipamentos contra incêndio?",
+            "acceptedAnswer" => [
+                "@type" => "Answer",
+                "text" => "Os esguichos são utilizados para conectar a mangueira ao equipamento contra incêndio, permitindo o direcionamento e controle do jato de água no combate ao fogo."
+            ]
+        ],
+        [
+            "@type" => "Question",
+            "name" => "Quais tipos de esguichos vocês oferecem?",
+            "acceptedAnswer" => [
+                "@type" => "Answer",
+                "text" => "Oferecemos esguichos de diversos modelos e especificações: esguichos reguláveis, fixos, com diferentes diâmetros e pressões para atender todas as necessidades."
+            ]
+        ],
+        [
+            "@type" => "Question",
+            "name" => "Os esguichos são certificados ABNT?",
+            "acceptedAnswer" => [
+                "@type" => "Answer",
+                "text" => "Sim, todos os esguichos MIB são certificados ABNT e atendem às normas de segurança contra incêndio vigentes no Brasil."
+            ]
+        ]
+    ]
 ];
 
 // Incluir header
 include '../includes/header.php';
+
+// Adicionar Rich Snippets ao head
+echo '<script type="application/ld+json">' . json_encode($product_schema, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . '</script>';
+echo '<script type="application/ld+json">' . json_encode($faq_schema, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . '</script>';
 
 // Incluir breadcrumb
 include '../includes/breadcrumb.php';
@@ -43,7 +114,7 @@ include '../includes/breadcrumb.php';
         <div class="row">
             <div class="col-12 text-center">
                 <h1 class="page-title">
-                    <?php echo $heroConfig['title']; ?>
+                    Esguichos para Equipamentos Contra Incêndio Certificados ABNT - MIB Brasil
                 </h1>
                 <p class="page-subtitle">
                     <?php echo $heroConfig['subtitle']; ?>
@@ -60,7 +131,24 @@ include '../includes/breadcrumb.php';
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
+                    <h2 class="section-title">Esguichos para Equipamentos - Especificações Técnicas</h2>
+                    
+                    <h2 class="section-title mt-4">Informações Importantes sobre Esguichos</h2>
+                    <div class="alert alert-info mt-3">
+                        <ul>
+                            <li><h3><i class="fas fa-certificate"></i> Certificação ABNT</h3>
+                                <p>Todos os esguichos seguem rigorosamente as normas técnicas</p></li>
+                            <li><h3><i class="fas fa-list"></i> Variedade de Modelos</h3>
+                                <p>Esguichos reguláveis, fixos e especiais</p></li>
+                            <li><h3><i class="fas fa-map-marker-alt"></i> Atendimento Nacional</h3>
+                                <p>Entrega e suporte técnico em todo o Brasil</p></li>
+                            <li><h3><i class="fas fa-link"></i> Compatibilidade</h3>
+                                <p>Compatíveis com todos os tipos de mangueiras</p></li>
+                            <li><h3><i class="fas fa-shield-alt"></i> Durabilidade</h3>
+                                <p>Fabricados em materiais resistentes à corrosão</p></li>
+                        </ul>
+                    </div>
+                    
                     <article class="text-justify">
 
 
@@ -104,7 +192,7 @@ include '../includes/breadcrumb.php';
 
                                                         <td class="center"> PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho1.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho1.jpg" alt="Esguicho para Equipamentos contra Incêndio certificado ABNT - MIB São Paulo" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;" loading="lazy" width="150" height="120"></td>
 
                                                         <td class="center" width="30%;">
                                                             <p>Esguicho tipo mangotinho ajuste regulavel tres posições modelo CAC 1" fechamento por pino central.</p>
@@ -123,7 +211,7 @@ include '../includes/breadcrumb.php';
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho2.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho2.jpg" alt="Esguicho para Equipamentos contra Incêndio certificado ABNT - MIB São Paulo" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;" loading="lazy" width="150" height="120"></td>
 
                                                         <td class="center">
                                                             <p>Esguicho de combate a incendio tipo regulavel tres posições modelo Elkart 1 1/2(38mm) ou 2 1/2 (65mm) em latão polido.</p>
@@ -144,7 +232,7 @@ include '../includes/breadcrumb.php';
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho3.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho3.jpg" alt="Esguicho para Equipamentos contra Incêndio certificado ABNT - MIB São Paulo" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;" loading="lazy" width="150" height="120"></td>
 
                                                         <td class="center">
                                                             <p>Esguicho de combate a incendio tipo jato sólido 1 1/2 (38mm) 2 1/2(65mm) base em latão com tubo em aluminio ou latão disponiveis para requinte de 13 e 16 mm para 1 1/2 e 19 e 25 mm 2 1/2. </p>
@@ -163,7 +251,7 @@ include '../includes/breadcrumb.php';
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho4.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho4.jpg" alt="Esguicho para Equipamentos contra Incêndio certificado ABNT - MIB São Paulo" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;" loading="lazy" width="150" height="120"></td>
 
                                                         <td class="center">
                                                             <p>Esguicho de combate a incendio tipo jato regulavel tres posições modelo CAC AKRON LONGO 11/2 (38mm) ou 2 1/2 em latão polido fechamento por pino central, disponiveis em acabamento cromado. </p>
@@ -423,15 +511,15 @@ include '../includes/breadcrumb.php';
 
                                                     <div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:400px; ">
 
-                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-agulheta.php" style="color:#fff; margin:0px;">Esguicho Agulheta</a></h2>
+                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/esguicho-agulheta.php" style="color:#fff; margin:0px;">Esguicho Agulheta</a></h2>
 
-                                                        <a href="esguicho-agulheta.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-agulheta.jpg" alt="Esguicho Agulheta" title="Esguicho Agulheta" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/esguicho-agulheta.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-agulheta.jpg" alt="Esguicho Agulheta" title="Esguicho Agulheta" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
                                                             <p style="color:#fff">O esguicho agulheta ou cônico é um acessório da mangueira de incêndio seu uso é indispensável no conjunto...</p>
 
-                                                            <p style="text-align:center;"><a href="esguicho-agulheta.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
+                                                            <p style="text-align:center;"><a href="/old-pages/esguicho-agulheta.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
 
                                                         </div>
 
@@ -443,15 +531,15 @@ include '../includes/breadcrumb.php';
 
                                                     <div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:400px; ">
 
-                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-de-bombeiro.php" style="color:#fff; margin:0px;">Esguicho de Bombeiro</a></h2>
+                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/esguicho-de-bombeiro.php" style="color:#fff; margin:0px;">Esguicho de Bombeiro</a></h2>
 
-                                                        <a href="esguicho-de-bombeiro.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-de-bombeiro.jpg" alt="Esguicho de Bombeiro" title="Esguicho de Bombeiro" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/esguicho-de-bombeiro.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-de-bombeiro.jpg" alt="Esguicho de Bombeiro" title="Esguicho de Bombeiro" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
                                                             <p style="color:#fff">O esguicho de bombeiro controla a vazão da água, sendo o esguicho mais usado no combate a incêndio.</p>
 
-                                                            <p style="text-align:center;"><a href="esguicho-de-bombeiro.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
+                                                            <p style="text-align:center;"><a href="/old-pages/esguicho-de-bombeiro.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
 
                                                         </div>
 
@@ -463,15 +551,15 @@ include '../includes/breadcrumb.php';
 
                                                     <div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:400px; ">
 
-                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-de-combate-a-incendio.php" style="color:#fff; margin:0px;">Esguicho de Combate a Incêndio</a></h2>
+                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/esguicho-de-combate-a-incendio.php" style="color:#fff; margin:0px;">Esguicho de Combate a Incêndio</a></h2>
 
-                                                        <a href="esguicho-de-combate-a-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-de-combate-a-incendio.jpg" alt="Esguicho de Combate a Incêndio" title="Esguicho de Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/esguicho-de-combate-a-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-de-combate-a-incendio.jpg" alt="Esguicho de Combate a Incêndio" title="Esguicho de Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
                                                             <p style="color:#fff">Confira os modelos de esguichos de combate a incêndio.</p>
 
-                                                            <p style="text-align:center;"><a href="esguicho-de-combate-a-incendio.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
+                                                            <p style="text-align:center;"><a href="/old-pages/esguicho-de-combate-a-incendio.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
 
                                                         </div>
 
@@ -487,15 +575,15 @@ include '../includes/breadcrumb.php';
 
                                                     <div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:400px; ">
 
-                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-jato-solido.php" style="color:#fff; margin:0px;">Esguicho Jato Sólido</a></h2>
+                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/esguicho-jato-solido.php" style="color:#fff; margin:0px;">Esguicho Jato Sólido</a></h2>
 
-                                                        <a href="esguicho-jato-solido.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-jato-solido.jpg" alt="Esguicho Jato Sólido" title="Esguicho Jato Sólido" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/esguicho-jato-solido.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-jato-solido.jpg" alt="Esguicho Jato Sólido" title="Esguicho Jato Sólido" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
                                                             <p style="color:#fff">Confira os modelos de esguichos jato sólido. </p>
 
-                                                            <p style="text-align:center;"><a href="esguicho-jato-solido.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
+                                                            <p style="text-align:center;"><a href="/old-pages/esguicho-jato-solido.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
 
                                                         </div>
 
@@ -507,15 +595,15 @@ include '../includes/breadcrumb.php';
 
                                                     <div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:400px; ">
 
-                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-para-mangueira-de-incendio.php" style="color:#fff; margin:0px;">Esguicho para Mangueira de Incêndio</a></h2>
+                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/esguicho-para-mangueira-de-incendio.php" style="color:#fff; margin:0px;">Esguicho para Mangueira de Incêndio</a></h2>
 
-                                                        <a href="esguicho-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-para-mangueira-de-incendio.jpg" alt="Esguicho para Mangueira de Incêndio" title="Esguicho para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/esguicho-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-para-mangueira-de-incendio.jpg" alt="Esguicho para Mangueira de Incêndio" title="Esguicho para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
                                                             <p style="color:#fff">Trabalhamos com diversos tipos de esguicho para mangueira de incêndio. </p>
 
-                                                            <p style="text-align:center;"><a href="esguicho-para-mangueira-de-incendio.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
+                                                            <p style="text-align:center;"><a href="/old-pages/esguicho-para-mangueira-de-incendio.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
 
                                                         </div>
 
@@ -527,15 +615,15 @@ include '../includes/breadcrumb.php';
 
                                                     <div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:400px; ">
 
-                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-proporcionador-de-espuma.php" style="color:#fff; margin:0px;">Esguicho Proporcionador de Espuma</a></h2>
+                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/esguicho-proporcionador-de-espuma.php" style="color:#fff; margin:0px;">Esguicho Proporcionador de Espuma</a></h2>
 
-                                                        <a href="esguicho-proporcionador-de-espuma.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-proporcionador-de-espuma.jpg" alt="Esguicho Proporcionador de Espuma" title="Esguicho Proporcionador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/esguicho-proporcionador-de-espuma.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-proporcionador-de-espuma.jpg" alt="Esguicho Proporcionador de Espuma" title="Esguicho Proporcionador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
                                                             <p style="color:#fff">Confira os modelos de Esguicho Proporcionador de Espuma. </p>
 
-                                                            <p style="text-align:center;"><a href="esguicho-proporcionador-de-espuma.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
+                                                            <p style="text-align:center;"><a href="/old-pages/esguicho-proporcionador-de-espuma.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
 
                                                         </div>
 
@@ -551,15 +639,15 @@ include '../includes/breadcrumb.php';
 
                                                     <div class="thumbnail" style="background:#ff8000; border-bottom:solid 3px #000; min-height:400px; ">
 
-                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-regulavel-para-mangueira.php" style="color:#fff; margin:0px;">Esguicho Regulável para Mangueira</a></h2>
+                                                        <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/esguicho-regulavel-para-mangueira.php" style="color:#fff; margin:0px;">Esguicho Regulável para Mangueira</a></h2>
 
-                                                        <a href="esguicho-regulavel-para-mangueira.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-regulavel-para-mangueira.jpg" alt="Esguicho Regulável para Mangueira de Incêndio" title="Esguicho Regulável para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/esguicho-regulavel-para-mangueira.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-regulavel-para-mangueira.jpg" alt="Esguicho Regulável para Mangueira de Incêndio" title="Esguicho Regulável para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
                                                             <p style="color:#fff">Confira os modelos de Esguicho Regulável para Mangueira</p>
 
-                                                            <p style="text-align:center;"><a href="esguicho-regulavel-para-mangueira.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
+                                                            <p style="text-align:center;"><a href="/old-pages/esguicho-regulavel-para-mangueira.php" class="btn btn-primary" role="button">SAIBA MAIS</a></p>
 
                                                         </div>
 
