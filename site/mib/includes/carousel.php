@@ -524,6 +524,13 @@ $slidesMobile = [
                         <div class="hero-footer text-center">
                             <p class="hero-description"><?= htmlspecialchars($slide['subtitle']) ?></p>
                         </div>
+                        
+                        <!-- Indicadores do Carrossel Mobile - dentro do slide -->
+                        <div class="carousel-indicators mobile-indicators">
+                            <?php foreach ($slidesMobile as $idx => $s): ?>
+                                <button class="indicator <?= $idx === $index ? 'active' : '' ?>" onclick="goToMobileSlide(<?= $idx + 1 ?>)"></button>
+                            <?php endforeach; ?>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -538,13 +545,6 @@ $slidesMobile = [
         <button class="carousel-control next" onclick="changeMobileSlide(1)">
             <i class="fas fa-chevron-right"></i>
         </button>
-    </div>
-
-    <!-- Indicadores do Carrossel Mobile -->
-    <div class="carousel-indicators">
-        <?php foreach ($slidesMobile as $index => $slide): ?>
-            <button class="indicator <?= $index === 0 ? 'active' : '' ?>" onclick="goToMobileSlide(<?= $index + 1 ?>)"></button>
-        <?php endforeach; ?>
     </div>
 </div>
 
@@ -797,6 +797,25 @@ $slidesMobile = [
     width: 100%;
 }
 
+@media (max-width: 768px) {
+    .mobile-carousel .carousel-indicators {
+        position: relative;
+        bottom: auto;
+        left: auto;
+        transform: none;
+        margin-top: 1rem;
+        margin-bottom: 0rem;
+    }
+    
+    .desktop-carousel .carousel-indicators,
+    .tablet-carousel .carousel-indicators {
+        position: absolute;
+        bottom: 30px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
 .indicator {
     width: 12px;
     height: 12px;
@@ -815,8 +834,8 @@ $slidesMobile = [
 /* ===== RESPONSIVIDADE ===== */
 @media (max-width: 768px) {
     .hero-layout {
-        gap: 0.8rem;
-        padding: 0.5rem 1rem;
+        gap: 0.3rem;
+        padding: 1rem 1.5rem 4rem 1.5rem;
         min-height: 75vh;
         display: flex;
         flex-direction: column;
@@ -825,34 +844,55 @@ $slidesMobile = [
     }
     
     .hero-images {
-        margin: 1rem auto;
-        padding: 15px;
+        margin: 0.3rem auto;
+        padding: 5px 15px;
         max-width: 100%;
     }
     
     .hero-slide {
-        padding: 10px;
+        padding: 5px;
         height: 100vh;
         display: flex;
         align-items: flex-start;
         justify-content: center;
-        padding-top: 20px;
+        padding-top: 5px;
     }
     
     .slide-content {
-        max-width: 100%;
+        max-width: 95%;
+        width: 95%;
         border-radius: 20px;
-        min-height: 85vh;
+        min-height: 90vh;
         margin: 0 auto;
-        overflow-y: auto;
+        overflow: visible;
+    }
+    
+    .hero-header {
+        padding: 0 1.5rem;
+        margin-bottom: 0.5rem;
     }
     
     .hero-title {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
+        line-height: 1.4;
+        padding: 0 1.5rem;
+        margin: 0.3rem 0;
+        text-align: center;
+        word-wrap: break-word;
     }
     
     .hero-description {
         font-size: 1.1rem;
+        padding: 0 1.5rem;
+        text-align: center;
+        word-wrap: break-word;
+        margin: 0.3rem 0;
+    }
+    
+    .hero-footer {
+        padding: 0 1.5rem;
+        margin-top: 0rem;
+        margin-bottom: 0.5rem;
     }
     
     .product-item {
@@ -865,6 +905,7 @@ $slidesMobile = [
     
     .product-grid {
         gap: 10px;
+        padding: 20px 15px;
     }
 }
 
