@@ -1217,7 +1217,7 @@ include 'includes/breadcrumb.php';
                                     </div>
                                     <div class="col-lg-3 col-md-6 col-sm-12 mb-3">
                                         <div class="stat-card">
-                                            <div class="stat-number">137</div>
+                                            <div class="stat-number">127</div>
                                             <div class="stat-label">Total de Páginas</div>
                                         </div>
                                     </div>

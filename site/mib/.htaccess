@@ -166,6 +166,9 @@
     RewriteRule ^esguichos/?$ esguichos.php [L,NC]
     RewriteRule ^hidrantes/?$ hidrantes.php [L,NC]
     
+    # Sitemap XML dinâmico
+    RewriteRule ^sitemap\.xml$ sitemap.xml.php [L,NC]
+    
     # Página 404 personalizada
     ErrorDocument 404 /404.php
 </IfModule>

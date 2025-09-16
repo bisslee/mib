@@ -9,9 +9,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Armário para Mangueira de Incêndio - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Armários para armazenamento e proteção de mangueiras de incêndio.',
-    'keywords' => 'Armário, Mangueira de Incêndio, Armazenamento, MIB',
+    'title' => 'Armário para Mangueira de Incêndio Certificado ABNT - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Armários para armazenamento e proteção de mangueiras de incêndio certificados ABNT. Proteção contra intempéries e fácil acesso. MIB São Paulo.',
+    'keywords' => 'Armário São Paulo, Mangueira Incêndio SP, Armazenamento, Equipamentos Contra Incêndio, MIB, armário certificado ABNT, proteção mangueira, armazenamento equipamentos',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/produtos/armario-para-mangueira-de-incendio.php'
 ];
 
@@ -37,7 +37,7 @@ include '../includes/breadcrumb.php';
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="page-title">Armário para Mangueira de Incêndio</h1>
+                <h1 class="page-title">Armário para Mangueira de Incêndio Certificado ABNT - MIB Brasil</h1>
                 <p class="page-subtitle">Armários para armazenamento e proteção de mangueiras de incêndio</p>
             </div>
         </div>
@@ -51,7 +51,7 @@ include '../includes/breadcrumb.php';
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2 class="section-title">Armário para Mangueira de Incêndio</h2>
+                    <h2 class="section-title">Armário para Mangueira - Especificações Técnicas</h2>
 
                     <div class="row mb-4">
                         <div class="col-12">

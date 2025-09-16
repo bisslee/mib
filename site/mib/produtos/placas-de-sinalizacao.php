@@ -9,9 +9,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Placas de Sinalização - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Placas de sinalização para equipamentos contra incêndio e emergência.',
-    'keywords' => 'Placas, Sinalização, Emergência, MIB',
+    'title' => 'Placas de Sinalização para Equipamentos Contra Incêndio - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Placas de sinalização para equipamentos contra incêndio e emergência certificadas ABNT. Sinalização fotoluminescente e de segurança. MIB São Paulo.',
+    'keywords' => 'Placas São Paulo, Sinalização SP, Emergência, Equipamentos Contra Incêndio, MIB, placa certificada ABNT, fotoluminescente, sinalização segurança',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/produtos/placas-de-sinalizacao.php'
 ];
 

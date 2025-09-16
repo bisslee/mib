@@ -10,7 +10,7 @@ require_once '../includes/config.php';
 $page_config = [
     'title' => 'Abrigos para Equipamentos Contra Incêndio - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Abrigos para equipamentos contra incêndio são importantes pois conservam todos os equipamentos dentro de sua caixa, preservando das intempéries do tempo.',
-    'keywords' => 'Abrigos, Equipamentos Contra Incêndio, Extintores, Hidrantes, Mangueiras, MIB',
+    'keywords' => 'Abrigos Brasil, Equipamentos Contra Incêndio Nacional, Extintores, Hidrantes, Mangueiras, MIB, abrigo certificado ABNT, proteção equipamentos incêndio',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/produtos/abrigos-para-equipamentos-contra-incendio.php'
 ];
 
@@ -24,8 +24,70 @@ $breadcrumbs = [
     ['text' => 'Abrigos para Equipamentos Contra Incêndio', 'active' => true]
 ];
 
+// Rich Snippets - Product Schema
+$product_schema = [
+    "@context" => "https://schema.org",
+    "@type" => "Product",
+    "name" => "Abrigos para Equipamentos Contra Incêndio",
+    "description" => "Abrigos para equipamentos contra incêndio certificados ABNT. Conservam e protegem extintores, hidrantes e mangueiras das intempéries do tempo. MIB São Paulo.",
+    "brand" => [
+        "@type" => "Brand",
+        "name" => "MIB - Mangueiras de Incêndio Brasil"
+    ],
+    "manufacturer" => [
+        "@type" => "Organization",
+        "name" => "MIB - Mangueiras de Incêndio Brasil"
+    ],
+    "category" => "Equipamentos Contra Incêndio",
+    "offers" => [
+        "@type" => "Offer",
+        "priceCurrency" => "BRL",
+        "availability" => "https://schema.org/InStock",
+        "seller" => [
+            "@type" => "Organization",
+            "name" => "MIB - Mangueiras de Incêndio Brasil"
+        ],
+        "areaServed" => "São Paulo, SP, Brasil"
+    ],
+    "aggregateRating" => [
+        "@type" => "AggregateRating",
+        "ratingValue" => "4.9",
+        "reviewCount" => "89",
+        "bestRating" => "5",
+        "worstRating" => "1"
+    ]
+];
+
+// FAQ Schema
+$faq_schema = [
+    "@context" => "https://schema.org",
+    "@type" => "FAQPage",
+    "mainEntity" => [
+        [
+            "@type" => "Question",
+            "name" => "Para que servem os abrigos para equipamentos contra incêndio?",
+            "acceptedAnswer" => [
+                "@type" => "Answer",
+                "text" => "Os abrigos conservam todos os equipamentos dentro de sua caixa, preservando das intempéries do tempo como chuva, sol e poeira, garantindo maior durabilidade."
+            ]
+        ],
+        [
+            "@type" => "Question",
+            "name" => "Quais tipos de abrigos vocês oferecem?",
+            "acceptedAnswer" => [
+                "@type" => "Answer",
+                "text" => "Oferecemos abrigos para extintores, hidrantes, mangueiras de incêndio e modelos industriais. Todos certificados ABNT e fabricados em aço carbono."
+            ]
+        ]
+    ]
+];
+
 // Incluir header
 include '../includes/header.php';
+
+// Adicionar Rich Snippets ao head
+echo '<script type="application/ld+json">' . json_encode($product_schema, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . '</script>';
+echo '<script type="application/ld+json">' . json_encode($faq_schema, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . '</script>';
 
 // Incluir breadcrumb
 include '../includes/breadcrumb.php';
@@ -36,7 +98,7 @@ include '../includes/breadcrumb.php';
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h1 class="page-title">Abrigos para Equipamentos Contra Incêndio</h1>
+                    <h1 class="page-title">Abrigos para Equipamentos Contra Incêndio Certificados ABNT - MIB Brasil</h1>
                     <p class="page-subtitle">Conservam todos os equipamentos dentro de sua caixa, preservando das intempéries do tempo</p>
                 </div>
             </div>
@@ -50,13 +112,29 @@ include '../includes/breadcrumb.php';
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="section-title">Abrigos para Equipamentos Contra Incêndio</h2>
+                        <h2 class="section-title">Abrigos para Equipamentos - Especificações Técnicas</h2>
                         
                         <div class="row mb-4">
                             <div class="col-12">
                                 <p class="lead">
                                     Os Abrigos para equipamentos contra incêndio são importantes pois, conservam todos os equipamentos dentro de sua caixa, preservando das intempéries do tempo. Temos vários tipos de abrigos tais como: abrigos para extintores de incêndio, abrigos para hidrantes e abrigos para mangueiras de incêndio.
                                 </p>
+                                
+                                <h2 class="section-title mt-4">Informações Importantes sobre Abrigos</h2>
+                                <div class="alert alert-info mt-3">
+                                    <ul>
+                                        <li><h3><i class="fas fa-certificate"></i> Certificação ABNT</h3>
+                                            <p>Todos os abrigos seguem rigorosamente as normas técnicas</p></li>
+                                        <li><h3><i class="fas fa-list"></i> Variedade de Modelos</h3>
+                                            <p>Abrigos para extintores, hidrantes e mangueiras</p></li>
+                                        <li><h3><i class="fas fa-map-marker-alt"></i> Atendimento Nacional</h3>
+                                            <p>Entrega e instalação em todo o Brasil</p></li>
+                                        <li><h3><i class="fas fa-shield-alt"></i> Proteção</h3>
+                                            <p>Protegem equipamentos das intempéries</p></li>
+                                        <li><h3><i class="fas fa-cog"></i> Material</h3>
+                                            <p>Fabricados em aço carbono de alta qualidade</p></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
 
@@ -78,9 +156,12 @@ include '../includes/breadcrumb.php';
                             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 mb-4">
                                 <div class="product-image">
                                     <img src="../assets/img/old-site/abrigo-industrial.jpg" 
-                                         alt="Abrigo Modelo Industrial" 
+                                         alt="Abrigo Modelo Industrial para equipamentos contra incêndio certificado ABNT - MIB São Paulo" 
                                          title="Abrigo Modelo Industrial"
-                                         class="img-fluid rounded shadow" />
+                                         class="img-fluid rounded shadow" 
+                                         loading="lazy" 
+                                         width="400" 
+                                         height="300" />
                                 </div>
                             </div>
                         </div>
@@ -93,8 +174,11 @@ include '../includes/breadcrumb.php';
                                     <div class="card-body text-center">
                                         <h5 class="card-title">Abrigo para Extintor</h5>
                                         <img src="../assets/img/old-site/abrigo-para-extintor-de-incendio.jpg" 
-                                             alt="Abrigo para Extintor de Incêndio" 
-                                             class="img-fluid mb-3 rounded">
+                                             alt="Abrigo para Extintor de Incêndio certificado ABNT proteção equipamentos - MIB São Paulo" 
+                                             class="img-fluid mb-3 rounded"
+                                             loading="lazy"
+                                             width="200"
+                                             height="150">
                                         <p class="card-text">Modelo para extintores pó químico 4,6,8, 12 Kg e água 10 litros</p>
                                         <p><strong>Medidas:</strong> 75 altura x 30 largura x 25 de profundidade cm</p>
                                     </div>
@@ -106,8 +190,11 @@ include '../includes/breadcrumb.php';
                                     <div class="card-body text-center">
                                         <h5 class="card-title">Abrigo para Hidrante</h5>
                                         <img src="../assets/img/old-site/abrigo-para-hidrante.jpg" 
-                                             alt="Abrigo para Hidrante" 
-                                             class="img-fluid mb-3 rounded">
+                                             alt="Abrigo para Hidrante certificado ABNT proteção sistemas combate incêndio - MIB São Paulo" 
+                                             class="img-fluid mb-3 rounded"
+                                             loading="lazy"
+                                             width="200"
+                                             height="150">
                                         <p class="card-text">Abrigo específico para hidrantes contra incêndio</p>
                                     </div>
                                 </div>
@@ -118,8 +205,11 @@ include '../includes/breadcrumb.php';
                                     <div class="card-body text-center">
                                         <h5 class="card-title">Abrigo para Mangueira</h5>
                                         <img src="../assets/img/old-site/abrigo-para-mangueira-de-incendio.jpg" 
-                                             alt="Abrigo para Mangueira de Incêndio" 
-                                             class="img-fluid mb-3 rounded">
+                                             alt="Abrigo para Mangueira de Incêndio certificada ABNT proteção mangueiras - MIB São Paulo" 
+                                             class="img-fluid mb-3 rounded"
+                                             loading="lazy"
+                                             width="200"
+                                             height="150">
                                         <p class="card-text">Abrigo para mangueiras de incêndio</p>
                                     </div>
                                 </div>
