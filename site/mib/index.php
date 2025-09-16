@@ -40,6 +40,13 @@ include 'includes/header.php';
                 <div class="col-12">
                     <h1 class="section-title">Por que escolher a MIB?</h1>
                     <p class="section-subtitle">Qualidade certificada e atendimento especializado</p>
+                    
+                    <!-- CTA Principal para Teste A/B -->
+                    <div class="mt-4">
+                        <button id="cta-primary" class="btn btn-primary btn-lg">
+                            Solicitar Orçamento
+                        </button>
+                    </div>
                 </div>
             </div>
             
@@ -91,12 +98,12 @@ include 'includes/header.php';
                 <div class="col-lg-3 col-md-6">
                     <div class="product-card">
                         <div class="product-image">
-                            <img src="assets/img/logo-quad-branco.png" alt="Mangueira Tipo 1" class="img-fluid">
+                            <img src="assets/img/informacoes-tecnicas/mangueira-tipo-1-mib.png" alt="Mangueiras de Incêndio Certificadas" class="img-fluid">
                         </div>
                         <div class="product-content">
-                            <h3>Mangueira Tipo 1</h3>
+                            <h3>Mangueiras de Incêndio Certificadas</h3>
                             <p>Ideal para condomínios e residências</p>
-                            <a href="mangueiras-de-incendio.php" class="btn btn-outline-primary">Saiba Mais</a>
+                            <a href="informacoes-tecnicas/mangueiras-de-incendio-certificada.php" class="btn btn-outline-primary">Saiba Mais</a>
                         </div>
                     </div>
                 </div>
@@ -104,12 +111,12 @@ include 'includes/header.php';
                 <div class="col-lg-3 col-md-6">
                     <div class="product-card">
                         <div class="product-image">
-                            <img src="assets/img/logo-quad-branco.png" alt="Extintor ABC" class="img-fluid">
+                            <img src="assets/img/informacoes-tecnicas/luz-emergencia-led-18.webp" alt="Luz de Emergência LED" class="img-fluid">
                         </div>
                         <div class="product-content">
-                            <h3>Extintor ABC</h3>
-                            <p>Para múltiplas classes de incêndio</p>
-                            <a href="extintores.php" class="btn btn-outline-primary">Saiba Mais</a>
+                            <h3>Luz de Emergência LED</h3>
+                            <p>Para múltiplas aplicações</p>
+                            <a href="informacoes-tecnicas/luzes-de-emergencia-led.php" class="btn btn-outline-primary">Saiba Mais</a>
                         </div>
                     </div>
                 </div>
@@ -117,12 +124,12 @@ include 'includes/header.php';
                 <div class="col-lg-3 col-md-6">
                     <div class="product-card">
                         <div class="product-image">
-                            <img src="assets/img/logo-quad-branco.png" alt="Esguicho Regulável" class="img-fluid">
+                            <img src="assets/img/informacoes-tecnicas/mangueira-tipo-2-mib.png" alt="Mangueira de Incêndio para Condomínio" class="img-fluid">
                         </div>
                         <div class="product-content">
-                            <h3>Esguicho Regulável</h3>
-                            <p>Controle preciso do jato de água</p>
-                            <a href="esguichos.php" class="btn btn-outline-primary">Saiba Mais</a>
+                            <h3>Mangueira de Incêndio para Condomínio</h3>
+                            <p>Segurança para moradores, aprovação no Corpo de Bombeiros e economia garantida em São Paulo</p>
+                            <a href="informacoes-tecnicas/mangueira-de-incendio-para-condominio.php" class="btn btn-outline-primary">Saiba Mais</a>
                         </div>
                     </div>
                 </div>
@@ -130,11 +137,11 @@ include 'includes/header.php';
                 <div class="col-lg-3 col-md-6">
                     <div class="product-card">
                         <div class="product-image">
-                            <img src="assets/img/logo-quad-branco.png" alt="Hidrante" class="img-fluid">
+                            <img src="assets/img/old-site/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira" class="img-fluid">
                         </div>
                         <div class="product-content">
-                            <h3>Hidrantes</h3>
-                            <p>Sistemas completos de combate</p>
+                            <h3>Adaptador para Mangueira</h3>
+                            <p>Adaptadores para mangueiras de incêndio com diferentes conexões e especificações técnicas.</p>
                             <a href="hidrantes.php" class="btn btn-outline-primary">Saiba Mais</a>
                         </div>
                     </div>

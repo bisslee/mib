@@ -44,7 +44,7 @@ $is_contact_page = basename($_SERVER['PHP_SELF']) === 'contact.php';
                         </div>
                     <?php endif; ?>
                     
-                    <form method="POST" action="" class="contact-form">
+                    <form id="contact-form" method="POST" action="" class="contact-form">
                         <input type="hidden" name="contact_form" value="1">
                         
                         <div class="row g-3">

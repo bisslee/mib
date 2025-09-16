@@ -17,20 +17,52 @@
     })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
     <!-- End Google Tag Manager -->
     
-    <?php 
-    // Incluir configurações do GTM
-    if (file_exists(__DIR__ . '/gtm-config.php')) {
-        include_once __DIR__ . '/gtm-config.php';
-    }
-    ?>
+        <?php 
+        // Incluir configurações do GTM
+        if (file_exists(__DIR__ . '/gtm-config.php')) {
+            include_once __DIR__ . '/gtm-config.php';
+        }
+        
+        // Incluir configurações do Search Console
+        if (file_exists(__DIR__ . '/search-console-config.php')) {
+            include_once __DIR__ . '/search-console-config.php';
+        }
+        ?>
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="<?php echo htmlspecialchars(isset($page_config['description']) ? $page_config['description'] : (isset($site_config['description']) ? $site_config['description'] : '')); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars(isset($page_config['keywords']) ? $page_config['keywords'] : (isset($site_config['keywords']) ? $site_config['keywords'] : '')); ?>">
     <meta name="author" content="<?php echo htmlspecialchars(isset($page_config['author']) ? $page_config['author'] : (isset($site_config['author']) ? $site_config['author'] : 'MIB - Mangueiras de Incêndio Brasil')); ?>">
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo htmlspecialchars(isset($page_config['canonical']) ? $page_config['canonical'] : (isset($site_config['canonical']) ? $site_config['canonical'] : '')); ?>">
+        <meta name="robots" content="index, follow">
+        <link rel="canonical" href="<?php echo htmlspecialchars(isset($page_config['canonical']) ? $page_config['canonical'] : (isset($site_config['canonical']) ? $site_config['canonical'] : '')); ?>">
+        
+        <?php 
+        // Meta tag de verificação do Google Search Console
+        if (isset($search_console_config) && !empty($search_console_config['verification_code'])) {
+            echo generate_verification_meta($search_console_config['verification_code']);
+        }
+        
+        // Schema.org WebSite para Search Console
+        if (function_exists('generate_search_console_data')) {
+            $website_schema = generate_search_console_data();
+            echo '<script type="application/ld+json">' . json_encode($website_schema, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . '</script>';
+        }
+        
+        // Incluir sistema de Testes A/B
+        if (file_exists(__DIR__ . '/ab-testing-implementation.php')) {
+            include_once __DIR__ . '/ab-testing-implementation.php';
+            
+            // Aplicar testes A/B na página atual
+            $ab_tests_code = apply_page_ab_tests();
+            if ($ab_tests_code) {
+                echo $ab_tests_code;
+            }
+            
+            // Adicionar CSS para testes A/B
+            echo generate_ab_test_css();
+        }
+        ?>
 
     <!-- Open Graph -->
     <meta property="og:title" content="<?php echo htmlspecialchars(isset($page_config['title']) ? $page_config['title'] : (isset($site_config['title']) ? $site_config['title'] : '')); ?>">
