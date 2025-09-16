@@ -9,9 +9,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Canhão Monitor para Combate a Incêndio - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'O canhão monitor é um equipamento de combate a incêndio a longa distância, para combater incêndio de grandes riscos onde a vazão e a distância são primordiais.',
-    'keywords' => 'Canhão Monitor, Combate a Incêndio, Equipamentos Contra Incêndio, MIB',
+    'title' => 'Canhão Monitor de Combate a Incêndio Certificado ABNT - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Canhão monitor de combate a incêndio certificado ABNT. Equipamento para combate a incêndio de grandes riscos com alta vazão e longa distância. MIB São Paulo.',
+    'keywords' => 'Canhão Monitor São Paulo, Combate Incêndio SP, Equipamentos Contra Incêndio, MIB, canhão certificado ABNT, alta vazão, longa distância, grandes riscos',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/equipamentos/canhao-monitor-de-combate-a-incendio.php'
 ];
 

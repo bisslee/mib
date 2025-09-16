@@ -8,9 +8,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Válvulas - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Válvulas para sistemas de combate a incêndio e hidrantes.',
-    'keywords' => 'Válvulas, Hidrantes, Combate a Incêndio, MIB',
+    'title' => 'Válvulas para Sistemas Contra Incêndio Certificadas ABNT - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Válvulas para sistemas de combate a incêndio e hidrantes certificadas ABNT. Controle de fluxo e pressão em sistemas de segurança. MIB São Paulo.',
+    'keywords' => 'Válvulas São Paulo, Sistemas Incêndio SP, Hidrantes, Equipamentos Contra Incêndio, MIB, válvula certificada ABNT, controle fluxo, pressão hidrante',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/produtos/valvulas.php'
 ];
 

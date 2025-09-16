@@ -8,9 +8,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Líquido Gerador de Espuma - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Líquidos geradores de espuma para sistemas de combate a incêndio.',
-    'keywords' => 'Líquido, Espuma, Combate a Incêndio, MIB',
+    'title' => 'Líquido Gerador de Espuma para Combate a Incêndio - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Líquidos geradores de espuma para sistemas de combate a incêndio certificados ABNT. Espuma AFFF para extinção eficiente de incêndios. MIB São Paulo.',
+    'keywords' => 'Líquido São Paulo, Espuma SP, Combate Incêndio, Equipamentos Contra Incêndio, MIB, líquido certificado ABNT, espuma AFFF, extinção incêndio',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/produtos/liquido-gerador-de-espuma.php'
 ];
 

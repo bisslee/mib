@@ -8,9 +8,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Conjunto da Mangueira de Incêndio - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Conjuntos completos de mangueiras de incêndio com todos os acessórios necessários.',
-    'keywords' => 'Conjunto, Mangueira de Incêndio, Acessórios, MIB',
+    'title' => 'Conjunto da Mangueira de Incêndio Certificado ABNT - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Conjuntos completos de mangueiras de incêndio com todos os acessórios necessários certificados ABNT. Kit completo para combate a incêndio. MIB São Paulo.',
+    'keywords' => 'Conjunto São Paulo, Mangueira Incêndio SP, Acessórios, Equipamentos Contra Incêndio, MIB, conjunto certificado ABNT, kit mangueira, acessórios incêndio',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/produtos/conjunto-da-mangueira-de-incendio.php'
 ];
 
@@ -36,7 +36,7 @@ include '../includes/breadcrumb.php';
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h1 class="page-title">Conjunto da Mangueira de Incêndio</h1>
+                    <h1 class="page-title">Conjunto da Mangueira de Incêndio Certificado ABNT - MIB Brasil</h1>
                     <p class="page-subtitle">Conjuntos completos de mangueiras de incêndio com todos os acessórios necessários</p>
                 </div>
             </div>
@@ -50,7 +50,7 @@ include '../includes/breadcrumb.php';
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="section-title">Conjunto da Mangueira de Incêndio</h2>
+                        <h2 class="section-title">Conjunto da Mangueira - Especificações Técnicas</h2>
                         
                         <div class="row mb-4">
                             <div class="col-12">

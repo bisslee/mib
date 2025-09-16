@@ -9,9 +9,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Adaptador para Mangueira de Incêndio - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Adaptadores para mangueiras de incêndio com diferentes conexões e especificações técnicas.',
-    'keywords' => 'Adaptador, Mangueira de Incêndio, Conexões, MIB',
+    'title' => 'Adaptador para Mangueira de Incêndio Certificado ABNT - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Adaptadores para mangueiras de incêndio com diferentes conexões e especificações técnicas certificados ABNT. Conexões seguras e eficientes. MIB São Paulo.',
+    'keywords' => 'Adaptador São Paulo, Mangueira Incêndio SP, Conexões, Equipamentos Contra Incêndio, MIB, adaptador certificado ABNT, conexões mangueira, especificações técnicas',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/produtos/adaptador-para-mangueira-de-incendio.php'
 ];
 
@@ -37,7 +37,7 @@ include '../includes/breadcrumb.php';
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="page-title">Adaptador para Mangueira de Incêndio</h1>
+                <h1 class="page-title">Adaptador para Mangueira de Incêndio Certificado ABNT - MIB Brasil</h1>
                 <p class="page-subtitle">Adaptadores para mangueiras de incêndio com diferentes conexões e especificações técnicas</p>
             </div>
         </div>
@@ -51,7 +51,7 @@ include '../includes/breadcrumb.php';
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2 class="section-title">Adaptador para Mangueira de Incêndio</h2>
+                    <h2 class="section-title">Adaptador para Mangueira - Especificações Técnicas</h2>
 
                     <div class="row mb-4">
                         <div class="col-12">

@@ -35,7 +35,7 @@ include '../includes/breadcrumb.php';
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h1 class="page-title">Produtos</h1>
+                    <h1 class="page-title">Produtos para Equipamentos Contra Incêndio - MIB Brasil</h1>
                     <p class="page-subtitle">Conheça nossa linha completa de produtos para equipamentos contra incêndio</p>
                 </div>
             </div>

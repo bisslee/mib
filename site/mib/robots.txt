@@ -1,0 +1,11 @@
+user-agent: *
+allow: /
+
+# Bloquear páginas antigas
+Disallow: /old-pages/
+Disallow: /devtools/
+Disallow: /temp_*
+
+# Sitemap
+Sitemap: https://mangueirasdeincendiobrasil.com.br/sitemap.xml
+

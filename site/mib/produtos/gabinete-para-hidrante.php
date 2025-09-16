@@ -8,9 +8,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Gabinete para Hidrante - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Gabinetes para proteção e armazenamento de hidrantes contra incêndio.',
-    'keywords' => 'Gabinete, Hidrante, Proteção, MIB',
+    'title' => 'Gabinete para Hidrante Certificado ABNT - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'Gabinetes para proteção e armazenamento de hidrantes contra incêndio certificados ABNT. Proteção contra intempéries e vandalismo. MIB São Paulo.',
+    'keywords' => 'Gabinete São Paulo, Hidrante SP, Proteção, Equipamentos Contra Incêndio, MIB, gabinete certificado ABNT, proteção hidrante, armazenamento equipamentos',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/produtos/gabinete-para-hidrante.php'
 ];
 
@@ -36,7 +36,7 @@ include '../includes/breadcrumb.php';
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h1 class="page-title">Gabinete para Hidrante</h1>
+                    <h1 class="page-title">Gabinete para Hidrante Certificado ABNT - MIB Brasil</h1>
                     <p class="page-subtitle">Gabinetes para proteção e armazenamento de hidrantes contra incêndio</p>
                 </div>
             </div>
@@ -50,7 +50,7 @@ include '../includes/breadcrumb.php';
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="section-title">Gabinete para Hidrante</h2>
+                        <h2 class="section-title">Gabinete para Hidrante - Especificações Técnicas</h2>
                         
                         <div class="row mb-4">
                             <div class="col-12">
