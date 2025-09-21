@@ -123,8 +123,10 @@
                 }
             ],
             "sameAs": [
-                "https://www.instagram.com/mib_equipamentos",
-                "https://www.facebook.com/mib.equipamentos",
+                "https://www.instagram.com/mangueirasdeincendiobrasil/",
+                "https://www.linkedin.com/company/mangueirasdeincendiobrasil/",
+                "https://www.tiktok.com/@mangueirasincendio2025",
+                "https://www.youtube.com/@MangueirasDeIncendioBrasil",
                 "https://wa.me/5511940258669"
             ],
             "hasOfferCatalog": {
@@ -179,25 +181,26 @@
                     </div>
                     <div class="col-md-6">
                         <div class="header-social text-md-end">
-                            <a href="https://www.instagram.com/mib_equipamentos" target="_blank" class="social-link" title="Instagram">
+                            <a href="https://www.instagram.com/mangueirasdeincendiobrasil/" target="_blank" class="social-link" title="Instagram">
                                 <i class="fab fa-instagram"></i>
                             </a>
-                            <a href="https://twitter.com/mib_equipamentos" target="_blank" class="social-link" title="Twitter">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a href="https://www.youtube.com/@mibequipamentos" target="_blank" class="social-link" title="YouTube">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                            <a href="https://www.facebook.com/mib.equipamentos" target="_blank" class="social-link" title="Facebook">
-                                <i class="fab fa-facebook"></i>
-                            </a>
-                            <a href="https://www.tiktok.com/@mibequipamentos" target="_blank" class="social-link" title="TikTok">
-                                <i class="fab fa-tiktok"></i>
-                            </a>
-                            <a href="https://www.linkedin.com/company/mib-equipamentos" target="_blank" class="social-link" title="LinkedIn">
+                            <a href="https://www.linkedin.com/company/mangueirasdeincendiobrasil/" target="_blank" class="social-link" title="LinkedIn">
                                 <i class="fab fa-linkedin"></i>
                             </a>
-                            <a href="https://wa.me/5511940258669?text=Olá! Gostaria de informações sobre equipamentos contra incêndio." target="_blank" class="social-link" title="WhatsApp" onclick="dataLayer.push({'event': 'whatsapp_click', 'event_category': 'contact', 'event_action': 'whatsapp_click', 'event_label': 'header_whatsapp'});">
+                            <a href="https://www.tiktok.com/@mangueirasincendio2025" target="_blank" class="social-link" title="TikTok">
+                                <i class="fab fa-tiktok"></i>
+                            </a>
+                            <a href="https://www.youtube.com/@MangueirasDeIncendioBrasil" target="_blank" class="social-link" title="YouTube">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                            <!-- Links comentados para atualização futura -->
+                            <!-- <a href="#" target="_blank" class="social-link" title="Twitter">
+                                <i class="fab fa-twitter"></i>
+                            </a> -->
+                            <!-- <a href="#" target="_blank" class="social-link" title="Facebook">
+                                <i class="fab fa-facebook"></i>
+                            </a> -->
+                            <a href="https://api.whatsapp.com/send?phone=5511940258669&text=Vim pelo site e gostaria de mais informações sobre seus produtos." target="_blank" class="social-link" title="WhatsApp" onclick="dataLayer.push({'event': 'whatsapp_click', 'event_category': 'contact', 'event_action': 'whatsapp_click', 'event_label': 'header_whatsapp'});">
                                 <i class="fab fa-whatsapp"></i>
                             </a>
                         </div>
@@ -230,7 +233,15 @@
                                 Informações Técnicas
                             </a>
                             <ul class="dropdown-menu" style="max-height: 400px; overflow-y: auto;">
-                                <?php include __DIR__ . '/informacoes-tecnicas.php'; ?>
+                                <?php 
+                                // Incluir o array de informações técnicas
+                                include __DIR__ . '/informacoes-tecnicas.php';
+
+                                // Gerar os links dinamicamente usando o array
+                                foreach ($informacoes_tecnicas as $item) {
+                                    echo '<li><a class="dropdown-item" href="' . htmlspecialchars($item['url']) . '">' . htmlspecialchars($item['title']) . '</a></li>';
+                                }
+                                ?>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
