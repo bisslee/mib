@@ -150,9 +150,6 @@ include 'includes/header.php';
         </div>
     </section>
 
-    <!-- Seção de Contato -->
-    <?php include 'includes/contact-section.php'; ?>
-
 <?php
 // Incluir footer
 include 'includes/footer.php';
