@@ -101,18 +101,6 @@ if (isset($breadcrumbs)) {
 
 <p>Fabricadas com materiais altamente resistentes, nossas mangueiras contra incêndio suportam pressões intensas e estão em conformidade com as exigências do Corpo de Bombeiros, garantindo a proteção do seu ambiente.</p>
 
-<h2>📞 Entre em contato para um orçamento personalizado!</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>📞 WhatsApp: Clique para conversar 
-
-📧 E-mail: contato@mangueirasdeincendiobrasil.com.br
-
-🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
 <p>Por Que Optar pela Mangueira de Incêndio 30 Metros?</p>
 
 <p>As mangueiras de incêndio 30 metros são ideais para grandes instalações, como indústrias e hospitais. Oferecemos também opções de 15, 20 e 25 metros para atender diferentes necessidades. Consulte um especialista para garantir que você escolha o comprimento correto conforme o projeto de incêndio da sua propriedade.</p>

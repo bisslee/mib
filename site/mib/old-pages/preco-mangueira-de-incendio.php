@@ -91,13 +91,6 @@ if (isset($breadcrumbs)) {
 
 <p>Aproveite as condições especiais de pagamento, descontos progressivos e o melhor custo-benefício do mercado. Nossos consultores estão à disposição para orientá-lo e encontrar a melhor solução em mangueiras de incêndio para sua empresa ou residência.</p>
 
-<h2>📞 WhatsApp: Clique para conversar 
-
-📧 E-mail: contato@mangueirasdeincendiobrasil.com.br
-
-🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <p>Como Avaliar o Preço de Mangueira de Incêndio e Garantir o Melhor Investimento?</p>
 

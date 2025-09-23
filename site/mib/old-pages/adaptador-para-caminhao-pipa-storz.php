@@ -65,14 +65,6 @@ if (isset($breadcrumbs)) {
                     <article class="text-justify">
 
 
- <!-- Google Tag Manager (noscript) -->
-
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
- height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
- <!-- End Google Tag Manager (noscript) -->
-
  <section class="container">
 
  <div class="row"> 
@@ -103,12 +95,6 @@ if (isset($breadcrumbs)) {
 
 <p>Contato para Mais Informações</p>
 
-<h2>📞 Telefone: WhatsApp 
-
-📧 E-mail: contato@mangueirasdeincendiobrasil.com.br
-
-🌐 Visite nosso site: https://mangueirasdeincendiobrasil.com.br</h2>
-
 <!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <h2>🔩 Vantagens dos Engates Rápidos Tipo Storz</h2>
@@ -131,17 +117,6 @@ if (isset($breadcrumbs)) {
 
 <p>Além dos adaptadores para caminhão pipa, também fornecemos engates rápidos para mangueira de incêndio, acessórios de conexão, e peças compatíveis com os principais padrões de mercado.</p>
 
-<h2>📞 Contato para Mais Informações</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>📱 WhatsApp: Clique para conversar –</strong></p>
-
-<h2>📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>🌐 Site:</h2>
 
 <!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 

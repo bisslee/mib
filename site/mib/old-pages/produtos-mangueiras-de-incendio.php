@@ -65,14 +65,7 @@ if (isset($breadcrumbs)) {
                     <article class="text-justify">
 
 
- <!-- Google Tag Manager (noscript) -->
-
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
- height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
- <!-- End Google Tag Manager (noscript) -->
-
+ 
  <section class="container">
 
  <div class="row"> 
@@ -101,19 +94,6 @@ if (isset($breadcrumbs)) {
 
 <p>🚛 Sistemas fixos de hidrantes e caminhões-pipa</p>
 
-<h2>📞 fale com a BS </h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>Entre em contato com nossa equipe e solicite seu orçamento personalizado:</strong></p>
-
-<p><strong>📱 WhatsApp: Clique para conversar –</strong></p>
-
-<h2>📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>🌐 Site oficial:</h2>
 
 <!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
@@ -151,27 +131,8 @@ if (isset($breadcrumbs)) {
 
 <p>Tudo com garantia de procedência, atendimento técnico e suporte especializado.</p>
 
-<h2>📞 fale com a BS </h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>Entre em contato com nossa equipe e solicite seu orçamento personalizado:</strong></p>
-
-<p><strong>📱 WhatsApp: Clique para conversar –</strong></p>
-
-<h2>📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>🌐 Site oficial:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <p>🔗 Encontre o Produto Ideal para Prevenção de Incêndios</p>
-
-<ul><li>👉 Acesse agora nosso site e veja todos os modelos de produto mangueira de incêndio, com entrega rápida em todo o Brasil e suporte técnico especializado.</li></ul>
-
-<h2>🌐 Nossos Sites Oficiais:</h2>
 
 <!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 

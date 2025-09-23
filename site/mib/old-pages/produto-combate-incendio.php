@@ -65,13 +65,7 @@ if (isset($breadcrumbs)) {
                     <article class="text-justify">
 
 
- <!-- Google Tag Manager (noscript) -->
 
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
- height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
- <!-- End Google Tag Manager (noscript) -->
 
  <section class="container">
 
@@ -123,19 +117,7 @@ if (isset($breadcrumbs)) {
 
 <p>Não arrisque a segurança do seu patrimônio. Invista em soluções completas para prevenção de incêndios, com equipamentos modernos, resistentes e duráveis.</p>
 
-<h2>📞 Fale com a BS </h2>
 
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>📱 WhatsApp: Clique para conversar –</strong></p>
-
-<h2>📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <p>🚨 Produtos de Prevenção de Incêndio com Qualidade e Segurança</p>
 
@@ -157,13 +139,6 @@ if (isset($breadcrumbs)) {
 
 <p>Contato para Mais Informações</p>
 
-<h2>📞 WhatsApp: Clique para conversar 
-
-📧 E-mail: contato@mangueirasdeincendiobrasil.com.br
-
-🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <ul><li>🧯 Principais Produtos de Combate a Incêndio Disponíveis</li></ul>
 
@@ -233,17 +208,6 @@ if (isset($breadcrumbs)) {
 
 <ul><li>✔ Soluções completas para condomínios, indústrias, empresas e órgãos públicos</li></ul>
 
-<h2>📞 fale com um Especialista Agora</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>📞 WhatsApp: Clique para conversar 
-
-📧 E-mail: contato@mangueirasdeincendiobrasil.com.br
-
-🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <h2>✅ Encontre os Melhores Produtos para Prevenção de Incêndio</h2>
 

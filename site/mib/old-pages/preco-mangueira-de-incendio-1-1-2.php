@@ -89,20 +89,6 @@ if (isset($breadcrumbs)) {
 
 <p>Descubra agora como escolher a mangueira ideal e economizar com segurança!</p>
 
-<h2>📞 Contato para Mais Informações</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>📱 WhatsApp: Clique para conversar –</strong></p>
-
-<h2>📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
 <h2>✅ Tipos de Mangueira de Incêndio 1 1/2" e Suas Aplicações</h2>
 
 <!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
@@ -145,19 +131,6 @@ Excelente para operações em indústrias pesadas, portos e aeronaves, devido à
 
 <p>Na BS , você encontra os melhores preços e modelos de mangueiras de incêndio 1 1/2 polegada, todos certificados, com pronta entrega e suporte técnico especializado.</p>
 
-<h2>📞 Contato para Mais Informações</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>📱 WhatsApp: Clique para conversar –</strong></p>
-
-<h2>📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <p>Como Comparar Preços de Mangueira de Incêndio 1 1/2"?</p>
 
@@ -172,20 +145,6 @@ Embora o preço seja importante, a qualidade nunca deve ser comprometida. Mangue
 <p>Negocie Condições Especiais de Pagamento
 
 Ao buscar o melhor preço de mangueira de incêndio 1 1/2", não hesite em negociar condições especiais, como descontos por volume ou parcelamento facilitado. Essas condições podem fazer uma grande diferença no custo final da compra, mantendo sempre a qualidade do produto.</p>
-
-<h2>📞 Contato para Mais Informações</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>📱 WhatsApp: Clique para conversar –</strong></p>
-
-<h2>📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <h2>🔎 Encontre o Melhor Preço para Mangueira de Incêndio 1 1/2"</h2>
 
