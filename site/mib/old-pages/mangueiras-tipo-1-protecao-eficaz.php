@@ -151,7 +151,7 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <img src="/assets/img/old-site/img-124.png" alt="">
+ <img src="/assets/img/old-site/img-124.png" class="img-fluid" alt="">
 
  <p style="margin-left:18pt; line-height:14.4pt; background-color:#ffffff">
 

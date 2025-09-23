@@ -87,7 +87,7 @@ if (isset($breadcrumbs)) {
 
  <h5><strong>Modelos padrões e especiais, consulte-nos e faça um orçamento.</strong></h5>
 
- <img src="/assets/img/old-site/img-121.png" alt="">
+ <img src="/assets/img/old-site/img-121.png" class="img-fluid" alt="">
 
  <p>Proteja suas mangueiras de incêndio com os abrigos de alta qualidade da BS Brasil
 
