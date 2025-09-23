@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Tipos de Extintores de Incêndio - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Referência: Tipos de Extintores de Incêndio',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/tipos-de-extintores-de-incendio.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Tipos de Extintores de Incêndio',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Tipos de Extintores de Incêndio',
     'description' => 'Referência: Tipos de Extintores de Incêndio',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
