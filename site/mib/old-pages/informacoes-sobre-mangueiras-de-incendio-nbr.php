@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Informações sobre Mangueiras de Incêndio NBR - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Referência: Informações sobre Mangueira de Combate a Incêndio',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/informacoes-sobre-mangueiras-de-incendio-nbr.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Informações sobre Mangueiras de Incêndio NBR',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Informações sobre Mangueiras de Incêndio NBR',
     'description' => 'Referência: Informações sobre Mangueira de Combate a Incêndio',
     'image' => '/assets/img/old-site/default-image.jpg',
 );

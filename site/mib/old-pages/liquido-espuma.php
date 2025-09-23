@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Líquido Espuma - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Descrição da página',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/liquido-espuma.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Líquido Espuma',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Líquido Espuma',
     'description' => 'Descrição da página',
     'image' => '/assets/img/old-site/default-image.jpg',
 );

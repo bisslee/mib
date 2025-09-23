@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Extintor de Incêndio sobre Rodas Água Pressurizada 75 Litros - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Referência: Extintor de incêndio com carga de água pressurizada 75 litros.',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/extintor-de-incendio-sobre-rodas-agua-pressurizada-75-litros.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Extintor de Incêndio sobre Rodas Água Pressurizada 75 Litros',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Extintor de Incêndio sobre Rodas Água Pressurizada 75 Litros',
     'description' => 'Referência: Extintor de incêndio com carga de água pressurizada 75 litros.',
     'image' => '/assets/img/old-site/default-image.jpg',
 );

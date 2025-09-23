@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Extintor de Incêndio sobre Rodas Espuma Mecânica 50 Litros - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Referência: Extintor de incêndio espuma mecânica 50 litros',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/extintor-de-incendio-sobre-rodas-espuma-mecanica-50-litros.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Extintor de Incêndio sobre Rodas Espuma Mecânica 50 Litros',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Extintor de Incêndio sobre Rodas Espuma Mecânica 50 Litros',
     'description' => 'Referência: Extintor de incêndio espuma mecânica 50 litros',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
