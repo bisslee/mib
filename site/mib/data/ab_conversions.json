@@ -8,5 +8,15 @@
         "ip_address": "::1",
         "timestamp": "2025-09-23 18:02:20",
         "user_id": "user_68d30adc6c5ac0.15342126"
+    },
+    {
+        "test_id": "header_navigation",
+        "variant": "control",
+        "goal": "button_click",
+        "page_url": "http:\/\/localhost:8133\/old-pages\/extintor-de-incendio-co2-6-kg.php",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G955U Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
+        "ip_address": "::1",
+        "timestamp": "2025-09-23 19:29:08",
+        "user_id": "user_68d31f34584cb1.80099551"
     }
 ]
