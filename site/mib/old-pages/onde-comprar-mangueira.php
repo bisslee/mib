@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Onde Comprar Mangueira - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Há vários tipos de mangueiras de incêndio encontrada no mercado, dentre elas são:',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/onde-comprar-mangueira.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Onde Comprar Mangueira',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Onde Comprar Mangueira',
     'description' => 'Há vários tipos de mangueiras de incêndio encontrada no mercado, dentre elas são:',
     'image' => '/assets/img/old-site/default-image.jpg',
 );

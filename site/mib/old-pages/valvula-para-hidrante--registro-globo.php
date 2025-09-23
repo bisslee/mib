@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Válvula para Hidrante Registro Globo - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Funciona em temperaturas de 0 a 80ºC, adequando-se a diversas condições de uso.',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/valvula-para-hidrante--registro-globo.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Válvula para Hidrante Registro Globo',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Válvula para Hidrante Registro Globo',
     'description' => 'Funciona em temperaturas de 0 a 80ºC, adequando-se a diversas condições de uso.',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
