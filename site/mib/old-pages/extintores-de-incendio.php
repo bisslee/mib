@@ -119,7 +119,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center;">
 
- <img class="img-responsive" src="/assets/img/old-site/extintores-de-incendio.jpg" class="img-responsive" alt="Extintores de incêndio" title="Extintores de incêndio" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/extintores-de-incendio.jpg" class="img-fluid" alt="Extintores de incêndio" title="Extintores de incêndio" style="margin:0px auto;">
 
  </div>
 
@@ -137,7 +137,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="extintor-de-incendio-portatil.php" style="color:#fff; margin:0px;">Extintor de Incêndio Portátil</a></h2>
 
- <a href="extintor-de-incendio-portatil.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-portatil.jpg" alt="Extintor de Incêndio Portátil" title="Extintor de Incêndio Portátil" style="text-align:center;"></a>
+ <a href="extintor-de-incendio-portatil.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-portatil.jpg" alt="Extintor de Incêndio Portátil" title="Extintor de Incêndio Portátil" style="text-align:center;"></a>
 
  <div class="caption">
 
@@ -157,7 +157,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="extintor-de-incendio-sobre-rodas.php" style="color:#fff; margin:0px;">Extintor de Incêndio Sobre Rodas</a></h2>
 
- <a href="extintor-de-incendio-sobre-rodas.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-sobre-rodas.jpg" alt="Extintor de Incêndio Sobre Rodas" title="Extintor de Incêndio Sobre Rodas" style="text-align:center;"></a>
+ <a href="extintor-de-incendio-sobre-rodas.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-sobre-rodas.jpg" alt="Extintor de Incêndio Sobre Rodas" title="Extintor de Incêndio Sobre Rodas" style="text-align:center;"></a>
 
  <div class="caption">
 
@@ -177,7 +177,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="extintor-de-incendio-co2.php" style="color:#fff; margin:0px;">Extintor de Incêndio CO2</a></h2>
 
- <a href="extintor-de-incendio-co2.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-co2.jpg" alt="Extintor de Incêndio CO2" title="Extintor de Incêndio CO2" style="text-align:center;"></a>
+ <a href="extintor-de-incendio-co2.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-co2.jpg" alt="Extintor de Incêndio CO2" title="Extintor de Incêndio CO2" style="text-align:center;"></a>
 
  <div class="caption">
 
@@ -201,7 +201,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="extintor-de-incendio-a-base-de-agua.php" style="color:#fff; margin:0px;">Extintor de Incêndio a base de água</a></h2>
 
- <a href="extintor-de-incendio-a-base-de-agua.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-a-base-de-agua.jpg" alt="Extintor de Incêndio a base de água" title="Extintor de Incêndio a base de água" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-a-base-de-agua.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-a-base-de-agua.jpg" alt="Extintor de Incêndio a base de água" title="Extintor de Incêndio a base de água" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -221,7 +221,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="extintor-de-incendio-po-quimico.php" style="color:#fff; margin:0px;">Extintor de Incêndio Pó Químico</a></h2>
 
- <a href="extintor-de-incendio-po-quimico.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-po-quimico.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -241,7 +241,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="extintor-de-incendio-po-quimico-seco.php" style="color:#fff; margin:0px;">Extintor de Incêndio Pó Químico Seco</a></h2>
 
- <a href="extintor-de-incendio-po-quimico-seco.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de Incêndio Pó Químico Seco" title="Extintor de Incêndio Pó Químico Seco" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-po-quimico-seco.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de Incêndio Pó Químico Seco" title="Extintor de Incêndio Pó Químico Seco" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -265,7 +265,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="extintor-de-incendio-para-condominio.php" style="color:#fff; margin:0px;">Extintor de Incêndio para Condomínio</a></h2>
 
- <a href="extintor-de-incendio-para-condominio.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-para-condominio.jpg" alt="Extintor de Incêndio para Condomínio" title="Extintor de Incêndio para Condomínio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-para-condominio.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-para-condominio.jpg" alt="Extintor de Incêndio para Condomínio" title="Extintor de Incêndio para Condomínio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -285,7 +285,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="extintor-de-incendio-para-predio.php" style="color:#fff; margin:0px;">Extintor de Incêndio para Prédio</a></h2>
 
- <a href="extintor-de-incendio-para-predio.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-para-predio.jpg" alt="Extintor de Incêndio para Prédio" title="Extintor de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-para-predio.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-para-predio.jpg" alt="Extintor de Incêndio para Prédio" title="Extintor de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -333,7 +333,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; min-height:230px; ">
 
- <a href="mangueiras-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/mangueiras-de-incendio.jpg" alt="Mangueiras de Incêndio" title="Mangueiras de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueiras-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/mangueiras-de-incendio.jpg" alt="Mangueiras de Incêndio" title="Mangueiras de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -351,7 +351,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="esguichos-para-equipamentos-contra-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguichos-para-equipamentos-contra-incendio.jpg" alt="Esguichos" title="Esguichos" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="esguichos-para-equipamentos-contra-incendio.php"><img class="img-fluid" src="/assets/img/old-site/esguichos-para-equipamentos-contra-incendio.jpg" alt="Esguichos" title="Esguichos" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -373,7 +373,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="canhao-monitor-de-combate-a-incendio.php"><img class="img-responsive" src="/assets/img/old-site/canhao-monitor-de-combate-a-incendio.jpg" alt="Canhão Monitor para Combate a Incêndio" title="Canhão Monitor para Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="canhao-monitor-de-combate-a-incendio.php"><img class="img-fluid" src="/assets/img/old-site/canhao-monitor-de-combate-a-incendio.jpg" alt="Canhão Monitor para Combate a Incêndio" title="Canhão Monitor para Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -391,7 +391,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="hidrante-contra-incendio.php"><img class="img-responsive" src="/assets/img/old-site/hidrante-contra-incendio.jpg" alt="Hidrante contra Incêndio" title="Hidrante contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="hidrante-contra-incendio.php"><img class="img-fluid" src="/assets/img/old-site/hidrante-contra-incendio.jpg" alt="Hidrante contra Incêndio" title="Hidrante contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 

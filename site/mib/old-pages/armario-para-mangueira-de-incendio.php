@@ -119,7 +119,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
- <img class="img-responsive" src="/assets/img/old-site/armario-para-mangueira-de-incendio.jpg" alt="Armário para Mangueira de Incêndio" title="Armário para Mangueira de Incêndio" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/armario-para-mangueira-de-incendio.jpg" alt="Armário para Mangueira de Incêndio" title="Armário para Mangueira de Incêndio" style="margin:0px auto;">
 
  </div>
 
@@ -139,7 +139,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="valvulas.php"><img class="img-responsive" src="/assets/img/old-site/valvulas.jpg" alt="Válvulas" title="Válvulas" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="valvulas.php"><img class="img-fluid" src="/assets/img/old-site/valvulas.jpg" alt="Válvulas" title="Válvulas" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -157,7 +157,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="abrigos-para-equipamentos-contra-incendio.php"><img class="img-responsive" src="/assets/img/old-site/abrigos-para-equipamentos-contra-incendio.jpg" alt="Abrigos para Equipamentos Contra Incêndio" title="Abrigos para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="abrigos-para-equipamentos-contra-incendio.php"><img class="img-fluid" src="/assets/img/old-site/abrigos-para-equipamentos-contra-incendio.jpg" alt="Abrigos para Equipamentos Contra Incêndio" title="Abrigos para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -179,7 +179,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="adaptador-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="adaptador-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -197,7 +197,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="bico-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/bico-para-mangueira-de-incendio.jpg" alt="Bico para Mangueira de Incêndio" title="Bico para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="bico-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/bico-para-mangueira-de-incendio.jpg" alt="Bico para Mangueira de Incêndio" title="Bico para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 

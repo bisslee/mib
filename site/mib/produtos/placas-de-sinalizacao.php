@@ -63,7 +63,7 @@ include '../includes/breadcrumb.php';
 
                     <div class="row mt-4">
                         <div class="col-12">
-                            <img class="img-responsive" src="/assets/img/old-site/placas-de-sinalizacao.jpg" alt="Placas de Sinalização" title="Placas de Sinalização" style="margin:0px auto;">
+                            <img class="img-fluid" src="/assets/img/old-site/placas-de-sinalizacao.jpg" alt="Placas de Sinalização" title="Placas de Sinalização" style="margin:0px auto;">
                         </div>
                     </div>
                     <div class="row mt-4">

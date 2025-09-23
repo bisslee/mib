@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
 
- <img src="/assets/img/old-site/panilha-29.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-29.png" class="img-fluid">
 
  </div>
 
@@ -127,7 +127,7 @@ if (isset($breadcrumbs)) {
 
  residenciais;</li>
 
- <img src="/assets/img/old-site/panilha-32.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-32.png" class="img-fluid">
 
  <li>Nas duas extremidades da mangueira de incêndio , quando esta está de
 

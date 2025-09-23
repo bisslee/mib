@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
 
- <img src="/assets/img/old-site/panilha-29.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-29.png" class="img-fluid">
 
  </div>
 
@@ -103,7 +103,7 @@ if (isset($breadcrumbs)) {
 
  kgf/cm2, denominação comercial <strong>Predyflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-19.png" class="img-fluid">
 
  <p>TIPO 2 – <strong>Fabricação de mangueira de incêndio</strong> com simples reforço têxtil, confeccionada com 100% de fio de
 
@@ -115,7 +115,7 @@ if (isset($breadcrumbs)) {
 
  mínima de 55,0 kgf/cm2, denominação comercial <strong>Superflex</strong>.</p>
 
- <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-19.png" class="img-fluid">
 
  <p>TIPO 3 – <strong>Fabricação de mangueira de incêndio</strong> com duplo reforço têxtil, confeccionada com 100% de fio de
 
@@ -127,7 +127,7 @@ if (isset($breadcrumbs)) {
 
  de ruptura mínima de 60,0 kgf/cm2, denominação comercial <strong>Superflex Capa Dupla.</strong></p>
 
- <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-19.png" class="img-fluid">
 
  <p>TIPO 4 – <strong>Fabricação de mangueira de incêndio</strong> com simples reforço têxtil, confeccionada com 100% de fio de
 
@@ -139,7 +139,7 @@ if (isset($breadcrumbs)) {
 
  pressão de ruptura mínima de 55,0 kgf/cm2, denominação comercial ,<strong>Plastflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-30.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-30.png" class="img-fluid">
 
  <p>TIPO 5 – <strong>Fabricação de mangueira de incêndio</strong> com simples reforço têxtil, confeccionada com 100% de fio de
 
@@ -151,7 +151,7 @@ if (isset($breadcrumbs)) {
 
  de ruptura mínima de 55,0 kgf/cm2, denominação comercial <strong>Ruberflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-31.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-31.png" class="img-fluid">
 
  <h2><strong>2 MANUAL TÉCNICO</strong></h2>
 

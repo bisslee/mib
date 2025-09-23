@@ -112,7 +112,7 @@
 
 
 
-				<img src="images/img-126.png" class="img-responsive" alt="">
+				<img src="images/img-126.png" class="img-fluid" alt="">
 
                 
 

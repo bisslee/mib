@@ -83,7 +83,7 @@ if (isset($breadcrumbs)) {
 
  <div >
 
- <img class="img-responsive" src="/assets/img/old-site/panilha-17.png">
+ <img class="img-fluid" src="/assets/img/old-site/panilha-17.png">
 
  </div>
 
@@ -145,7 +145,7 @@ if (isset($breadcrumbs)) {
 
  residenciais;</li>
 
- <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-19.png" class="img-fluid">
 
  <br>
 
@@ -155,7 +155,7 @@ if (isset($breadcrumbs)) {
 
  máxima de trabalho de 1370 KPa (14kgf /cm²);</li>
 
- <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-19.png" class="img-fluid">
 
  <br>
 
@@ -165,7 +165,7 @@ if (isset($breadcrumbs)) {
 
  possuem pressão máxima de trabalho de 1470 KPa (15kgf /cm²);</li>
 
- <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-19.png" class="img-fluid">
 
  <br>
 
@@ -175,7 +175,7 @@ if (isset($breadcrumbs)) {
 
  máxima de trabalho de 1370 KPa (14kgf /cm²);</li>
 
- <img src="/assets/img/old-site/panilha-21.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-21.png" class="img-fluid">
 
  <br>
 
@@ -185,7 +185,7 @@ if (isset($breadcrumbs)) {
 
  pressão máxima de trabalho de 1370 KPa (14kgf/cm²).</li>
 
- <img src="/assets/img/old-site/panilha-22.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-22.png" class="img-fluid">
 
  <br>
 

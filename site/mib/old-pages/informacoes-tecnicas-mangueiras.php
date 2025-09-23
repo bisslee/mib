@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h2>REFERÊNCIA: <strong>NBR 11861 MANGUEIRAS DE COMBATE A INCÊNDIO</strong></h2>
 
- <img src="/assets/img/old-site/panilha-29.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-29.png" class="img-fluid">
 
  </div>
 
@@ -153,7 +153,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Predyflex - Tipo 1 - Destina-se à edifícios residenciais</h2>
 
- <img src="/assets/img/old-site/predflex-1.jpg" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/predflex-1.jpg" class="img-fluid" alt="">
 
  <article class="text-justify"> 
 
@@ -211,7 +211,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Superflex - Tipo 2 - Destina-se à edifícios comerciais, instalações industriais e Corpo de Bombeiros.</h2>
 
- <img src="/assets/img/old-site/superflex-1.jpg" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/superflex-1.jpg" class="img-fluid" alt="">
 
  <article class="text-justify">
 
@@ -281,7 +281,7 @@ if (isset($breadcrumbs)) {
 
 <h2>Superflex Capa Dupla - Tipo 3 - Destina-se ao meio naval, instalações industriais e Corpo de Bombeiros. </h2>
 
- <img src="/assets/img/old-site/superflex-1.jpg" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/superflex-1.jpg" class="img-fluid" alt="">
 
  <article class="text-justify">
 
@@ -337,7 +337,7 @@ if (isset($breadcrumbs)) {
 
 <h2>Plastflex - Tipo 4 - Destina-se à instalações industriais. </h2>
 
- <img src="/assets/img/old-site/plastflex-1.jpg" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/plastflex-1.jpg" class="img-fluid" alt="">
 
  <article class="text-justify">
 
@@ -395,7 +395,7 @@ if (isset($breadcrumbs)) {
 
 <h2>Ruberflex - Tipo 5 - Destina-se à instalações industriais, cujas necessidades incluem maiores resistências. </h2>
 
- <img src="/assets/img/old-site/ruberflex-1.jpg" width="300px" height="220px" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/ruberflex-1.jpg" width="300px" height="220px" class="img-fluid" alt="">
 
  <article class="text-justify">
 

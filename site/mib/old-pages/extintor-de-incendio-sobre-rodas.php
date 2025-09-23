@@ -123,7 +123,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-1.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-1.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor Sobre-rodas pó quimico 20 Kg classe ABC <br><strong>Capacidade Extintora:</strong> 6A - 80-BC Triclasse e 20-BC Feroza.</p>
 
@@ -135,7 +135,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-2.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-2.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor Sobre-rodas pó quimico 20 Kg classe BC <br> <strong>Capacidade Extintora:</strong> 40-BC. </p>
 
@@ -147,7 +147,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-3.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-3.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor Sobre-rodas pó quimico 20 Kg classe BC <br><strong>Capacidade Extintora:</strong> 80-BC </p>
 
@@ -159,7 +159,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-4.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-4.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor Sobre-rodas pó quimico 30 Kg classe ABC <br> <strong>Capacidade Extintora:</strong> 6A 80-BC. </p>
 
@@ -175,7 +175,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-5.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-5.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor Sobre-rodas pó quimico 50 Kg classe BC <br><strong>Capacidade Extintora:</strong> 80-BC .</p>
 
@@ -187,7 +187,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-6.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-6.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor Sobre-rodas espuma mecanica 50 litros <br><strong>Capacidade Extintora:</strong> 6A 40 BC. </p>
 
@@ -199,7 +199,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-8.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-sobre-rodas-8.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor Sobre-rodas agua pressurizada 50 litros <br> <strong>Capacidade Extintora:</strong> 10A.</p>
 

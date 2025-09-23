@@ -91,7 +91,7 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <img src="/assets/img/old-site/planilha-2012.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-2012.png" class="img-fluid" alt="">
 
  <p style="margin-top:14pt; margin-bottom:14pt; font-size:13.5pt">
 

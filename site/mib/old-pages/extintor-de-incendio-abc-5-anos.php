@@ -83,7 +83,7 @@ if (isset($breadcrumbs)) {
 
  <h1>Extintor Abc</h1>
 
- <img src="/assets/img/old-site/img1009.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img1009.png" class="img-fluid" alt="">
 
 <h2>🔥 Extintor de Incêndio ABC 5 Anos – Modelos com Carga de 4 kg e 6 kg</h2>
 

@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/bola.png" class="img-responsive" alt="Bola Extintora Fireball ABC - Validade 5 Anos">
+ <img src="/assets/img/old-site/bola.png" class="img-fluid" alt="Bola Extintora Fireball ABC - Validade 5 Anos">
 
  </div>
 

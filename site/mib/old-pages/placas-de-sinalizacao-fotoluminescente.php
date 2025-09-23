@@ -85,9 +85,9 @@ if (isset($breadcrumbs)) {
 
  <h4>Referencia: NBR13434 e IT 20 placas de sinalização.</h4>
 
- <img src="/assets/img/old-site/panilha-52.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-52.png" class="img-fluid">
 
- <img src="/assets/img/old-site/panilha-53.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-53.png" class="img-fluid">
 
  </div>
 
@@ -137,7 +137,7 @@ if (isset($breadcrumbs)) {
 
  locais visíveis;</li>
 
- <img src="/assets/img/old-site/panilha-54.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-54.png" class="img-fluid">
 
  </ul>
 
@@ -189,7 +189,7 @@ if (isset($breadcrumbs)) {
 
  preços justos e com entrega rápida.</p>
 
- <img src="/assets/img/old-site/panilha-55.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-55.png" class="img-fluid">
 
  <br><br>
 

@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/pred5.png" class="img-responsive" alt="Carretel Mangotinho: A Solução Eficiente para Combate a Incêndios">
+ <img src="/assets/img/old-site/pred5.png" class="img-fluid" alt="Carretel Mangotinho: A Solução Eficiente para Combate a Incêndios">
 
  </div>
 

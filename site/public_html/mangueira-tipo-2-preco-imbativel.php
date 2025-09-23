@@ -130,7 +130,7 @@ Desempenho para Áreas Comerciais e industriais.">
 
             <p style="margin-top:0pt; margin-bottom:10pt">
 
-				<img src="images/img308.png" class="img-responsive" alt="">
+				<img src="images/img308.png" class="img-fluid" alt="">
 
 			</p>
 
@@ -494,7 +494,7 @@ Desempenho para Áreas Comerciais e industriais.">
 
 			<p style="margin-top:0pt; margin-bottom:10pt; text-align:justify">
 
-            <img src="images/img309.png" class="img-responsive" alt="">
+            <img src="images/img309.png" class="img-fluid" alt="">
 
 			</p>
 
@@ -640,7 +640,7 @@ Desempenho para Áreas Comerciais e industriais.">
 
 			<p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
 
-            <img src="images/img310.png" class="img-responsive" alt="">
+            <img src="images/img310.png" class="img-fluid" alt="">
 
 			</p>
 
@@ -792,7 +792,7 @@ Desempenho para Áreas Comerciais e industriais.">
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-            <img src="images/img311.png" class="img-responsive" alt="">
+            <img src="images/img311.png" class="img-fluid" alt="">
 
 			</p>
 
@@ -920,7 +920,7 @@ Desempenho para Áreas Comerciais e industriais.">
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-            <img src="images/img312.png" class="img-responsive" alt="">
+            <img src="images/img312.png" class="img-fluid" alt="">
 
 			</p>
 

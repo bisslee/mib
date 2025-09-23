@@ -237,7 +237,7 @@
 
 						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
-							<img class="img-responsive" src="images/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="margin:0px auto;">
+							<img class="img-fluid" src="images/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="margin:0px auto;">
 
 						</div>
 
@@ -282,7 +282,7 @@
 
 									<td class="center"> </td>
 
-									<td class="center" style="padding:0px;"><img class="img-responsive" src="images/adaptador1.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+									<td class="center" style="padding:0px;"><img class="img-fluid" src="images/adaptador1.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
 									<td class="center" width="30%;">Redução storz de 2 1/2 x 1 1/2 nas opções fixa e giratória em latão </td>
 
@@ -301,7 +301,7 @@
 
 									<td class="center">PÇ</td>
 
-									<td class="center" style="padding:0px;"><img class="img-responsive" src="images/adaptador2.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+									<td class="center" style="padding:0px;"><img class="img-fluid" src="images/adaptador2.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
 									<td class="center">Tampão storz de 1 1/2 ou 2 1/2 com corrente em fabricado em latão. </td>
 
@@ -327,7 +327,7 @@
 
 									<td class="center">PÇ </td>
 
-									<td class="center" style="padding:0px;"><img class="img-responsive" src="images/adaptador3.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+									<td class="center" style="padding:0px;"><img class="img-fluid" src="images/adaptador3.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
 									<td class="center">União storz para mangote tipo espigão fabricado em latão </td>
 
@@ -354,7 +354,7 @@
 
 									<td class="center">PÇ</td>
 
-									<td class="center" style="padding:0px;"><img class="img-responsive" src="images/adaptador4.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+									<td class="center" style="padding:0px;"><img class="img-fluid" src="images/adaptador4.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
 									<td class="center">Adaptadores especiais storz 1 1/2 ou 2 1/2 roscas femea fabricado em latão. </td>
 
@@ -379,7 +379,7 @@
 
 									<td class="center">PÇ</td>
 
-									<td class="center" style="padding:0px;"><img class="img-responsive" src="images/adaptador5.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+									<td class="center" style="padding:0px;"><img class="img-fluid" src="images/adaptador5.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
 									<td class="center">Adaptadores especiais storz 1 1/2 ou 2 1/2 roscas Macho fabricado em latão. </td>
 
@@ -400,7 +400,7 @@
 
 									<td class="center"> </td>
 
-									<td class="center" style="padding:0px;"><img class="img-responsive" src="images/adaptador6.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+									<td class="center" style="padding:0px;"><img class="img-fluid" src="images/adaptador6.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
 									<td class="center">Chave storz 2 1/2 x 1 1/2 comprimento de 270mm pesos 0,190g espessura 6,0 mm fabricada em latão com opção em aluminio. </td>
 
@@ -446,7 +446,7 @@
 
 										<div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px;  ">
 
-											<a href="conjunto-da-mangueira-de-incendio.php"><img class="img-responsive" src="images/conjunto-da-mangueira-de-incendio.jpg" alt="Conjunto da Mangueira de Incêndio" title="Conjunto da Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+											<a href="conjunto-da-mangueira-de-incendio.php"><img class="img-fluid" src="images/conjunto-da-mangueira-de-incendio.jpg" alt="Conjunto da Mangueira de Incêndio" title="Conjunto da Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
 											<div class="caption">
 
@@ -466,7 +466,7 @@
 
 										<div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px;  ">
 
-											<a href="gabinete-para-hidrante.php"><img class="img-responsive" src="images/gabinete-para-hidrante.jpg" alt="Gabinete para Hidrante" title="Gabinete para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+											<a href="gabinete-para-hidrante.php"><img class="img-fluid" src="images/gabinete-para-hidrante.jpg" alt="Gabinete para Hidrante" title="Gabinete para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
 											<div class="caption">
 
@@ -492,7 +492,7 @@
 
 										<div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px;  ">
 
-											<a href="liquido-gerador-de-espuma.php"><img class="img-responsive" src="images/liquido-gerador-de-espuma.jpg" alt="Líquido Gerador de Espuma" title="Líquido Gerador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
+											<a href="liquido-gerador-de-espuma.php"><img class="img-fluid" src="images/liquido-gerador-de-espuma.jpg" alt="Líquido Gerador de Espuma" title="Líquido Gerador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
 
 											<div class="caption">
 
@@ -514,7 +514,7 @@
 
 										<div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px;  ">
 
-											<a href="material-de-combate-a-incendio.php"><img class="img-responsive" src="images/material-de-combate-a-incendio.jpg" alt="Material de Combate a Incêndio" title="Material de Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+											<a href="material-de-combate-a-incendio.php"><img class="img-fluid" src="images/material-de-combate-a-incendio.jpg" alt="Material de Combate a Incêndio" title="Material de Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
 											<div class="caption">
 

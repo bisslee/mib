@@ -149,13 +149,13 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="margin-top:10px;">
 
- <img class="img-responsive" src="/assets/img/old-site/abrigo-industrial.jpg" alt="Abrigo Modelo Industrial" title="Abrigo Modelo Industrial" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/abrigo-industrial.jpg" alt="Abrigo Modelo Industrial" title="Abrigo Modelo Industrial" style="margin:0px auto;">
 
  </div>
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
- <img class="img-responsive" src="/assets/img/old-site/tabela-padrao.jpg" alt="Tabela Padrão" title="Tabela Padrão" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/tabela-padrao.jpg" alt="Tabela Padrão" title="Tabela Padrão" style="margin:0px auto;">
 
  <p><strong>*Modelo para extintores pó quimico 4,6,8, 12 Kg e agua 10 litros <br>
 
@@ -177,7 +177,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="abrigo-para-extintor-de-incendio.php" style="color:#fff; margin:0px;">Abrigo para Extintor</a></h2>
 
- <a href="abrigo-para-extintor-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/abrigo-para-extintor-de-incendio.jpg" alt="Abrigo para Extintor de Incêndio" title="Abrigo para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="abrigo-para-extintor-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/abrigo-para-extintor-de-incendio.jpg" alt="Abrigo para Extintor de Incêndio" title="Abrigo para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -195,7 +195,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="abrigo-para-hidrante.php" style="color:#fff; margin:0px;">Abrigo para Hidrante</a></h2>
 
- <a href="abrigo-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/abrigo-para-hidrante.jpg" alt="Abrigo para Hidrante" title="Abrigo para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="abrigo-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/abrigo-para-hidrante.jpg" alt="Abrigo para Hidrante" title="Abrigo para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -213,7 +213,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="abrigo-para-mangueira-de-incendio.php" style="color:#fff; margin:0px;">Abrigo para Mangueira de Incêndio</a></h2>
 
- <a href="abrigo-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/abrigo-para-mangueira-de-incendio.jpg" alt="Abrigo para Mangueira de Incêndio" title="Abrigo para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="abrigo-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/abrigo-para-mangueira-de-incendio.jpg" alt="Abrigo para Mangueira de Incêndio" title="Abrigo para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -245,7 +245,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="adaptador-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="adaptador-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -263,7 +263,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="armario-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/armario-para-mangueira-de-incendio.jpg" alt="Armário para Mangueira de Incêndio" title="Armário para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="armario-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/armario-para-mangueira-de-incendio.jpg" alt="Armário para Mangueira de Incêndio" title="Armário para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -285,7 +285,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="bico-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/bico-para-mangueira-de-incendio.jpg" alt="Bico para Mangueira de Incêndio" title="Bico para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="bico-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/bico-para-mangueira-de-incendio.jpg" alt="Bico para Mangueira de Incêndio" title="Bico para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -303,7 +303,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="caixas-para-equipamentos-contra-incendio.php"><img class="img-responsive" src="/assets/img/old-site/caixas-para-equipamentos-contra-incendio.jpg" alt="Caixas para Equipamentos Contra Incêndio" title="Caixas para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="caixas-para-equipamentos-contra-incendio.php"><img class="img-fluid" src="/assets/img/old-site/caixas-para-equipamentos-contra-incendio.jpg" alt="Caixas para Equipamentos Contra Incêndio" title="Caixas para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 

@@ -126,7 +126,7 @@
 
             <p style="margin-top:0pt; margin-bottom:10pt">
 
-<img src="images/img401.png" class="img-responsive" alt="">		
+<img src="images/img401.png" class="img-fluid" alt="">		
 
 </p>
 
@@ -470,7 +470,7 @@
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
-			<img src="images/img402.png" class="img-responsive" alt="">		
+			<img src="images/img402.png" class="img-fluid" alt="">		
 
 
 
@@ -684,7 +684,7 @@
 
 			<p style="margin-top:0pt; margin-bottom:10pt; text-align:justify">
 
-			<img src="images/img403.png" class="img-responsive" alt="">		
+			<img src="images/img403.png" class="img-fluid" alt="">		
 
 
 
@@ -820,7 +820,7 @@
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
-			<img src="images/img404.png" class="img-responsive" alt="">		
+			<img src="images/img404.png" class="img-fluid" alt="">		
 
 
 
@@ -938,7 +938,7 @@
 
 			<p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
 
-			<img src="images/img405.png" class="img-responsive" alt="">		
+			<img src="images/img405.png" class="img-fluid" alt="">		
 
 
 
@@ -1120,7 +1120,7 @@
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-			<img src="images/img406.png" class="img-responsive" alt="">		
+			<img src="images/img406.png" class="img-fluid" alt="">		
 
 
 
@@ -1284,7 +1284,7 @@
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-			<img src="images/img407.png" class="img-responsive" alt="">		
+			<img src="images/img407.png" class="img-fluid" alt="">		
 
 
 

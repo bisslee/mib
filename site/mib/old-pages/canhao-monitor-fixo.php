@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/pred6.png" class="img-responsive" alt="Canhão Monitor Fixo: Eficácia e Versatilidade no Combate a Incêndios (Flangeado 3” ou 4”)">
+ <img src="/assets/img/old-site/pred6.png" class="img-fluid" alt="Canhão Monitor Fixo: Eficácia e Versatilidade no Combate a Incêndios (Flangeado 3” ou 4”)">
 
  </div>
 

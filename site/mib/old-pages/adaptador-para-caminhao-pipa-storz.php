@@ -83,7 +83,7 @@ if (isset($breadcrumbs)) {
 
  <h1>Adaptador Storz</h1>
 
-<img src="/assets/img/old-site/img1010.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1010.png" class="img-fluid" alt="">
 
 <h2>🚚 Adaptadores Storz para Caminhão Pipa: Conexão Rápida, Segura e Eficiente</h2>
 
@@ -155,13 +155,13 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Modelos de Adaptadores Storz para Caminhões-Pipa</p>
 
-<img src="/assets/img/old-site/img1011.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1011.png" class="img-fluid" alt="">
 
 <p>Os adaptadores Storz para caminhões-pipa estão disponíveis em diversos modelos, atendendo a diferentes necessidades de conexões e vazões. A seguir, apresentamos os principais modelos de adaptadores Storz para caminhões-pipa disponíveis:</p>
 
 <p>Adaptadores Storz com Rosca Fêmea</p>
 
-<img src="/assets/img/old-site/img1012.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1012.png" class="img-fluid" alt="">
 
 <p>GM 44: 1 1/2" Storz x Rosca 1 ½” Fêmea 11 FPP</p>
 
@@ -173,7 +173,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Adaptadores Storz com Rosca Macho</p>
 
-<img src="/assets/img/old-site/img1013.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1013.png" class="img-fluid" alt="">
 
 <p>GM 74: 1 1/2" Storz x Rosca 1 1/2" Macho 11 FPP</p>
 
@@ -183,7 +183,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Uniões Storz com Espigões</p>
 
-<img src="/assets/img/old-site/img1014.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1014.png" class="img-fluid" alt="">
 
 <p>As uniões Storz com espigões são ideais para conectar mangueiras de diferentes diâmetros, permitindo uma adaptação eficiente entre componentes diversos, sem comprometer a pressão e o fluxo de água.</p>
 
@@ -199,7 +199,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Redução Storz Fixa</p>
 
-<img src="/assets/img/old-site/img1015.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1015.png" class="img-fluid" alt="">
 
 <p>As reduções Storz fixas são ideais para adaptar mangueiras de diferentes diâmetros, com uma face Storz de 2 1/2" e outra face com 1 1/2", garantindo a continuidade do abastecimento de água sem perda de eficiência.</p>
 
@@ -207,7 +207,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Esguichos de Jato Sólido e Reguláveis</p>
 
-<img src="/assets/img/old-site/img1016.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1016.png" class="img-fluid" alt="">
 
 <p>Além dos adaptadores, oferecemos esguichos tipo jato sólido e regulável, perfeitos para controle preciso do fluxo de água:</p>
 

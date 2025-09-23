@@ -79,7 +79,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-<img src="/assets/img/old-site/img1000.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1000.png" class="img-fluid" alt="">
 
  <h1>Carretel de Mesa para Mangotinho de 1” – Alta Performance e Durabilidade</h1>
 
@@ -111,7 +111,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Dados Construtivos</h2>
 
-<img src="/assets/img/old-site/img1001.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1001.png" class="img-fluid" alt="">
 
  <ul>
 
@@ -163,7 +163,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Características Técnicas</h2>
 
-<img src="/assets/img/old-site/img1002.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1002.png" class="img-fluid" alt="">
 
  <ul>
 

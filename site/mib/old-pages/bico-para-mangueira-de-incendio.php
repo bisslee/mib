@@ -119,7 +119,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
- <img class="img-responsive" src="/assets/img/old-site/bico-para-mangueira-de-incendio.jpg" alt="Bico para Mangueira de Incêndio" title="Bico para Mangueira de Incêndio" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/bico-para-mangueira-de-incendio.jpg" alt="Bico para Mangueira de Incêndio" title="Bico para Mangueira de Incêndio" style="margin:0px auto;">
 
  </div>
 
@@ -139,7 +139,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="caixas-para-equipamentos-contra-incendio.php"><img class="img-responsive" src="/assets/img/old-site/caixas-para-equipamentos-contra-incendio.jpg" alt="Caixas para Equipamentos Contra Incêndio" title="Caixas para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="caixas-para-equipamentos-contra-incendio.php"><img class="img-fluid" src="/assets/img/old-site/caixas-para-equipamentos-contra-incendio.jpg" alt="Caixas para Equipamentos Contra Incêndio" title="Caixas para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -157,7 +157,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="conjunto-da-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/conjunto-da-mangueira-de-incendio.jpg" alt="Conjunto da Mangueira de Incêndio" title="Conjunto da Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="conjunto-da-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/conjunto-da-mangueira-de-incendio.jpg" alt="Conjunto da Mangueira de Incêndio" title="Conjunto da Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -179,7 +179,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="gabinete-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/gabinete-para-hidrante.jpg" alt="Gabinete para Hidrante" title="Gabinete para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="gabinete-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/gabinete-para-hidrante.jpg" alt="Gabinete para Hidrante" title="Gabinete para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -197,7 +197,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="liquido-gerador-de-espuma.php"><img class="img-responsive" src="/assets/img/old-site/liquido-gerador-de-espuma.jpg" alt="Líquido Gerador de Espuma" title="Líquido Gerador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="liquido-gerador-de-espuma.php"><img class="img-fluid" src="/assets/img/old-site/liquido-gerador-de-espuma.jpg" alt="Líquido Gerador de Espuma" title="Líquido Gerador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 

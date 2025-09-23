@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Referencia: <strong>INSPEÇÃO DE EQUIPAMENTOS DE COMBATE A INCÊNDIO.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-39.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-39.png" class="img-fluid">
 
  </div>
 

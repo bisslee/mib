@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <h1>Troca Esguicho</h1>
 
-<img src="/assets/img/old-site/img1029.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1029.png" class="img-fluid" alt="">
 
 <h2>🔥 Substitua Agora o Esguicho Tipo Agulheta por Esguicho Regulável e Aumente a Segurança do Seu Sistema Contra Incêndios!</h2>
 

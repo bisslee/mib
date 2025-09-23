@@ -83,7 +83,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>O QUE É AVCB CORPO DE BOMBEIROS</strong></h2>
 
- <img src="/assets/img/old-site/panilha-44.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-44.png" class="img-fluid">
 
  <p>No processo de adequação de imóveis e a requisição de documentos que
 

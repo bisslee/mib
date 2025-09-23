@@ -79,7 +79,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
- <img src="/assets/img/old-site/img-128.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img-128.png" class="img-fluid" alt="">
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 

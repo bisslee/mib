@@ -116,7 +116,7 @@ Segurança pois aqui na BS o assunto e objetivo e transparente.">
 
 
 
-				<img src="images/img-134.png" class="img-responsive" alt="">
+				<img src="images/img-134.png" class="img-fluid" alt="">
 
                
 

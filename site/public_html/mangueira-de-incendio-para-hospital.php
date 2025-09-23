@@ -130,7 +130,7 @@ Segurança e Qualidade">
 
             <p style="margin-top:0pt; margin-bottom:10pt">
 
-				<img src="images/img701.png" class="img-responsive" alt="">
+				<img src="images/img701.png" class="img-fluid" alt="">
 
 			</p>
 
@@ -376,7 +376,7 @@ Segurança e Qualidade">
 
 			
 
-								<img src="images/img702.png" class="img-responsive" alt="">
+								<img src="images/img702.png" class="img-fluid" alt="">
 
 
 
@@ -522,7 +522,7 @@ Segurança e Qualidade">
 
 			<p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
 
-            <img src="images/img703.png" class="img-responsive" alt="">
+            <img src="images/img703.png" class="img-fluid" alt="">
 
 
 
@@ -670,7 +670,7 @@ Segurança e Qualidade">
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-            <img src="images/img704.png" class="img-responsive" alt="">
+            <img src="images/img704.png" class="img-fluid" alt="">
 
 
 
@@ -818,7 +818,7 @@ Segurança e Qualidade">
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-            <img src="images/img705.png" class="img-responsive" alt="">
+            <img src="images/img705.png" class="img-fluid" alt="">
 
 
 

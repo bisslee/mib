@@ -185,7 +185,7 @@ if (isset($breadcrumbs)) {
 
  <div align="center">
 
- <img class="img-responsive" src="/assets/img/old-site/planilha-51.png">
+ <img class="img-fluid" src="/assets/img/old-site/planilha-51.png">
 
  </div>
 
@@ -257,7 +257,7 @@ if (isset($breadcrumbs)) {
 
  <div align="center">
 
- <img class="img-responsive" src="/assets/img/old-site/planilha-52.png">
+ <img class="img-fluid" src="/assets/img/old-site/planilha-52.png">
 
  </div>
 
@@ -331,7 +331,7 @@ if (isset($breadcrumbs)) {
 
  <div align="center">
 
- <img class="img-responsive" src="/assets/img/old-site/planilha-54.png">
+ <img class="img-fluid" src="/assets/img/old-site/planilha-54.png">
 
  </div>
 
@@ -403,7 +403,7 @@ if (isset($breadcrumbs)) {
 
  <div align="center">
 
- <img class="img-responsive" src="/assets/img/old-site/planilha-55.png">
+ <img class="img-fluid" src="/assets/img/old-site/planilha-55.png">
 
  </div>
 
@@ -475,7 +475,7 @@ if (isset($breadcrumbs)) {
 
  <div align="center">
 
- <img class="img-responsive" src="/assets/img/old-site/planilha-56.png">
+ <img class="img-fluid" src="/assets/img/old-site/planilha-56.png">
 
  </div>
 

@@ -117,7 +117,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
 
- <img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de incêndio pó químico seco" title="Extintor de incêndio pó químico seco" style="text-align:center;">
+ <img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de incêndio pó químico seco" title="Extintor de incêndio pó químico seco" style="text-align:center;">
 
  <p>O extintor de pó químico seco é utilizado para combate a focos de incêndio de origem inflamável e elétrico, tem em sua composição bicarbonato de sódio e ou potássio que em contato com o foco de incêndio desencadeia-se um processo químico que transforma em vapor de água, controlando o incêndio. </p>
 
@@ -139,7 +139,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-po-quimico.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-po-quimico.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -157,7 +157,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-para-condominio.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-para-condominio.jpg" alt="Extintor de Incêndio para Condomínio" title="Extintor de Incêndio para Condomínio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-para-condominio.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-para-condominio.jpg" alt="Extintor de Incêndio para Condomínio" title="Extintor de Incêndio para Condomínio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -179,7 +179,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-para-predio.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-para-predio.jpg" alt="Extintor de Incêndio para Prédio" title="Extintor de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-para-predio.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-para-predio.jpg" alt="Extintor de Incêndio para Prédio" title="Extintor de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -197,7 +197,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-co2.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-co2.jpg" alt="Extintor de Incêndio CO2" title="Extintor de Incêndio CO2" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-co2.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-co2.jpg" alt="Extintor de Incêndio CO2" title="Extintor de Incêndio CO2" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 

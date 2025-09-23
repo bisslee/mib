@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <h3 style="margin-top:2pt; margin-bottom:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:115%; font-size:13.5pt">
 
- <img src="/assets/img/old-site/img507.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img507.png" class="img-fluid" alt="">
 
  </h3>
 
@@ -245,7 +245,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <img src="/assets/img/old-site/img508.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img508.png" class="img-fluid" alt="">
 
  </p>
 

@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Referencia: Abrigos para mangueiras e extintores fabricados em fibra de vidro</h2>
 
- <img src="/assets/img/old-site/panilha-60.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-60.png" class="img-fluid">
 
  <h2>Informações importantes</h2>
 
@@ -117,7 +117,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Abrigo para extintor de incêndio – Modelo BS 963E</strong></h2>
 
- <img src="/assets/img/old-site/panilha-61.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-61.png" class="img-fluid">
 
  <div class="table-responsive">
 
@@ -167,7 +167,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Abrigo para extintor de incêndio – Modelo BS 833.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-62.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-62.png" class="img-fluid">
 
  <div class="table-responsive">
 
@@ -217,7 +217,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Abrigo para extintor de incêndio – Modelo BS 632</strong></h2>
 
- <img src="/assets/img/old-site/panilha-63.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-63.png" class="img-fluid">
 
  <div class="table-responsive">
 
@@ -265,7 +265,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Abrigo para extintor de incêndio – Modelo BS 832.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-64.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-64.png" class="img-fluid">
 
  <div class="table-responsive">
 
@@ -317,7 +317,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 1093.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-65.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-65.png" class="img-fluid">
 
  <div class="table-responsive">
 
@@ -369,7 +369,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 752.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-66.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-66.png" class="img-fluid">
 
  <div class="table-responsive">
 
@@ -421,7 +421,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 961D.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-69.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-69.png" class="img-fluid">
 
  <div class="table-responsive">
 
@@ -475,7 +475,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 963</strong></h2>
 
- <img src="/assets/img/old-site/panilha-70.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-70.png" class="img-fluid">
 
  <div class="table-responsive">
 
@@ -529,7 +529,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 963D</strong></h2>
 
- <img src="/assets/img/old-site/panilha-71.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-71.png" class="img-fluid">
 
  <div class="table-responsive">
 
@@ -583,7 +583,7 @@ if (isset($breadcrumbs)) {
 
  <H2><strong>Abrigo para mangueiras de incêndio – Modelo BS 9121</strong></H2>
 
- <img src="/assets/img/old-site/panilha-77.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-77.png" class="img-fluid">
 
  <div class="table-responsive">
 
@@ -637,7 +637,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Abrigo para mangueiras de incêndio – Modelo BS 9123</strong></h2>
 
- <img src="/assets/img/old-site/panilha-78.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-78.png" class="img-fluid">
 
  <div class="table-responsive">
 

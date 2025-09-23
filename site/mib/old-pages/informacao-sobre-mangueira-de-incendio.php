@@ -87,7 +87,7 @@ if (isset($breadcrumbs)) {
 
  <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
 
- <img src="/assets/img/old-site/panilha-29.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-29.png" class="img-fluid">
 
  </div>
 
@@ -103,7 +103,7 @@ if (isset($breadcrumbs)) {
 
  kgf/cm2, pressão de ruptura mínima de 35,0 kgf/cm2, denominação comercial <strong>Predyflex</strong>.</p>
 
- <img src="/assets/img/old-site/panilha-79.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-79.png" class="img-fluid">
 
  <p>Informações sobre mangueira de incêndio <strong>TIPO 2</strong> fabricada conforme NBR 11861, com simples
 
@@ -117,7 +117,7 @@ if (isset($breadcrumbs)) {
 
  comercial <strong>Superflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-80.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-80.png" class="img-fluid">
 
  <p>Informações sobre mangueira de incêndio <strong>TIPO 3</strong> fabricada conforme NBR 11861, com duplo
 
@@ -131,7 +131,7 @@ if (isset($breadcrumbs)) {
 
  denominação comercial <strong>Superflex Capa Dupla.</strong></p>
 
- <img src="/assets/img/old-site/panilha-80.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-80.png" class="img-fluid">
 
  <p>Informações sobre mangueira de incêndio <strong>TIPO 4</strong> fabricada conforme NBR 1186, com simples
 
@@ -145,7 +145,7 @@ if (isset($breadcrumbs)) {
 
  kgf/cm2, denominação comercial <strong>Plastflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-81.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-81.png" class="img-fluid">
 
  <p>Informações sobre mangueira de incêndio <strong>TIPO 5</strong> fabricada conforme NBR 11861, com simples
 
@@ -159,7 +159,7 @@ if (isset($breadcrumbs)) {
 
  denominação comercial <strong>Ruberflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-82.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-82.png" class="img-fluid">
 
  <h2><strong>2 MANUAL TÉCNICO</strong></h2>
 

@@ -121,7 +121,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
- <img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-plastflex.jpg" alt="Mangueira de Incêndio Plastflex" title="Mangueira de Incêndio Plastflex" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-plastflex.jpg" alt="Mangueira de Incêndio Plastflex" title="Mangueira de Incêndio Plastflex" style="margin:0px auto;">
 
  </div>
 
@@ -165,7 +165,7 @@ Fabricada na cor vermelha com revestimento têxtil reforçado e confeccionado em
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-tipo3.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo3.jpg" alt="Mangueiras de Incêndio Tipo 3" title="Mangueiras de Incêndio Tipo 3" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo3.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo3.jpg" alt="Mangueiras de Incêndio Tipo 3" title="Mangueiras de Incêndio Tipo 3" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -183,7 +183,7 @@ Fabricada na cor vermelha com revestimento têxtil reforçado e confeccionado em
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-tipo1.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo1.jpg" alt="Mangueiras de Incêndio Tipo 1" title="Mangueiras de Incêndio Tipo 1" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo1.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo1.jpg" alt="Mangueiras de Incêndio Tipo 1" title="Mangueiras de Incêndio Tipo 1" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -205,7 +205,7 @@ Fabricada na cor vermelha com revestimento têxtil reforçado e confeccionado em
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-tipo2.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo2.jpg" alt="Mangueiras de Incêndio Tipo 2" title="Mangueiras de Incêndio Tipo 2" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo2.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo2.jpg" alt="Mangueiras de Incêndio Tipo 2" title="Mangueiras de Incêndio Tipo 2" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -223,7 +223,7 @@ Fabricada na cor vermelha com revestimento têxtil reforçado e confeccionado em
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-tipo5.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo5.jpg" alt="Mangueiras de Incêndio Tipo 5" title="Mangueiras de Incêndio Tipo 5" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo5.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo5.jpg" alt="Mangueiras de Incêndio Tipo 5" title="Mangueiras de Incêndio Tipo 5" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 

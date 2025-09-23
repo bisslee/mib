@@ -64,7 +64,7 @@ Desempenho para Áreas Comerciais e industriais">
 		<div class="row">	
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <p style="margin-top:0pt; margin-bottom:10pt">
-				<img src="images/img313.png" class="img-responsive" alt="">
+				<img src="images/img313.png" class="img-fluid" alt="">
 			</p>
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 				<strong><span >Mangueira Tipo 3 Preço Imbatível – Garantia de Qualidade e Desempenho para Áreas Comerciais e industriais</span></strong>
@@ -157,7 +157,7 @@ Desempenho para Áreas Comerciais e industriais">
 				<strong><span >Mangueira Tipo 3 – A Melhor Escolha para Proteção Contra Incêndios</span></strong>
 			</p>
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
-                <img src="images/img314.png" class="img-responsive" alt="">
+                <img src="images/img314.png" class="img-fluid" alt="">
 
 			</p>
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
@@ -322,7 +322,7 @@ Desempenho para Áreas Comerciais e industriais">
 				<strong>&#xa0;</strong>
 			</p>
 			<p style="margin-top:0pt; margin-bottom:10pt; text-align:justify">
-            <img src="images/img315.png" class="img-responsive" alt="">
+            <img src="images/img315.png" class="img-fluid" alt="">
 
 			</p>
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
@@ -410,7 +410,7 @@ Desempenho para Áreas Comerciais e industriais">
 				<strong>&#xa0;</strong>
 			</p>
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-            <img src="images/img316.png" class="img-responsive" alt="">
+            <img src="images/img316.png" class="img-fluid" alt="">
 
 			</p>
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
@@ -506,7 +506,7 @@ Desempenho para Áreas Comerciais e industriais">
 				<span style="font-family:Arial; font-size:13pt; color:#444444">&#xa0;</span>
 			</p>
 			<p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
-            <img src="images/img317.png" class="img-responsive" alt="">
+            <img src="images/img317.png" class="img-fluid" alt="">
 
 			</p>
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
@@ -585,7 +585,7 @@ Desempenho para Áreas Comerciais e industriais">
 				<strong><span style="font-family:Arial; font-size:15pt; color:#2d2c40">&#xa0;</span></strong>
 			</p>
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-            <img src="images/img318.png" class="img-responsive" alt="">
+            <img src="images/img318.png" class="img-fluid" alt="">
 
 			</p>
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
@@ -664,7 +664,7 @@ Desempenho para Áreas Comerciais e industriais">
 				<span style="font-family:Arial; font-size:13pt; color:#444444">&#xa0;</span>
 			</p>
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-            <img src="images/img319.png" class="img-responsive" alt="">
+            <img src="images/img319.png" class="img-fluid" alt="">
 
 			</p>
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">

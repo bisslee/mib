@@ -119,7 +119,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
- <img class="img-responsive" src="/assets/img/old-site/esguicho-para-mangueira-de-incendio.jpg" alt="Esguicho para Mangueira de Incêndio" title="Esguicho para Mangueira de Incêndio" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/esguicho-para-mangueira-de-incendio.jpg" alt="Esguicho para Mangueira de Incêndio" title="Esguicho para Mangueira de Incêndio" style="margin:0px auto;">
 
  </div>
 
@@ -141,7 +141,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="esguicho-proporcionador-de-espuma.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-proporcionador-de-espuma.jpg" alt="Esguicho Proporcionador de Espuma" title="Esguicho Proporcionador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="esguicho-proporcionador-de-espuma.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-proporcionador-de-espuma.jpg" alt="Esguicho Proporcionador de Espuma" title="Esguicho Proporcionador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -159,7 +159,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="esguicho-regulavel-para-mangueira.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-regulavel-para-mangueira.jpg" alt="Esguicho Regulável para Mangueira" title="Esguicho Regulável para Mangueira" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="esguicho-regulavel-para-mangueira.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-regulavel-para-mangueira.jpg" alt="Esguicho Regulável para Mangueira" title="Esguicho Regulável para Mangueira" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -181,7 +181,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="esguicho-agulheta.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-agulheta.jpg" alt="Esguicho Agulheta" title="Esguicho Agulheta" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="esguicho-agulheta.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-agulheta.jpg" alt="Esguicho Agulheta" title="Esguicho Agulheta" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -199,7 +199,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="esguicho-de-bombeiro.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-de-bombeiro.jpg" alt="Esguicho de Bombeiro" title="Esguicho de Bombeiro" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="esguicho-de-bombeiro.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-de-bombeiro.jpg" alt="Esguicho de Bombeiro" title="Esguicho de Bombeiro" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 

@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/pred4.png" class="img-responsive" alt="Líquido Gerador de Espuma (LGE) no Combate a Incêndios">
+ <img src="/assets/img/old-site/pred4.png" class="img-fluid" alt="Líquido Gerador de Espuma (LGE) no Combate a Incêndios">
 
  </div>
 

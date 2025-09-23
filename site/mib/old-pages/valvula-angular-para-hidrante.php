@@ -119,7 +119,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
- <img class="img-responsive" src="/assets/img/old-site/valvula-angular-para-hidrante.jpg" alt="Válvula Angular para Hidrante" title="Válvula Angular para Hidrante" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/valvula-angular-para-hidrante.jpg" alt="Válvula Angular para Hidrante" title="Válvula Angular para Hidrante" style="margin:0px auto;">
 
  </div>
 
@@ -139,7 +139,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="valvula-angular-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/valvula-angular-para-hidrante.jpg" alt="Válvula Angular para Hidrante" title="Válvula Angular para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="valvula-angular-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/valvula-angular-para-hidrante.jpg" alt="Válvula Angular para Hidrante" title="Válvula Angular para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -157,7 +157,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="valvula-globo-angular-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/valvula-globo-angular-para-hidrante.jpg" alt="Válvula Globo Angular para Hidrante" title="Válvula Globo Angular para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="valvula-globo-angular-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/valvula-globo-angular-para-hidrante.jpg" alt="Válvula Globo Angular para Hidrante" title="Válvula Globo Angular para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -179,7 +179,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="valvulas-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/valvulas-para-hidrante.jpg" alt="Válvulas para Hidrante" title="Válvulas para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="valvulas-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/valvulas-para-hidrante.jpg" alt="Válvulas para Hidrante" title="Válvulas para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 

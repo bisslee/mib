@@ -139,7 +139,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center"> PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho1.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho1.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center" width="30%;">
                                                             <p>Esguicho tipo mangotinho ajuste regulavel tres posições modelo CAC 1" fechamento por pino central.</p>
@@ -158,7 +158,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho2.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho2.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Esguicho de combate a incendio tipo regulavel tres posições modelo Elkart 1 1/2(38mm) ou 2 1/2 (65mm) em latão polido.</p>
@@ -179,7 +179,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho3.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho3.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Esguicho de combate a incendio tipo jato sólido 1 1/2 (38mm) 2 1/2(65mm) base em latão com tubo em aluminio ou latão disponiveis para requinte de 13 e 16 mm para 1 1/2 e 19 e 25 mm 2 1/2. </p>
@@ -198,7 +198,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho4.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho4.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Esguicho de combate a incendio tipo jato regulavel tres posições modelo CAC AKRON LONGO 11/2 (38mm) ou 2 1/2 em latão polido fechamento por pino central, disponiveis em acabamento cromado. </p>
@@ -217,7 +217,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho5.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho5.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Esguicho de combate a incendio tipo jato regulavel modelo CAC AKRON com alavanca e empunhadura 11/2 (38mm) ou 2 1/2 em latão polido fechamento por pino central e válvula esférica, disponiveis em acabamento cromado. </p>
@@ -235,7 +235,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho6.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho6.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Esguicho de combate a incendio tipo jato regulavel modelo FOG HOG 2 1/2 (65mm) em latão polido fechamento por pino central rosca de entrada 7,5 fpp para uso em canhão monitor. </p>
@@ -255,7 +255,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho7.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho7.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Proporcionador de espuma de LGE liquido gerador de espuma disponiveis nas dimenões de 1 1/2 e 2 1/2 storz com vazões de 200,400 ou 800 lpm fabricado em latão escovado </p>
@@ -275,7 +275,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho8.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho8.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Esguicho lançador de espuma LGE liquido gerador de espuma nas dimensões de 1 1/2 ou 2 1/2 com vazões de 200,400 ou 800 lpm </p>
@@ -298,7 +298,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho9.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho9.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>LGE liquido gerador de espuma bombona 20 litros </p>
@@ -317,7 +317,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">PÇ </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho10.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho10.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Derivante para mangueiras de incêndio com opções com uma entrada de 2 1/2 storz por duas saidas de 1 1/2 storz ou por uma entrada de 21/2 storzx duas saidas de 21/2 storz em latão escovado. </p>
@@ -335,7 +335,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center"> </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho11.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho11.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Derivante para mangueiras de incêndio com opções com uma entrada de 2 1/2 storz por tres saidas de 1 1/2 storz em latão escovado. </p>
@@ -353,7 +353,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center"> </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho12.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho12.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Valvula globo 2 1/2 45º 155 libras PN10 uso predial roscas 11x5 em latão escovado. </p>
@@ -372,7 +372,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">BS</td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho13.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho13.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Valvula globo 2 1/2 45º ou 90º 210 libras uso industrial roscas 11x5 ou 8x7,5 em latão escovado volante robusto em aluminio diametro 100 mm .</p>
@@ -395,7 +395,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">BS </td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho14.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho14.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Valvula globo 2 1/2 45º ou 90º 300 libras uso industrial roscas 11x5 ou 8x7,5 em latão escovado haste 16 mm, volante robusto em aluminio diametro 100 mm . </p>
@@ -418,7 +418,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">BS</td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho15.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho15.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Valvula globo 2 1/2 45º ou 90º 300 libras tipo crane industrial roscas 11x5 ou 8x7,5 em latão escovado HASTE 19 mm, volante robusto em aluminio diametro 150 mm .</p>
@@ -440,7 +440,7 @@ if (isset($breadcrumbs)) {
 
                                                         <td class="center">BS</td>
 
-                                                        <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/esguicho16.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
+                                                        <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/esguicho16.jpg" alt="Esguicho para Equipamentos contra Incêndio" title="Esguicho para Equipamentos contra Incêndio" style="text-align:center;"></td>
 
                                                         <td class="center">
                                                             <p>Canhão monitor fixo de 2 1/2 x rosca 7,5 fios por polega para acoplamento do esguicho tipo fog hog para uso fixo disponivel com flanges de 3" e 4" polegadas em latão pintado em vermelho.</p>
@@ -460,7 +460,7 @@ if (isset($breadcrumbs)) {
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-agulheta.php" style="color:#fff; margin:0px;">Esguicho Agulheta</a></h2>
 
-                                                        <a href="esguicho-agulheta.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-agulheta.jpg" alt="Esguicho Agulheta" title="Esguicho Agulheta" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="esguicho-agulheta.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-agulheta.jpg" alt="Esguicho Agulheta" title="Esguicho Agulheta" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
@@ -480,7 +480,7 @@ if (isset($breadcrumbs)) {
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-de-bombeiro.php" style="color:#fff; margin:0px;">Esguicho de Bombeiro</a></h2>
 
-                                                        <a href="esguicho-de-bombeiro.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-de-bombeiro.jpg" alt="Esguicho de Bombeiro" title="Esguicho de Bombeiro" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="esguicho-de-bombeiro.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-de-bombeiro.jpg" alt="Esguicho de Bombeiro" title="Esguicho de Bombeiro" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
@@ -500,7 +500,7 @@ if (isset($breadcrumbs)) {
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-de-combate-a-incendio.php" style="color:#fff; margin:0px;">Esguicho de Combate a Incêndio</a></h2>
 
-                                                        <a href="esguicho-de-combate-a-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-de-combate-a-incendio.jpg" alt="Esguicho de Combate a Incêndio" title="Esguicho de Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="esguicho-de-combate-a-incendio.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-de-combate-a-incendio.jpg" alt="Esguicho de Combate a Incêndio" title="Esguicho de Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
@@ -524,7 +524,7 @@ if (isset($breadcrumbs)) {
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-jato-solido.php" style="color:#fff; margin:0px;">Esguicho Jato Sólido</a></h2>
 
-                                                        <a href="esguicho-jato-solido.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-jato-solido.jpg" alt="Esguicho Jato Sólido" title="Esguicho Jato Sólido" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="esguicho-jato-solido.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-jato-solido.jpg" alt="Esguicho Jato Sólido" title="Esguicho Jato Sólido" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
@@ -544,7 +544,7 @@ if (isset($breadcrumbs)) {
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-para-mangueira-de-incendio.php" style="color:#fff; margin:0px;">Esguicho para Mangueira de Incêndio</a></h2>
 
-                                                        <a href="esguicho-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-para-mangueira-de-incendio.jpg" alt="Esguicho para Mangueira de Incêndio" title="Esguicho para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="esguicho-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-para-mangueira-de-incendio.jpg" alt="Esguicho para Mangueira de Incêndio" title="Esguicho para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
@@ -564,7 +564,7 @@ if (isset($breadcrumbs)) {
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-proporcionador-de-espuma.php" style="color:#fff; margin:0px;">Esguicho Proporcionador de Espuma</a></h2>
 
-                                                        <a href="esguicho-proporcionador-de-espuma.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-proporcionador-de-espuma.jpg" alt="Esguicho Proporcionador de Espuma" title="Esguicho Proporcionador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="esguicho-proporcionador-de-espuma.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-proporcionador-de-espuma.jpg" alt="Esguicho Proporcionador de Espuma" title="Esguicho Proporcionador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
@@ -588,7 +588,7 @@ if (isset($breadcrumbs)) {
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="esguicho-regulavel-para-mangueira.php" style="color:#fff; margin:0px;">Esguicho Regulável para Mangueira</a></h2>
 
-                                                        <a href="esguicho-regulavel-para-mangueira.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-regulavel-para-mangueira.jpg" alt="Esguicho Regulável para Mangueira de Incêndio" title="Esguicho Regulável para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="esguicho-regulavel-para-mangueira.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-regulavel-para-mangueira.jpg" alt="Esguicho Regulável para Mangueira de Incêndio" title="Esguicho Regulável para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
@@ -620,7 +620,7 @@ if (isset($breadcrumbs)) {
 
                                                             <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; min-height:230px; ">
 
-                                                                <a href="mangueiras-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/mangueiras-de-incendio.jpg" alt="Mangueiras de Incêndio" title="Mangueiras de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                                <a href="mangueiras-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/mangueiras-de-incendio.jpg" alt="Mangueiras de Incêndio" title="Mangueiras de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                                 <div class="caption">
 
@@ -638,7 +638,7 @@ if (isset($breadcrumbs)) {
 
                                                             <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; min-height:230px; ">
 
-                                                                <a href="extintores-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/extintores-de-incendio.jpg" alt="Extintores de Incêndio" title="Extintores de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                                <a href="extintores-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/extintores-de-incendio.jpg" alt="Extintores de Incêndio" title="Extintores de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                                 <div class="caption">
 
@@ -660,7 +660,7 @@ if (isset($breadcrumbs)) {
 
                                                             <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
-                                                                <a href="canhao-monitor-de-combate-a-incendio.php"><img class="img-responsive" src="/assets/img/old-site/canhao-monitor-de-combate-a-incendio.jpg" alt="Canhão Monitor para Combate a Incêndio" title="Canhão Monitor para Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                                <a href="canhao-monitor-de-combate-a-incendio.php"><img class="img-fluid" src="/assets/img/old-site/canhao-monitor-de-combate-a-incendio.jpg" alt="Canhão Monitor para Combate a Incêndio" title="Canhão Monitor para Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                                 <div class="caption">
 
@@ -678,7 +678,7 @@ if (isset($breadcrumbs)) {
 
                                                             <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
-                                                                <a href="derivante-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/derivante-para-mangueira-de-incendio.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                                <a href="derivante-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/derivante-para-mangueira-de-incendio.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                                 <div class="caption">
 

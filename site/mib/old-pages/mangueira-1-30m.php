@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Mangueira 1 30m - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Descrição da página',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueira-1-30m.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Mangueira 1 30m',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Mangueira 1 30m',
     'description' => 'Descrição da página',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/pred.png" class="img-responsive" alt="Mangueira Tipo 1 de 30 Metros para Condomínios: Proteção Indispensável contra Incêndios">
+ <img src="/assets/img/old-site/pred.png" class="img-fluid" alt="Mangueira Tipo 1 de 30 Metros para Condomínios: Proteção Indispensável contra Incêndios">
 
  </div>
 

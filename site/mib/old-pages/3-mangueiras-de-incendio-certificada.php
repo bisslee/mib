@@ -101,7 +101,7 @@ if (isset($breadcrumbs)) {
 
  equipamentos e demandas da ABNT.</p>
 
- <img src="/assets/img/old-site/panilha-25.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-25.png" class="img-fluid">
 
  <p>Além disso, é preciso lembrar que após a construção das estruturas,
 

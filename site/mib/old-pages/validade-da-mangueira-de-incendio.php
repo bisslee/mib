@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
 
- <img src="/assets/img/old-site/panilha-29.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-29.png" class="img-fluid">
 
  </div>
 
@@ -193,7 +193,7 @@ if (isset($breadcrumbs)) {
 
  <h3 class="meni "><strong><span class="span-fla">Predyflex - Tipo 1 -</span>Destina-se à edifícios residenciais.</strong></h3>
 
- <img src="/assets/img/old-site/panilha-34.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-34.png" class="img-fluid">
 
  <p>Mangueira de incêndio tipo 1, na cor branca, revestida externamente com
 
@@ -265,7 +265,7 @@ if (isset($breadcrumbs)) {
 
 Corpo de Bombeiros.</strong></h3>
 
- <img src="/assets/img/old-site/panilha-35.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-35.png" class="img-fluid">
 
  <p>Mangueira de incêndio tipo 2, na cor branca, revestida externamente com reforço
 
@@ -337,7 +337,7 @@ Corpo de Bombeiros.</strong></h3>
 
  industriais e Corpo de Bombeiros.</strong></h3>
 
- <img src="/assets/img/old-site/panilha-35.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-35.png" class="img-fluid">
 
  <p>Mangueira de incêndio tipo 3, na cor branca, revestida externamente com duplo
 
@@ -407,7 +407,7 @@ Corpo de Bombeiros.</strong></h3>
 
  <h3 class="meni "><strong><span class="span-fla">Plastflex - Tipo 4 - </span>Destina-se à instalações industriais.</strong></h3>
 
- <img src="/assets/img/old-site/panilha-36.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-36.png" class="img-fluid">
 
  <p>Mangueira de incêndio tipo 4, na cor vermelha, com reforço têxtil confeccionado</p>
 
@@ -479,7 +479,7 @@ Corpo de Bombeiros.</strong></h3>
 
 incluem maiores resistências.</strong></h3>
 
- <img src="/assets/img/old-site/panilha-37.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-37.png" class="img-fluid">
 
  <p>Mangueira de incêndio tipo 5, na cor preta, com reforço têxtil em fio sintético de alta
 

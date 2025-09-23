@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/planilha-107.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-107.png" class="img-fluid" alt="">
 
  </div>
 
@@ -235,7 +235,7 @@ diâmetro nominal 40 mm (1.1/2”), comprimentos 15,20,25 e 30 metros, pressão 
 
 kgf/cm2, pressão de ruptura mínima de 35,0 kgf/cm2, denominação comercial <strong>Predyflex</strong>.</p>
 
-<img src="/assets/img/old-site/planilha-108.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/planilha-108.png" class="img-fluid" alt="">
 
 <p>Informações sobre mangueira de incêndio TIPO 2 fabricada conforme NBR 11861, com simples
 
@@ -249,7 +249,7 @@ pressão de trabalho 14,0 kgf/cm2, pressão de ruptura mínima de 55,0 kgf/cm2, 
 
 comercial <strong>Superflex</strong>.</p>
 
-<img src="/assets/img/old-site/planilha-109.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/planilha-109.png" class="img-fluid" alt="">
 
 <p>Informações sobre mangueira de incêndio TIPO 3 fabricada conforme NBR 11861, com duplo</p>
 
@@ -263,7 +263,7 @@ metros, pressão de trabalho 15,0 kgf/cm2, pressão de ruptura mínima de 60,0 k
 
 denominação comercial <strong>Superflex Capa Dupla</strong>.</p>
 
-<img src="/assets/img/old-site/planilha-110.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/planilha-110.png" class="img-fluid" alt="">
 
 <p>Informações sobre mangueira de incêndio TIPO 4 fabricada conforme NBR 1186, com simples
 
@@ -277,7 +277,7 @@ tipo engate rápido (storz), diâmetros nominais 40 mm (1.1/2”) e 65mm (2.1/2�
 
 kgf/cm2, denominação comercial <strong>Plastflex</strong>.</p>
 
-<img src="/assets/img/old-site/planilha-111.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/planilha-111.png" class="img-fluid" alt="">
 
 <p>Informações sobre mangueira de incêndio TIPO 5 fabricada conforme NBR 11861, com simples
 
@@ -291,7 +291,7 @@ metros, pressão de trabalho 14,0 kgf/cm2 pressão de ruptura mínima de 55,0 kg
 
 denominação comercial <strong>Ruberflex</strong>.</p>
 
-<img src="/assets/img/old-site/planilha-112.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/planilha-112.png" class="img-fluid" alt="">
 
 <h3><strong>2 MANUAL TÉCNICO</strong></h3>
 

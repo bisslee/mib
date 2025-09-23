@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div class="container">
 
- <img src="/assets/img/old-site/planilha-77.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-77.png" class="img-fluid" alt="">
 
  </div>
 

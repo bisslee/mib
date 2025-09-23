@@ -79,7 +79,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
- <img src="/assets/img/old-site/img-120.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img-120.png" class="img-fluid" alt="">
 
  <h4><strong>Abrigo para Mangueiras de Incêndio: Segurança e Qualidade com a
 

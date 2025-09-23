@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:10pt">
 
- <img src="/assets/img/old-site/img308.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img308.png" class="img-fluid" alt="">
 
  </p>
 
@@ -445,7 +445,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:10pt; text-align:justify">
 
- <img src="/assets/img/old-site/img309.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img309.png" class="img-fluid" alt="">
 
  </p>
 
@@ -591,7 +591,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img310.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img310.png" class="img-fluid" alt="">
 
  </p>
 
@@ -743,7 +743,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img311.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img311.png" class="img-fluid" alt="">
 
  </p>
 
@@ -871,7 +871,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img312.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img312.png" class="img-fluid" alt="">
 
  </p>
 

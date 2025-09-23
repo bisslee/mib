@@ -79,7 +79,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-<img src="/assets/img/old-site/img1023.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1023.png" class="img-fluid" alt="">
 
 <h2>🔥 Como Encontrar o Melhor Preço de Mangueira de Incêndio 1 1/2"?</h2>
 
@@ -239,7 +239,7 @@ Nossa equipe está pronta para orientá-lo na escolha da melhor mangueira de inc
 
 <p><strong>Tipo 1: Predyflex</strong></p>
 
-<img src="/assets/img/old-site/img1018.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1018.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 10 Kgf/cm²</strong></p>
 
@@ -255,7 +255,7 @@ Nossa equipe está pronta para orientá-lo na escolha da melhor mangueira de inc
 
 <p><strong>Tipo 2: Superflex</strong></p>
 
-<img src="/assets/img/old-site/img1019.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1019.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 
@@ -271,7 +271,7 @@ Nossa equipe está pronta para orientá-lo na escolha da melhor mangueira de inc
 
 <p><strong>Tipo 3: Superflex Capa Dupla</strong></p>
 
-<img src="/assets/img/old-site/img1020.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1020.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 15 Kgf/cm²</strong></p>
 
@@ -287,7 +287,7 @@ Nossa equipe está pronta para orientá-lo na escolha da melhor mangueira de inc
 
 <p><strong>Tipo 4: Plastflex</strong></p>
 
-<img src="/assets/img/old-site/img1021.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1021.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 
@@ -303,7 +303,7 @@ Nossa equipe está pronta para orientá-lo na escolha da melhor mangueira de inc
 
 <p><strong>Tipo 5: Ruberflex</strong></p>
 
-<img src="/assets/img/old-site/img1022.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1022.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 

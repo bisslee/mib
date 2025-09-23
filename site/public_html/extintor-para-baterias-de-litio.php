@@ -130,7 +130,7 @@ Riscos Térmicos">
 
             <p style="margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
-				<img src="images/img501.png" class="img-responsive" alt="">
+				<img src="images/img501.png" class="img-fluid" alt="">
 
 			</p>
 
@@ -250,7 +250,7 @@ Riscos Térmicos">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal">
 
-            <img src="images/img502.png" class="img-responsive" alt="">
+            <img src="images/img502.png" class="img-fluid" alt="">
 
 
 
@@ -270,7 +270,7 @@ Riscos Térmicos">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
-            <img src="images/img503.png" class="img-responsive" alt="">
+            <img src="images/img503.png" class="img-fluid" alt="">
 
 
 
@@ -642,7 +642,7 @@ Riscos Térmicos">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
-            <img src="images/img504.png" class="img-responsive" alt="">
+            <img src="images/img504.png" class="img-fluid" alt="">
 
 
 
@@ -766,7 +766,7 @@ Riscos Térmicos">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
-            <img src="images/img506.png" class="img-responsive" alt="">
+            <img src="images/img506.png" class="img-fluid" alt="">
 
 
 
@@ -826,7 +826,7 @@ Riscos Térmicos">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
-            <img src="images/img505.png" class="img-responsive" alt="">
+            <img src="images/img505.png" class="img-fluid" alt="">
 
 
 

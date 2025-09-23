@@ -163,7 +163,7 @@ include '../includes/breadcrumb.php';
 
                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/caixa-para-extintor-de-incendio.php" style="color:#fff; margin:0px;">Caixa para Extintor de Incêndio</a></h2>
 
-                                        <a href="/old-pages/caixa-para-extintor-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/caixa-para-extintor-de-incendio.jpg" alt="Caixa para Extintor de Incêndio certificada ABNT - MIB São Paulo" title="Caixa para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
+                                        <a href="/old-pages/caixa-para-extintor-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/caixa-para-extintor-de-incendio.jpg" alt="Caixa para Extintor de Incêndio certificada ABNT - MIB São Paulo" title="Caixa para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
 
                                         <div class="caption">
 
@@ -185,7 +185,7 @@ include '../includes/breadcrumb.php';
 
                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/caixa-para-hidrante.php" style="color:#fff; margin:0px;">Caixa para Hidrante</a></h2>
 
-                                        <a href="/old-pages/caixa-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/caixa-para-hidrante.jpg" alt="Caixa para Hidrante certificada ABNT - MIB São Paulo" title="Caixa para Hidrante" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
+                                        <a href="/old-pages/caixa-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/caixa-para-hidrante.jpg" alt="Caixa para Hidrante certificada ABNT - MIB São Paulo" title="Caixa para Hidrante" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
 
                                         <div class="caption">
 
@@ -207,7 +207,7 @@ include '../includes/breadcrumb.php';
 
                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/caixa-para-mangueira-de-incendio.php" style="color:#fff; margin:0px;">Caixa para Mangueira de Incêndio</a></h2>
 
-                                        <a href="/old-pages/caixa-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/caixa-para-mangueira-de-incendio.jpg" alt="Caixa para Mangueira de Incêndio certificada ABNT - MIB São Paulo" title="Caixa para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
+                                        <a href="/old-pages/caixa-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/caixa-para-mangueira-de-incendio.jpg" alt="Caixa para Mangueira de Incêndio certificada ABNT - MIB São Paulo" title="Caixa para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
 
                                         <div class="caption">
 

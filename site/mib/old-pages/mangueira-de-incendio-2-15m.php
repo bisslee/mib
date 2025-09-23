@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/pred2.png" class="img-responsive" alt="Mangueira de Incêndio Tipo 2 de 15 Metros: Proteção Indispensável para Áreas Industriais e Comerciais">
+ <img src="/assets/img/old-site/pred2.png" class="img-fluid" alt="Mangueira de Incêndio Tipo 2 de 15 Metros: Proteção Indispensável para Áreas Industriais e Comerciais">
 
  </div>
 

@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Referencia: NBR11861 mangueiras de combate a incêndio.</h2>
 
- <img src="/assets/img/old-site/panilha-48.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-48.png" class="img-fluid">
 
  <h2><strong>TIPOS DE MANGUEIRAS DE COMBATE A INCÊNDIO</strong></h2>
 
@@ -185,7 +185,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Predyflex - Tipo 1</strong> - Destina-se à edifícios residenciais.</h2>
 
- <img src="/assets/img/old-site/panilha-34.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-34.png" class="img-fluid">
 
  <p>Mangueira de incêndio tipo 1, na cor branca, revestida externamente com reforço têxtil confeccionado 100% em fio poliéster de alta tenacidade e internamente com tubo de borracha sintética na cor preta; dotada de união tipo engate rápido (“storz”) conforme NBR 14349, é leve e durável pela excelente resistência a ruptura, abrasão e deterioração por bolor e fungos. Em conformidade com a norma ABNT – NBR 11861 e com certificado da marca de conformidade ABNT n° 40.001/01 (1.1/2”). Uso recomendado para prédios de ocupação residencial. </p>
 
@@ -235,7 +235,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Superflex - Tipo 2 </strong> - Destina-se à edifícios comerciais, instalações industriais e Corpo de Bombeiros.</h2>
 
- <img src="/assets/img/old-site/panilha-34.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-34.png" class="img-fluid">
 
  <p>Mangueira de incêndio tipo 2, na cor branca, revestida externamente com duplo reforço têxtil confeccionado 100% em fio poliéster de alta tenacidade e internamente com tubo de borracha sintética na cor preta: dotada de união tipo engate rápido (storz) conforme NBR 14349, possui maior resistência a ruptura, abrasão e deterioração por bolor e fungos. Em conformidade com a norma ABNT – NBR 11861 e com certificado da marca de conformidade ABNT n° 40.004/01 (1.1/2”) e 40.005/01 (2.1/2”). Uso recomendado para ambientes onde é desejável uma maior resistência a abrasão, como áreas industriais, navais e Corpo de Bombeiros. </p>
 
@@ -293,7 +293,7 @@ if (isset($breadcrumbs)) {
 
 industriais e Corpo de Bombeiros.</h2>
 
- <img src="/assets/img/old-site/panilha-34.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-34.png" class="img-fluid">
 
  <p>Mangueira de incêndio tipo 3, na cor branca, revestida externamente com duplo
 
@@ -363,7 +363,7 @@ industriais e Corpo de Bombeiros.</h2>
 
  <h2><strong>Plastflex - Tipo 4</strong>- Destina-se à instalações industriais.</h2>
 
- <img src="/assets/img/old-site/panilha-36.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-36.png" class="img-fluid">
 
  <p>Mangueira de incêndio tipo 4, na cor vermelha, com reforço têxtil confeccionado
 
@@ -435,7 +435,7 @@ industriais e Corpo de Bombeiros.</h2>
 
  incluem maiores resistências.</h2>
 
- <img src="/assets/img/old-site/panilha-37.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-37.png" class="img-fluid">
 
  <p>Mangueira de incêndio tipo 5, na cor preta, com reforço têxtil em fio sintético de alta
 

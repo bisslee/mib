@@ -131,7 +131,7 @@ if (isset($breadcrumbs)) {
 
 <p>Brasil segurança.</p>
 
- <img class="img-responsive" src="/assets/img/old-site/brasil-seguranca-equipamentos-contra-incendio.jpg" style="margin:0px auto;" alt=" - Equipamentos Contra Incêndio" title=" - Equipamentos Contra Incêndio" >
+ <img class="img-fluid" src="/assets/img/old-site/brasil-seguranca-equipamentos-contra-incendio.jpg" style="margin:0px auto;" alt=" - Equipamentos Contra Incêndio" title=" - Equipamentos Contra Incêndio" >
 
  <br><br>
 

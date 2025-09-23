@@ -118,7 +118,7 @@
 
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-            <img src="images/planilha-200.png" class="img-responsive" alt="">
+            <img src="images/planilha-200.png" class="img-fluid" alt="">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:18pt">
 
@@ -266,7 +266,7 @@
 
 			</p>
 
-			<img src="images/planilha-201.png" class="img-responsive" alt="">
+			<img src="images/planilha-201.png" class="img-fluid" alt="">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -316,7 +316,7 @@
 
 			</p>
 
-			<img src="images/planilha-202.png" class="img-responsive" alt="">
+			<img src="images/planilha-202.png" class="img-fluid" alt="">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -378,7 +378,7 @@
 
 			</p>
 
-			<img src="images/planilha-203.png" class="img-responsive" alt="">
+			<img src="images/planilha-203.png" class="img-fluid" alt="">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
@@ -404,7 +404,7 @@
 
 			</p>
 
-			<img src="images/planilha-204.png" class="img-responsive" alt="">
+			<img src="images/planilha-204.png" class="img-fluid" alt="">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
@@ -470,7 +470,7 @@
 
 			</p>
 
-			<img src="images/planilha-205.png" class="img-responsive" alt="">
+			<img src="images/planilha-205.png" class="img-fluid" alt="">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 

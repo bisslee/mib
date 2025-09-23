@@ -81,11 +81,11 @@ if (isset($breadcrumbs)) {
 
  <h1>Produtos Mangueiras</h1>
 
-<img src="/assets/img/old-site/img1027.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1027.png" class="img-fluid" alt="">
 
 <h2>🔥 Produto Mangueira de Incêndio: Segurança e Alta Performance para sua Proteção</h2>
 
-<img src="/assets/img/old-site/img1028.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1028.png" class="img-fluid" alt="">
 
 <p>Seja bem-vindo à BS , especialista em produto mangueira de incêndio e referência nacional em equipamentos para combate e prevenção de incêndios.</p>
 
@@ -179,7 +179,7 @@ if (isset($breadcrumbs)) {
 
 <p>Mangueira Predial Tipo 1 (Predyflex) – BS </p>
 
-<img src="/assets/img/old-site/img1018.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1018.png" class="img-fluid" alt="">
 
 <p>A Mangueira Predial Tipo 1 (Predyflex) é ideal para condomínios residenciais que necessitam de segurança confiável contra incêndios. Com alta resistência e facilidade de uso, ela foi desenvolvida para proporcionar eficiência em situações de emergência, cumprindo rigorosamente os requisitos das normas de segurança.</p>
 
@@ -203,7 +203,7 @@ if (isset($breadcrumbs)) {
 
 <p><strong>Mangueira Tipo 2 (Superflex) – BS : Eficiência e Confiabilidade</strong></p>
 
-<img src="/assets/img/old-site/img1019.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1019.png" class="img-fluid" alt="">
 
 <p>A Mangueira Tipo 2 (Superflex) é uma excelente escolha para edificações comerciais e industriais que necessitam de equipamentos de alta resistência e desempenho superior no combate a incêndios. Este modelo é ideal para ambientes com risco elevado de incêndio.</p>
 
@@ -227,7 +227,7 @@ if (isset($breadcrumbs)) {
 
 <p>Mangueira Tipo 3 (Superflex Capa Dupla) – BS : A Solução Definitiva para Ambientes de Alto Risco</p>
 
-<img src="/assets/img/old-site/img1020.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1020.png" class="img-fluid" alt="">
 
 <p>A Mangueira Tipo 3 (Superflex Capa Dupla) é projetada para ambientes industriais e comerciais de alto risco, onde a resistência e o desempenho superior são essenciais para garantir a segurança e o combate eficaz ao fogo.</p>
 
@@ -255,7 +255,7 @@ if (isset($breadcrumbs)) {
 
 <p>Mangueira Tipo 4 (Plastflex) – BS : Alta Performance e Segurança Garantida</p>
 
-<img src="/assets/img/old-site/img1021.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1021.png" class="img-fluid" alt="">
 
 <p>A Mangueira Tipo 4 (Plastflex) é a solução ideal para ambientes de alto risco que exigem desempenho superior no combate a incêndios. Fabricada com materiais resistentes, ela oferece durabilidade e eficiência para ambientes comerciais, industriais e de alto risco.</p>
 
@@ -283,7 +283,7 @@ if (isset($breadcrumbs)) {
 
 <p>Mangueira Tipo 5 (Ruberflex) – BS : Eficiência e Alta Resistência no Combate a Incêndios</p>
 
-<img src="/assets/img/old-site/img1022.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1022.png" class="img-fluid" alt="">
 
 <p>A Mangueira Tipo 5 (Ruberflex) é ideal para ambientes comerciais e residenciais, garantindo alta resistência e desempenho superior em situações de emergência, atendendo às necessidades de segurança em locais com risco de incêndio.</p>
 

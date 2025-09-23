@@ -79,7 +79,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
- <img src="/assets/img/old-site/img-122.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img-122.png" class="img-fluid" alt="">
 
  <h3><strong>Válvula para Hidrante: Registro Globo 2 1/2&quot; x 45º 76mm da HSA
 

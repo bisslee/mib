@@ -87,7 +87,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Referencia:.Chave storz para mangueira de hidrante.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-56.png" class="img-responsive"> 
+ <img src="/assets/img/old-site/panilha-56.png" class="img-fluid"> 
 
  </div>
 

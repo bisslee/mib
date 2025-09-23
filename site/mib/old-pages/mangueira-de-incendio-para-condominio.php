@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Referencia: NBR11861 mangueiras de combate a incêndio.</h2>
 
- <img src="/assets/img/old-site/panilha-43.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-43.png" class="img-fluid">
 
  </div>
 
@@ -93,7 +93,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/panilha-45.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-45.png" class="img-fluid">
 
  </div>
 
@@ -149,7 +149,7 @@ if (isset($breadcrumbs)) {
 
  <div align="center">
 
- <img src="/assets/img/old-site/panilha-47.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-47.png" class="img-fluid">
 
  </div>
 

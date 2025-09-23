@@ -119,7 +119,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 " style="padding:0px; text-align:center;" > 
 
- <img class="img-responsive" src="/assets/img/old-site/derivante-para-mangueira-de-incendio.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/derivante-para-mangueira-de-incendio.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="margin:0px auto;">
 
  <table class="table">
 
@@ -145,7 +145,7 @@ if (isset($breadcrumbs)) {
 
  <td class="center"> PÇ </td>
 
- <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/derivante-1.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="text-align:center;"></td>
+ <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/derivante-1.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="text-align:center;"></td>
 
  <td class="center" width="30%;" ><p>Derivante para mangueiras de incêndio com opções com uma entrada de 2 1/2 storz por duas saidas de 1 1/2 storz ou por uma entrada de 21/2 storzx duas saidas de 21/2 storz em latão escovado.</p> </td>
 
@@ -159,7 +159,7 @@ if (isset($breadcrumbs)) {
 
  <td class="center"> PÇ </td>
 
- <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/derivante-2.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="text-align:center;"></td>
+ <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/derivante-2.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="text-align:center;"></td>
 
  <td class="center" width="30%;" ><p>Derivante para mangueiras de incêndio com opções com uma entrada de 2 1/2 storz por tres saidas de 1 1/2 storz em latão escovado.</p> </td>
 
@@ -185,7 +185,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; min-height:230px; ">
 
- <a href="mangueiras-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/mangueiras-de-incendio.jpg" alt="Mangueiras de Incêndio" title="Mangueiras de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueiras-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/mangueiras-de-incendio.jpg" alt="Mangueiras de Incêndio" title="Mangueiras de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -203,7 +203,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; min-height:230px; ">
 
- <a href="extintores-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/extintores-de-incendio.jpg" alt="Extintores de Incêndio" title="Extintores de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintores-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/extintores-de-incendio.jpg" alt="Extintores de Incêndio" title="Extintores de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -225,7 +225,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="esguichos-para-equipamentos-contra-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguichos-para-equipamentos-contra-incendio.jpg" alt="Esguichos" title="Esguichos" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="esguichos-para-equipamentos-contra-incendio.php"><img class="img-fluid" src="/assets/img/old-site/esguichos-para-equipamentos-contra-incendio.jpg" alt="Esguichos" title="Esguichos" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -243,7 +243,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="sistema-aerossol-de-supressao-a-incendio.php"><img class="img-responsive" src="/assets/img/old-site/sistema-aerossol-de-supressao-a-incendio-2.jpg" alt="Sistema aerossol de supressão a incêndio" title="Sistema aerossol de supressão a incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="sistema-aerossol-de-supressao-a-incendio.php"><img class="img-fluid" src="/assets/img/old-site/sistema-aerossol-de-supressao-a-incendio-2.jpg" alt="Sistema aerossol de supressão a incêndio" title="Sistema aerossol de supressão a incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 

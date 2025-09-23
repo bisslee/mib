@@ -158,7 +158,7 @@ include '../includes/breadcrumb.php';
                     <h2 class="section-title">Mangueiras de Incêndio - Especificações Técnicas</h2>
                     <article class="text-justify">
 
-                        <img class="img-responsive" src="/assets/img/old-site/mangueiras-de-incendio.jpg" alt="Mangueiras de incêndio certificadas ABNT para combate a incêndio - MIB Brasil" title="Mangueiras de incêndio certificadas ABNT" style="margin:0px auto;" loading="lazy" width="300" height="200">
+                        <img class="img-fluid" src="/assets/img/old-site/mangueiras-de-incendio.jpg" alt="Mangueiras de incêndio certificadas ABNT para combate a incêndio - MIB Brasil" title="Mangueiras de incêndio certificadas ABNT" style="margin:0px auto;" loading="lazy" width="300" height="200">
                         
                         <?php 
                         // Tracking de visualização de produto
@@ -199,7 +199,7 @@ include '../includes/breadcrumb.php';
 
                             <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/mangueira-de-incendio-para-predio.php" style="color:#fff; margin:0px;">Mangueira de Incêndio para Prédio</a></h2>
 
-                            <a href="/old-pages/mangueira-de-incendio-para-predio.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-para-predio.jpg" alt="Mangueira de Incêndio para Prédio certificada ABNT - MIB São Paulo" title="Mangueira de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
+                            <a href="/old-pages/mangueira-de-incendio-para-predio.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-para-predio.jpg" alt="Mangueira de Incêndio para Prédio certificada ABNT - MIB São Paulo" title="Mangueira de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
 
                             <div class="caption">
 
@@ -219,7 +219,7 @@ include '../includes/breadcrumb.php';
 
                             <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/mangueira-de-incendio-para-industria.php" style="color:#fff; margin:0px;">Mangueira de Incêndio para Indústria</a></h2>
 
-                            <a href="/old-pages/mangueira-de-incendio-para-industria.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-para-industria.jpg" alt="Mangueira de Incêndio para Indústria certificada ABNT - MIB São Paulo" title="Mangueira de Incêndio para Indústria" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
+                            <a href="/old-pages/mangueira-de-incendio-para-industria.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-para-industria.jpg" alt="Mangueira de Incêndio para Indústria certificada ABNT - MIB São Paulo" title="Mangueira de Incêndio para Indústria" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
 
                             <div class="caption">
 
@@ -239,7 +239,7 @@ include '../includes/breadcrumb.php';
 
                             <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/mangueira-de-incendio-tipo1.php" style="color:#fff; margin:0px;">Mangueira de Incêndio Tipo 1</a></h2>
 
-                            <a href="/old-pages/mangueira-de-incendio-tipo1.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo1.jpg" alt="Mangueira de Incêndio Tipo 1 certificada ABNT para condomínios - MIB São Paulo" title="Mangueira de Incêndio Tipo 1" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
+                            <a href="/old-pages/mangueira-de-incendio-tipo1.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo1.jpg" alt="Mangueira de Incêndio Tipo 1 certificada ABNT para condomínios - MIB São Paulo" title="Mangueira de Incêndio Tipo 1" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
 
                             <div class="caption">
 
@@ -263,7 +263,7 @@ include '../includes/breadcrumb.php';
 
                             <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/mangueira-de-incendio-tipo2.php" style="color:#fff; margin:0px;">Mangueira de Incêndio Tipo 2</a></h2>
 
-                            <a href="/old-pages/mangueira-de-incendio-tipo2.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo2.jpg" alt="Mangueira de Incêndio Tipo 2 certificada ABNT para áreas comerciais - MIB São Paulo" title="Mangueira de Incêndio Tipo 2" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
+                            <a href="/old-pages/mangueira-de-incendio-tipo2.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo2.jpg" alt="Mangueira de Incêndio Tipo 2 certificada ABNT para áreas comerciais - MIB São Paulo" title="Mangueira de Incêndio Tipo 2" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
 
                             <div class="caption">
 
@@ -283,7 +283,7 @@ include '../includes/breadcrumb.php';
 
                             <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/mangueira-de-incendio-tipo3.php" style="color:#fff; margin:0px;">Mangueira de Incêndio Tipo 3</a></h2>
 
-                            <a href="/old-pages/mangueira-de-incendio-tipo3.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo3.jpg" alt="Mangueira de Incêndio Tipo 3 certificada ABNT para área naval - MIB São Paulo" title="Mangueira de Incêndio Tipo 3" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
+                            <a href="/old-pages/mangueira-de-incendio-tipo3.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo3.jpg" alt="Mangueira de Incêndio Tipo 3 certificada ABNT para área naval - MIB São Paulo" title="Mangueira de Incêndio Tipo 3" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
 
                             <div class="caption">
 
@@ -303,7 +303,7 @@ include '../includes/breadcrumb.php';
 
                             <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/mangueira-de-incendio-tipo4.php" style="color:#fff; margin:0px;">Mangueira de Incêndio Tipo 4</a></h2>
 
-                            <a href="/old-pages/mangueira-de-incendio-tipo4.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo4.jpg" alt="Mangueira de Incêndio Tipo 4 certificada ABNT para área industrial - MIB São Paulo" title="Mangueira de Incêndio Tipo 4" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
+                            <a href="/old-pages/mangueira-de-incendio-tipo4.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo4.jpg" alt="Mangueira de Incêndio Tipo 4 certificada ABNT para área industrial - MIB São Paulo" title="Mangueira de Incêndio Tipo 4" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
 
                             <div class="caption">
 
@@ -327,7 +327,7 @@ include '../includes/breadcrumb.php';
 
                             <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/mangueira-de-incendio-tipo5.php" style="color:#fff; margin:0px;">Mangueira de Incêndio Tipo 5</a></h2>
 
-                            <a href="/old-pages/mangueira-de-incendio-tipo5.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo5.jpg" alt="Mangueira de Incêndio Tipo 5 certificada ABNT alta resistência abrasão - MIB São Paulo" title="Mangueira de Incêndio Tipo 5" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
+                            <a href="/old-pages/mangueira-de-incendio-tipo5.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo5.jpg" alt="Mangueira de Incêndio Tipo 5 certificada ABNT alta resistência abrasão - MIB São Paulo" title="Mangueira de Incêndio Tipo 5" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
 
                             <div class="caption">
 
@@ -347,7 +347,7 @@ include '../includes/breadcrumb.php';
 
                             <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/mangueira-para-hidrante.php" style="color:#fff; margin:0px;">Mangueira para Hidrante</a></h2>
 
-                            <a href="/old-pages/mangueira-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-para-hidrante.jpg" alt="Mangueira para Hidrante certificada ABNT sistemas combate incêndio - MIB São Paulo" title="Mangueira para Hidrante" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
+                            <a href="/old-pages/mangueira-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-para-hidrante.jpg" alt="Mangueira para Hidrante certificada ABNT sistemas combate incêndio - MIB São Paulo" title="Mangueira para Hidrante" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="180"></a>
 
                             <div class="caption">
 

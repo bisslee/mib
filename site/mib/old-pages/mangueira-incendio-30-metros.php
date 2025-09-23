@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <h1>Mangueira 30M</h1>
 
-<img src="/assets/img/old-site/img1030.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1030.png" class="img-fluid" alt="">
 
 <p><strong>Mangueira de Incêndio 30 Metros: Qualidade, Resistência e Segurança</strong></p>
 
@@ -167,7 +167,7 @@ if (isset($breadcrumbs)) {
 
 <p>Mangueira Predial Tipo 1 (Predyflex) – BS </p>
 
-<img src="/assets/img/old-site/img1018.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1018.png" class="img-fluid" alt="">
 
 <p>Quando se trata da segurança de condomínios residenciais, contar com equipamentos confiáveis é essencial. A Mangueira Predial Tipo 1 (Predyflex) da HSA foi desenvolvida para garantir máxima proteção em situações de emergência, aliando resistência, durabilidade e facilidade de uso.</p>
 
@@ -195,7 +195,7 @@ Não corra riscos quando o assunto é segurança! Escolha a Mangueira Predial Ti
 
 <p>Mangueira Tipo 2 (Superflex) – BS : Eficiência e Confiabilidade</p>
 
-<img src="/assets/img/old-site/img1019.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1019.png" class="img-fluid" alt="">
 
 <p>A Mangueira de Incêndio Tipo 2 (Superflex) da BS é a melhor escolha para edificações comerciais e industriais que necessitam de um equipamento de alta resistência e desempenho no combate a incêndios. Com sua robustez e confiabilidade, é ideal para ambientes que exigem máxima segurança.</p>
 
@@ -221,7 +221,7 @@ Invista na segurança do seu patrimônio! Solicite um orçamento agora pelo What
 
 <p>Mangueira Tipo 3 (Superflex Capa Dupla) – BS : A Solução Definitiva para Ambientes de Alto Risco</p>
 
-<img src="/assets/img/old-site/img1020.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1020.png" class="img-fluid" alt="">
 
 <p>A Mangueira Tipo 3 (Superflex Capa Dupla) da HSA é a solução ideal para quem busca excelência e proteção contra incêndios em locais de risco elevado, como ambientes industriais e comerciais. Com sua resistência imbatível e desempenho superior, é projetada para oferecer máxima segurança em situações extremas.</p>
 
@@ -251,7 +251,7 @@ Não deixe sua segurança para depois. Solicite um orçamento personalizado agor
 
 <p>Mangueira de Incêndio Tipo 4 (Plastflex) – BS Alta Performance e Segurança Garantida</p>
 
-<img src="/assets/img/old-site/img1021.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1021.png" class="img-fluid" alt="">
 
 <p>A Mangueira Tipo 4 (Plastflex) da HSA é a solução ideal para edificações que exigem alto desempenho no combate a incêndios. Combinando resistência superior e durabilidade, essa mangueira foi projetada para ambientes industriais, comerciais e de alto risco.</p>
 
@@ -281,7 +281,7 @@ Se você busca a melhor opção em mangueira de incêndio com garantia de qualid
 
 <p>Mangueira Tipo 5 (Ruberflex) – BS : Eficiência e Alta Resistência no Combate a Incêndios</p>
 
-<img src="/assets/img/old-site/img1022.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1022.png" class="img-fluid" alt="">
 
 <p>A Mangueira Tipo 5 (Ruberflex) da BS é a solução ideal para proteger edificações comerciais e residenciais. Ela oferece alta resistência e desempenho superior em situações de emergência, garantindo a eficiência necessária no combate a incêndios, desde ambientes residenciais até locais com maior risco de incêndio.</p>
 

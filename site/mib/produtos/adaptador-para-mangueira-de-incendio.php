@@ -64,7 +64,7 @@ include '../includes/breadcrumb.php';
             </div>
             <div class="row">
                 <div class="col-12">
-                    <img class="img-responsive" src="/assets/img/old-site/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="margin:0px auto;">
+                    <img class="img-fluid" src="/assets/img/old-site/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="margin:0px auto;">
                 </div>
 
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 " style="padding:0px; text-align:center; align-items:center;">
@@ -100,7 +100,7 @@ include '../includes/breadcrumb.php';
 
                             <td class="center"> </td>
 
-                            <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/adaptador1.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+                            <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/adaptador1.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
                             <td class="center" width="30%;">Redução storz de 2 1/2 x 1 1/2 nas opções fixa e giratória em latão </td>
 
@@ -119,7 +119,7 @@ include '../includes/breadcrumb.php';
 
                             <td class="center">PÇ</td>
 
-                            <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/adaptador2.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+                            <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/adaptador2.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
                             <td class="center">Tampão storz de 1 1/2 ou 2 1/2 com corrente em fabricado em latão. </td>
 
@@ -145,7 +145,7 @@ include '../includes/breadcrumb.php';
 
                             <td class="center">PÇ </td>
 
-                            <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/adaptador3.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+                            <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/adaptador3.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
                             <td class="center">União storz para mangote tipo espigão fabricado em latão </td>
 
@@ -172,7 +172,7 @@ include '../includes/breadcrumb.php';
 
                             <td class="center">PÇ</td>
 
-                            <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/adaptador4.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+                            <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/adaptador4.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
                             <td class="center">Adaptadores especiais storz 1 1/2 ou 2 1/2 roscas femea fabricado em latão. </td>
 
@@ -197,7 +197,7 @@ include '../includes/breadcrumb.php';
 
                             <td class="center">PÇ</td>
 
-                            <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/adaptador5.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+                            <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/adaptador5.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
                             <td class="center">Adaptadores especiais storz 1 1/2 ou 2 1/2 roscas Macho fabricado em latão. </td>
 
@@ -218,7 +218,7 @@ include '../includes/breadcrumb.php';
 
                             <td class="center"> </td>
 
-                            <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/adaptador6.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
+                            <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/adaptador6.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="text-align:center;"></td>
 
                             <td class="center">Chave storz 2 1/2 x 1 1/2 comprimento de 270mm pesos 0,190g espessura 6,0 mm fabricada em latão com opção em aluminio. </td>
 

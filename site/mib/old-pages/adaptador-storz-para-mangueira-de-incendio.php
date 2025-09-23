@@ -87,7 +87,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Referencia:. Adaptador storz para mangueira de incêndio.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-57.png" class="img-responsive"> 
+ <img src="/assets/img/old-site/panilha-57.png" class="img-fluid"> 
 
  </div>
 

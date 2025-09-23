@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/pred3.png" class="img-responsive" alt="Equipamentos Contra Incêndio para Condomínios: Segurança e Qualidade com a BS Brasil">
+ <img src="/assets/img/old-site/pred3.png" class="img-fluid" alt="Equipamentos Contra Incêndio para Condomínios: Segurança e Qualidade com a BS Brasil">
 
  </div>
 

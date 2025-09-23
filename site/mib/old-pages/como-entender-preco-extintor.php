@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/planilha-100.png" class="img-responsive" alt="Como entender a composição do preço de extintores de incêndio e assegurar o
+ <img src="/assets/img/old-site/planilha-100.png" class="img-fluid" alt="Como entender a composição do preço de extintores de incêndio e assegurar o
 
 melhor custo-benefício - Mangueiras de Incêndio Brasil ">
 

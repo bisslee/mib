@@ -155,7 +155,7 @@ if (isset($breadcrumbs)) {
 
                                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
-                                                <img class="img-responsive" src="/assets/img/old-site/hidrante-contra-incendio.jpg" alt="Hidrantes contra incêndio certificados ABNT para combate a incêndio - MIB São Paulo" title="Hidrantes contra incêndio certificados ABNT" style="margin:0px auto;" loading="lazy" width="300" height="200">
+                                                <img class="img-fluid" src="/assets/img/old-site/hidrante-contra-incendio.jpg" alt="Hidrantes contra incêndio certificados ABNT para combate a incêndio - MIB São Paulo" title="Hidrantes contra incêndio certificados ABNT" style="margin:0px auto;" loading="lazy" width="300" height="200">
 
                                             </div>
 

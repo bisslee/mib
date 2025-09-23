@@ -72,7 +72,7 @@ if (isset($breadcrumbs)) {
 
                                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center;">
 
-                                                <img class="img-responsive" src="/assets/img/old-site/sistema-aerossol-de-supressao-a-incendio.jpg" class="img-responsive" alt="Sistema aerossol de supressão a incêndio" title="Sistema aerossol de supressão a incêndio" style="margin:0px auto;">
+                                                <img class="img-fluid" src="/assets/img/old-site/sistema-aerossol-de-supressao-a-incendio.jpg" class="img-fluid" alt="Sistema aerossol de supressão a incêndio" title="Sistema aerossol de supressão a incêndio" style="margin:0px auto;">
 
                                             </div>
 
@@ -98,7 +98,7 @@ if (isset($breadcrumbs)) {
 
                                                             <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; min-height:230px; ">
 
-                                                                <a href="/old-pages/mangueiras-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/mangueiras-de-incendio.jpg" alt="Mangueiras de Incêndio" title="Mangueiras de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                                <a href="/old-pages/mangueiras-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/mangueiras-de-incendio.jpg" alt="Mangueiras de Incêndio" title="Mangueiras de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                                 <div class="caption">
 
@@ -116,7 +116,7 @@ if (isset($breadcrumbs)) {
 
                                                             <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; min-height:230px; ">
 
-                                                                <a href="/old-pages/extintores-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/extintores-de-incendio.jpg" alt="Extintores de Incêndio" title="Extintores de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                                <a href="/old-pages/extintores-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/extintores-de-incendio.jpg" alt="Extintores de Incêndio" title="Extintores de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                                 <div class="caption">
 
@@ -138,7 +138,7 @@ if (isset($breadcrumbs)) {
 
                                                             <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
-                                                                <a href="/old-pages/esguichos-para-equipamentos-contra-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguichos-para-equipamentos-contra-incendio.jpg" alt="Esguichos" title="Esguichos" style="border:solid 5px #fff; text-align:center;"></a>
+                                                                <a href="/old-pages/esguichos-para-equipamentos-contra-incendio.php"><img class="img-fluid" src="/assets/img/old-site/esguichos-para-equipamentos-contra-incendio.jpg" alt="Esguichos" title="Esguichos" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                                 <div class="caption">
 
@@ -156,7 +156,7 @@ if (isset($breadcrumbs)) {
 
                                                             <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
-                                                                <a href="/old-pages/derivante-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/derivante-para-mangueira-de-incendio.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                                <a href="/old-pages/derivante-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/derivante-para-mangueira-de-incendio.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                                 <div class="caption">
 
