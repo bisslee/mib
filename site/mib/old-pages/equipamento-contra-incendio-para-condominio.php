@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Equipamento contra Incêndio para Condomínio - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Descrição da página',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/equipamento-contra-incendio-para-condominio.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Equipamento contra Incêndio para Condomínio',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Equipamento contra Incêndio para Condomínio',
     'description' => 'Descrição da página',
     'image' => '/assets/img/old-site/default-image.jpg',
 );

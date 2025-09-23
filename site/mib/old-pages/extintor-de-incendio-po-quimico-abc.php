@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Extintor de Incêndio Pó Químico ABC - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Referência: Extintor de incêndio pó químico ABC',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/extintor-de-incendio-po-quimico-abc.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Extintor de Incêndio Pó Químico ABC',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Extintor de Incêndio Pó Químico ABC',
     'description' => 'Referência: Extintor de incêndio pó químico ABC',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
