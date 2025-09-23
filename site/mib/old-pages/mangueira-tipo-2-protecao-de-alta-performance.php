@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Mangueira Tipo 2 Proteção de Alta Performance - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Descrição da página',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueira-tipo-2-protecao-de-alta-performance.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Mangueira Tipo 2 Proteção de Alta Performance',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Mangueira Tipo 2 Proteção de Alta Performance',
     'description' => 'Descrição da página',
     'image' => '/assets/img/old-site/default-image.jpg',
 );

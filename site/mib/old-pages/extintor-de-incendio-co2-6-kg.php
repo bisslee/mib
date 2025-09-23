@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Extintor de Incêndio CO2 6 Kg - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'DESTACANDO O MODELO EXTINTOR DE INCÊNDIO CO2 6 KG PORTÁTIL .',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/extintor-de-incendio-co2-6-kg.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Extintor de Incêndio CO2 6 Kg',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Extintor de Incêndio CO2 6 Kg',
     'description' => 'DESTACANDO O MODELO EXTINTOR DE INCÊNDIO CO2 6 KG PORTÁTIL .',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
