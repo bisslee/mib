@@ -18,5 +18,25 @@
         "ip_address": "::1",
         "timestamp": "2025-09-23 19:29:08",
         "user_id": "user_68d31f34584cb1.80099551"
+    },
+    {
+        "test_id": "header_navigation",
+        "variant": "control",
+        "goal": "button_click",
+        "page_url": "http:\/\/localhost:8133\/old-pages\/mangueira-incendio-30-metros.php",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G955U Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
+        "ip_address": "::1",
+        "timestamp": "2025-09-23 21:28:12",
+        "user_id": "user_68d33b1cf2b268.06071577"
+    },
+    {
+        "test_id": "header_navigation",
+        "variant": "control",
+        "goal": "button_click",
+        "page_url": "http:\/\/localhost:8133\/old-pages\/mangueiras-de-incendio-para-venda.php",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G955U Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
+        "ip_address": "::1",
+        "timestamp": "2025-09-24 10:56:41",
+        "user_id": "user_68d3f899db6ca8.76287737"
     }
 ]

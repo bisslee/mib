@@ -65,15 +65,6 @@ if (isset($breadcrumbs)) {
                     <article class="text-justify">
 
 
- <!-- Google Tag Manager (noscript) -->
-
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
- height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
- <!-- End Google Tag Manager (noscript) -->
-
- 
 
  <section class="container">
 
@@ -81,11 +72,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
- <h4>Informações técnicas</h4>
-
- <h2>Referencia: NBR11861 mangueiras de combate a incêndio.</h2>
-
- <img src="/assets/img/old-site/panilha-48.png" class="img-fluid">
+<img src="/assets/img/old-site/panilha-48.png" class="img-fluid">
 
  <h2><strong>TIPOS DE MANGUEIRAS DE COMBATE A INCÊNDIO</strong></h2>
 
@@ -283,12 +270,6 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <p class="text-center">(11) 4442 3565 WhatsApp (11) 94025 8669</p>
-
- <p class="text-center">Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</p>
-
- <br>
-
  <h2><strong>Superflex Capa Dupla - Tipo 3</strong>- Destina-se ao meio naval, instalações
 
 industriais e Corpo de Bombeiros.</h2>
@@ -355,12 +336,7 @@ industriais e Corpo de Bombeiros.</h2>
 
  </div>
 
- <p class="text-center">(11) 4442 3565 WhatsApp (11) 94025 8669</p>
-
- <p class="text-center">Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</p>
-
- <br>
-
+ 
  <h2><strong>Plastflex - Tipo 4</strong>- Destina-se à instalações industriais.</h2>
 
  <img src="/assets/img/old-site/panilha-36.png" class="img-fluid">
@@ -425,11 +401,6 @@ industriais e Corpo de Bombeiros.</h2>
 
  </div>
 
- <p class="text-center">(11) 4442 3565 WhatsApp (11) 94025 8669</p>
-
- <p class="text-center">Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</p>
-
- <br>
 
  <h2><strong>Ruberflex - Tipo 5 -</strong>Destina-se à instalações industriais, cujas necessidades
 
@@ -496,12 +467,6 @@ industriais e Corpo de Bombeiros.</h2>
  </table>
 
  </div>
-
- <p class="text-center">(11) 4442 3565 WhatsApp (11) 94025 8669</p>
-
- <p class="text-center">Email: hsaseguranca@gmail.com_contato@mangueirasdeincendiobrasil.com.br</p>
-
- <br><br>
 
  </div>
 

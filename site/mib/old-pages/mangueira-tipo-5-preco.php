@@ -1409,28 +1409,6 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <ul type="disc" style="margin:0pt; padding-left:0pt">
-
- <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">📞</span></strong><strong><span style="font-size:12pt;"> Telefones</span></strong><span style="font-size:12pt;">: (11) 94025-8669</span>
-
- </li>
-
- <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">📧</span></strong><strong><span style="font-size:12pt;"> E-mails</span></strong><span style="font-size:12pt;">: contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
-
- </li>
-
- <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">🌐</span></strong><strong><span style="font-size:12pt;"> Acesse nosso site para mais informações</span></strong><span style="font-size:12pt;">: </span><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><u><span style=" font-size:12pt; color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></a>
-
- </li>
-
- </ul>
-
  <div align="center">
 
  <hr size="2" align="center" style="width:100%" >
@@ -1454,24 +1432,6 @@ if (isset($breadcrumbs)) {
  <span>Confie em quem tem a experiência e expertise para proteger seu patrimônio com a máxima segurança.</span>
 
  </p>
-
- <ul type="disc" style="margin:0pt; padding-left:0pt">
-
- <li style="margin-top:14pt; margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">🌐</span></strong><strong><span style="font-size:12pt;"> Acesse nosso site para mais informações</span></strong><span style="font-size:12pt;">: </span><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><u><span style=" font-size:12pt; color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></a>
-
- </li>
-
- </ul>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-
- <span style=" font-size:13pt; color:#444444">&#xa0;</span>
-
- </p>
-
- <br><br>
 
  </div>
 

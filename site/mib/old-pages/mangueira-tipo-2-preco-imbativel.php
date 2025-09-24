@@ -65,14 +65,6 @@ if (isset($breadcrumbs)) {
                     <article class="text-justify">
 
 
- <!-- Google Tag Manager (noscript) -->
-
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
- height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
- <!-- End Google Tag Manager (noscript) -->
-
  <section class="container">
 
  <div class="row"> 
@@ -361,12 +353,6 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-
- <a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><strong><u><span style="color:#0000ff">Acesse nossa linha completa de produtos para proteção contra incêndios em</span></u></strong></a>
-
- </p>
-
  <div align="center">
 
  <hr size="2" align="center" style="width:100%" >
@@ -416,12 +402,6 @@ if (isset($breadcrumbs)) {
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
  <span>A </span><strong><span >segurança</span></strong><span> do seu patrimônio é nossa prioridade! </span><strong><span >Escolha a qualidade</span></strong><span> e </span><strong><span >eficiência</span></strong><span> da </span><strong><span >Mangueira Tipo 2 Superflex</span></strong><span> da </span><strong><span >BS </span></strong><span>. Estamos à disposição para garantir que você tenha a proteção de incêndio que sua edificação necessita.</span>
-
- </p>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-
- <strong><span style="font-size:16pt; ">&#xa0;</span></strong>
 
  </p>
 
@@ -851,23 +831,6 @@ if (isset($breadcrumbs)) {
 
  </ul>
 
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-
- <span style="font-family:Arial; font-size:13pt; color:#444444">&#xa0;</span>
-
- </p>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-
- <span style="font-family:Arial; font-size:13pt; color:#444444">&#xa0;</span>
-
- </p>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-
- <span style="font-family:Arial; font-size:13pt; color:#444444">&#xa0;</span>
-
- </p>
 
  <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
@@ -1057,22 +1020,6 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <ul type="disc" style="margin:0pt; padding-left:0pt">
-
- <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <span style="font-size:12pt;">📞</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">Telefones</span></strong><span style="font-size:12pt;">: (11) 94025-8669</span>
-
- </li>
-
- <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <span style="font-size:12pt;">📧</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">E-mail</span></strong><span style="font-size:12pt;">: contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
-
- </li>
-
- </ul>
-
  <div align="center">
 
  <hr size="2" align="center" style="width:100%" >
@@ -1090,14 +1037,6 @@ if (isset($breadcrumbs)) {
  <span>Na </span><strong><span >BS </span></strong><span>, entendemos a importância da </span><strong><span >proteção contra incêndios</span></strong><span> e estamos aqui para garantir que sua edificação esteja sempre segura, com equipamentos de combate a incêndio de </span><strong><span >excelência</span></strong><span>. Confie em quem entende do assunto e tenha a tranquilidade de saber que sua </span><strong><span >segurança</span></strong><span> está em boas mãos. Compre com quem tem a </span><strong><span >experiência</span></strong><span> e a </span><strong><span >expertise</span></strong><span> para garantir a </span><strong><span >proteção</span></strong><span> de seu patrimônio.</span>
 
  </p>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-
- <span style="font-family:Arial; font-size:13pt; color:#444444">&#xa0;</span>
-
- </p>
-
- <br><br>
 
  </div>
 

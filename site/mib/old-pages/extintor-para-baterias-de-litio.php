@@ -544,14 +544,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 <span>Entre em contato e solicite seu orçamento </span><strong><span >personalizado agora mesmo</span></strong><span>! Nossa equipe está pronta para fornecer a solução ideal para proteger sua edificação com </span><strong><span >qualidade e eficiência</span></strong><span>.</span>
 </p>
-<ul type="disc" style="margin:0pt; padding-left:0pt">
-<li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt;  font-size:10pt">
-<span style="font-size:12pt;">📞</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">Telefones</span></strong><span style="font-size:12pt;">: (11) 94025-8669</span>
-</li>
-<li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt;  font-size:10pt">
-<span style="font-size:12pt;">📧</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">E-mail</span></strong><span style="font-size:12pt;">: contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
-</li>
-</ul>
+
 <div align="center">
 <hr size="2" align="center" style="width:100%" >
 </div>
@@ -561,21 +554,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 <span>Na </span><strong><span >BS </span></strong><span>, entendemos a importância da </span><strong><span >proteção contra incêndios</span></strong><span> e estamos aqui para garantir que sua edificação esteja sempre segura, com equipamentos de combate a incêndio de </span><strong><span >excelência</span></strong><span>. Confie em quem entende do assunto e tenha a tranquilidade de saber que sua </span><strong><span >segurança</span></strong><span> está em boas mãos. Compre com quem tem a </span><strong><span >experiência</span></strong><span> e a </span><strong><span >expertise</span></strong><span> para garantir a </span><strong><span >proteção</span></strong><span> de seu patrimônio.</span>
 </p>
-<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-<span style=" font-size:13pt; color:#444444">&#xa0;</span>
-</p>
-<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
-</p>
-<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
-
-</p>
-<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
-
-</p>
-<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
-
-</p>
 </div>
 </div>
 </section>

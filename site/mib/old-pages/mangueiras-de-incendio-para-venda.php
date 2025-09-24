@@ -275,11 +275,6 @@ if (isset($breadcrumbs)) {
 
  </ul>
 
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-
- <span>Seja para </span><strong><span >residências</span></strong><span>, </span><strong><span >condomínios</span></strong><span> ou </span><strong><span >grandes instalações comerciais e industriais</span></strong><span>, temos o </span><strong><span >modelo ideal</span></strong><span> para atender às suas necessidades de segurança e combate a incêndio.</span>
-
- </p>
 
  <div align="center">
 
@@ -290,12 +285,6 @@ if (isset($breadcrumbs)) {
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
  <strong><span >BS </span></strong><span> é a sua parceira ideal para garantir a proteção necessária contra incêndios. Entre em contato conosco para mais informações e para </span><strong><span >solicitar um orçamento personalizado</span></strong><span>.</span>
-
- </p>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
-
- <span>______________________________________________________________________</span>
 
  </p>
 

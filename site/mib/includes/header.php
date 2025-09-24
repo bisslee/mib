@@ -235,7 +235,7 @@
                             <ul class="dropdown-menu" style="max-height: 400px; overflow-y: auto;">
                                 <?php 
                                 // Incluir o array de informações técnicas
-                                include __DIR__ . '/informacoes-tecnicas.php';
+                                $informacoes_tecnicas = include __DIR__ . '/informacoes-tecnicas.php';
 
                                 // Gerar os links dinamicamente usando o array
                                 foreach ($informacoes_tecnicas as $item) {

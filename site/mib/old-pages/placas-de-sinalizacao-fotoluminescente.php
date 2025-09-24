@@ -7,7 +7,7 @@
 // Configuração da página
 $page_config = array(
     'title' => 'PLACAS DE SINALIZAÇÃO FOTOLUMINESCENTE - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Acesse nosso link: https://www.mangueirasdeincendiobrasil.com.br/placas-de-sinalizacao.php',
+    'description' => 'Placas de sinalização fotoluminescente: Referencia: NBR13434 e IT 20 placas de sinalização.',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/placas-de-sinalizacao-fotoluminescente.php',
 );
@@ -26,7 +26,7 @@ $breadcrumbs = array(
 
 $heroConfig = array(
     'title' => 'PLACAS DE SINALIZAÇÃO FOTOLUMINESCENTE',
-    'description' => 'Acesse nosso link: https://www.mangueirasdeincendiobrasil.com.br/placas-de-sinalizacao.php',
+    'description' => 'Referencia: NBR13434 e IT 20 placas de sinalização.',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -63,17 +63,7 @@ if (isset($breadcrumbs)) {
                 <div class="col-12">
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
-
-
- <!-- Google Tag Manager (noscript) -->
-
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
- height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
- <!-- End Google Tag Manager (noscript) -->
-
- 
+  
 
  <section class="container">
 
@@ -90,9 +80,6 @@ if (isset($breadcrumbs)) {
  <img src="/assets/img/old-site/panilha-53.png" class="img-fluid">
 
  </div>
-
- <h2><strong>PLACAS DE SINALIZAÇÃO FOTOLUMINESCENTE</strong></h2>
-
  <p>As <strong>placas de sinalização fotoluminescente</strong> são destinadas a orientar e
 
  organizar a movimentação de pessoas em situações emergenciais e estão
@@ -141,7 +128,7 @@ if (isset($breadcrumbs)) {
 
  </ul>
 
- <p><a href="https://www.mangueirasdeincendiobrasil.com.br/placas-de-sinalizacao.php">Acesse nosso link: https://www.mangueirasdeincendiobrasil.com.br/placas-de-sinalizacao.php</a></p>
+ <p><a href="https://www.mangueirasdeincendiobrasil.com.br/placas-de-sinalizacao.php">Acesse nosso link</a></p>
 
  <ul>
 

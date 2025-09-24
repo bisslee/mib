@@ -7,6 +7,9 @@
 // Incluir configurações comuns
 require_once '../includes/config.php';
 
+// Incluir funções compartilhadas
+require_once '../includes/functions.php';
+
 // Configurações específicas da página
 $page_config = [
     'title' => 'Informações Técnicas - MIB | Mangueiras de Incêndio Brasil',
@@ -23,6 +26,11 @@ $breadcrumbs = [
     ['text' => 'Home', 'url' => '/'],
     ['text' => 'Informações Técnicas', 'active' => true]
 ];
+
+$links_data = include '../includes/informacoes-tecnicas.php';
+
+
+
 
 // Incluir header
 include '../includes/header.php';
@@ -65,234 +73,23 @@ include '../includes/breadcrumb.php';
 
                     <!-- Grid de Informações Técnicas -->
                     <div class="row">
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Luz de Emergência LED</h5>
-                                    <p class="card-text">Informações técnicas sobre luzes de emergência LED para sistemas de segurança.</p>
-                                    <a href="luzes-de-emergencia-led.php" class="btn btn-primary">Saiba Mais</a>
+                        <?php foreach ($links_data as $link): ?>
+                            <?php
+                                // Usar função para definir ícone
+                                $icon = getIconForPage($link['title']);
+                            ?>
+                            <div class="col-lg-3 col-md-6 col-sm-12 mb-3">
+                                <div class="link-card">
+                                    <a href="<?php echo htmlspecialchars($link['url']); ?>" class="link-item">
+                                        <i class="<?php echo $icon; ?>"></i>
+                                        <span><?php echo htmlspecialchars($link['title']); ?></span>
+                                    </a>
                                 </div>
                             </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Mangueiras de Incêndio</h5>
-                                    <p class="card-text">Informações técnicas completas sobre mangueiras de incêndio e suas especificações.</p>
-                                    <a href="informacoes-tecnicas-mangueiras.php" class="btn btn-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Dicas de Cuidados</h5>
-                                    <p class="card-text">Dicas essenciais para conservação e manutenção das mangueiras de incêndio.</p>
-                                    <a href="dicas-de-cuidados-mangueira-de-incendio.php" class="btn btn-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Fabricante em São Paulo</h5>
-                                    <p class="card-text">Informações sobre fabricação de mangueiras de incêndio em São Paulo.</p>
-                                    <a href="fabricantes-de-mangueira-de-incendio-em-sao-paulo.php" class="btn btn-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Mangueiras Certificadas</h5>
-                                    <p class="card-text">Informações sobre mangueiras de incêndio certificadas e suas especificações.</p>
-                                    <a href="mangueiras-de-incendio-certificada.php" class="btn btn-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Grande São Paulo</h5>
-                                    <p class="card-text">Mangueiras de incêndio na grande São Paulo e região metropolitana.</p>
-                                    <a href="mangueiras-de-incendio-na-grande-sp.php" class="btn btn-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Área Residencial</h5>
-                                    <p class="card-text">Mangueiras de incêndio específicas para área residencial e condomínios.</p>
-                                    <a href="mangueiras-de-incendio-para-area-residencial.php" class="btn btn-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Validade das Mangueiras</h5>
-                                    <p class="card-text">Informações sobre validade e vida útil das mangueiras de incêndio.</p>
-                                    <a href="validade-da-mangueira-de-incendio.php" class="btn btn-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Inspeção de Equipamentos</h5>
-                                    <p class="card-text">Guia completo para inspeção de equipamentos de combate a incêndio.</p>
-                                    <a href="inspecao-de-equipamentos-de-combate-a-incendio.php" class="btn btn-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Para Condomínios</h5>
-                                    <p class="card-text">Mangueiras de incêndio específicas para condomínios residenciais.</p>
-                                    <a href="mangueira-de-incendio-para-condominio.php" class="btn btn-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
+                        <?php endforeach; ?>
                     </div>
 
-                    <!-- Seção de Extintores -->
-                    <h3 class="section-subtitle mt-5 mb-4">Extintores de Incêndio</h3>
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Extintor CO2 6Kg</h5>
-                                    <p class="card-text">Informações técnicas sobre extintores de CO2 de 6kg.</p>
-                                    <a href="../old-pages/extintor-de-incendio-co2-6-kg.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Extintor Água Pressurizada</h5>
-                                    <p class="card-text">Extintor de incêndio de água pressurizada 10 litros.</p>
-                                    <a href="../old-pages/extintor-de-incendio-de-agua-pressurizada-10-litros.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Extintor Espuma Mecânica</h5>
-                                    <p class="card-text">Extintor de incêndio de espuma mecânica 10 litros.</p>
-                                    <a href="../old-pages/extintor-de-incendio-de-espuma-mecanica-10-litros.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Extintor Pó Químico ABC</h5>
-                                    <p class="card-text">Extintor de incêndio pó químico ABC 9kg.</p>
-                                    <a href="../old-pages/extintor-de-incendio-po-9-kg.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Extintor sobre Rodas</h5>
-                                    <p class="card-text">Extintores de incêndio sobre rodas com diferentes capacidades.</p>
-                                    <a href="../old-pages/extintor-de-incendio-sobre-rodas.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Tipos de Extintores</h5>
-                                    <p class="card-text">Guia completo sobre tipos de extintores de incêndio.</p>
-                                    <a href="../old-pages/tipos-de-extintores-de-incendio.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Seção de Acessórios -->
-                    <h3 class="section-subtitle mt-5 mb-4">Acessórios e Equipamentos</h3>
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Esguichos e Bicos</h5>
-                                    <p class="card-text">Esguichos reguláveis e bicos para mangueiras de incêndio.</p>
-                                    <a href="../old-pages/esguichos-para-equipamentos-contra-incendio.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Hidrantes</h5>
-                                    <p class="card-text">Informações sobre hidrantes contra incêndio e instalação.</p>
-                                    <a href="../old-pages/hidrante-contra-incendio.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Placas de Sinalização</h5>
-                                    <p class="card-text">Placas fotoluminescentes para sinalização de emergência.</p>
-                                    <a href="../old-pages/placas-de-sinalizacao-fotoluminescente.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Líquido Gerador de Espuma</h5>
-                                    <p class="card-text">Líquido gerador de espuma para sistemas de combate a incêndio.</p>
-                                    <a href="../old-pages/liquido-gerador-de-espuma.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Canhão Monitor</h5>
-                                    <p class="card-text">Canhões monitor para combate a incêndio em grandes áreas.</p>
-                                    <a href="../old-pages/canhao-monitor-de-combate-a-incendio.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body">
-                                    <h5 class="card-title">Sistema Aerossol</h5>
-                                    <p class="card-text">Sistema aerossol de supressão a incêndio.</p>
-                                    <a href="../old-pages/sistema-aerossol-de-supressao-a-incendio.php" class="btn btn-outline-primary">Saiba Mais</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
 
                     <div class="row mt-5">
                         <div class="col-12 text-center">

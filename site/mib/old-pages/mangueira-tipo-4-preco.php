@@ -64,15 +64,7 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
- <!-- Google Tag Manager (noscript) -->
-
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
- height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
- <!-- End Google Tag Manager (noscript) -->
-
+ 
  <section class="container">
 
  <div class="row"> 
@@ -565,11 +557,6 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-
- <span>____________________________________________________________________-</span>
-
- </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
@@ -1239,27 +1226,6 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <ul type="disc" style="margin:0pt; padding-left:0pt">
-
- <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">📞</span></strong><strong><span style="font-size:12pt;"> Telefones</span></strong><span style="font-size:12pt;">: (11) 94025-8669</span>
-
- </li>
-
- <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">📧</span></strong><strong><span style="font-size:12pt;"> E-mail</span></strong><span style="font-size:12pt;">: contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
-
- </li>
-
- <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">🌐</span></strong><strong><span style="font-size:12pt;"> Acesse nosso site</span></strong><span style="font-size:12pt;">: </span><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><u><span style="font-size:12pt; color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></a>
-
- </li>
-
- </ul>
 
  <div align="center">
 
