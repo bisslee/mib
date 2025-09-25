@@ -73,31 +73,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
 
-<div class="row" style="margin: 0px auto; ">
-
- <div class="col-lg-12 hgroupinternas" style="padding-top:20px; padding-bottom:10px;">
-
- <div class="container ">
-
- <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12" style="padding:20px 0px 20px 0px;">
-
- <h1>Mangueira para Hidrante</h1>
-
- </div>
-
- <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding:20px 0px 20px 0px;">
-
- <p style="text-align:right;"><a href="contato.php" class="btn btn-info" role="button">Solicite um orçamento!</a></p>
-
- </div>
-
- </div>
-
- </div>
-
- </div>
 
  <div class="row" style="margin: 0px auto; ">
 
@@ -105,13 +81,6 @@ if (isset($breadcrumbs)) {
 
  <div class="container ">
 
- <ol class="breadcrumb"><li><a href="index.php">Home</a></li><li><a href="equipamentos-contra-incendio.php">Equipamentos Contra Incêndio</a></li><li><a href="mangueiras-de-incendio.php">Mangueiras de Incêndio</a></li><li class="active">Mangueira para Hidrante</li></ol>
-
- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
- <h2>Mangueira para Hidrante</h2>
-
- </div>
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
@@ -227,7 +196,6 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
 
  </div>
 
@@ -239,7 +207,6 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
 
 
                     </article>

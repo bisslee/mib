@@ -1,0 +1,62 @@
+# MIB - Mangueiras de Incêndio Brasil
+# Configurações de redirecionamento e segurança - Versão Backup
+
+# Habilitar mod_rewrite
+RewriteEngine On
+
+# Redirecionamentos específicos mais comuns (para performance)
+RewriteRule ^mangueira-para-hidrante\.php$ old-pages/mangueira-para-hidrante.php [L,R=301]
+RewriteRule ^mangueira-de-incendio-tipo1\.php$ old-pages/mangueira-de-incendio-tipo1.php [L,R=301]
+RewriteRule ^mangueira-de-incendio-tipo2\.php$ old-pages/mangueira-de-incendio-tipo2.php [L,R=301]
+RewriteRule ^mangueira-de-incendio-tipo3\.php$ old-pages/mangueira-de-incendio-tipo3.php [L,R=301]
+RewriteRule ^equipamentos-contra-incendio\.php$ old-pages/equipamentos-contra-incendio.php [L,R=301]
+RewriteRule ^extintor-de-incendio\.php$ old-pages/extintor-de-incendio.php [L,R=301]
+RewriteRule ^contato\.php$ contact.php [L,R=301]
+
+# Sistema inteligente para outras páginas PHP
+# Se a página não existir na raiz, usa o handler PHP para verificar
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} \.php$
+RewriteRule ^([^/]+\.php)$ redirect-handler.php [L]
+
+# Configuração de página 404 personalizada
+ErrorDocument 404 404.php
+
+# Configurações de segurança
+# Bloquear acesso a arquivos sensíveis
+<Files "config.php">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+<Files "*.log">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+# Configurações de cache
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/pdf "access plus 1 month"
+    ExpiresByType text/javascript "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+</IfModule>
+
+# Compressão GZIP
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/xml
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE application/xhtml+xml
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/x-javascript
+</IfModule>
