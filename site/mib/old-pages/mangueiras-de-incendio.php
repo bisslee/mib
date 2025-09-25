@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -403,7 +402,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -415,8 +414,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>

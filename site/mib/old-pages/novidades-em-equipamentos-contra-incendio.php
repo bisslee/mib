@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -371,8 +370,7 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>
