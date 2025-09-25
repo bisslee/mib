@@ -7,7 +7,7 @@
 // Configuração da página
 $page_config = array(
     'title' => 'Protetores de Coluna Cantoneiras Lombadas Protetores de Choque - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/protetores-de-coluna-cantoneiras-lombadas-protetores-de-choque.php',
 );
@@ -26,7 +26,7 @@ $breadcrumbs = array(
 
 $heroConfig = array(
     'title' => 'Protetores de Coluna Cantoneiras Lombadas Protetores de Choque',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
