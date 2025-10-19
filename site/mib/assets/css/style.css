@@ -2618,3 +2618,115 @@ h4 { font-size: 1.25rem; }
         font-size: 0.75rem;
     }
 }
+
+/* ============================================
+   SEO INTERNAL LINKING COMPONENTS
+   ============================================ */
+
+/* Info Cards - Home Page Technical Info Section */
+.info-card {
+    background: white;
+    border-radius: 10px;
+    padding: 2rem 1.5rem;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.info-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(200, 16, 46, 0.15);
+    border-color: #c8102e;
+}
+
+.info-icon {
+    font-size: 2.5rem;
+    color: #c8102e;
+    margin-bottom: 1rem;
+}
+
+.info-card h3 {
+    color: #2c3e50;
+    margin-bottom: 0.75rem;
+    font-weight: 600;
+}
+
+.info-card p {
+    color: #666;
+    margin-bottom: 1.5rem;
+    flex-grow: 1;
+}
+
+.info-card .btn {
+    margin-top: auto;
+}
+
+/* Link Cards Simple - Empresa Page */
+.link-card-simple {
+    background: white;
+    border-radius: 8px;
+    padding: 2rem 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+.link-card-simple:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.12);
+}
+
+.link-card-simple h3 {
+    color: #c8102e;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.link-card-simple p {
+    color: #666;
+    margin-bottom: 1.5rem;
+    min-height: 60px;
+}
+
+/* Technical Info Section - Home */
+.technical-info-section {
+    background: #f8f9fa;
+}
+
+.technical-info-section .section-title {
+    color: #2c3e50;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.technical-info-section .section-subtitle {
+    color: #666;
+    font-size: 1.1rem;
+}
+
+/* Useful Links Section */
+.useful-links-section {
+    background: #fff;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .info-card {
+        padding: 1.5rem 1rem;
+    }
+    
+    .info-icon {
+        font-size: 2rem;
+    }
+    
+    .link-card-simple {
+        padding: 1.5rem 1rem;
+    }
+    
+    .link-card-simple p {
+        min-height: auto;
+    }
+}

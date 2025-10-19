@@ -126,7 +126,7 @@
 
             <p style="margin-top:0pt; margin-bottom:10pt">
 
-                <img src="images/img300.png" class="img-responsive" alt="">
+                <img src="images/img300.png" class="img-fluid" alt="">
 
 			</p>
 
@@ -360,7 +360,7 @@
 
 			<p styn-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
-            <img src="images/img301.png" class="img-responsive" alt="">			</p>
+            <img src="images/img301.png" class="img-fluid" alt="">			</p>
 
 			<ul type="disc" style="margin:0pt; padding-left:0pt">
 
@@ -484,7 +484,7 @@
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
-            <img src="images/img302.png" class="img-responsive" alt="">			</p>
+            <img src="images/img302.png" class="img-fluid" alt="">			</p>
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -690,7 +690,7 @@
 
 			<p style="margin-top:0pt; margin-bottom:10pt; text-align:justify">
 
-            <img src="images/img303.png" class="img-responsive" alt="">			</p>
+            <img src="images/img303.png" class="img-fluid" alt="">			</p>
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
@@ -834,7 +834,7 @@
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-            <img src="images/img304.png" class="img-responsive" alt="">			</p>
+            <img src="images/img304.png" class="img-fluid" alt="">			</p>
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -972,7 +972,7 @@
 
 			<p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
 
-            <img src="images/img305.png" class="img-responsive" alt="">			</p>
+            <img src="images/img305.png" class="img-fluid" alt="">			</p>
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -1126,7 +1126,7 @@
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-            <img src="images/img306.png" class="img-responsive" alt="">			</p>
+            <img src="images/img306.png" class="img-fluid" alt="">			</p>
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -1286,7 +1286,7 @@
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-            <img src="images/img307.png" class="img-responsive" alt="">			</p>
+            <img src="images/img307.png" class="img-fluid" alt="">			</p>
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 

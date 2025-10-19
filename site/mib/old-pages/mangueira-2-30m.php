@@ -6,8 +6,8 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueira 2 30m - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueira-2-30m.php',
 );
@@ -20,13 +20,13 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Mangueira 2 30m',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueira 2 30m',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/pred2.png" class="img-responsive" alt="Mangueira de Incêndio Tipo 2 de 30 Metros: Proteção Indispensável para Áreas Industriais e Comerciais">
+ <img src="/assets/img/old-site/pred2.png" class="img-fluid" alt="Mangueira de Incêndio Tipo 2 de 30 Metros: Proteção Indispensável para Áreas Industriais e Comerciais">
 
  </div>
 

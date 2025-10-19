@@ -79,7 +79,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-<img src="/assets/img/old-site/img1023.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1023.png" class="img-fluid" alt="">
 
 <h2>🔥 Como Encontrar o Melhor Preço de Mangueira de Incêndio 1 1/2"?</h2>
 
@@ -88,20 +88,6 @@ if (isset($breadcrumbs)) {
 <p>Está procurando o melhor preço de mangueira de incêndio 1 1/2 polegada? Comparar valores é importante, mas garantir o custo-benefício certo exige atenção à qualidade, normas técnicas e ao tipo de aplicação.</p>
 
 <p>Descubra agora como escolher a mangueira ideal e economizar com segurança!</p>
-
-<h2>📞 Contato para Mais Informações</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>📱 WhatsApp: Clique para conversar –</strong></p>
-
-<h2>📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <h2>✅ Tipos de Mangueira de Incêndio 1 1/2" e Suas Aplicações</h2>
 
@@ -145,19 +131,6 @@ Excelente para operações em indústrias pesadas, portos e aeronaves, devido à
 
 <p>Na BS , você encontra os melhores preços e modelos de mangueiras de incêndio 1 1/2 polegada, todos certificados, com pronta entrega e suporte técnico especializado.</p>
 
-<h2>📞 Contato para Mais Informações</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>📱 WhatsApp: Clique para conversar –</strong></p>
-
-<h2>📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <p>Como Comparar Preços de Mangueira de Incêndio 1 1/2"?</p>
 
@@ -172,20 +145,6 @@ Embora o preço seja importante, a qualidade nunca deve ser comprometida. Mangue
 <p>Negocie Condições Especiais de Pagamento
 
 Ao buscar o melhor preço de mangueira de incêndio 1 1/2", não hesite em negociar condições especiais, como descontos por volume ou parcelamento facilitado. Essas condições podem fazer uma grande diferença no custo final da compra, mantendo sempre a qualidade do produto.</p>
-
-<h2>📞 Contato para Mais Informações</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>📱 WhatsApp: Clique para conversar –</strong></p>
-
-<h2>📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <h2>🔎 Encontre o Melhor Preço para Mangueira de Incêndio 1 1/2"</h2>
 
@@ -239,7 +198,7 @@ Nossa equipe está pronta para orientá-lo na escolha da melhor mangueira de inc
 
 <p><strong>Tipo 1: Predyflex</strong></p>
 
-<img src="/assets/img/old-site/img1018.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1018.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 10 Kgf/cm²</strong></p>
 
@@ -255,7 +214,7 @@ Nossa equipe está pronta para orientá-lo na escolha da melhor mangueira de inc
 
 <p><strong>Tipo 2: Superflex</strong></p>
 
-<img src="/assets/img/old-site/img1019.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1019.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 
@@ -271,7 +230,7 @@ Nossa equipe está pronta para orientá-lo na escolha da melhor mangueira de inc
 
 <p><strong>Tipo 3: Superflex Capa Dupla</strong></p>
 
-<img src="/assets/img/old-site/img1020.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1020.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 15 Kgf/cm²</strong></p>
 
@@ -287,7 +246,7 @@ Nossa equipe está pronta para orientá-lo na escolha da melhor mangueira de inc
 
 <p><strong>Tipo 4: Plastflex</strong></p>
 
-<img src="/assets/img/old-site/img1021.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1021.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 
@@ -303,7 +262,7 @@ Nossa equipe está pronta para orientá-lo na escolha da melhor mangueira de inc
 
 <p><strong>Tipo 5: Ruberflex</strong></p>
 
-<img src="/assets/img/old-site/img1022.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1022.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 

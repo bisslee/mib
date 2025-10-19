@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -131,7 +130,7 @@ if (isset($breadcrumbs)) {
 
 <p>Brasil segurança.</p>
 
- <img class="img-responsive" src="/assets/img/old-site/brasil-seguranca-equipamentos-contra-incendio.jpg" style="margin:0px auto;" alt=" - Equipamentos Contra Incêndio" title=" - Equipamentos Contra Incêndio" >
+ <img class="img-fluid" src="/assets/img/old-site/brasil-seguranca-equipamentos-contra-incendio.jpg" style="margin:0px auto;" alt=" - Equipamentos Contra Incêndio" title=" - Equipamentos Contra Incêndio" >
 
  <br><br>
 
@@ -139,7 +138,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -151,8 +150,7 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>

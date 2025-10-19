@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h1>DICAS E INFORMAÇÕES IMPORTANTES SOBRE MANGUEIRA DE INCÊNDIO</h1>
 
- <img src="/assets/img/old-site/banner-dicas.jpg" alt="">
+ <img src="/assets/img/old-site/banner-dicas.jpg" class="img-fluid" alt="">
 
  <hr>
 
@@ -205,7 +205,7 @@ if (isset($breadcrumbs)) {
 
  <div align="center">
 
- <img src="/assets/img/old-site/dicas-fim.jpg" alt="">
+ <img src="/assets/img/old-site/dicas-fim.jpg" class="img-fluid" alt="">
 
  </div>
 

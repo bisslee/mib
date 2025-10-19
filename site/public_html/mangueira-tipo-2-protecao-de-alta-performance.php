@@ -112,7 +112,7 @@ style="font-size:12pt;"
 
 
 
-				<img src="images/img-125.png" class="img-responsive" alt="">
+				<img src="images/img-125.png" class="img-fluid" alt="">
 
 
 

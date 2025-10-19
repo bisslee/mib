@@ -122,7 +122,7 @@
 
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-         c="images/planilha-2011.png" class="img-responsive" alt="">
+         c="images/planilha-2011.png" class="img-fluid" alt="">
 
 			<p style="margin-top:0pt; margin-bottom:0pt; text-align:justify">
 

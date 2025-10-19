@@ -7,7 +7,7 @@
 // Configuração da página
 $page_config = array(
     'title' => 'Referencia NBR11861 mangueiras de combate a incêndio - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueiras-de-incendio-fabricada-conforme-nbr.php',
 );
@@ -26,7 +26,7 @@ $breadcrumbs = array(
 
 $heroConfig = array(
     'title' => 'Referencia NBR11861 mangueiras de combate a incêndio',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -87,7 +87,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Referencia: NBR11861 mangueiras de combate a incêndio.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-17.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-17.png" class="img-fluid">
 
  <h2><strong>MANGUEIRA DE INCÊNDIO FABRICADA CONFORME NBR 11861</strong></h2>
 
@@ -105,7 +105,7 @@ if (isset($breadcrumbs)) {
 
  de ruptura mínima de 35,0 kgf/cm2, denominação comercial <strong>Predyflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-79.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-79.png" class="img-fluid">
 
  <p>TIPO 2 – <strong><u>Mangueira de incêndio fabricada conforme NBR 11861</u></strong> com simples reforço têxtil,
 
@@ -119,7 +119,7 @@ if (isset($breadcrumbs)) {
 
  <strong>Superflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-80.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-80.png" class="img-fluid">
 
  <p>TIPO 3 – <strong><u>Mangueira de incêndio fabricada conforme NBR 11861</u></strong> com duplo reforço têxtil,
 
@@ -133,7 +133,7 @@ if (isset($breadcrumbs)) {
 
  comercial <strong>Superflex Capa Dupla.</strong></p>
 
- <img src="/assets/img/old-site/panilha-80.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-80.png" class="img-fluid">
 
  <p>TIPO 4 – <strong><u>Mangueira de incêndio fabricada conforme NBR 11861</u></strong> com simples reforço têxtil,
 
@@ -147,7 +147,7 @@ if (isset($breadcrumbs)) {
 
  denominação comercial <strong>Plastflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-81.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-81.png" class="img-fluid">
 
  <p>TIPO 5 – <strong><u>Mangueira de incêndio fabricada conforme NBR 11861</u></strong> com simples reforço têxtil,
 
@@ -161,7 +161,7 @@ if (isset($breadcrumbs)) {
 
  comercial <strong>Ruberflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-82.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-82.png" class="img-fluid">
 
  <h2><strong>2 MANUAL TÉCNICO</strong></h2>
 

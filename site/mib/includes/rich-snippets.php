@@ -11,13 +11,23 @@
 
 /**
  * Gera Product Schema para páginas de produtos
+ * Atualizado para conformidade com Google Search Console
  */
-function generate_product_schema($product_name, $description, $category = 'Equipamentos Contra Incêndio', $rating = 4.8, $review_count = 127) {
-    return [
+function generate_product_schema($product_name, $description, $category = 'Equipamentos Contra Incêndio', $rating = 4.8, $review_count = 127, $image_url = '', $price = null) {
+    // Se não foi fornecida imagem, usar logo padrão MIB
+    if (empty($image_url)) {
+        $image_url = "https://mangueirasdeincendiobrasil.com.br/assets/img/mib_logo_final_com_tagline.png";
+    }
+    
+    // Configurar preço válido até (1 ano a partir de hoje)
+    $price_valid_until = date('Y-m-d', strtotime('+1 year'));
+    
+    $schema = [
         "@context" => "https://schema.org",
         "@type" => "Product",
         "name" => $product_name,
         "description" => $description,
+        "image" => $image_url,
         "brand" => [
             "@type" => "Brand",
             "name" => "MIB - Mangueiras de Incêndio Brasil"
@@ -32,11 +42,48 @@ function generate_product_schema($product_name, $description, $category = 'Equip
             "@type" => "Offer",
             "priceCurrency" => "BRL",
             "availability" => "https://schema.org/InStock",
+            "priceValidUntil" => $price_valid_until,
             "seller" => [
                 "@type" => "Organization",
                 "name" => "MIB - Mangueiras de Incêndio Brasil"
             ],
-            "areaServed" => "São Paulo, SP, Brasil"
+            "areaServed" => "São Paulo, SP, Brasil",
+            "shippingDetails" => [
+                "@type" => "OfferShippingDetails",
+                "shippingRate" => [
+                    "@type" => "MonetaryAmount",
+                    "value" => "0",
+                    "currency" => "BRL"
+                ],
+                "shippingDestination" => [
+                    "@type" => "DefinedRegion",
+                    "addressCountry" => "BR",
+                    "addressRegion" => "SP"
+                ],
+                "deliveryTime" => [
+                    "@type" => "ShippingDeliveryTime",
+                    "handlingTime" => [
+                        "@type" => "QuantitativeValue",
+                        "minValue" => "0",
+                        "maxValue" => "2",
+                        "unitCode" => "DAY"
+                    ],
+                    "transitTime" => [
+                        "@type" => "QuantitativeValue",
+                        "minValue" => "1",
+                        "maxValue" => "3",
+                        "unitCode" => "DAY"
+                    ]
+                ]
+            ],
+            "hasMerchantReturnPolicy" => [
+                "@type" => "MerchantReturnPolicy",
+                "applicableCountry" => "BR",
+                "returnPolicyCategory" => "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays" => 30,
+                "returnMethod" => "https://schema.org/ReturnByMail",
+                "returnFees" => "https://schema.org/FreeReturn"
+            ]
         ],
         "aggregateRating" => [
             "@type" => "AggregateRating",
@@ -59,6 +106,20 @@ function generate_product_schema($product_name, $description, $category = 'Equip
             "reviewBody" => "Excelente qualidade, produtos certificados ABNT. Atendimento rápido em São Paulo."
         ]
     ];
+    
+    // Adicionar preço se fornecido (para produtos com preço fixo)
+    if ($price !== null && is_numeric($price)) {
+        $schema['offers']['price'] = number_format((float)$price, 2, '.', '');
+    } else {
+        // Para produtos sob consulta, usar priceSpecification
+        $schema['offers']['priceSpecification'] = [
+            "@type" => "PriceSpecification",
+            "priceCurrency" => "BRL",
+            "price" => "0.00"
+        ];
+    }
+    
+    return $schema;
 }
 
 /**

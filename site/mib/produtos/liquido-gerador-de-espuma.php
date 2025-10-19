@@ -62,7 +62,7 @@ include '../includes/breadcrumb.php';
 
                         <div class="row mt-4">
                             <div class="col-12">
-                            <img class="img-responsive" src="/assets/img/old-site/liquido-gerador-de-espuma.jpg" alt="Líquido Gerador de Espuma" title="Líquido Gerador de Espuma" style="margin:0px auto;">
+                            <img class="img-fluid" src="/assets/img/old-site/liquido-gerador-de-espuma.jpg" alt="Líquido Gerador de Espuma" title="Líquido Gerador de Espuma" style="margin:0px auto;">
                             </div>
                         </div>
                     </div>

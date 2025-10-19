@@ -6,8 +6,8 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueira Tipo 1 Preço Imbatível - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueira-tipo-1-preco-imbativel.php',
 );
@@ -20,13 +20,13 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Mangueira Tipo 1 Preço Imbatível',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueira Tipo 1 Preço Imbatível',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -65,14 +65,6 @@ if (isset($breadcrumbs)) {
                     <article class="text-justify">
 
 
- <!-- Google Tag Manager (noscript) -->
-
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
- height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
- <!-- End Google Tag Manager (noscript) -->
-
  <section class="container">
 
  <div class="row"> 
@@ -81,7 +73,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:10pt">
 
- <img src="/assets/img/old-site/img300.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img300.png" class="img-fluid" alt="">
 
  </p>
 
@@ -283,29 +275,6 @@ if (isset($breadcrumbs)) {
 
  </ul>
 
- <p style="margin-top:0pt; margin-bottom:10pt">
-
- <strong>&#xa0;</strong>
-
- </p>
-
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
-
- 
-
- </p>
-
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
-
- 
-
- </p>
-
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
-
- 
-
- </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -315,7 +284,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <img src="/assets/img/old-site/img301.png" class="img-responsive" alt=""> </p>
+ <img src="/assets/img/old-site/img301.png" class="img-fluid" alt=""> </p>
 
  <ul type="disc" style="margin:0pt; padding-left:0pt">
 
@@ -439,7 +408,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <img src="/assets/img/old-site/img302.png" class="img-responsive" alt=""> </p>
+ <img src="/assets/img/old-site/img302.png" class="img-fluid" alt=""> </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -645,7 +614,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:10pt; text-align:justify">
 
- <img src="/assets/img/old-site/img303.png" class="img-responsive" alt=""> </p>
+ <img src="/assets/img/old-site/img303.png" class="img-fluid" alt=""> </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
@@ -789,7 +758,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img304.png" class="img-responsive" alt=""> </p>
+ <img src="/assets/img/old-site/img304.png" class="img-fluid" alt=""> </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -919,15 +888,9 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-
- <span style="font-family:Arial; font-size:13pt; color:#444444">&#xa0;</span>
-
- </p>
-
  <p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img305.png" class="img-responsive" alt=""> </p>
+ <img src="/assets/img/old-site/img305.png" class="img-fluid" alt=""> </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -1057,31 +1020,10 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <ul type="disc" style="margin:0pt; padding-left:0pt">
-
- <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">Clique aqui para solicitar seu orçamento pelo WhatsApp.</span></strong>
-
- </li>
-
- <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">Ou envie um e-mail para</span></strong><span style="font-size:12pt;"> contato@mangueirasdeincendiobrasil.com.br.</span>
-
- </li>
-
- </ul>
-
- <p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
-
- <strong><span style="font-family:Arial; font-size:15pt; color:#2d2c40">&#xa0;</span></strong>
-
- </p>
 
  <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img306.png" class="img-responsive" alt=""> </p>
+ <img src="/assets/img/old-site/img306.png" class="img-fluid" alt=""> </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -1211,37 +1153,10 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <ul type="disc" style="margin:0pt; padding-left:0pt">
-
- <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">Clique aqui para solicitar seu orçamento pelo WhatsApp.</span></strong>
-
- </li>
-
- <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">Ou envie um e-mail para</span></strong><span style="font-size:12pt;"> contato@mangueirasdeincendiobrasil.com.br.</span>
-
- </li>
-
- </ul>
 
  <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
- <span style="font-family:Arial; font-size:13pt; color:#444444">&#xa0;</span>
-
- </p>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-
- <span style="font-family:Arial; font-size:13pt; color:#444444">&#xa0;</span>
-
- </p>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-
- <img src="/assets/img/old-site/img307.png" class="img-responsive" alt=""> </p>
+ <img src="/assets/img/old-site/img307.png" class="img-fluid" alt=""> </p>
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -1391,22 +1306,6 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <ul type="disc" style="margin:0pt; padding-left:0pt">
-
- <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <span style="font-family:'Segoe UI Symbol'; font-size:12pt">📞</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">WhatsApp:</span></strong><span style="font-size:12pt;"> Clique aqui para entrar em contato</span>
-
- </li>
-
- <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <span style="font-family:'Segoe UI Symbol'; font-size:12pt">📧</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">E-mail:</span></strong><span style="font-size:12pt;"> contato@mangueirasdeincendiobrasil.com.br</span>
-
- </li>
-
- </ul>
-
  <div align="center">
 
  <hr size="2" align="center" style="width:100%" >
@@ -1529,22 +1428,6 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <ul type="disc" style="margin:0pt; padding-left:0pt">
-
- <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <span style="font-family:'Segoe UI Symbol'; font-size:12pt">📞</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">Telefones:</span></strong><span style="font-size:12pt;"> (11) 94025-8669</span>
-
- </li>
-
- <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <span style="font-family:'Segoe UI Symbol'; font-size:12pt">📧</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">E-mail:</span></strong><span style="font-size:12pt;"> contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
-
- </li>
-
- </ul>
-
  <div align="center">
 
  <hr size="2" align="center" style="width:100%" >
@@ -1566,18 +1449,6 @@ if (isset($breadcrumbs)) {
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
  <span>Compre com quem tem a </span><strong><span >experiência</span></strong><span> e a </span><strong><span >expertise</span></strong><span> para garantir a proteção de seu patrimônio.</span>
-
- </p>
-
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-
- <span>Visite nosso site:</span><br ><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><u><span style="color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></a>
-
- </p>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-
- <span style="font-family:Arial; font-size:13pt; color:#444444">&#xa0;</span>
 
  </p>
 

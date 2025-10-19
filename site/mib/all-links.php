@@ -8,6 +8,9 @@
 // Incluir configurações comuns
 require_once 'includes/config.php';
 
+// Incluir funções compartilhadas
+require_once 'includes/functions.php';
+
 // Configurações específicas da página
 $page_config = [
     'title' => 'Todos os Links - MIB | Mangueiras de Incêndio Brasil',
@@ -25,65 +28,6 @@ $breadcrumbs = [
     ['text' => 'Todos os Links', 'active' => true]
 ];
 
-// Função para definir ícone baseado no título da página
-function getIconForPage($title) {
-    // Ícones específicos para páginas principais
-    if (strpos($title, 'Luz') !== false || strpos($title, 'LED') !== false) {
-        return 'fas fa-lightbulb';
-    } elseif (strpos($title, 'Dicas') !== false) {
-        return 'fas fa-hand-holding-heart';
-    } elseif (strpos($title, 'Fabricante') !== false) {
-        return 'fas fa-industry';
-    } elseif (strpos($title, 'certificada') !== false) {
-        return 'fas fa-certificate';
-    } elseif (strpos($title, 'São Paulo') !== false || strpos($title, 'grande') !== false) {
-        return 'fas fa-map-marker-alt';
-    } elseif (strpos($title, 'residencial') !== false) {
-        return 'fas fa-home';
-    } elseif (strpos($title, 'Validade') !== false) {
-        return 'fas fa-calendar-alt';
-    } elseif (strpos($title, 'Inspeção') !== false) {
-        return 'fas fa-search';
-    } elseif (strpos($title, 'condomínio') !== false || strpos($title, 'Condomínio') !== false) {
-        return 'fas fa-building';
-    }
-    
-    // Ícones para páginas antigas baseados no conteúdo
-    elseif (strpos($title, 'Mangueira') !== false) {
-        return 'fas fa-hose';
-    } elseif (strpos($title, 'Extintor') !== false) {
-        return 'fas fa-fire-extinguisher';
-    } elseif (strpos($title, 'Esguicho') !== false) {
-        return 'fas fa-spray-can';
-    } elseif (strpos($title, 'Abrigo') !== false) {
-        return 'fas fa-shield-alt';
-    } elseif (strpos($title, 'Válvula') !== false) {
-        return 'fas fa-valve';
-    } elseif (strpos($title, 'Preço') !== false) {
-        return 'fas fa-dollar-sign';
-    } elseif (strpos($title, 'Equipamento') !== false) {
-        return 'fas fa-tools';
-    } elseif (strpos($title, 'Carretel') !== false) {
-        return 'fas fa-circle';
-    } elseif (strpos($title, 'Canhão') !== false) {
-        return 'fas fa-crosshairs';
-    } elseif (strpos($title, 'Placa') !== false) {
-        return 'fas fa-sign';
-    } elseif (strpos($title, 'Adaptador') !== false) {
-        return 'fas fa-plug';
-    } elseif (strpos($title, 'Hospital') !== false) {
-        return 'fas fa-hospital';
-    } elseif (strpos($title, 'AVCB') !== false) {
-        return 'fas fa-file-alt';
-    } elseif (strpos($title, 'Tampa') !== false) {
-        return 'fas fa-circle';
-    } elseif (strpos($title, 'Chave') !== false) {
-        return 'fas fa-key';
-    }
-    
-    // Ícone padrão
-    return 'fas fa-file-alt';
-}
 
 // Incluir header
 include 'includes/header.php';

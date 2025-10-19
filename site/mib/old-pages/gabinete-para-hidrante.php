@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -119,7 +118,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
- <img class="img-responsive" src="/assets/img/old-site/gabinete-para-hidrante.jpg" alt="Gabinete para Hidrante" title="Gabinete para Hidrante" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/gabinete-para-hidrante.jpg" alt="Gabinete para Hidrante" title="Gabinete para Hidrante" style="margin:0px auto;">
 
  </div>
 
@@ -139,7 +138,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="liquido-gerador-de-espuma.php"><img class="img-responsive" src="/assets/img/old-site/liquido-gerador-de-espuma.jpg" alt="Líquido Gerador de Espuma" title="Líquido Gerador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="liquido-gerador-de-espuma.php"><img class="img-fluid" src="/assets/img/old-site/liquido-gerador-de-espuma.jpg" alt="Líquido Gerador de Espuma" title="Líquido Gerador de Espuma" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -157,7 +156,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="material-de-combate-a-incendio.php"><img class="img-responsive" src="/assets/img/old-site/material-de-combate-a-incendio.jpg" alt="Material de Combate a Incêndio" title="Material de Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="material-de-combate-a-incendio.php"><img class="img-fluid" src="/assets/img/old-site/material-de-combate-a-incendio.jpg" alt="Material de Combate a Incêndio" title="Material de Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -179,7 +178,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="valvulas.php"><img class="img-responsive" src="/assets/img/old-site/valvulas.jpg" alt="Válvulas" title="Válvulas" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="valvulas.php"><img class="img-fluid" src="/assets/img/old-site/valvulas.jpg" alt="Válvulas" title="Válvulas" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -197,7 +196,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="abrigos-para-equipamentos-contra-incendio.php"><img class="img-responsive" src="/assets/img/old-site/abrigos-para-equipamentos-contra-incendio.jpg" alt="Abrigos para Equipamentos Contra Incêndio" title="Abrigos para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="abrigos-para-equipamentos-contra-incendio.php"><img class="img-fluid" src="/assets/img/old-site/abrigos-para-equipamentos-contra-incendio.jpg" alt="Abrigos para Equipamentos Contra Incêndio" title="Abrigos para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -223,7 +222,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -237,8 +236,7 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>

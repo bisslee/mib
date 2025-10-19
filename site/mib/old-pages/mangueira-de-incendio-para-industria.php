@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -137,7 +136,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-para-predio.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-para-predio.jpg" alt="Mangueiras de Incêndio para Prédio" title="Mangueiras de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-para-predio.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-para-predio.jpg" alt="Mangueiras de Incêndio para Prédio" title="Mangueiras de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -155,7 +154,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-tipo4.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo4.jpg" alt="Mangueiras de Incêndio Tipo 4" title="Mangueiras de Incêndio Tipo 4" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo4.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo4.jpg" alt="Mangueiras de Incêndio Tipo 4" title="Mangueiras de Incêndio Tipo 4" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -177,7 +176,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-tipo5.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo5.jpg" alt="Mangueiras de Incêndio Tipo 5" title="Mangueiras de Incêndio Tipo 5" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo5.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo5.jpg" alt="Mangueiras de Incêndio Tipo 5" title="Mangueiras de Incêndio Tipo 5" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -195,7 +194,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-para-hidrante.jpg" alt="Mangueira para Hidrante" title="Mangueira para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-para-hidrante.jpg" alt="Mangueira para Hidrante" title="Mangueira para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -223,7 +222,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -235,8 +234,7 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>

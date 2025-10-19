@@ -6,8 +6,8 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueira de Incêndio - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueira-de-incendio.php',
 );
@@ -20,13 +20,13 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Mangueira de Incêndio',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueira de Incêndio',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -79,7 +79,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
- <img src="/assets/img/old-site/planilha-200.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-200.png" class="img-fluid" alt="">
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:18pt">
 
@@ -343,7 +343,7 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <img src="/assets/img/old-site/planilha-201.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-201.png" class="img-fluid" alt="">
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
@@ -375,7 +375,7 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <img src="/assets/img/old-site/planilha-202.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-202.png" class="img-fluid" alt="">
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -413,7 +413,7 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <img src="/assets/img/old-site/planilha-203.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-203.png" class="img-fluid" alt="">
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
@@ -445,7 +445,7 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <img src="/assets/img/old-site/planilha-204.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-204.png" class="img-fluid" alt="">
 
  <h3 style="margin-top:10pt; margin-bottom:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:115%; font-size:13.5pt">
 
@@ -471,7 +471,7 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <img src="/assets/img/old-site/planilha-205.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-205.png" class="img-fluid" alt="">
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 

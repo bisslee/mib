@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Extintor de Incêndio sobre Rodas Pó Químico ABC - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Referência: Extintor de incêndio pó químico ABC sobre rodas .',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/extintor-de-incendio-sobre-rodas-po-quimico-abc.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Extintor de Incêndio sobre Rodas Pó Químico ABC',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Extintor de Incêndio sobre Rodas Pó Químico ABC',
     'description' => 'Referência: Extintor de incêndio pó químico ABC sobre rodas .',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/planilha-75.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-75.png" class="img-fluid" alt="">
 
  </div>
 

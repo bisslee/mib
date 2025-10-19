@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -119,7 +118,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
- <img class="img-responsive" src="/assets/img/old-site/caixa-para-mangueira-de-incendio.jpg" alt="Caixa para Mangueira de Incêndio" title="Caixa para Mangueira de Incêndio" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/caixa-para-mangueira-de-incendio.jpg" alt="Caixa para Mangueira de Incêndio" title="Caixa para Mangueira de Incêndio" style="margin:0px auto;">
 
  </div>
 
@@ -139,7 +138,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="caixa-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/caixa-para-hidrante.jpg" alt="Caixa para Hidrante" title="Caixa para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="caixa-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/caixa-para-hidrante.jpg" alt="Caixa para Hidrante" title="Caixa para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -157,7 +156,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="caixa-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/caixa-para-mangueira-de-incendio.jpg" alt="Caixa para Mangueira de Incêndio" title="Caixa para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="caixa-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/caixa-para-mangueira-de-incendio.jpg" alt="Caixa para Mangueira de Incêndio" title="Caixa para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -179,7 +178,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="caixa-para-extintor-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/caixa-para-extintor-de-incendio.jpg" alt="Caixa para Extintor de Incêndio" title="Caixa para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="caixa-para-extintor-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/caixa-para-extintor-de-incendio.jpg" alt="Caixa para Extintor de Incêndio" title="Caixa para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -205,7 +204,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -217,8 +216,7 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>

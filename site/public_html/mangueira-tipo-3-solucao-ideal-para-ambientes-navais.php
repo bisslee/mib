@@ -116,7 +116,7 @@ Navais e de Emergência,">
 
 
 
-				<img src="images/img-128.png" class="img-responsive" alt="">
+				<img src="images/img-128.png" class="img-fluid" alt="">
 
           style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 

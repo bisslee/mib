@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Extintor de Incêndio Tipo 6 Litros - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Referência: Extintor de incêndio tipo K 6 Litros',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/extintor-de-incendio-tipo-6-litros.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Extintor de Incêndio Tipo 6 Litros',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Extintor de Incêndio Tipo 6 Litros',
     'description' => 'Referência: Extintor de incêndio tipo K 6 Litros',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/planilha-78.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-78.png" class="img-fluid" alt="">
 
  </div>
 

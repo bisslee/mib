@@ -116,7 +116,7 @@ Incêndios em Ambientes de Alto Risco,">
 
 
 
-				<img src="images/img-127.png" class="img-responsive" alt="">
+				<img src="images/img-127.png" class="img-fluid" alt="">
 
                 
 

@@ -1,285 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
     <!-- Página Principal -->
     <url>
         <loc>https://mangueirasdeincendiobrasil.com.br/</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>daily</changefreq>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
-
-    <!-- Páginas Principais -->
+    
+    <!-- Equipamentos - Alta Prioridade -->
     <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/index.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/mangueiras-de-incendio.php</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
     </url>
-
+    
     <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/contact.php</loc>
-        <lastmod>2025-01-01</lastmod>
+        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/extintores-de-incendio.php</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/hidrante-contra-incendio.php</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/esguichos-para-equipamentos-contra-incendio.php</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/canhao-monitor-de-combate-a-incendio.php</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/derivante-para-mangueira-de-incendio.php</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/sistema-aerossol-de-supressao-a-incendio.php</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Informações Técnicas - ALTO SEO VALUE -->
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/luzes-de-emergencia-led.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/informacoes-tecnicas-mangueiras-incendio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/dicas-de-cuidados-mangueira-de-incendio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/fabricante-de-mangueiras-de-incendio-em-sao-paulo.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/mangueiras-de-incendio-certificada.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/mangueiras-de-incendio-na-grande-sp.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/mangueiras-de-incendio-para-area-residencial.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/validade-da-mangueira-de-incendio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/inspecao-de-equipamentos-de-combate-a-incendio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/mangueira-de-incendio-para-condominio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Páginas Índice de Categorias -->
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/</loc>
+        <lastmod>2025-10-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
-
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Produtos -->
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/abrigos-para-equipamentos-contra-incendio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/adaptador-para-mangueira-de-incendio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/armario-para-mangueira-de-incendio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/bico-para-mangueira-de-incendio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/caixas-para-equipamentos-contra-incendio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/conjunto-da-mangueira-de-incendio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/gabinete-para-hidrante.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/liquido-gerador-de-espuma.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/material-de-combate-a-incendio.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/placas-de-sinalizacao.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/valvulas.php</loc>
+        <lastmod>2025-10-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Páginas Institucionais -->
     <url>
         <loc>https://mangueirasdeincendiobrasil.com.br/empresa.php</loc>
-        <lastmod>2025-01-01</lastmod>
+        <lastmod>2025-10-06</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.7</priority>
     </url>
-
+    
+    <url>
+        <loc>https://mangueirasdeincendiobrasil.com.br/contact.php</loc>
+        <lastmod>2025-10-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
     <url>
         <loc>https://mangueirasdeincendiobrasil.com.br/privacy.php</loc>
-        <lastmod>2025-01-01</lastmod>
+        <lastmod>2025-10-06</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/novidades/</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <!-- Equipamentos -->
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/index.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/mangueiras-de-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/extintores-de-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/hidrante-contra-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/esguichos-para-equipamentos-contra-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/derivante-para-mangueira-de-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/canhao-monitor-de-combate-a-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/equipamentos/sistema-aerossol-de-supressao-a-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- Produtos -->
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/caixas-para-equipamentos-contra-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/abrigos-para-equipamentos-contra-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/valvulas.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/placas-de-sinalizacao.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/material-de-combate-a-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/liquido-gerador-de-espuma.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/gabinete-para-hidrante.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/conjunto-da-mangueira-de-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/bico-para-mangueira-de-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/armario-para-mangueira-de-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/produtos/adaptador-para-mangueira-de-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <!-- Informações Técnicas -->
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/mangueiras-de-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/extintores-de-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/hidrantes-contra-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/esguichos-para-equipamentos-contra-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/sistemas-de-combate-a-incendio.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/normas-tecnicas.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/certificacoes-abnt.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/manutencao-e-inspecao.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/instalacao-e-montagem.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/treinamento-e-capacitacao.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/emergencia-e-evacuacao.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/legislacao-e-codigos.php</loc>
-        <lastmod>2025-01-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
+    
 </urlset>

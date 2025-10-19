@@ -6,8 +6,8 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueira Tipo 5 Preço - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueira-tipo-5-preco.php',
 );
@@ -20,13 +20,13 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Mangueira Tipo 5 Preço',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueira Tipo 5 Preço',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:10pt">
 
-<img src="/assets/img/old-site/img401.png" class="img-responsive" alt=""> 
+<img src="/assets/img/old-site/img401.png" class="img-fluid" alt=""> 
 
 </p>
 
@@ -425,7 +425,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <img src="/assets/img/old-site/img402.png" class="img-responsive" alt=""> 
+ <img src="/assets/img/old-site/img402.png" class="img-fluid" alt=""> 
 
  </p>
 
@@ -637,7 +637,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:10pt; text-align:justify">
 
- <img src="/assets/img/old-site/img403.png" class="img-responsive" alt=""> 
+ <img src="/assets/img/old-site/img403.png" class="img-fluid" alt=""> 
 
  </p>
 
@@ -771,7 +771,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
- <img src="/assets/img/old-site/img404.png" class="img-responsive" alt=""> 
+ <img src="/assets/img/old-site/img404.png" class="img-fluid" alt=""> 
 
  </p>
 
@@ -887,7 +887,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img405.png" class="img-responsive" alt=""> 
+ <img src="/assets/img/old-site/img405.png" class="img-fluid" alt=""> 
 
  </p>
 
@@ -1067,7 +1067,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img406.png" class="img-responsive" alt=""> 
+ <img src="/assets/img/old-site/img406.png" class="img-fluid" alt=""> 
 
  </p>
 
@@ -1229,7 +1229,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img407.png" class="img-responsive" alt=""> 
+ <img src="/assets/img/old-site/img407.png" class="img-fluid" alt=""> 
 
  </p>
 
@@ -1409,28 +1409,6 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <ul type="disc" style="margin:0pt; padding-left:0pt">
-
- <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">📞</span></strong><strong><span style="font-size:12pt;"> Telefones</span></strong><span style="font-size:12pt;">: (11) 94025-8669</span>
-
- </li>
-
- <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">📧</span></strong><strong><span style="font-size:12pt;"> E-mails</span></strong><span style="font-size:12pt;">: contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
-
- </li>
-
- <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">🌐</span></strong><strong><span style="font-size:12pt;"> Acesse nosso site para mais informações</span></strong><span style="font-size:12pt;">: </span><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><u><span style=" font-size:12pt; color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></a>
-
- </li>
-
- </ul>
-
  <div align="center">
 
  <hr size="2" align="center" style="width:100%" >
@@ -1454,24 +1432,6 @@ if (isset($breadcrumbs)) {
  <span>Confie em quem tem a experiência e expertise para proteger seu patrimônio com a máxima segurança.</span>
 
  </p>
-
- <ul type="disc" style="margin:0pt; padding-left:0pt">
-
- <li style="margin-top:14pt; margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <strong><span style="font-size:12pt;">🌐</span></strong><strong><span style="font-size:12pt;"> Acesse nosso site para mais informações</span></strong><span style="font-size:12pt;">: </span><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><u><span style=" font-size:12pt; color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></a>
-
- </li>
-
- </ul>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-
- <span style=" font-size:13pt; color:#444444">&#xa0;</span>
-
- </p>
-
- <br><br>
 
  </div>
 

@@ -407,9 +407,9 @@ $page_data = [
                         'list-with-title' => [
                             'title' => '🔗 Links Oficiais – Referência Técnica',
                             'list' => [
-                                ['item' => '• ABNT NBR 11861 – Catálogo Oficial: <a href="https://www.abntcatalogo.com.br/norma.aspx?ID=356331" target="_blank">https://www.abntcatalogo.com.br/norma.aspx?ID=356331</a>'],
-                                ['item' => '• Inmetro – Regulamentação de Produtos: <a href="https://www.gov.br/inmetro/pt-br" target="_blank">https://www.gov.br/inmetro/pt-br</a>'],
-                                ['item' => '• Corpo de Bombeiros SP – Projetos de Prevenção: <a href="https://www.corpodebombeiros.sp.gov.br" target="_blank">https://www.corpodebombeiros.sp.gov.br</a>']
+                                ['item' => '• ABNT NBR 11861 – Catálogo Oficial: <a href="https://www.abntcatalogo.com.br/norma.aspx?ID=356331" target="_blank">Clique aqui</a>'],
+                                ['item' => '• Inmetro – Regulamentação de Produtos: <a href="https://www.gov.br/inmetro/pt-br" target="_blank">Clique aqui</a>'],
+                                ['item' => '• Corpo de Bombeiros SP – Projetos de Prevenção: <a href="https://www.corpodebombeiros.sp.gov.br" target="_blank">Clique aqui</a>']
                             ]
                         ],
                         'table-with-title' => ['title' => '', 'table' => ['headers' => [], 'rows' => []]]
@@ -429,7 +429,7 @@ $page_data = [
                     [
                         'order' => 3,
                         'image' => '',
-                        'content' => '<b>URL:</b> <a href="www.mangueirasdeincendiobrasil.com.br/fabricante-de-mangueiras-de-incendio-em-sao-paulo.php" target="_blank">www.mangueirasdeincendiobrasil.com.br/fabricante-de-mangueiras-de-incendio-em-sao-paulo.php</a>',
+                        'content' => '<b>URL:</b> <a href="www.mangueirasdeincendiobrasil.com.br/fabricante-de-mangueiras-de-incendio-em-sao-paulo.php" target="_blank">Clique aqui</a>',
                         'list-with-title' => ['title' => '', 'list' => []],
                         'table-with-title' => ['title' => '', 'table' => ['headers' => [], 'rows' => []]]
                     ]

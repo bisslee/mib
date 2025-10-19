@@ -83,7 +83,7 @@ if (isset($breadcrumbs)) {
 
  <h1>Extintor Abc</h1>
 
- <img src="/assets/img/old-site/img1009.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img1009.png" class="img-fluid" alt="">
 
 <h2>🔥 Extintor de Incêndio ABC 5 Anos – Modelos com Carga de 4 kg e 6 kg</h2>
 
@@ -91,15 +91,6 @@ if (isset($breadcrumbs)) {
 
 <p>Se você está em busca de um extintor de incêndio ABC com validade de 5 anos, a BS oferece os modelos ideais para sua proteção: extintor ABC 4 kg e extintor ABC 6 kg, prontos para garantir segurança e confiabilidade em ambientes residenciais, comerciais ou industriais.</p>
 
-<p>Contato para Mais Informações</p>
-
-<h2>📞 Telefone: WhatsApp 
-
-📧 E-mail: contato@mangueirasdeincendiobrasil.com.br
-
-🌐 Visite nosso site: https://mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <h2>✅ Por que escolher o Extintor ABC 5 Anos?</h2>
 
@@ -132,18 +123,6 @@ if (isset($breadcrumbs)) {
 <!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <p>Adquira seu extintor de incêndio ABC 5 anos com a BS , empresa especializada em soluções completas para prevenção e combate a incêndios. Trabalhamos com produtos certificados, entregas rápidas e suporte técnico.</p>
-
-<h2>📞 Fale com Nossa Equipe</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>📱 WhatsApp: Clique para conversar – 
-
- 📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</strong></p>
-
-<h2>🌐</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <p>🔍. Encontre o Melhor Extintor ABC 5 Anos</p>
 
@@ -277,17 +256,6 @@ Garantia, segurança e custo-benefício para proteger o que realmente importa.</
 
 <p>Lembre-se de consultar um engenheiro especializado ou o Corpo de Bombeiros local antes de adquirir ou substituir qualquer extintor. A conformidade com as normas de segurança é essencial para garantir a proteção adequada do seu ambiente.</p>
 
-<p>Contato para Mais Informações</p>
-
-<h2>📞 Telefone: WhatsApp 
-
-📧 E-mail: contato@mangueirasdeincendiobrasil.com.br
-
-🌐 Visite nosso site: https://mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
- <br><br>
 
  </div>
 

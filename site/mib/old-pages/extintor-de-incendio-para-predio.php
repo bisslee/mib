@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -117,7 +116,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
 
- <img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-para-predio.jpg" alt="Extintor de Incêndio para Prédio" title="Extintor de Incêndio para Prédio" style="text-align:center;">
+ <img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-para-predio.jpg" alt="Extintor de Incêndio para Prédio" title="Extintor de Incêndio para Prédio" style="text-align:center;">
 
 <p>Para se obter maior segurança de combate a incêndio dentro dos prédios residenciais e comerciais, é necessário investir em extintores de incêndio. Para o combate a incêndio dentro destes locais é preciso investir em extintores de incêndio novos com todas as certificações necessárias e estar com a validade em dia. </p>
 
@@ -139,7 +138,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-co2.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-co2.jpg" alt="Extintor de Incêndio CO2" title="Extintor de Incêndio CO2" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-co2.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-co2.jpg" alt="Extintor de Incêndio CO2" title="Extintor de Incêndio CO2" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -157,7 +156,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-a-base-de-agua.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-a-base-de-agua.jpg" alt="Extintor de Incêndio a base de água" title="Extintor de Incêndio a base de água" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-a-base-de-agua.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-a-base-de-agua.jpg" alt="Extintor de Incêndio a base de água" title="Extintor de Incêndio a base de água" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -179,7 +178,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-po-quimico.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-po-quimico.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -197,7 +196,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-po-quimico-seco.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de Incêndio Pó Químico Seco" title="Extintor de Incêndio Pó Químico Seco" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-po-quimico-seco.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de Incêndio Pó Químico Seco" title="Extintor de Incêndio Pó Químico Seco" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -225,7 +224,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -237,8 +236,7 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>

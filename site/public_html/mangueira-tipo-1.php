@@ -1,122 +1,244 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <!-- Google Tag Manager -->
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
-        <!-- End Google Tag Manager -->
-	<title>Mangueira tipo 1 incêndio: entenda as especificações dessa mangueira.</title>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Mangueira de Incêndio Coutoflex ">
-	<meta name="author" content="OtimizaMais Marketing Digital">
-	<meta name="keywords" content="Mangueiras de Incêndio, Brasil Segurança, Equipamentos Contra Incêndio" />
-
-	<!-- Bootstrap Core CSS -->
-	<link href="css/bootstrap.css" rel="stylesheet">
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	<script src="js/jquery.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
-</head>
-<body>
-                <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-                <!-- End Google Tag Manager (noscript) -->
-	<main>	
-		<header>
-			<?php include ('includes/header.php'); ?>   	
-		</header>
-
-	<section class="container">
-		<div class="row">	
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-                <div>
-                    <img src="images/planilha-105.png" class="img-responsive" alt="">
-                </div>
-                <p>Quando se trata de proteger vidas e patrimônios contra incêndios, investir em mangueira tipo
-1 incêndio é essencial para condomínios residenciais.</p>
-                <p>Na BS Brasil Segurança HSA, oferecemos mangueiras tipo 1 de alta qualidade, fabricadas para
-atender aos mais altos padrões de segurança e desempenho.</p>
-                <p>Neste texto, vamos explorar a importância das mangueiras tipo 1 incêndio e como elas podem
-contribuir para a segurança de seu ambiente.</p>
-<p><strong>Por que escolher mangueira tipo 1 incêndio?</strong></p>
-<p>As mangueiras tipo 1 incêndio são especialmente projetadas para garantir uma resposta rápida
-e eficaz no combate a incêndios em áreas residenciais. Algumas razões para utilizar o uso de
-mangueiras tipo 1 são:</p>
-<ul><li>Resistência e durabilidade</li></ul>
-<p>As mangueiras tipo 1 são fabricadas com materiais resistentes e duráveis, projetadas para
-suportar condições adversas e o desgaste decorrente do uso em áreas residências voltadas
-exclusivamente ao combate a incêndio. Isso garante que a mangueira esteja pronta para uso
-em situações de emergência, sem comprometer sua eficácia.</p>
-<p>Importante ressaltar o uso e manuseio adequado da mangueira tipo 1 para que a mesma
-ofereça uma maior durabilidade.</p>
-<p>Dica: Reduza os gastos com mangueiras de combate a incêndio tipo 1 Adquirindo com BS Brasil
-segurança HSA mangueiras de combate a incêndio certificadas ABNT.</p>
-<ul><li>Flexibilidade e manuseio fácil</li></ul>
-<p>As mangueiras tipo 1 são projetadas conforme NBR 11.861 para oferecer flexibilidade e
-facilidade de manuseio, permitindo que sejam rapidamente desenroladas e utilizadas no
-combate a incêndios. Sua construção robusta e leve facilita o transporte e o manuseio, mesmo
-em condições de alta pressão.</p>
-<ul><li>Compatibilidade de uso.</li></ul>
-<p>As mangueiras tipo 1 são compatíveis para uso em condomínios residenciais sendo que a
-pressão de trabalho é proporcionada através da gravidade.</p>
-<ul><li>Ideal para ambientes residenciais</li></ul>
-<p>Pela sua resistência a fungos, mofos e bolor, facilidade de manuseio e compatibilidade com
-diversos agentes extintores, a mangueira tipo 1 incêndio é ideal para residências e
-condomínios residenciais, protegendo, dessa forma, ambientes familiares.</p>
-<p><strong>BS Brasil Segurança HSA: sua fonte confiável de mangueira tipo 1 incêndio</strong></p>
-<p>Na BS Brasil Segurança HSA, oferecemos mangueiras tipo 1 incêndio de alta qualidade,
-fabricadas para atender às necessidades específicas de nossos clientes.</p>
-<p>Todas as nossas mangueiras tipo 1 são fabricadas com materiais de alta qualidade e estão em
-conformidade com as normas técnicas mais recentes. Garantimos a qualidade e a
-confiabilidade de nossos produtos, oferecendo a você a tranquilidade de estar protegido
-contra incêndios.</p>
-<p>Temos uma variedade de opções de mangueiras tipo 1 para atender às diferentes
-necessidades de nossos clientes. Desde mangueiras de diferentes comprimentos até opções
-com acessórios adicionais, temos tudo o que você precisa para garantir a segurança de seu
-ambiente.</p>
-<p>Nossa equipe está sempre pronta para oferecer um atendimento personalizado e orientação
-técnica aos nossos clientes. Estamos disponíveis para ajudá-lo a escolher a mangueira tipo 1
-mais adequada para suas necessidades específicas, garantindo uma solução sob medida para
-sua proteção contra incêndios.</p>
-               
-              
-               <?php include('includes/contato.php'); ?>
-                </article>
-  
-                
-                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
-                <br><br>
-
-             
-
-               </div>
-              
-              
-                        <div class="fixa2">
-                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
-                        </div>
-                        <?php include("includes/aside.php"); ?>
-                  
-            
-			</div>
-	</section>
-        
-	<footer>
-	<?php include ('includes/footer.php'); ?>   
-	</footer>
-
-</main>
-
-</body>
-
-</html>
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+
+    <!-- Google Tag Manager -->
+
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+        })(window,document,'script','dataLayer','GTM-WZKDXGP');</script>
+
+        <!-- End Google Tag Manager -->
+
+	<title>Mangueira tipo 1 incêndio: entenda as especificações dessa mangueira.</title>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<meta name="description" content="Mangueira de Incêndio Coutoflex ">
+
+	<meta name="author" content="OtimizaMais Marketing Digital">
+
+	<meta name="keywords" content="Mangueiras de Incêndio, Brasil Segurança, Equipamentos Contra Incêndio" />
+
+
+
+	<!-- Bootstrap Core CSS -->
+
+	<link href="css/bootstrap.css" rel="stylesheet">
+
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+	<script src="js/jquery.js"></script>img-fluid
+
+	<script src="js/bootstrap.min.js"></script>
+
+
+
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+
+
+
+</head>
+
+<body>
+
+                <!-- Google Tag Manager (noscript) -->
+
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
+
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+                <!-- End Google Tag Manager (noscript) -->
+
+	<main>	
+
+		<header>
+
+			<?php include ('includes/header.php'); ?>   	
+
+		</header>
+
+
+
+	<section class="container">
+
+		<div class="row">	
+
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+
+
+                <div>
+
+                    <img src="images/planilha-105.png" class="img-responsive" alt="">
+
+                </div>
+
+                <p>Quando se trata de proteger vidas e patrimônios contra incêndios, investir em mangueira tipo
+
+1 incêndio é essencial para condomínios residenciais.</p>
+
+                <p>Na BS Brasil Segurança HSA, oferecemos mangueiras tipo 1 de alta qualidade, fabricadas para
+
+atender aos mais altos padrões de segurança e desempenho.</p>
+
+                <p>Neste texto, vamos explorar a importância das mangueiras tipo 1 incêndio e como elas podem
+
+contribuir para a segurança de seu ambiente.</p>
+
+<p><strong>Por que escolher mangueira tipo 1 incêndio?</strong></p>
+
+<p>As mangueiras tipo 1 incêndio são especialmente projetadas para garantir uma resposta rápida
+
+e eficaz no combate a incêndios em áreas residenciais. Algumas razões para utilizar o uso de
+
+mangueiras tipo 1 são:</p>
+
+<ul><li>Resistência e durabilidade</li></ul>
+
+<p>As mangueiras tipo 1 são fabricadas com materiais resistentes e duráveis, projetadas para
+
+suportar condições adversas e o desgaste decorrente do uso em áreas residências voltadas
+
+exclusivamente ao combate a incêndio. Isso garante que a mangueira esteja pronta para uso
+
+em situações de emergência, sem comprometer sua eficácia.</p>
+
+<p>Importante ressaltar o uso e manuseio adequado da mangueira tipo 1 para que a mesma
+
+ofereça uma maior durabilidade.</p>
+
+<p>Dica: Reduza os gastos com mangueiras de combate a incêndio tipo 1 Adquirindo com BS Brasil
+
+segurança HSA mangueiras de combate a incêndio certificadas ABNT.</p>
+
+<ul><li>Flexibilidade e manuseio fácil</li></ul>
+
+<p>As mangueiras tipo 1 são projetadas conforme NBR 11.861 para oferecer flexibilidade e
+
+facilidade de manuseio, permitindo que sejam rapidamente desenroladas e utilizadas no
+
+combate a incêndios. Sua construção robusta e leve facilita o transporte e o manuseio, mesmo
+
+em condições de alta pressão.</p>
+
+<ul><li>Compatibilidade de uso.</li></ul>
+
+<p>As mangueiras tipo 1 são compatíveis para uso em condomínios residenciais sendo que a
+
+pressão de trabalho é proporcionada através da gravidade.</p>
+
+<ul><li>Ideal para ambientes residenciais</li></ul>
+
+<p>Pela sua resistência a fungos, mofos e bolor, facilidade de manuseio e compatibilidade com
+
+diversos agentes extintores, a mangueira tipo 1 incêndio é ideal para residências e
+
+condomínios residenciais, protegendo, dessa forma, ambientes familiares.</p>
+
+<p><strong>BS Brasil Segurança HSA: sua fonte confiável de mangueira tipo 1 incêndio</strong></p>
+
+<p>Na BS Brasil Segurança HSA, oferecemos mangueiras tipo 1 incêndio de alta qualidade,
+
+fabricadas para atender às necessidades específicas de nossos clientes.</p>
+
+<p>Todas as nossas mangueiras tipo 1 são fabricadas com materiais de alta qualidade e estão em
+
+conformidade com as normas técnicas mais recentes. Garantimos a qualidade e a
+
+confiabilidade de nossos produtos, oferecendo a você a tranquilidade de estar protegido
+
+contra incêndios.</p>
+
+<p>Temos uma variedade de opções de mangueiras tipo 1 para atender às diferentes
+
+necessidades de nossos clientes. Desde mangueiras de diferentes comprimentos até opções
+
+com acessórios adicionais, temos tudo o que você precisa para garantir a segurança de seu
+
+ambiente.</p>
+
+<p>Nossa equipe está sempre pronta para oferecer um atendimento personalizado e orientação
+
+técnica aos nossos clientes. Estamos disponíveis para ajudá-lo a escolher a mangueira tipo 1
+
+mais adequada para suas necessidades específicas, garantindo uma solução sob medida para
+
+sua proteção contra incêndios.</p>
+
+               
+
+              
+
+               <?php include('includes/contato.php'); ?>
+
+                </article>
+
+  
+
+                
+
+                <a href="contato.php" class="btn btn-default">Entre em Contato</a>
+
+                <br><br>
+
+
+
+             
+
+
+
+               </div>
+
+              
+
+              
+
+                        <div class="fixa2">
+
+                            <a href="placas-de-sinalizacao.php" class="btn btn-primary">Veja o Produto</a>
+
+                        </div>
+
+                        <?php include("includes/aside.php"); ?>
+
+                  
+
+            
+
+			</div>
+
+	</section>
+
+        
+
+	<footer>
+
+	<?php include ('includes/footer.php'); ?>   
+
+	</footer>
+
+
+
+</main>
+
+
+
+</body>
+
+
+
+</html>
+

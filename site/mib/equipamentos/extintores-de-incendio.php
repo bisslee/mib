@@ -31,11 +31,15 @@ $heroConfig = [
 ];
 
 // Rich Snippets - Product Schema
+// Data de validade do preço (1 ano a partir de hoje)
+$price_valid_until = date('Y-m-d', strtotime('+1 year'));
+
 $product_schema = [
     "@context" => "https://schema.org",
     "@type" => "Product",
     "name" => "Extintores de Incêndio Certificados ABNT",
     "description" => "Extintores de incêndio certificados ABNT para condomínios, indústrias e residências. Primeiro agente de combate às chamas com máxima eficiência. MIB São Paulo.",
+    "image" => "https://mangueirasdeincendiobrasil.com.br/assets/img/mib_logo_final_com_tagline.png",
     "brand" => [
         "@type" => "Brand",
         "name" => "MIB - Mangueiras de Incêndio Brasil"
@@ -49,12 +53,55 @@ $product_schema = [
     "offers" => [
         "@type" => "Offer",
         "priceCurrency" => "BRL",
+        "price" => "0.00",
+        "priceSpecification" => [
+            "@type" => "PriceSpecification",
+            "priceCurrency" => "BRL",
+            "price" => "0.00"
+        ],
         "availability" => "https://schema.org/InStock",
+        "priceValidUntil" => $price_valid_until,
         "seller" => [
             "@type" => "Organization",
             "name" => "MIB - Mangueiras de Incêndio Brasil"
         ],
-        "areaServed" => "São Paulo, SP, Brasil"
+        "areaServed" => "São Paulo, SP, Brasil",
+        "shippingDetails" => [
+            "@type" => "OfferShippingDetails",
+            "shippingRate" => [
+                "@type" => "MonetaryAmount",
+                "value" => "0",
+                "currency" => "BRL"
+            ],
+            "shippingDestination" => [
+                "@type" => "DefinedRegion",
+                "addressCountry" => "BR",
+                "addressRegion" => "SP"
+            ],
+            "deliveryTime" => [
+                "@type" => "ShippingDeliveryTime",
+                "handlingTime" => [
+                    "@type" => "QuantitativeValue",
+                    "minValue" => "0",
+                    "maxValue" => "2",
+                    "unitCode" => "DAY"
+                ],
+                "transitTime" => [
+                    "@type" => "QuantitativeValue",
+                    "minValue" => "1",
+                    "maxValue" => "3",
+                    "unitCode" => "DAY"
+                ]
+            ]
+        ],
+        "hasMerchantReturnPolicy" => [
+            "@type" => "MerchantReturnPolicy",
+            "applicableCountry" => "BR",
+            "returnPolicyCategory" => "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays" => 30,
+            "returnMethod" => "https://schema.org/ReturnByMail",
+            "returnFees" => "https://schema.org/FreeReturn"
+        ]
     ],
     "aggregateRating" => [
         "@type" => "AggregateRating",
@@ -162,7 +209,7 @@ include '../includes/breadcrumb.php';
 
                                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center;">
 
-                                                <img class="img-responsive" src="/assets/img/old-site/extintores-de-incendio.jpg" alt="Extintores de incêndio certificados ABNT para combate a incêndio - MIB São Paulo" title="Extintores de incêndio certificados ABNT" style="margin:0px auto;" loading="lazy" width="300" height="200">
+                                                <img class="img-fluid" src="/assets/img/old-site/extintores-de-incendio.jpg" alt="Extintores de incêndio certificados ABNT para combate a incêndio - MIB São Paulo" title="Extintores de incêndio certificados ABNT" style="margin:0px auto;" loading="lazy" width="300" height="200">
 
                                             </div>
 
@@ -198,7 +245,7 @@ include '../includes/breadcrumb.php';
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/extintor-de-incendio-portatil.php" style="color:#fff; margin:0px;">Extintor de Incêndio Portátil</a></h2>
 
-                                                        <a href="/old-pages/extintor-de-incendio-portatil.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-portatil.jpg" alt="Extintor de Incêndio Portátil certificado ABNT - MIB São Paulo" title="Extintor de Incêndio Portátil" style="text-align:center;" loading="lazy" width="250" height="200"></a>
+                                                        <a href="/old-pages/extintor-de-incendio-portatil.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-portatil.jpg" alt="Extintor de Incêndio Portátil certificado ABNT - MIB São Paulo" title="Extintor de Incêndio Portátil" style="text-align:center;" loading="lazy" width="250" height="200"></a>
 
                                                         <div class="caption">
 
@@ -218,7 +265,7 @@ include '../includes/breadcrumb.php';
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/extintor-de-incendio-sobre-rodas.php" style="color:#fff; margin:0px;">Extintor de Incêndio Sobre Rodas</a></h2>
 
-                                                        <a href="/old-pages/extintor-de-incendio-sobre-rodas.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-sobre-rodas.jpg" alt="Extintor de Incêndio Sobre Rodas para indústrias - MIB São Paulo" title="Extintor de Incêndio Sobre Rodas" style="text-align:center;" loading="lazy" width="250" height="200"></a>
+                                                        <a href="/old-pages/extintor-de-incendio-sobre-rodas.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-sobre-rodas.jpg" alt="Extintor de Incêndio Sobre Rodas para indústrias - MIB São Paulo" title="Extintor de Incêndio Sobre Rodas" style="text-align:center;" loading="lazy" width="250" height="200"></a>
 
                                                         <div class="caption">
 
@@ -238,7 +285,7 @@ include '../includes/breadcrumb.php';
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/extintor-de-incendio-co2.php" style="color:#fff; margin:0px;">Extintor de Incêndio CO2</a></h2>
 
-                                                        <a href="/old-pages/extintor-de-incendio-co2.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-co2.jpg" alt="Extintor de Incêndio CO2 para equipamentos elétricos - MIB São Paulo" title="Extintor de Incêndio CO2" style="text-align:center;" loading="lazy" width="250" height="200"></a>
+                                                        <a href="/old-pages/extintor-de-incendio-co2.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-co2.jpg" alt="Extintor de Incêndio CO2 para equipamentos elétricos - MIB São Paulo" title="Extintor de Incêndio CO2" style="text-align:center;" loading="lazy" width="250" height="200"></a>
 
                                                         <div class="caption">
 
@@ -262,7 +309,7 @@ include '../includes/breadcrumb.php';
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/extintor-de-incendio-a-base-de-agua.php" style="color:#fff; margin:0px;">Extintor de Incêndio a base de água</a></h2>
 
-                                                        <a href="/old-pages/extintor-de-incendio-a-base-de-agua.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-a-base-de-agua.jpg" alt="Extintor de Incêndio a base de água" title="Extintor de Incêndio a base de água" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/extintor-de-incendio-a-base-de-agua.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-a-base-de-agua.jpg" alt="Extintor de Incêndio a base de água" title="Extintor de Incêndio a base de água" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
@@ -282,7 +329,7 @@ include '../includes/breadcrumb.php';
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/extintor-de-incendio-po-quimico.php" style="color:#fff; margin:0px;">Extintor de Incêndio Pó Químico</a></h2>
 
-                                                        <a href="/old-pages/extintor-de-incendio-po-quimico.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/extintor-de-incendio-po-quimico.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
@@ -302,7 +349,7 @@ include '../includes/breadcrumb.php';
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/extintor-de-incendio-po-quimico-seco.php" style="color:#fff; margin:0px;">Extintor de Incêndio Pó Químico Seco</a></h2>
 
-                                                        <a href="/old-pages/extintor-de-incendio-po-quimico-seco.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de Incêndio Pó Químico Seco" title="Extintor de Incêndio Pó Químico Seco" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/extintor-de-incendio-po-quimico-seco.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de Incêndio Pó Químico Seco" title="Extintor de Incêndio Pó Químico Seco" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
@@ -326,7 +373,7 @@ include '../includes/breadcrumb.php';
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/extintor-de-incendio-para-condominio.php" style="color:#fff; margin:0px;">Extintor de Incêndio para Condomínio</a></h2>
 
-                                                        <a href="/old-pages/extintor-de-incendio-para-condominio.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-para-condominio.jpg" alt="Extintor de Incêndio para Condomínio" title="Extintor de Incêndio para Condomínio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/extintor-de-incendio-para-condominio.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-para-condominio.jpg" alt="Extintor de Incêndio para Condomínio" title="Extintor de Incêndio para Condomínio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 
@@ -346,7 +393,7 @@ include '../includes/breadcrumb.php';
 
                                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/extintor-de-incendio-para-predio.php" style="color:#fff; margin:0px;">Extintor de Incêndio para Prédio</a></h2>
 
-                                                        <a href="/old-pages/extintor-de-incendio-para-predio.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-para-predio.jpg" alt="Extintor de Incêndio para Prédio" title="Extintor de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
+                                                        <a href="/old-pages/extintor-de-incendio-para-predio.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-para-predio.jpg" alt="Extintor de Incêndio para Prédio" title="Extintor de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
 
                                                         <div class="caption">
 

@@ -87,11 +87,11 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Referencia: NBR11861 mangueiras de combate a incêndio.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-17.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-17.png" class="img-fluid">
 
  <h2><strong>Modelos de mangueiras de combate a incêndio.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-83.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-83.png" class="img-fluid">
 
  </div>
 
@@ -177,7 +177,7 @@ if (isset($breadcrumbs)) {
 
  kgf/cm2, pressão de ruptura mínima de 35,0 kgf/cm2, denominação comercial <strong>Predyflex</strong>.</p>
 
- <img src="/assets/img/old-site/panilha-79.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-79.png" class="img-fluid">
 
  <h4 class="text-center">Fornecedor de mangueiras de combate a incêndio <strong>tipo 2</strong></h4>
 
@@ -193,7 +193,7 @@ if (isset($breadcrumbs)) {
 
  comercial <strong>Superflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-80.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-80.png" class="img-fluid">
 
  <h4 class="text-center">Fornecedor de mangueiras de combate a incêndio <strong>tipo 3</strong></h4>
 
@@ -209,7 +209,7 @@ if (isset($breadcrumbs)) {
 
  denominação comercial <strong>Superflex Capa Dupla.</strong></p>
 
- <img src="/assets/img/old-site/panilha-80.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-80.png" class="img-fluid">
 
  <h4 class="text-center">Fornecedor de mangueiras de combate a incêndio <strong>tipo 4</strong></h4>
 
@@ -225,7 +225,7 @@ if (isset($breadcrumbs)) {
 
  kgf/cm2, denominação comercial <strong>Plastflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-81.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-81.png" class="img-fluid">
 
  <h4 class="text-center">Fornecedor de mangueiras de combate a incêndio <strong>tipo 5</strong></h4>
 
@@ -241,7 +241,7 @@ if (isset($breadcrumbs)) {
 
  denominação comercial <strong>Ruberflex.</strong></p>
 
- <img src="/assets/img/old-site/panilha-82.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-82.png" class="img-fluid">
 
  <h2><strong>2 MANUAL TÉCNICO</strong></h2>
 

@@ -7,7 +7,7 @@
 // Configuração da página
 $page_config = array(
     'title' => 'MANGUEIRA DE INCÊNDIO NA GRANDE SP - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueiras-de-incendio-na-grande-sp.php',
 );
@@ -26,7 +26,7 @@ $breadcrumbs = array(
 
 $heroConfig = array(
     'title' => 'MANGUEIRA DE INCÊNDIO NA GRANDE SP',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
 
- <img src="/assets/img/old-site/panilha-29.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-29.png" class="img-fluid">
 
  </div>
 
@@ -133,7 +133,7 @@ if (isset($breadcrumbs)) {
 
  residenciais;</li>
 
- <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-19.png" class="img-fluid">
 
  <li><strong>Tipo 2:</strong>Ideal para prédios comerciais, industriais ou Corpo de
 
@@ -141,7 +141,7 @@ if (isset($breadcrumbs)) {
 
  máxima de trabalho de 1370 KPa (14kgf /cm²);</li>
 
- <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-19.png" class="img-fluid">
 
  <li><strong>Tipo 3:</strong>Por serem mais resistentes à abrasão, as mangueiras combate
 
@@ -149,7 +149,7 @@ if (isset($breadcrumbs)) {
 
  possuem pressão máxima de trabalho de 1470 KPa (15kgf /cm²);</li>
 
- <img src="/assets/img/old-site/panilha-19.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-19.png" class="img-fluid">
 
  <li><strong>Tipo 4:</strong>Por possuir uma alta resistência à abrasão, as mangueiras de
 
@@ -157,7 +157,7 @@ if (isset($breadcrumbs)) {
 
  máxima de trabalho de 1370 KPa (14kgf /cm²);</li>
 
- <img src="/assets/img/old-site/panilha-30.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-30.png" class="img-fluid">
 
  <li><strong>Tipo 5:</strong>Aplicadas apenas às indústrias, essas mangueiras de combate a
 
@@ -165,7 +165,7 @@ if (isset($breadcrumbs)) {
 
  pressão máxima de trabalho de 1370 KPa (14kgf/cm²).</li>
 
- <img src="/assets/img/old-site/panilha-31.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-31.png" class="img-fluid">
 
  </ul>
 

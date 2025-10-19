@@ -7,7 +7,7 @@
 // Configuração da página
 $page_config = array(
     'title' => 'MANGUEIRA DE INCÊNDIO PARA ÁREA RESIDENCIAL - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueiras-de-incendio-para-area-residencial.php',
 );
@@ -26,7 +26,7 @@ $breadcrumbs = array(
 
 $heroConfig = array(
     'title' => 'MANGUEIRA DE INCÊNDIO PARA ÁREA RESIDENCIAL',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h3>Referencia: NBR11861 mangueiras de combate a incêndio.</h3>
 
- <img src="/assets/img/old-site/panilha-29.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-29.png" class="img-fluid">
 
  </div>
 
@@ -127,7 +127,7 @@ if (isset($breadcrumbs)) {
 
  residenciais;</li>
 
- <img src="/assets/img/old-site/panilha-32.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-32.png" class="img-fluid">
 
  <li>Nas duas extremidades da mangueira de incêndio , quando esta está de
 

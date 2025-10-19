@@ -62,7 +62,7 @@ if (isset($breadcrumbs)) {
             <div class="row">
                 <div class="col-12">
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
-                    <img src="<?php echo $heroConfig['image']; ?>" class="img-responsive">
+                    <img src="<?php echo $heroConfig['image']; ?>" class="img-fluid">
                     <article class="text-justify">
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -130,7 +130,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </p>
 <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal">
-<img src="/assets/img/old-site/img502.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img502.png" class="img-fluid" alt="">
 </p>
 <div align="center">
 <hr size="2" align="center" style="width:100%" >
@@ -139,7 +139,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <strong><span >Atenção!!! Perigos de Usar Extintores Tradicionais em Incêndios de </span></strong><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAaSURBVFhH7cEBAQAAAIIg/69uSEAAAADAuRoQIAABnXhJQwAAAABJRU5ErkJggg==" width="32" height="32" alt="Recarga de carros elétricos em Condomínios tem novas regras." ><strong><span >Baterias de Lítio</span></strong>
 </p>
 <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
-<img src="/assets/img/old-site/img503.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img503.png" class="img-fluid" alt="">
 </p>
 <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 <span>Usar extintores de incêndio tradicionais para combater incêndios em </span><strong><span >baterias de lítio</span></strong><span> pode ser </span><strong><span >extremamente perigoso</span></strong><span> e </span><strong><span >ineficaz</span></strong><span>. Esses incêndios possuem um comportamento único, exigindo equipamentos especializados para serem controlados de maneira </span><strong><span >segura</span></strong><span> e </span><strong><span >eficaz</span></strong><span>. A seguir, destacamos os principais </span><strong><span >perigos</span></strong><span> de usar extintores inadequados para esse tipo de fogo:</span>
@@ -324,7 +324,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <span>Incêndios em </span><strong><span >baterias de lítio</span></strong><span> têm uma dinâmica única, devido à </span><strong><span >fuga térmica</span></strong><span>. Quando a bateria é danificada, sobrecarregada ou sofre qualquer tipo de </span><strong><span >dano físico</span></strong><span>, ela pode liberar calor excessivo, o que provoca uma </span><strong><span >reação em cadeia</span></strong><span>. A propagação do fogo se torna extremamente difícil de controlar, principalmente com extintores tradicionais como </span><strong><span >água</span></strong><span> ou </span><strong><span >pó químico seco</span></strong><span>, que podem até agravar a situação.</span>
 </p>
 <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-<img src="/assets/img/old-site/img504.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img504.png" class="img-fluid" alt="">
 </p>
 <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 <span>Os </span><strong><span >extintores especializados para baterias de lítio</span></strong><span> são formulados com </span><strong><span >agentes químicos específicos</span></strong><span> (como o </span><strong><span >fosfato monoamônico</span></strong><span>) que </span><strong><span >interrompem a reação térmica</span></strong><span>, resfriando rapidamente a bateria e impedindo que o incêndio se espalhe para outras células da bateria. Isso permite um </span><strong><span >combate mais seguro e eficaz</span></strong><span> ao fogo, garantindo maior </span><strong><span >proteção</span></strong><span> para o ambiente.</span>
@@ -385,7 +385,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 </ul>
 <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-<img src="/assets/img/old-site/img506.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img506.png" class="img-fluid" alt="">
 </p>
 <div align="center">
 <hr size="2" align="center" style="width:100%" >
@@ -414,7 +414,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 </ul>
 <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-<img src="/assets/img/old-site/img505.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img505.png" class="img-fluid" alt="">
 </p>
 <div align="center">
 <hr size="2" align="center" style="width:100%" >
@@ -544,14 +544,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 <span>Entre em contato e solicite seu orçamento </span><strong><span >personalizado agora mesmo</span></strong><span>! Nossa equipe está pronta para fornecer a solução ideal para proteger sua edificação com </span><strong><span >qualidade e eficiência</span></strong><span>.</span>
 </p>
-<ul type="disc" style="margin:0pt; padding-left:0pt">
-<li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt;  font-size:10pt">
-<span style="font-size:12pt;">📞</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">Telefones</span></strong><span style="font-size:12pt;">: (11) 94025-8669</span>
-</li>
-<li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt;  font-size:10pt">
-<span style="font-size:12pt;">📧</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">E-mail</span></strong><span style="font-size:12pt;">: contato@mangueirasdeincendiobrasil.com.br | hsaseguranca@gmail.com</span>
-</li>
-</ul>
+
 <div align="center">
 <hr size="2" align="center" style="width:100%" >
 </div>
@@ -561,21 +554,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 <span>Na </span><strong><span >BS </span></strong><span>, entendemos a importância da </span><strong><span >proteção contra incêndios</span></strong><span> e estamos aqui para garantir que sua edificação esteja sempre segura, com equipamentos de combate a incêndio de </span><strong><span >excelência</span></strong><span>. Confie em quem entende do assunto e tenha a tranquilidade de saber que sua </span><strong><span >segurança</span></strong><span> está em boas mãos. Compre com quem tem a </span><strong><span >experiência</span></strong><span> e a </span><strong><span >expertise</span></strong><span> para garantir a </span><strong><span >proteção</span></strong><span> de seu patrimônio.</span>
 </p>
-<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
-<span style=" font-size:13pt; color:#444444">&#xa0;</span>
-</p>
-<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
-</p>
-<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
-
-</p>
-<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
-
-</p>
-<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
-
-</p>
 </div>
 </div>
 </section>

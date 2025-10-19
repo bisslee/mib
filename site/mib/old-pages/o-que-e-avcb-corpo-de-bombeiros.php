@@ -7,7 +7,7 @@
 // Configuração da página
 $page_config = array(
     'title' => 'O QUE É AVCB CORPO DE BOMBEIROS - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/o-que-e-avcb-corpo-de-bombeiros.php',
 );
@@ -26,7 +26,7 @@ $breadcrumbs = array(
 
 $heroConfig = array(
     'title' => 'O QUE É AVCB CORPO DE BOMBEIROS',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -83,7 +83,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>O QUE É AVCB CORPO DE BOMBEIROS</strong></h2>
 
- <img src="/assets/img/old-site/panilha-44.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-44.png" class="img-fluid">
 
  <p>No processo de adequação de imóveis e a requisição de documentos que
 

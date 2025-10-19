@@ -73,31 +73,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
 
-<div class="row" style="margin: 0px auto; ">
-
- <div class="col-lg-12 hgroupinternas" style="padding-top:20px; padding-bottom:10px;">
-
- <div class="container ">
-
- <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12" style="padding:20px 0px 20px 0px;">
-
- <h1>Mangueira para Hidrante</h1>
-
- </div>
-
- <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding:20px 0px 20px 0px;">
-
- <p style="text-align:right;"><a href="contato.php" class="btn btn-info" role="button">Solicite um orçamento!</a></p>
-
- </div>
-
- </div>
-
- </div>
-
- </div>
 
  <div class="row" style="margin: 0px auto; ">
 
@@ -105,13 +81,6 @@ if (isset($breadcrumbs)) {
 
  <div class="container ">
 
- <ol class="breadcrumb"><li><a href="index.php">Home</a></li><li><a href="equipamentos-contra-incendio.php">Equipamentos Contra Incêndio</a></li><li><a href="mangueiras-de-incendio.php">Mangueiras de Incêndio</a></li><li class="active">Mangueira para Hidrante</li></ol>
-
- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
- <h2>Mangueira para Hidrante</h2>
-
- </div>
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
@@ -143,7 +112,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-para-industria.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-para-industria.jpg" alt="Mangueira de Incêndio para Indústria" title="Mangueira de Incêndio para Indústria" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-para-industria.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-para-industria.jpg" alt="Mangueira de Incêndio para Indústria" title="Mangueira de Incêndio para Indústria" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -161,7 +130,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-tipo1.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo1.jpg" alt="Mangueiras de Incêndio Tipo 1" title="Mangueiras de Incêndio Tipo 1" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo1.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo1.jpg" alt="Mangueiras de Incêndio Tipo 1" title="Mangueiras de Incêndio Tipo 1" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -183,7 +152,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-tipo2.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo2.jpg" alt="Mangueiras de Incêndio Tipo 2" title="Mangueiras de Incêndio Tipo 2" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo2.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo2.jpg" alt="Mangueiras de Incêndio Tipo 2" title="Mangueiras de Incêndio Tipo 2" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -201,7 +170,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-tipo3.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo3.jpg" alt="Mangueiras de Incêndio Tipo 3" title="Mangueiras de Incêndio Tipo 3" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo3.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo3.jpg" alt="Mangueiras de Incêndio Tipo 3" title="Mangueiras de Incêndio Tipo 3" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -227,8 +196,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
-
+carretel
  </div>
 
  </div>
@@ -239,7 +207,6 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
 
 
                     </article>

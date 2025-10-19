@@ -130,7 +130,7 @@ Economia">
 
             <p style="margin-top:0pt; margin-bottom:10pt">
 
-				<img src="images/img407.png" class="img-responsive" alt="">
+				<img src="images/img407.png" class="img-fluid" alt="">
 
 			</p>
 
@@ -282,7 +282,7 @@ Economia">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
-            <img src="images/img408.png" class="img-responsive" alt="">
+            <img src="images/img408.png" class="img-fluid" alt="">
 
 
 
@@ -458,7 +458,7 @@ Economia">
 
 			<p style="margin-top:0pt; margin-bottom:10pt; text-align:justify">
 
-            <img src="images/img409.png" class="img-responsive" alt="">
+            <img src="images/img409.png" class="img-fluid" alt="">
 
 
 
@@ -632,7 +632,7 @@ Economia">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
-            <img src="images/img410.png" class="img-responsive" alt="">
+            <img src="images/img410.png" class="img-fluid" alt="">
 
 
 
@@ -774,7 +774,7 @@ Economia">
 
 			<p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
 
-            <img src="images/img411.png" class="img-responsive" alt="">
+            <img src="images/img411.png" class="img-fluid" alt="">
 
 			
 
@@ -960,7 +960,7 @@ Economia">
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-            <img src="images/img412.png" class="img-responsive" alt="">
+            <img src="images/img412.png" class="img-fluid" alt="">
 
 
 
@@ -1140,7 +1140,7 @@ Economia">
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-            <img src="images/img413.png" class="img-responsive" alt="">
+            <img src="images/img413.png" class="img-fluid" alt="">
 
 
 

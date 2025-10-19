@@ -7,7 +7,7 @@
 // Configuração da página
 $page_config = array(
     'title' => 'Referencia INSPEÇÃO DE EQUIPAMENTOS DE COMBATE A INCÊNDIO - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/inspecao-de-equipamento-de-combante-a-incendio.php',
 );
@@ -26,7 +26,7 @@ $breadcrumbs = array(
 
 $heroConfig = array(
     'title' => 'Referencia INSPEÇÃO DE EQUIPAMENTOS DE COMBATE A INCÊNDIO',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Referencia: <strong>INSPEÇÃO DE EQUIPAMENTOS DE COMBATE A INCÊNDIO.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-39.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-39.png" class="img-fluid">
 
  </div>
 

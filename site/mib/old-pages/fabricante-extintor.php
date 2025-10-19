@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Fabricante Extintor - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Fabricante de extintor de incêndio: garantindo a segurança com qualidade',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/fabricante-extintor.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Fabricante Extintor',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Fabricante Extintor',
     'description' => 'Fabricante de extintor de incêndio: garantindo a segurança com qualidade',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/planilha-102.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-102.png" class="img-fluid" alt="">
 
  </div>
 

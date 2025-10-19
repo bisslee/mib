@@ -130,7 +130,7 @@ Desempenho para Áreas Comerciais e industriais">
 
             <p style="margin-top:0pt; margin-bottom:10pt">
 
-				<img src="images/img313.png" class="img-responsive" alt="">
+				<img src="images/img313.png" class="img-fluid" alt="">
 
 			</p>
 
@@ -316,7 +316,7 @@ Desempenho para Áreas Comerciais e industriais">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
-                <img src="images/img314.png" class="img-responsive" alt="">
+                <img src="images/img314.png" class="img-fluid" alt="">
 
 
 
@@ -646,7 +646,7 @@ Desempenho para Áreas Comerciais e industriais">
 
 			<p style="margin-top:0pt; margin-bottom:10pt; text-align:justify">
 
-            <img src="images/img315.png" class="img-responsive" alt="">
+            <img src="images/img315.png" class="img-fluid" alt="">
 
 
 
@@ -822,7 +822,7 @@ Desempenho para Áreas Comerciais e industriais">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
-            <img src="images/img316.png" class="img-responsive" alt="">
+            <img src="images/img316.png" class="img-fluid" alt="">
 
 
 
@@ -1014,7 +1014,7 @@ Desempenho para Áreas Comerciais e industriais">
 
 			<p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
 
-            <img src="images/img317.png" class="img-responsive" alt="">
+            <img src="images/img317.png" class="img-fluid" alt="">
 
 
 
@@ -1172,7 +1172,7 @@ Desempenho para Áreas Comerciais e industriais">
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-            <img src="images/img318.png" class="img-responsive" alt="">
+            <img src="images/img318.png" class="img-fluid" alt="">
 
 
 
@@ -1330,7 +1330,7 @@ Desempenho para Áreas Comerciais e industriais">
 
 			<p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
-            <img src="images/img319.png" class="img-responsive" alt="">
+            <img src="images/img319.png" class="img-fluid" alt="">
 
 
 

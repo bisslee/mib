@@ -7,7 +7,7 @@
 // Configuração da página
 $page_config = array(
     'title' => 'Informações técnicas - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/adaptador-storz-para-mangueira-de-incendio.php',
 );
@@ -26,7 +26,7 @@ $breadcrumbs = array(
 
 $heroConfig = array(
     'title' => 'Informações técnicas',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -87,7 +87,7 @@ if (isset($breadcrumbs)) {
 
  <h2><strong>Referencia:. Adaptador storz para mangueira de incêndio.</strong></h2>
 
- <img src="/assets/img/old-site/panilha-57.png" class="img-responsive"> 
+ <img src="/assets/img/old-site/panilha-57.png" class="img-fluid"> 
 
  </div>
 

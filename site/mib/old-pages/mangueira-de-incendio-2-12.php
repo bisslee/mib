@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <h1>Mangueira de Incêndio 2 1/2" (2.5) – A Melhor Opção para Proteger Seu Patrimônio</h1>
 
- <img src="/assets/img/old-site/img1003.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img1003.png" class="img-fluid" alt="">
 
  <p>Na BS , oferecemos a mangueira de incêndio 2 1/2" (2.5) ideal para indústrias, comércios e grandes instalações, combinando alta durabilidade, desempenho e segurança.</p>
 
@@ -125,7 +125,7 @@ if (isset($breadcrumbs)) {
 
  </ul>
 
- <img src="/assets/img/old-site/img1004.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img1004.png" class="img-fluid" alt="">
 
  <h2>📚 Treinamento Obrigatório</h2>
 
@@ -171,7 +171,7 @@ if (isset($breadcrumbs)) {
 
  </ul>
 
- <img src="/assets/img/old-site/img1005.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img1005.png" class="img-fluid" alt="">
 
  <h2>🛡️ Por Que Comprar com a BS ?</h2>
 
@@ -231,7 +231,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Mangueira Tipo 2 (Superflex)</h2>
 
- <img src="/assets/img/old-site/img1006.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img1006.png" class="img-fluid" alt="">
 
  <p>Ideal para edificações comerciais e industriais com alta resistência.</p>
 
@@ -247,7 +247,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Mangueira Tipo 3 (Capa Dupla)</h2>
 
- <img src="/assets/img/old-site/img1007.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img1007.png" class="img-fluid" alt="">
 
  <ul>
 
@@ -259,7 +259,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Mangueira Tipo 4 (Plastflex)</h2>
 
- <img src="/assets/img/old-site/img1008.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img1008.png" class="img-fluid" alt="">
 
  <ul>
 
@@ -271,7 +271,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Mangueira Tipo 5 (Ruberflex)</h2>
 
- <img src="/assets/img/old-site/img1008.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img1008.png" class="img-fluid" alt="">
 
  <ul>
 

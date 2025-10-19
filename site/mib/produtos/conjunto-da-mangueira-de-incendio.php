@@ -62,7 +62,7 @@ include '../includes/breadcrumb.php';
 
                         <div class="row mt-4">
                             <div class="col-12">
-                            <img class="img-responsive" src="/assets/img/old-site/conjunto-da-mangueira-de-incendio.jpg" alt="Conjunto da Mangueira de Incêndio" title="Conjunto da Mangueira de Incêndio" style="margin:0px auto;">
+                            <img class="img-fluid" src="/assets/img/old-site/conjunto-da-mangueira-de-incendio.jpg" alt="Conjunto da Mangueira de Incêndio" title="Conjunto da Mangueira de Incêndio" style="margin:0px auto;">
                             </div>
                         </div>
                         <div class="row mt-4">

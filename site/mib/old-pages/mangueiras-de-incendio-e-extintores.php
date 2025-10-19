@@ -6,8 +6,8 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueiras de Incêndio e Extintores - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueiras-de-incendio-e-extintores.php',
 );
@@ -20,13 +20,13 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Mangueiras de Incêndio e Extintores',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueiras de Incêndio e Extintores',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -65,14 +65,6 @@ if (isset($breadcrumbs)) {
                     <article class="text-justify">
 
 
- <!-- Google Tag Manager (noscript) -->
-
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
- height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
- <!-- End Google Tag Manager (noscript) -->
-
  <section class="container">
 
  <div class="row"> 
@@ -81,7 +73,7 @@ if (isset($breadcrumbs)) {
 
  <h3 style="margin-top:2pt; margin-bottom:0pt; page-break-inside:avoid; page-break-after:avoid; line-height:115%; font-size:13.5pt">
 
- <img src="/assets/img/old-site/img507.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img507.png" class="img-fluid" alt="">
 
  </h3>
 
@@ -109,11 +101,6 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-
- <strong><span >Acesse nosso site</span></strong><span> </span><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><u><span style="color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></a><span> e veja todos os nossos produtos de combate a incêndios.</span>
-
- </p>
 
  <div align="center">
 
@@ -245,7 +232,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <img src="/assets/img/old-site/img508.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img508.png" class="img-fluid" alt="">
 
  </p>
 
@@ -431,38 +418,6 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt">
 
- <strong><span >Solicite Seu Orçamento Agora!</span></strong>
-
- </p>
-
- <ul type="disc" style="margin:0pt; padding-left:0pt">
-
- <li style="margin-top:14pt; margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <span style="font-family:'Segoe UI Symbol'; font-size:12pt">📞</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">WhatsApp</span></strong><span style="font-size:12pt;">: (11) 95025-8669</span>
-
- </li>
-
- <li style="margin-left:27.6pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <span style="font-family:'Segoe UI Symbol'; font-size:12pt">📧</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">E-mail</span></strong><span style="font-size:12pt;">: contato@mangueirasdeincendiobrasil.com.br</span>
-
- </li>
-
- <li style="margin-left:27.6pt; margin-bottom:14pt; line-height:normal; padding-left:8.4pt; font-size:10pt">
-
- <span style="font-family:'Segoe UI Symbol'; font-size:12pt">🌐</span><span style="font-size:12pt;"> </span><strong><span style="font-size:12pt;">Visite o site</span></strong><span style="font-size:12pt;">: </span><a href="http://www.mangueirasdeincendiobrasil.com.br" target="_new" style="text-decoration:none"><u><span style="font-size:12pt; color:#0000ff">www.mangueirasdeincendiobrasil.com.br</span></u></a>
-
- </li>
-
- </ul>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
-
- 
-
- </p>
-
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:18pt">
 
  <strong><span >Por que Escolher a BS ?</span></strong>
@@ -508,26 +463,6 @@ if (isset($breadcrumbs)) {
  <strong><span >Compre com quem entende de segurança contra incêndios</span></strong><span>. A </span><strong><span >BS </span></strong><span> oferece o que há de melhor em </span><strong><span >equipamentos de combate a incêndios</span></strong><span>, sempre com qualidade e confiança.</span>
 
  </p>
-
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
-
- 
-
- </p>
-
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
-
- 
-
- </p>
-
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
-
- 
-
- </p>
-
- <br><br>
 
  </div>
 

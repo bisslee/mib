@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -123,7 +122,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-1.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-1.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incêndio portátil água pressurizada 10 litros <br> <strong>Capacidade Extintora:</strong> 2A </p>
 
@@ -135,7 +134,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-2.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-2.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio portatil pó quimico classe BC 4 kg <br> <strong>Capacidade Extintora:</strong> 20 BC </p>
 
@@ -147,7 +146,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-3.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-3.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio portatil pó quimico classe ABC 4 Kg <br> <strong>Capacidade Extintora:</strong> 2A 20 BC.</p>
 
@@ -159,7 +158,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-4.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-4.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio portatil pó quimico classe B C 6 Kg <br> <strong>Capacidade Extintora:</strong> 20 BC. </p>
 
@@ -175,7 +174,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-5.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-5.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio portatil pó quimico classe ABC 6 Kg <br> <strong>Capacidade Extintora:</strong> 3A 20 BC. </p>
 
@@ -187,7 +186,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-6.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-6.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio portatil pó quimico classe ABC 8 kg <br> <strong>Capacidade Extintora:</strong> 4A 40BC . </p>
 
@@ -199,7 +198,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-7.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-7.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio pó quimico classe BC 8 kg <br> <strong>Capacidade Extintora:</strong> 40BC. </p>
 
@@ -211,7 +210,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-8.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-8.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio portatil pó quimico classe ABC 12 kg <br> <strong>Capacidade Extintora:</strong> 6A 40BC. </p>
 
@@ -223,7 +222,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-9.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-9.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio portatil portatil pó quimico classe BC 12 kg <br> <strong>Capacidade Extintora:</strong> 40BC. </p>
 
@@ -235,7 +234,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-10.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-10.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio portatil solução aquosa de acetato de potassio classe K 10 litros <br> <strong>Capacidade Extintora:</strong> 13ª 75F/2º K </p>
 
@@ -247,7 +246,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-11.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-11.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio portatil a base de espuma mecânica 10 litros <br> <strong>Capacidade Extintora:</strong> 2A 10B </p>
 
@@ -259,7 +258,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-12.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-12.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio portatil a base de co2 4 Kg c<br> <strong>Capacidade Extintora:</strong> 5 BC </p>
 
@@ -275,7 +274,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#ff8000; color:#fff; min-height:300px;">
 
- <img src="/assets/img/old-site/extintor-de-incendio-portatil-13.jpg" class="img-responsive" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
+ <img src="/assets/img/old-site/extintor-de-incendio-portatil-13.jpg" class="img-fluid" alt="Extintor de incêndio portátil" title="Extintor de incêndio portátil">
 
  <p>Extintor de incendio portatil a base de co2 6 Kg <br> <strong>Capacidade Extintora:</strong> 5 BC </p>
 
@@ -301,7 +300,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-a-base-de-agua.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-a-base-de-agua.jpg" alt="Extintor de Incêndio a base de água" title="Extintor de Incêndio a base de água" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-a-base-de-agua.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-a-base-de-agua.jpg" alt="Extintor de Incêndio a base de água" title="Extintor de Incêndio a base de água" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -319,7 +318,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-po-quimico.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-po-quimico.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -341,7 +340,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-po-quimico-seco.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de Incêndio Pó Químico Seco" title="Extintor de Incêndio Pó Químico Seco" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-po-quimico-seco.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de Incêndio Pó Químico Seco" title="Extintor de Incêndio Pó Químico Seco" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -359,7 +358,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-para-condominio.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-para-condominio.jpg" alt="Extintor de Incêndio para Condomínio" title="Extintor de Incêndio para Condomínio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-para-condominio.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-para-condominio.jpg" alt="Extintor de Incêndio para Condomínio" title="Extintor de Incêndio para Condomínio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -387,7 +386,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -399,8 +398,7 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>

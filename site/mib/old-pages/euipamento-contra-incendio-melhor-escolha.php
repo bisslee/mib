@@ -6,8 +6,8 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'title' => 'Equipamento contra Incêndio Melhor Escolha - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/euipamento-contra-incendio-melhor-escolha.php',
 );
@@ -20,13 +20,13 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Equipamento contra Incêndio Melhor Escolha',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
-    'description' => 'Descrição da página',
+    'title' => 'Equipamento contra Incêndio Melhor Escolha',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -79,7 +79,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
- <img src="/assets/img/old-site/img-134.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img-134.png" class="img-fluid" alt="">
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:14pt">
 
@@ -99,7 +99,7 @@ if (isset($breadcrumbs)) {
 
  </p>
 
- <img src="/assets/img/old-site/img-135.png" alt="">
+ <img src="/assets/img/old-site/img-135.png" class="img-fluid" alt="">
 
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:16pt">
 

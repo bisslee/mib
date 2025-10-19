@@ -61,7 +61,7 @@ include '../includes/breadcrumb.php';
 
                         <div class="row mt-4">
                             <div class="col-12">
-                            <img class="img-responsive" src="/assets/img/old-site/valvulas.jpg" alt="Válvulas" title="Válvulas" style="margin:0px auto;">
+                            <img class="img-fluid" src="/assets/img/old-site/valvulas.jpg" alt="Válvulas" title="Válvulas" style="margin:0px auto;">
                             </div>
                         </div>
 

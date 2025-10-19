@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Mangueira de Bombeiro - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Referência: Mangueira de Bombeiro',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueira-de-bombeiro.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Mangueira de Bombeiro',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Mangueira de Bombeiro',
     'description' => 'Referência: Mangueira de Bombeiro',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/planilha-81.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-81.png" class="img-fluid" alt="">
 
  </div>
 
@@ -179,7 +179,7 @@ equipamentos de segurança, é preciso procurar por empresas especializadas.</p>
 
 sem deixar de lado a qualidade.</P>
 
-<img src="img/planilha-82.png" class="img-responsive" alt="">
+<img src="img/planilha-82.png" class="img-fluid" alt="">
 
 <p><strong>Tipo 1 (Predyflex)</strong></p>
 
@@ -235,7 +235,7 @@ sem deixar de lado a qualidade.</P>
 
  </div>
 
- <img src="img/planilha-83.png" class="img-responsive" alt="">
+ <img src="img/planilha-83.png" class="img-fluid" alt="">
 
  <p><strong>Tipo 2 (Superflex)</strong></p>
 
@@ -293,7 +293,7 @@ Bombeiros.</td>
 
  </div>
 
- <img src="img/planilha-84.png" class="img-responsive" alt="">
+ <img src="img/planilha-84.png" class="img-fluid" alt="">
 
  <p><strong>Tipo 3 (Superflex Capa Dupla)</strong></p>
 
@@ -349,7 +349,7 @@ Bombeiros.</td>
 
  </div>
 
- <img src="img/planilha-85.png" class="img-responsive" alt="">
+ <img src="img/planilha-85.png" class="img-fluid" alt="">
 
  <p><strong>Tipo 4 (Plastflex)</strong></p>
 
@@ -407,7 +407,7 @@ Bombeiros.</td>
 
  </div>
 
- <img src="img/planilha-86.png" class="img-responsive" alt="">
+ <img src="img/planilha-86.png" class="img-fluid" alt="">
 
  <p><strong>Tipo 5 (Ruberflex)</strong></p>
 

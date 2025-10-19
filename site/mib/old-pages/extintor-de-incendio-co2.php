@@ -65,27 +65,11 @@ if (isset($breadcrumbs)) {
                     <article class="text-justify">
 
 
- <!-- Google Tag Manager (noscript) -->
-
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
- height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
- <!-- End Google Tag Manager (noscript) -->
-
- <?php include ('includes/header.php'); ?> 
-
 <div class="row" style="margin: 0px auto; ">
 
  <div class="col-lg-12 hgroupinternas" style="padding-top:20px; padding-bottom:10px;">
 
  <div class="container ">
-
- <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12" style="padding:20px 0px 20px 0px;">
-
- <h1>Extintor de incêndio CO2</h1>
-
- </div>
 
  <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12" style="padding:20px 0px 20px 0px;">
 
@@ -104,14 +88,6 @@ if (isset($breadcrumbs)) {
  <div class="col-lg-12">
 
  <div class="container ">
-
- <ol class="breadcrumb"><li><a href="index.php">Home</a></li><li><a href="equipamentos-contra-incendio.php">Equipamentos Contra Incêndio</a></li><li><a href="extintores-de-incendio.php">Extintores de incêndio</a></li><li class="active">Extintor de Incêndio CO2</li></ol>
-
- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
- <h2>Extintor de incêndio CO2</h2>
-
- </div>
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
 
@@ -135,7 +111,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-a-base-de-agua.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-a-base-de-agua.jpg" alt="Extintor de Incêndio a base de água" title="Extintor de Incêndio a base de água" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-a-base-de-agua.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-a-base-de-agua.jpg" alt="Extintor de Incêndio a base de água" title="Extintor de Incêndio a base de água" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -153,7 +129,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-po-quimico.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-po-quimico.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico.jpg" alt="Extintor de Incêndio Pó Químico" title="Extintor de Incêndio Pó Químico" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -175,7 +151,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-po-quimico-seco.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de Incêndio Pó Químico Seco" title="Extintor de Incêndio Pó Químico Seco" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-po-quimico-seco.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-po-quimico-seco.jpg" alt="Extintor de Incêndio Pó Químico Seco" title="Extintor de Incêndio Pó Químico Seco" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -193,7 +169,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="extintor-de-incendio-para-condominio.php"><img class="img-responsive" src="/assets/img/old-site/extintor-de-incendio-para-condominio.jpg" alt="Extintor de Incêndio para Condomínio" title="Extintor de Incêndio para Condomínio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintor-de-incendio-para-condominio.php"><img class="img-fluid" src="/assets/img/old-site/extintor-de-incendio-para-condominio.jpg" alt="Extintor de Incêndio para Condomínio" title="Extintor de Incêndio para Condomínio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -221,7 +197,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -233,8 +209,7 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>
@@ -243,7 +218,4 @@ if (isset($breadcrumbs)) {
     </section>
 </main>
 
-<?php
-// Incluir footer
-include '../includes/footer.php';
-?>
+<?php include '../includes/footer.php'; ?>

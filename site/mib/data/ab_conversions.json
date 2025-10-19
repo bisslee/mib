@@ -1,33 +1,23 @@
 [
     {
-        "test_id": "header_navigation",
+        "test_id": "contact_form",
         "variant": "control",
         "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/index.php",
-        "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.5 Mobile\/15E148 Safari\/604.1 Edg\/140.0.0.0",
+        "page_url": "http:\/\/localhost:8133\/contact.php",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
         "ip_address": "::1",
-        "timestamp": "2025-09-16 12:58:43",
-        "user_id": "user_68c98933e10c02.10173072"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/index.php",
-        "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.5 Mobile\/15E148 Safari\/604.1 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-16 12:58:45",
-        "user_id": "user_68c9893514e246.55897357"
+        "timestamp": "2025-09-26 15:06:57",
+        "user_id": "user_68d6d6417bfcd4.15268231"
     },
     {
         "test_id": "header_navigation",
         "variant": "control",
         "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/index.php",
-        "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.5 Mobile\/15E148 Safari\/604.1 Edg\/140.0.0.0",
+        "page_url": "http:\/\/localhost:8133\/contact.php",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
         "ip_address": "::1",
-        "timestamp": "2025-09-16 12:58:45",
-        "user_id": "user_68c9893514fe59.34682836"
+        "timestamp": "2025-09-26 15:06:57",
+        "user_id": "user_68d6d64187d785.37108425"
     },
     {
         "test_id": "contact_form",
@@ -36,8 +26,8 @@
         "page_url": "http:\/\/localhost:8133\/contact.php",
         "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
         "ip_address": "::1",
-        "timestamp": "2025-09-19 11:14:00",
-        "user_id": "user_68cd652864ebb7.45887836"
+        "timestamp": "2025-09-26 15:07:38",
+        "user_id": "user_68d6d66a525930.31601941"
     },
     {
         "test_id": "header_navigation",
@@ -46,588 +36,37 @@
         "page_url": "http:\/\/localhost:8133\/contact.php",
         "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
         "ip_address": "::1",
-        "timestamp": "2025-09-19 11:14:00",
-        "user_id": "user_68cd65288ed279.21314382"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "whatsapp_click",
-        "page_url": "http:\/\/localhost:8133\/index.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-19 11:20:10",
-        "user_id": "user_68cd669a1dc119.41524713"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "whatsapp_click",
-        "page_url": "http:\/\/localhost:8133\/index.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-19 11:20:10",
-        "user_id": "user_68cd669a1dea84.58470494"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/index.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 11:19:35",
-        "user_id": "user_68ceb7f7490fb7.42519852"
+        "timestamp": "2025-09-26 15:07:38",
+        "user_id": "user_68d6d66a538a61.48483876"
     },
     {
         "test_id": "header_navigation",
         "variant": "control",
         "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/index.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 11:19:35",
-        "user_id": "user_68ceb7f7716f26.27194858"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/index.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 11:19:55",
-        "user_id": "user_68ceb80bb1aa51.03114229"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/index.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 11:20:12",
-        "user_id": "user_68ceb81c1a3be8.68011118"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/index.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 11:20:12",
-        "user_id": "user_68ceb81c1a4656.26944355"
-    },
-    {
-        "test_id": "contact_form",
-        "variant": "control",
-        "goal": "whatsapp_click",
         "page_url": "http:\/\/localhost:8133\/contact.php",
         "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
         "ip_address": "::1",
-        "timestamp": "2025-09-20 11:29:14",
-        "user_id": "user_68ceba3a9f7957.84894148"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "whatsapp_click",
-        "page_url": "http:\/\/localhost:8133\/contact.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 11:29:14",
-        "user_id": "user_68ceba3aaf01e6.44898378"
-    },
-    {
-        "test_id": "contact_form",
-        "variant": "control",
-        "goal": "whatsapp_click",
-        "page_url": "http:\/\/localhost:8133\/contact.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 11:29:35",
-        "user_id": "user_68ceba4fbcdfd7.47472868"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "whatsapp_click",
-        "page_url": "http:\/\/localhost:8133\/contact.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 11:29:35",
-        "user_id": "user_68ceba4fbcee79.11963076"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "whatsapp_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/mangueiras-de-incendio-na-grande-sp.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 12:15:21",
-        "user_id": "user_68cec5094fb019.46398584"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "whatsapp_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/mangueiras-de-incendio-na-grande-sp.php",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 12:15:56",
-        "user_id": "user_68cec52c7e4653.22978457"
+        "timestamp": "2025-09-26 15:07:44",
+        "user_id": "user_68d6d6706a5de5.76006477"
     },
     {
         "test_id": "homepage_cta",
         "variant": "control",
         "goal": "button_click",
         "page_url": "http:\/\/localhost:8133\/",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G955U Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
         "ip_address": "::1",
-        "timestamp": "2025-09-20 16:54:41",
-        "user_id": "user_68cf0681e66b53.25268184"
+        "timestamp": "2025-10-06 17:03:34",
+        "user_id": "user_68e420962a8ae9.69761048"
     },
     {
         "test_id": "header_navigation",
         "variant": "control",
         "goal": "button_click",
         "page_url": "http:\/\/localhost:8133\/",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G955U Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 16:54:42",
-        "user_id": "user_68cf068201ca57.82731997"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/informacoes-tecnicas-mangueiras-incendio.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G955U Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 16:55:33",
-        "user_id": "user_68cf06b51e00c5.49297487"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/luzes-de-emergencia-led.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G955U Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-20 16:58:26",
-        "user_id": "user_68cf0762a1b5c4.09154523"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/luzes-de-emergencia-led.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 11:57:41",
-        "user_id": "user_68d01265952e81.39114201"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/informacoes-tecnicas-mangueiras-incendio.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 11:58:02",
-        "user_id": "user_68d0127ad8b3a8.62104514"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/dicas-de-cuidados-mangueira-de-incendio.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:01:38",
-        "user_id": "user_68d01352985663.74669016"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/fabricante-de-mangueiras-de-incendio-em-sao-paulo.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:01:51",
-        "user_id": "user_68d0135f46b6b1.35961300"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/fabricante-de-mangueiras-de-incendio-em-sao-paulo.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:02:01",
-        "user_id": "user_68d013696eddd8.99089738"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/mangueiras-de-incendio-certificada.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:02:18",
-        "user_id": "user_68d0137a0c4f62.27081255"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/mangueiras-de-incendio-na-grande-sp.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:02:32",
-        "user_id": "user_68d01388af9465.60663849"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/mangueiras-de-incendio-para-area-residencial.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:02:46",
-        "user_id": "user_68d01396776866.25390795"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/validade-da-mangueira-de-incendio.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:03:00",
-        "user_id": "user_68d013a4df1df0.31878482"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/old-pages\/tipos-de-mangueira-de-combate-a-incendio.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:03:49",
-        "user_id": "user_68d013d52c5af0.48699445"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/old-pages\/o-que-e-avcb-corpo-de-bombeiros.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:09:46",
-        "user_id": "user_68d0153a0836f8.10208132"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/luzes-de-emergencia-led.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:10:11",
-        "user_id": "user_68d01553449c91.54293299"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/dicas-de-cuidados-mangueira-de-incendio.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:10:20",
-        "user_id": "user_68d0155c24e095.79599307"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:23:15",
-        "user_id": "user_68d01863ba3ff7.79335996"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-G981B) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:23:15",
-        "user_id": "user_68d01863d461e1.68136990"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
         "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
         "ip_address": "::1",
-        "timestamp": "2025-09-21 12:33:42",
-        "user_id": "user_68d01ad664eeb6.15737639"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:33:42",
-        "user_id": "user_68d01ad68ad206.33748920"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:33:47",
-        "user_id": "user_68d01adb7dae89.40112019"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:33:47",
-        "user_id": "user_68d01adb7ddbe5.91100275"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:33:52",
-        "user_id": "user_68d01ae0a498e3.71293041"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:33:52",
-        "user_id": "user_68d01ae0a4b868.70730890"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:33:57",
-        "user_id": "user_68d01ae5bee6a8.82233950"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:33:57",
-        "user_id": "user_68d01ae5bf6620.78222832"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:02",
-        "user_id": "user_68d01aea8604f7.79852726"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:02",
-        "user_id": "user_68d01aea862989.90019996"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:05",
-        "user_id": "user_68d01aedbf5f43.55880037"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:05",
-        "user_id": "user_68d01aedbf8b96.18167472"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:09",
-        "user_id": "user_68d01af1108fe3.85101436"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:09",
-        "user_id": "user_68d01af110c123.50703755"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:14",
-        "user_id": "user_68d01af6096660.34171918"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:14",
-        "user_id": "user_68d01af609a801.29166937"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:18",
-        "user_id": "user_68d01afa0ffee0.46504500"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:18",
-        "user_id": "user_68d01afa1019f7.50668155"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:21",
-        "user_id": "user_68d01afdda09b1.53636023"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:21",
-        "user_id": "user_68d01afdda30e5.74840669"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:34",
-        "user_id": "user_68d01b0a849897.14203039"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:34",
-        "user_id": "user_68d01b0a84c158.40674909"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:38",
-        "user_id": "user_68d01b0e35ef50.14300657"
-    },
-    {
-        "test_id": "header_navigation",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:34:38",
-        "user_id": "user_68d01b0e362973.94288941"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:35:03",
-        "user_id": "user_68d01b27902ce8.52195112"
-    },
-    {
-        "test_id": "homepage_cta",
-        "variant": "control",
-        "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/informacoes-tecnicas\/",
-        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
-        "ip_address": "::1",
-        "timestamp": "2025-09-21 12:37:31",
-        "user_id": "user_68d01bbbc172a5.92856327"
+        "timestamp": "2025-10-06 17:03:34",
+        "user_id": "user_68e420963cf248.51827525"
     }
-]  }
 ]

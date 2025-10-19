@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Esguicho Regulável em Alumínio - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'SAIBA COMO FUNCIONA O ESGUICHO REGULÁVEL EM ALUMÍNIO',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/esguicho-regulavel-em-aluminio.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Esguicho Regulável em Alumínio',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Esguicho Regulável em Alumínio',
     'description' => 'SAIBA COMO FUNCIONA O ESGUICHO REGULÁVEL EM ALUMÍNIO',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/planilha-61.png" alt="">
+ <img src="/assets/img/old-site/planilha-61.png" class="img-fluid" alt="">
 
  </div>
 

@@ -7,7 +7,7 @@
 // Configuração da página
 $page_config = array(
     'title' => 'Referencia NBR11861 mangueiras de combate a incêndio - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueira-de-incendio-para-condominio.php',
 );
@@ -26,7 +26,7 @@ $breadcrumbs = array(
 
 $heroConfig = array(
     'title' => 'Referencia NBR11861 mangueiras de combate a incêndio',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -85,7 +85,7 @@ if (isset($breadcrumbs)) {
 
  <h2>Referencia: NBR11861 mangueiras de combate a incêndio.</h2>
 
- <img src="/assets/img/old-site/panilha-43.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-43.png" class="img-fluid">
 
  </div>
 
@@ -93,7 +93,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/panilha-45.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-45.png" class="img-fluid">
 
  </div>
 
@@ -149,7 +149,7 @@ if (isset($breadcrumbs)) {
 
  <div align="center">
 
- <img src="/assets/img/old-site/panilha-47.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-47.png" class="img-fluid">
 
  </div>
 

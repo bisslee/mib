@@ -6,8 +6,8 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueiras de Incêndio para Venda - MIB | Mangueiras de Incêndio Brasil',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueiras-de-incendio-para-venda.php',
 );
@@ -20,13 +20,13 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Mangueiras de Incêndio para Venda',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
-    'description' => 'Descrição da página',
+    'title' => 'Mangueiras de Incêndio para Venda',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:10pt">
 
- <img src="/assets/img/old-site/img901.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img901.png" class="img-fluid" alt="">
 
  </p>
 
@@ -275,11 +275,6 @@ if (isset($breadcrumbs)) {
 
  </ul>
 
- <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
-
- <span>Seja para </span><strong><span >residências</span></strong><span>, </span><strong><span >condomínios</span></strong><span> ou </span><strong><span >grandes instalações comerciais e industriais</span></strong><span>, temos o </span><strong><span >modelo ideal</span></strong><span> para atender às suas necessidades de segurança e combate a incêndio.</span>
-
- </p>
 
  <div align="center">
 
@@ -290,12 +285,6 @@ if (isset($breadcrumbs)) {
  <p style="margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt">
 
  <strong><span >BS </span></strong><span> é a sua parceira ideal para garantir a proteção necessária contra incêndios. Entre em contato conosco para mais informações e para </span><strong><span >solicitar um orçamento personalizado</span></strong><span>.</span>
-
- </p>
-
- <p style="margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt">
-
- <span>______________________________________________________________________</span>
 
  </p>
 
@@ -539,7 +528,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:10pt; text-align:justify; line-height:115%; font-size:12pt">
 
- <img src="/assets/img/old-site/img902.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img902.png" class="img-fluid" alt="">
 
  </p>
 
@@ -599,7 +588,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img903.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img903.png" class="img-fluid" alt="">
 
  </p>
 
@@ -665,7 +654,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:10pt; line-height:15pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img904.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img904.png" class="img-fluid" alt="">
 
  </p>
 
@@ -725,7 +714,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img905.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img905.png" class="img-fluid" alt="">
 
  </p>
 
@@ -791,7 +780,7 @@ if (isset($breadcrumbs)) {
 
  <p style="margin-top:0pt; margin-bottom:0pt; line-height:19.2pt; background-color:#ffffff">
 
- <img src="/assets/img/old-site/img906.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/img906.png" class="img-fluid" alt="">
 
  </p>
 

@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -119,7 +118,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
- <img class="img-responsive" src="/assets/img/old-site/esguicho-agulheta.jpg" alt="Esguicho Agulheta" title="Esguicho Agulheta" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/esguicho-agulheta.jpg" alt="Esguicho Agulheta" title="Esguicho Agulheta" style="margin:0px auto;">
 
  </div>
 
@@ -141,7 +140,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="esguicho-de-bombeiro.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-de-bombeiro.jpg" alt="Esguicho de Bombeiro" title="Esguicho de Bombeiro" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="esguicho-de-bombeiro.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-de-bombeiro.jpg" alt="Esguicho de Bombeiro" title="Esguicho de Bombeiro" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -159,7 +158,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="esguicho-de-combate-a-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-de-combate-a-incendio.jpg" alt="Esguicho de Combate a Incêndio" title="Esguicho de Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="esguicho-de-combate-a-incendio.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-de-combate-a-incendio.jpg" alt="Esguicho de Combate a Incêndio" title="Esguicho de Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -181,7 +180,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="esguicho-jato-solido.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-jato-solido.jpg" alt="Esguicho Jato Sólido" title="Esguicho Jato Sólido" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="esguicho-jato-solido.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-jato-solido.jpg" alt="Esguicho Jato Sólido" title="Esguicho Jato Sólido" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -199,7 +198,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="esguicho-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguicho-para-mangueira-de-incendio.jpg" alt="Esguicho para Mangueira de Incêndio" title="Esguicho para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="esguicho-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/esguicho-para-mangueira-de-incendio.jpg" alt="Esguicho para Mangueira de Incêndio" title="Esguicho para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -227,7 +226,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -239,8 +238,7 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>

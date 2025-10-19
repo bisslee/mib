@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -119,7 +118,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center;">
 
- <img class="img-responsive" src="/assets/img/old-site/mangueiras-de-incendio.jpg" class="img-responsive" alt="Mangueiras de incêndio" title="Mangueiras de incêndio" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/mangueiras-de-incendio.jpg" class="img-fluid" alt="Mangueiras de incêndio" title="Mangueiras de incêndio" style="margin:0px auto;">
 
  </div>
 
@@ -139,7 +138,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="mangueira-de-incendio-para-predio.php" style="color:#fff; margin:0px;">Mangueira de Incêndio para Prédio</a></h2>
 
- <a href="mangueira-de-incendio-para-predio.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-para-predio.jpg" alt="Mangueira de Incêndio para Prédio" title="Mangueira de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-para-predio.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-para-predio.jpg" alt="Mangueira de Incêndio para Prédio" title="Mangueira de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -159,7 +158,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="mangueira-de-incendio-para-industria.php" style="color:#fff; margin:0px;">Mangueira de Incêndio para Indústria</a></h2>
 
- <a href="mangueira-de-incendio-para-industria.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-para-industria.jpg" alt="Mangueira de Incêndio para Indústria" title="Mangueira de Incêndio para Indústria" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-para-industria.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-para-industria.jpg" alt="Mangueira de Incêndio para Indústria" title="Mangueira de Incêndio para Indústria" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -179,7 +178,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="mangueira-de-incendio-tipo1.php" style="color:#fff; margin:0px;">Mangueira de Incêndio Tipo 1</a></h2>
 
- <a href="mangueira-de-incendio-tipo1.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo1.jpg" alt="Mangueira de Incêndio Tipo 1" title="Mangueira de Incêndio Tipo 1" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo1.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo1.jpg" alt="Mangueira de Incêndio Tipo 1" title="Mangueira de Incêndio Tipo 1" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -203,7 +202,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="mangueira-de-incendio-tipo2.php" style="color:#fff; margin:0px;">Mangueira de Incêndio Tipo 2</a></h2>
 
- <a href="mangueira-de-incendio-tipo2.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo2.jpg" alt="Mangueira de Incêndio Tipo 2" title="Mangueira de Incêndio Tipo 2" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo2.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo2.jpg" alt="Mangueira de Incêndio Tipo 2" title="Mangueira de Incêndio Tipo 2" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -223,7 +222,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="mangueira-de-incendio-tipo3.php" style="color:#fff; margin:0px;">Mangueira de Incêndio Tipo 3</a></h2>
 
- <a href="mangueira-de-incendio-tipo3.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo3.jpg" alt="Mangueira de Incêndio Tipo 3" title="Mangueira de Incêndio Tipo 3" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo3.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo3.jpg" alt="Mangueira de Incêndio Tipo 3" title="Mangueira de Incêndio Tipo 3" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -243,7 +242,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="mangueira-de-incendio-tipo4.php" style="color:#fff; margin:0px;">Mangueira de Incêndio Tipo 4</a></h2>
 
- <a href="mangueira-de-incendio-tipo4.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo4.jpg" alt="Mangueira de Incêndio Tipo 4" title="Mangueira de Incêndio Tipo 4" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo4.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo4.jpg" alt="Mangueira de Incêndio Tipo 4" title="Mangueira de Incêndio Tipo 4" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -267,7 +266,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="mangueira-de-incendio-tipo5.php" style="color:#fff; margin:0px;">Mangueira de Incêndio Tipo 5</a></h2>
 
- <a href="mangueira-de-incendio-tipo5.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo5.jpg" alt="Mangueira de Incêndio Tipo 5" title="Mangueira de Incêndio Tipo 5" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo5.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo5.jpg" alt="Mangueira de Incêndio Tipo 5" title="Mangueira de Incêndio Tipo 5" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -287,7 +286,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="mangueira-para-hidrante.php" style="color:#fff; margin:0px;">Mangueira para Hidrante</a></h2>
 
- <a href="mangueira-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-para-hidrante.jpg" alt="Mangueira para Hidrante" title="Mangueira para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-para-hidrante.jpg" alt="Mangueira para Hidrante" title="Mangueira para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -319,7 +318,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; min-height:230px; ">
 
- <a href="extintores-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/extintores-de-incendio.jpg" alt="Extintores de Incêndio" title="Extintores de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="extintores-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/extintores-de-incendio.jpg" alt="Extintores de Incêndio" title="Extintores de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -337,7 +336,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="esguichos-para-equipamentos-contra-incendio.php"><img class="img-responsive" src="/assets/img/old-site/esguichos-para-equipamentos-contra-incendio.jpg" alt="Esguichos" title="Esguichos" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="esguichos-para-equipamentos-contra-incendio.php"><img class="img-fluid" src="/assets/img/old-site/esguichos-para-equipamentos-contra-incendio.jpg" alt="Esguichos" title="Esguichos" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -359,7 +358,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="canhao-monitor-de-combate-a-incendio.php"><img class="img-responsive" src="/assets/img/old-site/canhao-monitor-de-combate-a-incendio.jpg" alt="Canhão Monitor para Combate a Incêndio" title="Canhão Monitor para Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="canhao-monitor-de-combate-a-incendio.php"><img class="img-fluid" src="/assets/img/old-site/canhao-monitor-de-combate-a-incendio.jpg" alt="Canhão Monitor para Combate a Incêndio" title="Canhão Monitor para Combate a Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -377,7 +376,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="derivante-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/derivante-para-mangueira-de-incendio.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="derivante-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/derivante-para-mangueira-de-incendio.jpg" alt="Derivante para Mangueira de Incêndio" title="Derivante para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -403,7 +402,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -415,8 +414,7 @@ Podemos Classificar as <strong>mangueiras de incêndio</strong> em: <strong>Mang
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>

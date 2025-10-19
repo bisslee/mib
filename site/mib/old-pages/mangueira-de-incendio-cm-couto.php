@@ -6,7 +6,7 @@
 
 // Configuração da página
 $page_config = array(
-    'title' => 'Título da Página - MIB | Mangueiras de Incêndio Brasil',
+    'title' => 'Mangueira de Incêndio CM Couto - MIB | Mangueiras de Incêndio Brasil',
     'description' => 'Predyflex tipo 1',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/mangueira-de-incendio-cm-couto.php',
@@ -20,12 +20,12 @@ $breadcrumbs = array(
     ),
     1 => array(
         'url' => '',
-        'text' => 'Título da Página',
+        'text' => 'Mangueira de Incêndio CM Couto',
     ),
 );
 
 $heroConfig = array(
-    'title' => 'Título da Página',
+    'title' => 'Mangueira de Incêndio CM Couto',
     'description' => 'Predyflex tipo 1',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/planilha-76.png" class="img-responsive" alt="">
+ <img src="/assets/img/old-site/planilha-76.png" class="img-fluid" alt="">
 
  </div>
 

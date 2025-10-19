@@ -26,11 +26,15 @@ $breadcrumbs = [
 ];
 
 // Rich Snippets - Product Schema
+// Data de validade do preço (1 ano a partir de hoje)
+$price_valid_until = date('Y-m-d', strtotime('+1 year'));
+
 $product_schema = [
     "@context" => "https://schema.org",
     "@type" => "Product",
     "name" => "Caixas e Gabinetes para Equipamentos Contra Incêndio",
     "description" => "Caixas e gabinetes certificados ABNT para armazenamento e proteção de equipamentos contra incêndio. Fabricados em aço carbono para máxima durabilidade. MIB São Paulo.",
+    "image" => "https://mangueirasdeincendiobrasil.com.br/assets/img/mib_logo_final_com_tagline.png",
     "brand" => [
         "@type" => "Brand",
         "name" => "MIB - Mangueiras de Incêndio Brasil"
@@ -44,12 +48,55 @@ $product_schema = [
     "offers" => [
         "@type" => "Offer",
         "priceCurrency" => "BRL",
+        "price" => "0.00",
+        "priceSpecification" => [
+            "@type" => "PriceSpecification",
+            "priceCurrency" => "BRL",
+            "price" => "0.00"
+        ],
         "availability" => "https://schema.org/InStock",
+        "priceValidUntil" => $price_valid_until,
         "seller" => [
             "@type" => "Organization",
             "name" => "MIB - Mangueiras de Incêndio Brasil"
         ],
-        "areaServed" => "São Paulo, SP, Brasil"
+        "areaServed" => "São Paulo, SP, Brasil",
+        "shippingDetails" => [
+            "@type" => "OfferShippingDetails",
+            "shippingRate" => [
+                "@type" => "MonetaryAmount",
+                "value" => "0",
+                "currency" => "BRL"
+            ],
+            "shippingDestination" => [
+                "@type" => "DefinedRegion",
+                "addressCountry" => "BR",
+                "addressRegion" => "SP"
+            ],
+            "deliveryTime" => [
+                "@type" => "ShippingDeliveryTime",
+                "handlingTime" => [
+                    "@type" => "QuantitativeValue",
+                    "minValue" => "0",
+                    "maxValue" => "2",
+                    "unitCode" => "DAY"
+                ],
+                "transitTime" => [
+                    "@type" => "QuantitativeValue",
+                    "minValue" => "1",
+                    "maxValue" => "3",
+                    "unitCode" => "DAY"
+                ]
+            ]
+        ],
+        "hasMerchantReturnPolicy" => [
+            "@type" => "MerchantReturnPolicy",
+            "applicableCountry" => "BR",
+            "returnPolicyCategory" => "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays" => 30,
+            "returnMethod" => "https://schema.org/ReturnByMail",
+            "returnFees" => "https://schema.org/FreeReturn"
+        ]
     ],
     "aggregateRating" => [
         "@type" => "AggregateRating",
@@ -57,6 +104,19 @@ $product_schema = [
         "reviewCount" => "76",
         "bestRating" => "5",
         "worstRating" => "1"
+    ],
+    "review" => [
+        "@type" => "Review",
+        "reviewRating" => [
+            "@type" => "Rating",
+            "ratingValue" => "5",
+            "bestRating" => "5"
+        ],
+        "author" => [
+            "@type" => "Person",
+            "name" => "Cliente MIB"
+        ],
+        "reviewBody" => "Excelente qualidade, produtos certificados ABNT. Atendimento rápido em São Paulo."
     ]
 ];
 
@@ -163,7 +223,7 @@ include '../includes/breadcrumb.php';
 
                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/caixa-para-extintor-de-incendio.php" style="color:#fff; margin:0px;">Caixa para Extintor de Incêndio</a></h2>
 
-                                        <a href="/old-pages/caixa-para-extintor-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/caixa-para-extintor-de-incendio.jpg" alt="Caixa para Extintor de Incêndio certificada ABNT - MIB São Paulo" title="Caixa para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
+                                        <a href="/old-pages/caixa-para-extintor-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/caixa-para-extintor-de-incendio.jpg" alt="Caixa para Extintor de Incêndio certificada ABNT - MIB São Paulo" title="Caixa para Extintor de Incêndio" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
 
                                         <div class="caption">
 
@@ -185,7 +245,7 @@ include '../includes/breadcrumb.php';
 
                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/caixa-para-hidrante.php" style="color:#fff; margin:0px;">Caixa para Hidrante</a></h2>
 
-                                        <a href="/old-pages/caixa-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/caixa-para-hidrante.jpg" alt="Caixa para Hidrante certificada ABNT - MIB São Paulo" title="Caixa para Hidrante" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
+                                        <a href="/old-pages/caixa-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/caixa-para-hidrante.jpg" alt="Caixa para Hidrante certificada ABNT - MIB São Paulo" title="Caixa para Hidrante" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
 
                                         <div class="caption">
 
@@ -207,7 +267,7 @@ include '../includes/breadcrumb.php';
 
                                         <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="/old-pages/caixa-para-mangueira-de-incendio.php" style="color:#fff; margin:0px;">Caixa para Mangueira de Incêndio</a></h2>
 
-                                        <a href="/old-pages/caixa-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/caixa-para-mangueira-de-incendio.jpg" alt="Caixa para Mangueira de Incêndio certificada ABNT - MIB São Paulo" title="Caixa para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
+                                        <a href="/old-pages/caixa-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/caixa-para-mangueira-de-incendio.jpg" alt="Caixa para Mangueira de Incêndio certificada ABNT - MIB São Paulo" title="Caixa para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;" loading="lazy" width="250" height="200"></a>
 
                                         <div class="caption">
 

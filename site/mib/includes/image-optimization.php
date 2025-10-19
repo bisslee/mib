@@ -53,7 +53,7 @@ function generate_optimized_alt_text($filename, $context = '') {
 /**
  * Gera atributos otimizados para imagem
  */
-function generate_image_attributes($src, $alt = '', $width = 300, $height = 200, $class = 'img-responsive') {
+function generate_image_attributes($src, $alt = '', $width = 300, $height = 200, $class = 'img-fluid') {
     // Gerar alt text se não fornecido
     if (empty($alt)) {
         $alt = generate_optimized_alt_text($src);
@@ -74,7 +74,7 @@ function generate_image_attributes($src, $alt = '', $width = 300, $height = 200,
 /**
  * Renderiza tag img otimizada
  */
-function render_optimized_image($src, $alt = '', $width = 300, $height = 200, $class = 'img-responsive', $additional_attrs = []) {
+function render_optimized_image($src, $alt = '', $width = 300, $height = 200, $class = 'img-fluid', $additional_attrs = []) {
     $attrs = generate_image_attributes($src, $alt, $width, $height, $class);
     
     // Mesclar atributos adicionais
@@ -150,7 +150,7 @@ $image_optimization_config = [
     'product_images' => [
         'width' => 250,
         'height' => 180,
-        'class' => 'img-responsive',
+        'class' => 'img-fluid',
         'loading' => 'lazy'
     ],
     'hero_images' => [

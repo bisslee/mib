@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -143,7 +142,7 @@ if (isset($breadcrumbs)) {
 
  <td class="center"> </td>
 
- <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/valvula-1.jpg" alt="Válvulas" title="Válvulas" style="text-align:center;"></td>
+ <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/valvula-1.jpg" alt="Válvulas" title="Válvulas" style="text-align:center;"></td>
 
  <td class="center" width="30%;" ><p>Valvula globo 2 1/2 45º 155 libras PN10 uso predial roscas 11x5 em latão escovado.</p> </td>
 
@@ -157,7 +156,7 @@ if (isset($breadcrumbs)) {
 
  <td class="center"> BS </td>
 
- <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/valvula-2.jpg" alt="Válvulas" title="Válvulas" style="text-align:center;"></td>
+ <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/valvula-2.jpg" alt="Válvulas" title="Válvulas" style="text-align:center;"></td>
 
  <td class="center" width="30%;" ><p>Valvula globo 2 1/2 45º ou 90º 210 libras uso industrial roscas 11x5 ou 8x7,5 em latão escovado volante robusto em aluminio diametro 100 mm. <br> <strong>-Pressão de trabalho:</strong> 210 lbs (14,76 Kgf./cm2) <br><strong>-Pressão de teste:</strong> 315 lbs (22,15 Kgf./cm2)</p> </td>
 
@@ -171,7 +170,7 @@ if (isset($breadcrumbs)) {
 
  <td class="center"> BS </td>
 
- <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/valvula-3.jpg" alt="Válvulas" title="Válvulas" style="text-align:center;"></td>
+ <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/valvula-3.jpg" alt="Válvulas" title="Válvulas" style="text-align:center;"></td>
 
  <td class="center" width="30%;" ><p>Valvula globo 2 1/2 45º ou 90º 300 libras uso industrial roscas 11x5 ou 8x7,5 em latão escovado haste 16 mm, volante robusto em aluminio diametro 100 mm. <br><strong>-Pressão de trabalho:</strong> 300 lbs (21,09 Kgf./cm2)<br> <strong>-Pressão de teste:</strong> 450 lbs (31,64 Kgf./cm2)
 
@@ -187,7 +186,7 @@ if (isset($breadcrumbs)) {
 
  <td class="center"> BS </td>
 
- <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/valvula-4.jpg" alt="Válvulas" title="Válvulas" style="text-align:center;"></td>
+ <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/valvula-4.jpg" alt="Válvulas" title="Válvulas" style="text-align:center;"></td>
 
  <td class="center" width="30%;" ><p> Valvula globo 2 1/2 45º ou 90º 300 libras tipo crane industrial roscas 11x5 ou 8x7,5 em latão escovado HASTE 19 mm, volante robusto em aluminio diametro 150 mm. <br><strong>-Pressão de trabalho:</strong> 300 lbs (21,09 Kgf./cm2) <br><strong>-Pressão de teste:</strong> 450 lbs (31,64 Kgf./cm2)
 
@@ -203,7 +202,7 @@ if (isset($breadcrumbs)) {
 
  <td class="center"> BS </td>
 
- <td class="center" style="padding:0px;"><img class="img-responsive" src="/assets/img/old-site/valvula-5.jpg" alt="Válvulas" title="Válvulas" style="text-align:center;"></td>
+ <td class="center" style="padding:0px;"><img class="img-fluid" src="/assets/img/old-site/valvula-5.jpg" alt="Válvulas" title="Válvulas" style="text-align:center;"></td>
 
  <td class="center" width="30%;" ><p>Canhão monitor fixo de 2 1/2 x rosca 7,5 fios por polega para acoplamento do esguicho tipo fog hog para uso fixo disponivel com flanges de 3" e 4" polegadas em latão pintado em vermelho.</p> </td>
 
@@ -221,7 +220,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="valvula-angular-para-hidrante.php" style="color:#fff; margin:0px;">Válvula Angular para Hidrante</a></h2>
 
- <a href="valvula-angular-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/valvula-angular-para-hidrante.jpg" alt="Válvula Angular para Hidrante" title="Válvula Angular para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="valvula-angular-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/valvula-angular-para-hidrante.jpg" alt="Válvula Angular para Hidrante" title="Válvula Angular para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -239,7 +238,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="valvula-globo-angular-para-hidrante.php" style="color:#fff; margin:0px;">Válvula Globo Angular para Hidrante</a></h2>
 
- <a href="valvula-globo-angular-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/valvula-globo-angular-para-hidrante.jpg" alt="Válvula Globo Angular para Hidrante" title="Válvula Globo Angular para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="valvula-globo-angular-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/valvula-globo-angular-para-hidrante.jpg" alt="Válvula Globo Angular para Hidrante" title="Válvula Globo Angular para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -257,7 +256,7 @@ if (isset($breadcrumbs)) {
 
  <h2 style="margin:10px; font-size:17px; padding-bottom:10px; font-weight:bold;"><a href="valvulas-para-hidrante.php" style="color:#fff; margin:0px;">Válvulas para Hidrante</a></h2>
 
- <a href="valvulas-para-hidrante.php"><img class="img-responsive" src="/assets/img/old-site/valvulas-para-hidrante.jpg" alt="Válvulas para Hidrante" title="Válvulas para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="valvulas-para-hidrante.php"><img class="img-fluid" src="/assets/img/old-site/valvulas-para-hidrante.jpg" alt="Válvulas para Hidrante" title="Válvulas para Hidrante" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -287,7 +286,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="abrigos-para-equipamentos-contra-incendio.php"><img class="img-responsive" src="/assets/img/old-site/abrigos-para-equipamentos-contra-incendio.jpg" alt="Abrigos para Equipamentos Contra Incêndio" title="Abrigos para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="abrigos-para-equipamentos-contra-incendio.php"><img class="img-fluid" src="/assets/img/old-site/abrigos-para-equipamentos-contra-incendio.jpg" alt="Abrigos para Equipamentos Contra Incêndio" title="Abrigos para Equipamentos Contra Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -305,7 +304,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="adaptador-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="adaptador-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/adaptador-para-mangueira-de-incendio.jpg" alt="Adaptador para Mangueira de Incêndio" title="Adaptador para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -327,7 +326,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="armario-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/armario-para-mangueira-de-incendio.jpg" alt="Armário para Mangueira de Incêndio" title="Armário para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="armario-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/armario-para-mangueira-de-incendio.jpg" alt="Armário para Mangueira de Incêndio" title="Armário para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -345,7 +344,7 @@ if (isset($breadcrumbs)) {
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="bico-para-mangueira-de-incendio.php"><img class="img-responsive" src="/assets/img/old-site/bico-para-mangueira-de-incendio.jpg" alt="Bico para Mangueira de Incêndio" title="Bico para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="bico-para-mangueira-de-incendio.php"><img class="img-fluid" src="/assets/img/old-site/bico-para-mangueira-de-incendio.jpg" alt="Bico para Mangueira de Incêndio" title="Bico para Mangueira de Incêndio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -373,7 +372,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -385,8 +384,7 @@ if (isset($breadcrumbs)) {
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>

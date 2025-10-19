@@ -7,7 +7,7 @@
 // Configuração da página
 $page_config = array(
     'title' => 'TAMPA DE INCÊNDIO PARA RECALQUE - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'keywords' => 'mangueiras de incêndio, equipamentos contra incêndio, segurança contra incêndio, extintores, hidrantes',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/old-pages/tampa-de-incendio-para-recalque.php',
 );
@@ -26,7 +26,7 @@ $breadcrumbs = array(
 
 $heroConfig = array(
     'title' => 'TAMPA DE INCÊNDIO PARA RECALQUE',
-    'description' => 'Descrição da página',
+    'description' => 'MIB | Mangueiras de Incêndio Brasil',
     'image' => '/assets/img/old-site/default-image.jpg',
 );
 
@@ -83,7 +83,7 @@ if (isset($breadcrumbs)) {
 
  <div>
 
- <img src="/assets/img/old-site/panilha-50.png" class="img-responsive">
+ <img src="/assets/img/old-site/panilha-50.png" class="img-fluid">
 
  </div>
 

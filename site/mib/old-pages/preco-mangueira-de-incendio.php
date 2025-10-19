@@ -81,7 +81,7 @@ if (isset($breadcrumbs)) {
 
  <h1>Preco Mangueira</h1>
 
-<img src="/assets/img/old-site/img1017.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1017.png" class="img-fluid" alt="">
 
 <p><strong>Preço de Mangueira de Incêndio: Encontre Qualidade com Economia</strong></p>
 
@@ -91,13 +91,6 @@ if (isset($breadcrumbs)) {
 
 <p>Aproveite as condições especiais de pagamento, descontos progressivos e o melhor custo-benefício do mercado. Nossos consultores estão à disposição para orientá-lo e encontrar a melhor solução em mangueiras de incêndio para sua empresa ou residência.</p>
 
-<h2>📞 WhatsApp: Clique para conversar 
-
-📧 E-mail: contato@mangueirasdeincendiobrasil.com.br
-
-🌐 Site:</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
 <p>Como Avaliar o Preço de Mangueira de Incêndio e Garantir o Melhor Investimento?</p>
 
@@ -145,7 +138,7 @@ if (isset($breadcrumbs)) {
 
 <p><strong>Mangueira Tipo 1: Predyflex</strong></p>
 
-<img src="/assets/img/old-site/img1018.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1018.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 10 Kgf/cm²</strong></p>
 
@@ -163,7 +156,7 @@ if (isset($breadcrumbs)) {
 
 <p><strong>Mangueira Tipo 2: Superflex</strong></p>
 
-<img src="/assets/img/old-site/img1019.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1019.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 
@@ -181,7 +174,7 @@ if (isset($breadcrumbs)) {
 
 <p><strong>Mangueira Tipo 3: Superflex Capa Dupla</strong></p>
 
-<img src="/assets/img/old-site/img1020.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1020.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 15 Kgf/cm²</strong></p>
 
@@ -199,7 +192,7 @@ if (isset($breadcrumbs)) {
 
 <p><strong>Mangueira Tipo 4: Plastflex</strong></p>
 
-<img src="/assets/img/old-site/img1021.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1021.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 
@@ -217,7 +210,7 @@ if (isset($breadcrumbs)) {
 
 <p><strong>Mangueira Tipo 5: Ruberflex</strong></p>
 
-<img src="/assets/img/old-site/img1022.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1022.png" class="img-fluid" alt="">
 
 <p><strong>Pressão de Trabalho: 14 Kgf/cm²</strong></p>
 

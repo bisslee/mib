@@ -138,7 +138,7 @@
 
 			
 
-            <img src="images/planilha-2013.png" class="img-responsive" alt="">
+            <img src="images/planilha-2013.png" class="img-fluid" alt="">
 
 			<p style="margin-top:14pt; margin-bottom:14pt; font-size:18pt">
 

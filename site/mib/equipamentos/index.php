@@ -8,9 +8,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Equipamentos Contra Incêndio - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Equipamentos contra incêndio certificados ABNT. Mangueiras, extintores, esguichos, hidrantes e sistemas de combate a incêndio.',
-    'keywords' => 'Equipamentos Contra Incêndio, Mangueiras, Extintores, Esguichos, Hidrantes, Canhão Monitor, Sistema Aerossol, MIB',
+    'title' => 'Equipamentos Contra Incêndio Certificados ABNT - MIB São Paulo',
+    'description' => 'Equipamentos contra incêndio certificados ABNT + Inmetro em SP: mangueiras tipos 1-5, extintores, esguichos, hidrantes. Entrega 24-48h. Orçamento grátis ✆ (11) 94025-8669',
+    'keywords' => 'Equipamentos Contra Incêndio, Mangueiras, Extintores, Esguichos, Hidrantes, Canhão Monitor, Sistema Aerossol, MIB, São Paulo, Certificação ABNT',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/equipamentos/'
 ];
 
@@ -66,7 +66,7 @@ include '../includes/breadcrumb.php';
                                     <div class="card-body">
                                         <h5 class="card-title">Mangueiras de Incêndio</h5>
                                         <p class="card-text">Mangueiras certificadas ABNT NBR 11861, tipos 1 a 5, em diversos comprimentos.</p>
-                                        <a href="/old-pages/mangueiras-de-incendio.php" class="btn btn-primary">Saiba Mais</a>
+                                        <a href="mangueiras-de-incendio.php" class="btn btn-primary">Saiba Mais</a>
                                     </div>
                                 </div>
                             </div>
@@ -76,7 +76,7 @@ include '../includes/breadcrumb.php';
                                     <div class="card-body">
                                         <h5 class="card-title">Extintores de Incêndio</h5>
                                         <p class="card-text">Extintores portáteis e sobre rodas para diferentes tipos de incêndio.</p>
-                                        <a href="/old-pages/extintores-de-incendio.php" class="btn btn-primary">Saiba Mais</a>
+                                        <a href="extintores-de-incendio.php" class="btn btn-primary">Saiba Mais</a>
                                     </div>
                                 </div>
                             </div>
@@ -86,7 +86,7 @@ include '../includes/breadcrumb.php';
                                     <div class="card-body">
                                         <h5 class="card-title">Esguichos</h5>
                                         <p class="card-text">Esguichos reguláveis e bicos para mangueiras de incêndio.</p>
-                                        <a href="/old-pages/esguichos-para-equipamentos-contra-incendio.php" class="btn btn-primary">Saiba Mais</a>
+                                        <a href="esguichos-para-equipamentos-contra-incendio.php" class="btn btn-primary">Saiba Mais</a>
                                     </div>
                                 </div>
                             </div>
@@ -96,7 +96,7 @@ include '../includes/breadcrumb.php';
                                     <div class="card-body">
                                         <h5 class="card-title">Canhão Monitor</h5>
                                         <p class="card-text">Canhões monitor para combate a incêndio em grandes áreas.</p>
-                                        <a href="/old-pages/canhao-monitor-de-combate-a-incendio.php" class="btn btn-primary">Saiba Mais</a>
+                                        <a href="canhao-monitor-de-combate-a-incendio.php" class="btn btn-primary">Saiba Mais</a>
                                     </div>
                                 </div>
                             </div>
@@ -106,7 +106,7 @@ include '../includes/breadcrumb.php';
                                     <div class="card-body">
                                         <h5 class="card-title">Derivante para Mangueira</h5>
                                         <p class="card-text">Derivantes para conexão de múltiplas mangueiras de incêndio.</p>
-                                        <a href="/old-pages/derivante-para-mangueira-de-incendio.php" class="btn btn-primary">Saiba Mais</a>
+                                        <a href="derivante-para-mangueira-de-incendio.php" class="btn btn-primary">Saiba Mais</a>
                                     </div>
                                 </div>
                             </div>
@@ -116,7 +116,7 @@ include '../includes/breadcrumb.php';
                                     <div class="card-body">
                                         <h5 class="card-title">Sistema Aerossol</h5>
                                         <p class="card-text">Sistema aerossol de supressão a incêndio para proteção automática.</p>
-                                        <a href="/old-pages/sistema-aerossol-de-supressao-a-incendio.php" class="btn btn-primary">Saiba Mais</a>
+                                        <a href="sistema-aerossol-de-supressao-a-incendio.php" class="btn btn-primary">Saiba Mais</a>
                                     </div>
                                 </div>
                             </div>
@@ -126,7 +126,7 @@ include '../includes/breadcrumb.php';
                                     <div class="card-body">
                                         <h5 class="card-title">Hidrantes</h5>
                                         <p class="card-text">Hidrantes contra incêndio para sistemas de proteção predial.</p>
-                                        <a href="/old-pages/hidrante-contra-incendio.php" class="btn btn-primary">Saiba Mais</a>
+                                        <a href="hidrante-contra-incendio.php" class="btn btn-primary">Saiba Mais</a>
                                     </div>
                                 </div>
                             </div>

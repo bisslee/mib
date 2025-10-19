@@ -64,7 +64,6 @@ if (isset($breadcrumbs)) {
                     <h2 class="section-title"><?php echo $heroConfig['title']; ?></h2>
                     <article class="text-justify">
 
-
  <!-- Google Tag Manager (noscript) -->
 
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
@@ -73,7 +72,7 @@ if (isset($breadcrumbs)) {
 
  <!-- End Google Tag Manager (noscript) -->
 
- <?php include ('includes/header.php'); ?> 
+ <?php  ?> 
 
 <div class="row" style="margin: 0px auto; ">
 
@@ -119,7 +118,7 @@ if (isset($breadcrumbs)) {
 
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align:center; padding:0px;">
 
- <img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-predyflex.jpg" alt="Mangueiras de Incêndio PredyFlex" title="Mangueiras de Incêndio PredyFlex" style="margin:0px auto;">
+ <img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-predyflex.jpg" alt="Mangueiras de Incêndio PredyFlex" title="Mangueiras de Incêndio PredyFlex" style="margin:0px auto;">
 
  </div>
 
@@ -161,7 +160,7 @@ Equipada com engate rápido ( storz ) conforme a norma NBR 14349 possui alta dur
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-para-predio.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-para-predio.jpg" alt="Mangueiras de Incêndio para Prédio" title="Mangueiras de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-para-predio.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-para-predio.jpg" alt="Mangueiras de Incêndio para Prédio" title="Mangueiras de Incêndio para Prédio" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -179,7 +178,7 @@ Equipada com engate rápido ( storz ) conforme a norma NBR 14349 possui alta dur
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-para-industria.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-para-industria.jpg" alt="Mangueira de Incêndio para Indústria" title="Mangueira de Incêndio para Indústria" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-para-industria.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-para-industria.jpg" alt="Mangueira de Incêndio para Indústria" title="Mangueira de Incêndio para Indústria" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -201,7 +200,7 @@ Equipada com engate rápido ( storz ) conforme a norma NBR 14349 possui alta dur
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-tipo2.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo2.jpg" alt="Mangueiras de Incêndio Tipo 2" title="Mangueiras de Incêndio Tipo 2" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo2.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo2.jpg" alt="Mangueiras de Incêndio Tipo 2" title="Mangueiras de Incêndio Tipo 2" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -219,7 +218,7 @@ Equipada com engate rápido ( storz ) conforme a norma NBR 14349 possui alta dur
 
  <div class="thumbnail" style="background:#333; border-bottom:solid 3px #000; min-height:230px; ">
 
- <a href="mangueira-de-incendio-tipo3.php"><img class="img-responsive" src="/assets/img/old-site/mangueira-de-incendio-tipo3.jpg" alt="Mangueiras de Incêndio Tipo 3" title="Mangueiras de Incêndio Tipo 3" style="border:solid 5px #fff; text-align:center;"></a>
+ <a href="mangueira-de-incendio-tipo3.php"><img class="img-fluid" src="/assets/img/old-site/mangueira-de-incendio-tipo3.jpg" alt="Mangueiras de Incêndio Tipo 3" title="Mangueiras de Incêndio Tipo 3" style="border:solid 5px #fff; text-align:center;"></a>
 
  <div class="caption">
 
@@ -247,7 +246,7 @@ Equipada com engate rápido ( storz ) conforme a norma NBR 14349 possui alta dur
 
  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 corpolateral" style="background:#ff8000; color:#fff; padding:0px; margin-bottom:25px;">
 
- <?php include ('includes/corpolateral.php'); ?> 
+ <?php  ?> 
 
  </div>
 
@@ -259,8 +258,7 @@ Equipada com engate rápido ( storz ) conforme a norma NBR 14349 possui alta dur
 
  </div>
 
- <?php include ('includes/footer.php'); ?> 
-
+ <?php  ?> 
 
                     </article>
                 </div>

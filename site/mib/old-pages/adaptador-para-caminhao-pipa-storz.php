@@ -65,14 +65,6 @@ if (isset($breadcrumbs)) {
                     <article class="text-justify">
 
 
- <!-- Google Tag Manager (noscript) -->
-
- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZKDXGP"
-
- height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
- <!-- End Google Tag Manager (noscript) -->
-
  <section class="container">
 
  <div class="row"> 
@@ -83,7 +75,7 @@ if (isset($breadcrumbs)) {
 
  <h1>Adaptador Storz</h1>
 
-<img src="/assets/img/old-site/img1010.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1010.png" class="img-fluid" alt="">
 
 <h2>🚚 Adaptadores Storz para Caminhão Pipa: Conexão Rápida, Segura e Eficiente</h2>
 
@@ -102,12 +94,6 @@ if (isset($breadcrumbs)) {
 <p>Nossos adaptadores Storz para caminhão pipa são compatíveis com diversos diâmetros de mangueiras e proporcionam uma instalação prática, com conexão segura e estanque, essencial para quem precisa de agilidade no transporte e fornecimento de água.</p>
 
 <p>Contato para Mais Informações</p>
-
-<h2>📞 Telefone: WhatsApp 
-
-📧 E-mail: contato@mangueirasdeincendiobrasil.com.br
-
-🌐 Visite nosso site: https://mangueirasdeincendiobrasil.com.br</h2>
 
 <!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
@@ -131,17 +117,6 @@ if (isset($breadcrumbs)) {
 
 <p>Além dos adaptadores para caminhão pipa, também fornecemos engates rápidos para mangueira de incêndio, acessórios de conexão, e peças compatíveis com os principais padrões de mercado.</p>
 
-<h2>📞 Contato para Mais Informações</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<p><strong>📱 WhatsApp: Clique para conversar –</strong></p>
-
-<h2>📧 E-mail: contato@mangueirasdeincendiobrasil.com.br</h2>
-
-<!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
-
-<h2>🌐 Site:</h2>
 
 <!-- IMAGEM AQUI: imagem ilustrativa para esta seção -->
 
@@ -155,13 +130,13 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Modelos de Adaptadores Storz para Caminhões-Pipa</p>
 
-<img src="/assets/img/old-site/img1011.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1011.png" class="img-fluid" alt="">
 
 <p>Os adaptadores Storz para caminhões-pipa estão disponíveis em diversos modelos, atendendo a diferentes necessidades de conexões e vazões. A seguir, apresentamos os principais modelos de adaptadores Storz para caminhões-pipa disponíveis:</p>
 
 <p>Adaptadores Storz com Rosca Fêmea</p>
 
-<img src="/assets/img/old-site/img1012.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1012.png" class="img-fluid" alt="">
 
 <p>GM 44: 1 1/2" Storz x Rosca 1 ½” Fêmea 11 FPP</p>
 
@@ -173,7 +148,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Adaptadores Storz com Rosca Macho</p>
 
-<img src="/assets/img/old-site/img1013.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1013.png" class="img-fluid" alt="">
 
 <p>GM 74: 1 1/2" Storz x Rosca 1 1/2" Macho 11 FPP</p>
 
@@ -183,7 +158,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Uniões Storz com Espigões</p>
 
-<img src="/assets/img/old-site/img1014.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1014.png" class="img-fluid" alt="">
 
 <p>As uniões Storz com espigões são ideais para conectar mangueiras de diferentes diâmetros, permitindo uma adaptação eficiente entre componentes diversos, sem comprometer a pressão e o fluxo de água.</p>
 
@@ -199,7 +174,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Redução Storz Fixa</p>
 
-<img src="/assets/img/old-site/img1015.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1015.png" class="img-fluid" alt="">
 
 <p>As reduções Storz fixas são ideais para adaptar mangueiras de diferentes diâmetros, com uma face Storz de 2 1/2" e outra face com 1 1/2", garantindo a continuidade do abastecimento de água sem perda de eficiência.</p>
 
@@ -207,7 +182,7 @@ Encontre o melhor adaptador Storz para abastecimento com caminhão pipa, com gar
 
 <p>Esguichos de Jato Sólido e Reguláveis</p>
 
-<img src="/assets/img/old-site/img1016.png" class="img-responsive" alt="">
+<img src="/assets/img/old-site/img1016.png" class="img-fluid" alt="">
 
 <p>Além dos adaptadores, oferecemos esguichos tipo jato sólido e regulável, perfeitos para controle preciso do fluxo de água:</p>
 

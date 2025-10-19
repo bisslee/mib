@@ -1,227 +1,119 @@
 # MIB - Mangueiras de Incêndio Brasil
-# Arquivo de Configuração do Servidor Apache
-# Otimizações de Segurança, Performance e SEO
+# Configurações de redirecionamento e segurança
 
-# ===== SEGURANÇA =====
+# Habilitar mod_rewrite
+RewriteEngine On
 
-# Proteger contra ataques de força bruta
-<IfModule mod_rewrite.c>
-    RewriteEngine On
-    
-    # Bloquear tentativas de acesso a arquivos sensíveis
-    RewriteCond %{REQUEST_URI} (\.htaccess|\.htpasswd|\.env|\.git|\.svn|\.DS_Store) [NC]
-    RewriteRule .* - [F,L]
-    
-    # Bloquear acesso direto a arquivos PHP em pastas específicas
-    RewriteCond %{REQUEST_URI} ^/assets/.*\.php$ [NC]
-    RewriteRule .* - [F,L]
-    
-    # Bloquear acesso a arquivos de configuração
-    RewriteCond %{REQUEST_URI} (config|includes|vendor)/.*\.php$ [NC]
-    RewriteRule .* - [F,L]
+# Forçar HTTPS (descomente se SSL estiver configurado)
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirecionar www para não-www (ou vice-versa)
+# Descomente UMA das opções abaixo:
+
+# Opção A: Forçar SEM www (RECOMENDADO)
+# RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+# RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+# Opção B: Forçar COM www
+# RewriteCond %{HTTP_HOST} !^www\. [NC]
+# RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [R=301,L]
+
+# Definir ordem de prioridade dos arquivos index
+DirectoryIndex index.php index.html
+
+# Redirecionamentos 301 para páginas antigas mais acessadas
+# Adicione redirecionamentos conforme necessário
+Redirect 301 /old-pages/mangueiras-de-incendio.php /equipamentos/mangueiras-de-incendio.php
+Redirect 301 /old-pages/extintores-de-incendio.php /equipamentos/extintores-de-incendio.php
+Redirect 301 /old-pages/hidrante-contra-incendio.php /equipamentos/hidrante-contra-incendio.php
+Redirect 301 /old-pages/mangueira-para-hidrante.php /equipamentos/mangueiras-de-incendio.php
+Redirect 301 /old-pages/adaptador-para-mangueira-de-incendio.php /equipamentos/mangueiras-de-incendio.php
+Redirect 301 /old-pages/abrigos-para-equipamentos-contra-incendio.php /produtos/abrigos-para-equipamentos-contra-incendio.php
+Redirect 301 /old-pages/caixas-para-equipamentos-contra-incendio.php /produtos/caixas-para-equipamentos-contra-incendio.php
+
+# Sistema inteligente para todas as páginas PHP antigas
+# Se a página não existir na raiz, usa o handler PHP para verificar
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} \.php$
+RewriteRule ^([^/]+\.php)$ redirect-handler.php [L]
+
+# Bloquear acesso a arquivos de teste e debug
+RewriteRule ^test-.*\.php$ - [F,L]
+RewriteRule ^debug-.*\.php$ - [F,L]
+RewriteRule ^.*-test\.php$ - [F,L]
+RewriteRule ^.*-debug\.php$ - [F,L]
+RewriteRule ^phpinfo\.php$ - [F,L]
+RewriteRule ^contact-new\.php$ - [F,L]
+
+# Configuração de página 404 personalizada
+ErrorDocument 404 /404.php
+
+# Configurações de segurança
+# Bloquear acesso a arquivos sensíveis
+<FilesMatch "(config\.php|\.ps1|\.md)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+<Files "config.php">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+<Files "*.log">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+<Files "web.config">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+# Bloquear acesso direto a diretórios
+Options -Indexes
+
+# Configurações de cache
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType image/webp "access plus 1 month"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/pdf "access plus 1 month"
+    ExpiresByType text/javascript "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
 </IfModule>
-
-# Headers de Segurança
-<IfModule mod_headers.c>
-    # Proteção XSS
-    Header always set X-XSS-Protection "1; mode=block"
-    
-    # Prevenir clickjacking
-    Header always set X-Frame-Options "SAMEORIGIN"
-    
-    # Prevenir MIME type sniffing
-    Header always set X-Content-Type-Options "nosniff"
-    
-    # Referrer Policy
-    Header always set Referrer-Policy "strict-origin-when-cross-origin"
-    
-    # Content Security Policy
-    Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com; img-src 'self' data: https:; font-src 'self' https://cdnjs.cloudflare.com; connect-src 'self'; frame-src 'self'; object-src 'none';"
-    
-    # Permissions Policy
-    Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
-    
-    # Remove server signature
-    Header unset Server
-    Header unset X-Powered-By
-</IfModule>
-
-# ===== PERFORMANCE =====
 
 # Compressão GZIP
 <IfModule mod_deflate.c>
-    # Ativar compressão
-    SetOutputFilter DEFLATE
-    
-    # Nível de compressão (1-9, 9 = máximo)
-    DeflateCompressionLevel 9
-    
-    # Tipos de arquivo para compressão
     AddOutputFilterByType DEFLATE text/plain
     AddOutputFilterByType DEFLATE text/html
     AddOutputFilterByType DEFLATE text/xml
     AddOutputFilterByType DEFLATE text/css
-    AddOutputFilterByType DEFLATE text/javascript
     AddOutputFilterByType DEFLATE application/xml
     AddOutputFilterByType DEFLATE application/xhtml+xml
     AddOutputFilterByType DEFLATE application/rss+xml
     AddOutputFilterByType DEFLATE application/javascript
     AddOutputFilterByType DEFLATE application/x-javascript
-    AddOutputFilterByType DEFLATE application/json
-    AddOutputFilterByType DEFLATE application/xml+rss
-    AddOutputFilterByType DEFLATE image/svg+xml
-    
-    # Excluir navegadores antigos
-    BrowserMatch ^Mozilla/4 gzip-only-text/html
-    BrowserMatch ^Mozilla/4\.0[678] no-gzip
-    BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
-    BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
-    
-    # Não comprimir se já comprimido
-    SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png|rar|zip|exe|flv|mov|wma|mp3|avi|swf|mp?g|mp4|webm|webp)$ no-gzip dont-vary
 </IfModule>
 
-# Cache de Navegador
-<IfModule mod_expires.c>
-    ExpiresActive On
-    
-    # Cache padrão
-    ExpiresDefault "access plus 1 month"
-    
-    # HTML
-    ExpiresByType text/html "access plus 0 seconds"
-    
-    # CSS e JavaScript
-    ExpiresByType text/css "access plus 1 year"
-    ExpiresByType text/javascript "access plus 1 year"
-    ExpiresByType application/javascript "access plus 1 year"
-    ExpiresByType application/x-javascript "access plus 1 year"
-    
-    # Imagens
-    ExpiresByType image/gif "access plus 1 year"
-    ExpiresByType image/jpeg "access plus 1 year"
-    ExpiresByType image/png "access plus 1 year"
-    ExpiresByType image/webp "access plus 1 year"
-    ExpiresByType image/svg+xml "access plus 1 year"
-    ExpiresByType image/x-icon "access plus 1 year"
-    
-    # Fontes
-    ExpiresByType font/ttf "access plus 1 year"
-    ExpiresByType font/otf "access plus 1 year"
-    ExpiresByType font/woff "access plus 1 year"
-    ExpiresByType font/woff2 "access plus 1 year"
-    ExpiresByType application/font-woff "access plus 1 year"
-    ExpiresByType application/font-woff2 "access plus 1 year"
-    
-    # Outros
-    ExpiresByType application/pdf "access plus 1 month"
-    ExpiresByType application/x-shockwave-flash "access plus 1 month"
-</IfModule>
-
-# Headers de Cache
+# Headers de segurança
 <IfModule mod_headers.c>
-    # Cache para arquivos estáticos
-    <FilesMatch "\.(css|js|gif|jpe?g|png|webp|svg|ico|woff2?|ttf|otf|eot)$">
-        Header set Cache-Control "public, max-age=31536000, immutable"
-    </FilesMatch>
+    # Prevenir clickjacking
+    Header always append X-Frame-Options SAMEORIGIN
     
-    # Cache para HTML
-    <FilesMatch "\.(html|htm|php)$">
-        Header set Cache-Control "public, max-age=0, must-revalidate"
-    </FilesMatch>
+    # Prevenir MIME-type sniffing
+    Header always set X-Content-Type-Options nosniff
     
-    # Cache para API
-    <FilesMatch "\.(json|xml)$">
-        Header set Cache-Control "public, max-age=3600"
-    </FilesMatch>
+    # Ativar proteção XSS
+    Header always set X-XSS-Protection "1; mode=block"
+    
+    # Referrer Policy
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
 </IfModule>
 
-# ===== SEO E URLS AMIGÁVEIS =====
-
-<IfModule mod_rewrite.c>
-    RewriteEngine On
-    
-    # Forçar HTTPS (descomente se tiver SSL)
-    # RewriteCond %{HTTPS} off
-    # RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-    
-    # Remover www (opcional)
-    # RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-    # RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
-    
-    # Remover trailing slash
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{THE_REQUEST} /([^.]+?)/?[\s?] [NC]
-    RewriteRule ^ /%1 [R=301,L]
-    
-    # URLs amigáveis para páginas principais
-    RewriteRule ^empresa/?$ empresa.php [L,NC]
-    RewriteRule ^contato/?$ contato.php [L,NC]
-    RewriteRule ^produtos/?$ produtos.php [L,NC]
-    RewriteRule ^novidades/?$ novidades.php [L,NC]
-    
-    # URLs amigáveis para equipamentos
-    RewriteRule ^mangueiras-de-incendio/?$ mangueiras-de-incendio.php [L,NC]
-    RewriteRule ^extintores/?$ extintores.php [L,NC]
-    RewriteRule ^esguichos/?$ esguichos.php [L,NC]
-    RewriteRule ^hidrantes/?$ hidrantes.php [L,NC]
-    
-    # Sitemap XML dinâmico
-    RewriteRule ^sitemap\.xml$ sitemap.xml.php [L,NC]
-    
-    # Página 404 personalizada
-    ErrorDocument 404 /404.php
-</IfModule>
-
-# ===== PROTEÇÃO CONTRA SPAM E BOTS =====
-
-# Bloquear user agents maliciosos
-<IfModule mod_rewrite.c>
-    RewriteCond %{HTTP_USER_AGENT} ^$ [OR]
-    RewriteCond %{HTTP_USER_AGENT} ^(java|curl|wget).* [NC,OR]
-    RewriteCond %{HTTP_USER_AGENT} ^.*(libwww-perl|curl|wget|python|nikto|wkito|pikto|acunetix|scan|acunetix).* [NC,OR]
-    RewriteCond %{HTTP_USER_AGENT} ^.*(winhttp|HTTrack|clshttp|archiver|loader|email|harvest|extract|grab|miner).* [NC]
-    RewriteRule .* - [F,L]
-</IfModule>
-
-# Bloquear IPs maliciosos (adicione conforme necessário)
-# Order Deny,Allow
-# Deny from 192.168.1.100
-# Deny from 10.0.0.50
-
-# ===== OTIMIZAÇÕES ESPECÍFICAS =====
-
-# Habilitar Keep-Alive
-<IfModule mod_headers.c>
-    Header set Connection keep-alive
-</IfModule>
-
-# Configurar Timeout
-<IfModule mod_reqtimeout.c>
-    RequestReadTimeout header=20-40,MinRate=500
-    RequestReadTimeout body=20,MinRate=500
-</IfModule>
-
-# ===== MONITORAMENTO =====
-
-# Log de erros personalizado
-ErrorLog logs/mib_error.log
-CustomLog logs/mib_access.log combined
-
-# ===== MANUTENÇÃO =====
-
-# Página de manutenção (descomente quando necessário)
-# RewriteEngine On
-# RewriteCond %{REMOTE_ADDR} !^127\.0\.0\.1$
-# RewriteCond %{REMOTE_ADDR} !^::1$
-# RewriteRule .* /manutencao.html [R=302,L]
-
-# ===== NOTAS IMPORTANTES =====
-
-# 1. Este arquivo deve estar na raiz do site
-# 2. Certifique-se de que mod_rewrite está habilitado
-# 3. Teste em ambiente de desenvolvimento antes de usar em produção
-# 4. Ajuste as configurações conforme suas necessidades específicas
-# 5. Mantenha backup deste arquivo antes de fazer alterações
-
-# Para desabilitar temporariamente, renomeie para .htaccess.disabled
