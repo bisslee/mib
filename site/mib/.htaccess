@@ -4,6 +4,34 @@
 # Habilitar mod_rewrite
 RewriteEngine On
 
+# Forçar HTTPS (descomente se SSL estiver configurado)
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirecionar www para não-www (ou vice-versa)
+# Descomente UMA das opções abaixo:
+
+# Opção A: Forçar SEM www (RECOMENDADO)
+# RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+# RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+# Opção B: Forçar COM www
+# RewriteCond %{HTTP_HOST} !^www\. [NC]
+# RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [R=301,L]
+
+# Definir ordem de prioridade dos arquivos index
+DirectoryIndex index.php index.html
+
+# Redirecionamentos 301 para páginas antigas mais acessadas
+# Adicione redirecionamentos conforme necessário
+Redirect 301 /old-pages/mangueiras-de-incendio.php /equipamentos/mangueiras-de-incendio.php
+Redirect 301 /old-pages/extintores-de-incendio.php /equipamentos/extintores-de-incendio.php
+Redirect 301 /old-pages/hidrante-contra-incendio.php /equipamentos/hidrante-contra-incendio.php
+Redirect 301 /old-pages/mangueira-para-hidrante.php /equipamentos/mangueiras-de-incendio.php
+Redirect 301 /old-pages/adaptador-para-mangueira-de-incendio.php /equipamentos/mangueiras-de-incendio.php
+Redirect 301 /old-pages/abrigos-para-equipamentos-contra-incendio.php /produtos/abrigos-para-equipamentos-contra-incendio.php
+Redirect 301 /old-pages/caixas-para-equipamentos-contra-incendio.php /produtos/caixas-para-equipamentos-contra-incendio.php
+
 # Sistema inteligente para todas as páginas PHP antigas
 # Se a página não existir na raiz, usa o handler PHP para verificar
 RewriteCond %{REQUEST_FILENAME} !-f
@@ -11,11 +39,24 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_URI} \.php$
 RewriteRule ^([^/]+\.php)$ redirect-handler.php [L]
 
+# Bloquear acesso a arquivos de teste e debug
+RewriteRule ^test-.*\.php$ - [F,L]
+RewriteRule ^debug-.*\.php$ - [F,L]
+RewriteRule ^.*-test\.php$ - [F,L]
+RewriteRule ^.*-debug\.php$ - [F,L]
+RewriteRule ^phpinfo\.php$ - [F,L]
+RewriteRule ^contact-new\.php$ - [F,L]
+
 # Configuração de página 404 personalizada
-ErrorDocument 404 404.php
+ErrorDocument 404 /404.php
 
 # Configurações de segurança
 # Bloquear acesso a arquivos sensíveis
+<FilesMatch "(config\.php|\.ps1|\.md)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
 <Files "config.php">
     Order Allow,Deny
     Deny from all
@@ -26,6 +67,14 @@ ErrorDocument 404 404.php
     Deny from all
 </Files>
 
+<Files "web.config">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+# Bloquear acesso direto a diretórios
+Options -Indexes
+
 # Configurações de cache
 <IfModule mod_expires.c>
     ExpiresActive On
@@ -33,6 +82,7 @@ ErrorDocument 404 404.php
     ExpiresByType image/jpeg "access plus 1 month"
     ExpiresByType image/gif "access plus 1 month"
     ExpiresByType image/png "access plus 1 month"
+    ExpiresByType image/webp "access plus 1 month"
     ExpiresByType text/css "access plus 1 month"
     ExpiresByType application/pdf "access plus 1 month"
     ExpiresByType text/javascript "access plus 1 month"
@@ -51,3 +101,19 @@ ErrorDocument 404 404.php
     AddOutputFilterByType DEFLATE application/javascript
     AddOutputFilterByType DEFLATE application/x-javascript
 </IfModule>
+
+# Headers de segurança
+<IfModule mod_headers.c>
+    # Prevenir clickjacking
+    Header always append X-Frame-Options SAMEORIGIN
+    
+    # Prevenir MIME-type sniffing
+    Header always set X-Content-Type-Options nosniff
+    
+    # Ativar proteção XSS
+    Header always set X-XSS-Protection "1; mode=block"
+    
+    # Referrer Policy
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+

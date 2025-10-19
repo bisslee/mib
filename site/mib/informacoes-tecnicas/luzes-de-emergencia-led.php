@@ -238,6 +238,9 @@ include __DIR__ . '/../includes/breadcrumb.php';
 </main>
 
 <?php
+// Incluir links relacionados para SEO
+include __DIR__ . '/../includes/related-links.php';
+
 // Incluir footer
 include __DIR__ . '/../includes/footer.php';
 ?>

@@ -13,8 +13,8 @@ require_once '../includes/functions.php';
 // Configurações específicas da página
 $page_config = [
     'title' => 'Informações Técnicas - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Informações técnicas completas sobre equipamentos contra incêndio. Mangueiras, extintores, hidrantes, luzes de emergência e muito mais.',
-    'keywords' => 'Informações Técnicas, Equipamentos Contra Incêndio, Mangueiras, Extintores, Hidrantes, Luzes de Emergência, MIB',
+    'description' => 'Guias técnicos especializados: mangueiras ABNT NBR 11861, certificações Inmetro, inspeções, cuidados. Tipos 1 a 5. Condomínios, indústrias, hospitais. Consulte grátis ✆ (11) 94025-8669',
+    'keywords' => 'Informações Técnicas, Equipamentos Contra Incêndio, Mangueiras, Extintores, Hidrantes, Luzes de Emergência, MIB, ABNT NBR 11861, Certificação',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/informacoes-tecnicas/'
 ];
 

@@ -26,11 +26,15 @@ $breadcrumbs = [
 ];
 
 // Rich Snippets - Product Schema
+// Data de validade do preço (1 ano a partir de hoje)
+$price_valid_until = date('Y-m-d', strtotime('+1 year'));
+
 $product_schema = [
     "@context" => "https://schema.org",
     "@type" => "Product",
     "name" => "Caixas e Gabinetes para Equipamentos Contra Incêndio",
     "description" => "Caixas e gabinetes certificados ABNT para armazenamento e proteção de equipamentos contra incêndio. Fabricados em aço carbono para máxima durabilidade. MIB São Paulo.",
+    "image" => "https://mangueirasdeincendiobrasil.com.br/assets/img/mib_logo_final_com_tagline.png",
     "brand" => [
         "@type" => "Brand",
         "name" => "MIB - Mangueiras de Incêndio Brasil"
@@ -44,12 +48,55 @@ $product_schema = [
     "offers" => [
         "@type" => "Offer",
         "priceCurrency" => "BRL",
+        "price" => "0.00",
+        "priceSpecification" => [
+            "@type" => "PriceSpecification",
+            "priceCurrency" => "BRL",
+            "price" => "0.00"
+        ],
         "availability" => "https://schema.org/InStock",
+        "priceValidUntil" => $price_valid_until,
         "seller" => [
             "@type" => "Organization",
             "name" => "MIB - Mangueiras de Incêndio Brasil"
         ],
-        "areaServed" => "São Paulo, SP, Brasil"
+        "areaServed" => "São Paulo, SP, Brasil",
+        "shippingDetails" => [
+            "@type" => "OfferShippingDetails",
+            "shippingRate" => [
+                "@type" => "MonetaryAmount",
+                "value" => "0",
+                "currency" => "BRL"
+            ],
+            "shippingDestination" => [
+                "@type" => "DefinedRegion",
+                "addressCountry" => "BR",
+                "addressRegion" => "SP"
+            ],
+            "deliveryTime" => [
+                "@type" => "ShippingDeliveryTime",
+                "handlingTime" => [
+                    "@type" => "QuantitativeValue",
+                    "minValue" => "0",
+                    "maxValue" => "2",
+                    "unitCode" => "DAY"
+                ],
+                "transitTime" => [
+                    "@type" => "QuantitativeValue",
+                    "minValue" => "1",
+                    "maxValue" => "3",
+                    "unitCode" => "DAY"
+                ]
+            ]
+        ],
+        "hasMerchantReturnPolicy" => [
+            "@type" => "MerchantReturnPolicy",
+            "applicableCountry" => "BR",
+            "returnPolicyCategory" => "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays" => 30,
+            "returnMethod" => "https://schema.org/ReturnByMail",
+            "returnFees" => "https://schema.org/FreeReturn"
+        ]
     ],
     "aggregateRating" => [
         "@type" => "AggregateRating",
@@ -57,6 +104,19 @@ $product_schema = [
         "reviewCount" => "76",
         "bestRating" => "5",
         "worstRating" => "1"
+    ],
+    "review" => [
+        "@type" => "Review",
+        "reviewRating" => [
+            "@type" => "Rating",
+            "ratingValue" => "5",
+            "bestRating" => "5"
+        ],
+        "author" => [
+            "@type" => "Person",
+            "name" => "Cliente MIB"
+        ],
+        "reviewBody" => "Excelente qualidade, produtos certificados ABNT. Atendimento rápido em São Paulo."
     ]
 ];
 

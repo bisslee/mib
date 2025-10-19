@@ -13,9 +13,9 @@ require_once 'includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Empresa - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Conheça a MIB - Mangueiras de Incêndio Brasil. Mais de 20 anos de experiência em equipamentos contra incêndio certificados ABNT.',
-    'keywords' => 'empresa MIB, mangueiras de incêndio, equipamentos contra incêndio, certificação ABNT, São Paulo',
+    'title' => 'Empresa - MIB | 20+ Anos em Equipamentos Contra Incêndio SP',
+    'description' => 'MIB - 20+ anos fornecendo equipamentos contra incêndio certificados ABNT em São Paulo. Mangueiras, extintores, hidrantes. Orçamento rápido ✆ (11) 94025-8669',
+    'keywords' => 'empresa MIB, mangueiras de incêndio, equipamentos contra incêndio, certificação ABNT, São Paulo, história, valores, experiência',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/empresa.php'
 ];
 
@@ -287,6 +287,43 @@ include 'includes/breadcrumb.php';
                 <a href="contato.php" class="btn btn-light btn-lg">
                     <i class="fas fa-phone me-2"></i>Solicitar Orçamento
                 </a>
+            </div>
+        </section>
+        
+        <!-- Links Úteis para SEO -->
+        <section class="useful-links-section py-5">
+            <div class="container">
+                <div class="row text-center mb-4">
+                    <div class="col-12">
+                        <h2 class="section-title">Explore Nossos Produtos e Serviços</h2>
+                    </div>
+                </div>
+                
+                <div class="row g-4">
+                    <div class="col-md-4">
+                        <div class="link-card-simple text-center">
+                            <h3 class="h5">Equipamentos</h3>
+                            <p>Mangueiras, extintores, esguichos e hidrantes certificados ABNT</p>
+                            <a href="/equipamentos/" class="btn btn-primary btn-sm">Ver Equipamentos</a>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="link-card-simple text-center">
+                            <h3 class="h5">Informações Técnicas</h3>
+                            <p>Guias completos sobre certificações, cuidados e especificações</p>
+                            <a href="/informacoes-tecnicas/" class="btn btn-primary btn-sm">Ver Informações</a>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="link-card-simple text-center">
+                            <h3 class="h5">Produtos</h3>
+                            <p>Abrigos, adaptadores, caixas e acessórios para segurança</p>
+                            <a href="/produtos/" class="btn btn-primary btn-sm">Ver Produtos</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
     </main>

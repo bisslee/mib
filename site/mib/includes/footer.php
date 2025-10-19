@@ -5,7 +5,7 @@
     <?php include __DIR__ . '/whats-groups.php'; ?>
     <!-- Footer -->
     <footer class="footer-main">
-        
+
         <div class="container">
             <div class="row g-4">
                 <div class="col-lg-4">
@@ -142,8 +142,18 @@
                     </div>
                 </div>
 
+                <!-- Formulário de Contato -->
+                <div class="form-section">
+                    <h4 class="text-center mb-3">Solicite um Orçamento</h4>
+                    <div class="contact-form-modal">
+                        <?php include __DIR__ . '/contact-section.php'; ?>
+                    </div>
+                    <br>
+                </div>
+
                 <!-- Horário de Atendimento -->
                 <div class="hours-section mb-4">
+                    <br>
                     <h4 class="text-center mb-3">Horário de Atendimento</h4>
                     <div class="hours-card text-center">
                         <div class="hours-info">
@@ -157,14 +167,6 @@
                                 Para emergências, entre em contato via WhatsApp
                             </p>
                         </div>
-                    </div>
-                </div>
-
-                <!-- Formulário de Contato -->
-                <div class="form-section">
-                    <h4 class="text-center mb-3">Solicite um Orçamento</h4>
-                    <div class="contact-form-modal">
-                        <?php include __DIR__ . '/contact-section.php'; ?>
                     </div>
                 </div>
             </div>
@@ -189,6 +191,23 @@
     <!-- JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="<?php echo $site_config['base_url']; ?>/assets/js/main.js" defer></script>
+
+    <!-- Fallback para openContactModal -->
+    <script>
+        // Fallback caso o main.js não carregue
+        if (typeof window.openContactModal === 'undefined') {
+            window.openContactModal = function() {
+                console.log('openContactModal fallback chamada!');
+                const modal = document.getElementById('contactModal');
+                if (modal) {
+                    modal.classList.add('show');
+                    document.body.style.overflow = 'hidden';
+                } else {
+                    console.error('Modal de contato não encontrado!');
+                }
+            };
+        }
+    </script>
     </body>
 
     </html>

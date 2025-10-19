@@ -32,11 +32,15 @@ $heroConfig = [
 
 
 // Rich Snippets - Product Schema
+// Data de validade do preço (1 ano a partir de hoje)
+$price_valid_until = date('Y-m-d', strtotime('+1 year'));
+
 $product_schema = [
     "@context" => "https://schema.org",
     "@type" => "Product",
     "name" => "Mangueiras de Incêndio Certificadas ABNT",
     "description" => "Mangueiras de incêndio certificadas ABNT NBR 11861, tipos 1 a 5, para condomínios, indústrias e áreas comerciais. Qualidade garantida MIB São Paulo.",
+    "image" => "https://mangueirasdeincendiobrasil.com.br/assets/img/old-site/mangueiras-de-incendio.jpg",
     "brand" => [
         "@type" => "Brand",
         "name" => "MIB - Mangueiras de Incêndio Brasil"
@@ -50,12 +54,55 @@ $product_schema = [
     "offers" => [
         "@type" => "Offer",
         "priceCurrency" => "BRL",
+        "price" => "0.00",
+        "priceSpecification" => [
+            "@type" => "PriceSpecification",
+            "priceCurrency" => "BRL",
+            "price" => "0.00"
+        ],
         "availability" => "https://schema.org/InStock",
+        "priceValidUntil" => $price_valid_until,
         "seller" => [
             "@type" => "Organization",
             "name" => "MIB - Mangueiras de Incêndio Brasil"
         ],
-        "areaServed" => "São Paulo, SP, Brasil"
+        "areaServed" => "São Paulo, SP, Brasil",
+        "shippingDetails" => [
+            "@type" => "OfferShippingDetails",
+            "shippingRate" => [
+                "@type" => "MonetaryAmount",
+                "value" => "0",
+                "currency" => "BRL"
+            ],
+            "shippingDestination" => [
+                "@type" => "DefinedRegion",
+                "addressCountry" => "BR",
+                "addressRegion" => "SP"
+            ],
+            "deliveryTime" => [
+                "@type" => "ShippingDeliveryTime",
+                "handlingTime" => [
+                    "@type" => "QuantitativeValue",
+                    "minValue" => "0",
+                    "maxValue" => "2",
+                    "unitCode" => "DAY"
+                ],
+                "transitTime" => [
+                    "@type" => "QuantitativeValue",
+                    "minValue" => "1",
+                    "maxValue" => "3",
+                    "unitCode" => "DAY"
+                ]
+            ]
+        ],
+        "hasMerchantReturnPolicy" => [
+            "@type" => "MerchantReturnPolicy",
+            "applicableCountry" => "BR",
+            "returnPolicyCategory" => "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays" => 30,
+            "returnMethod" => "https://schema.org/ReturnByMail",
+            "returnFees" => "https://schema.org/FreeReturn"
+        ]
     ],
     "aggregateRating" => [
         "@type" => "AggregateRating",

@@ -31,6 +31,11 @@
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Preconnect para recursos externos (melhora performance) -->
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link rel="preconnect" href="https://www.googletagmanager.com">
     <meta name="description" content="<?php echo htmlspecialchars(isset($page_config['description']) ? $page_config['description'] : (isset($site_config['description']) ? $site_config['description'] : '')); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars(isset($page_config['keywords']) ? $page_config['keywords'] : (isset($site_config['keywords']) ? $site_config['keywords'] : '')); ?>">
     <meta name="author" content="<?php echo htmlspecialchars(isset($page_config['author']) ? $page_config['author'] : (isset($site_config['author']) ? $site_config['author'] : 'MIB - Mangueiras de Incêndio Brasil')); ?>">
@@ -85,7 +90,7 @@
     <!-- CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
-    <link href="<?php echo $site_config['base_url']; ?>/assets/css/style.css" rel="stylesheet">
+    <link href="<?php echo $site_config['base_url']; ?>/assets/css/style.min.css" rel="stylesheet">
 
     <!-- Schema.org - Organization -->
     <script type="application/ld+json">

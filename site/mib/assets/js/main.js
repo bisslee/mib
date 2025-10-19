@@ -140,6 +140,12 @@ function initFormValidation() {
     const forms = document.querySelectorAll('form');
     
     forms.forEach(form => {
+        // Pular validação JavaScript para formulários de contato (deixar PHP processar)
+        if (form.classList.contains('contact-form') || form.classList.contains('contact-form-simple')) {
+            console.log('Formulário de contato detectado - validação JavaScript desabilitada');
+            return;
+        }
+        
         form.addEventListener('submit', function(e) {
             if (!validateForm(this)) {
                 e.preventDefault();
@@ -233,41 +239,9 @@ function clearFieldError(field) {
  * Sistema de Notificações
  */
 function showNotification(message, type = 'info') {
-    // Remover notificações existentes
-    const existingNotifications = document.querySelectorAll('.mib-notification');
-    existingNotifications.forEach(notification => notification.remove());
-    
-    // Criar nova notificação
-    const notification = document.createElement('div');
-    notification.className = `mib-notification mib-notification-${type}`;
-    notification.innerHTML = `
-        <div class="notification-content">
-            <span class="notification-message">${message}</span>
-            <button class="notification-close" onclick="this.parentElement.parentElement.remove()">
-                <i class="fas fa-times"></i>
-            </button>
-        </div>
-    `;
-    
-    // Adicionar ao body
-    document.body.appendChild(notification);
-    
-    // Mostrar com animação
-    setTimeout(() => {
-        notification.classList.add('show');
-    }, 100);
-    
-    // Auto-remover após 5 segundos
-    setTimeout(() => {
-        if (notification.parentNode) {
-            notification.classList.remove('show');
-            setTimeout(() => {
-                if (notification.parentNode) {
-                    notification.remove();
-                }
-            }, 300);
-        }
-    }, 5000);
+    // Função desabilitada - não mostrar toaster
+    console.log('showNotification desabilitada:', message, type);
+    return;
 }
 
 /**
@@ -414,21 +388,9 @@ window.openContactModal = function() {
 };
 
 window.closeContactModal = function() {
-    console.log('closeContactModal chamada!');
-    const modal = document.getElementById('contactModal');
-    if (modal) {
-        modal.classList.remove('show');
-        document.body.style.overflow = ''; // Restaura scroll da página
-        
-        // Remover listener do ESC
-        document.removeEventListener('keydown', handleEscKey);
-        
-        // Limpar formulário
-        const form = modal.querySelector('form');
-        if (form) {
-            form.reset();
-        }
-    }
+    // Função desabilitada - não mostrar toaster
+    console.log('closeContactModal desabilitada - formulário simples');
+    return;
 };
 
 function handleEscKey(e) {
@@ -445,26 +407,8 @@ document.addEventListener('click', function(e) {
     }
 });
 
-// Processar formulário do modal
-document.addEventListener('submit', function(e) {
-    if (e.target.classList.contains('contact-form')) {
-        e.preventDefault();
-        
-        // Aqui você pode adicionar a lógica de envio do formulário
-        const formData = new FormData(e.target);
-        const nome = formData.get('nome');
-        const email = formData.get('email');
-        const mensagem = formData.get('mensagem');
-        
-        if (nome && email && mensagem) {
-            // Simular envio bem-sucedido
-            showNotification('Mensagem enviada com sucesso! Entraremos em contato em breve.', 'success');
-            closeContactModal();
-        } else {
-            showNotification('Por favor, preencha todos os campos obrigatórios.', 'error');
-        }
-    }
-});
+// Processar formulário do modal (removido - causava duplicação)
+// O formulário agora é processado diretamente pelo PHP
 
 // Inicializar funcionalidades adicionais quando necessário
 window.addEventListener('load', function() {

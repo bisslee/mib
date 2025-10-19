@@ -8,9 +8,9 @@ require_once '../includes/config.php';
 
 // Configurações específicas da página
 $page_config = [
-    'title' => 'Produtos - MIB | Mangueiras de Incêndio Brasil',
-    'description' => 'Conheça nossa linha completa de produtos para equipamentos contra incêndio. Abrigos, adaptadores, armários, bicos, caixas e muito mais.',
-    'keywords' => 'Produtos, Equipamentos Contra Incêndio, Abrigos, Adaptadores, Armários, Bicos, Caixas, MIB',
+    'title' => 'Produtos para Equipamentos Contra Incêndio - MIB São Paulo',
+    'description' => 'Produtos certificados para combate a incêndio: abrigos, adaptadores Storz, armários, bicos, caixas, gabinetes. Preço de fábrica. Entrega SP ✆ (11) 94025-8669 | MIB Brasil',
+    'keywords' => 'Produtos, Equipamentos Contra Incêndio, Abrigos, Adaptadores, Armários, Bicos, Caixas, Gabinetes, Storz, MIB, São Paulo',
     'canonical' => 'https://mangueirasdeincendiobrasil.com.br/produtos/'
 ];
 

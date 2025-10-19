@@ -1,42 +1,72 @@
 [
     {
-        "test_id": "header_navigation",
+        "test_id": "contact_form",
         "variant": "control",
         "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/old-pages\/mangueiras-de-incendio-e-extintores.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G955U Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
+        "page_url": "http:\/\/localhost:8133\/contact.php",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
         "ip_address": "::1",
-        "timestamp": "2025-09-23 18:02:20",
-        "user_id": "user_68d30adc6c5ac0.15342126"
+        "timestamp": "2025-09-26 15:06:57",
+        "user_id": "user_68d6d6417bfcd4.15268231"
     },
     {
         "test_id": "header_navigation",
         "variant": "control",
         "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/old-pages\/extintor-de-incendio-co2-6-kg.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G955U Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
+        "page_url": "http:\/\/localhost:8133\/contact.php",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
         "ip_address": "::1",
-        "timestamp": "2025-09-23 19:29:08",
-        "user_id": "user_68d31f34584cb1.80099551"
+        "timestamp": "2025-09-26 15:06:57",
+        "user_id": "user_68d6d64187d785.37108425"
+    },
+    {
+        "test_id": "contact_form",
+        "variant": "control",
+        "goal": "button_click",
+        "page_url": "http:\/\/localhost:8133\/contact.php",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
+        "ip_address": "::1",
+        "timestamp": "2025-09-26 15:07:38",
+        "user_id": "user_68d6d66a525930.31601941"
     },
     {
         "test_id": "header_navigation",
         "variant": "control",
         "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/old-pages\/mangueira-incendio-30-metros.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G955U Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
+        "page_url": "http:\/\/localhost:8133\/contact.php",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
         "ip_address": "::1",
-        "timestamp": "2025-09-23 21:28:12",
-        "user_id": "user_68d33b1cf2b268.06071577"
+        "timestamp": "2025-09-26 15:07:38",
+        "user_id": "user_68d6d66a538a61.48483876"
     },
     {
         "test_id": "header_navigation",
         "variant": "control",
         "goal": "button_click",
-        "page_url": "http:\/\/localhost:8133\/old-pages\/mangueiras-de-incendio-para-venda.php",
-        "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; SM-G955U Build\/R16NW) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Mobile Safari\/537.36 Edg\/140.0.0.0",
+        "page_url": "http:\/\/localhost:8133\/contact.php",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
         "ip_address": "::1",
-        "timestamp": "2025-09-24 10:56:41",
-        "user_id": "user_68d3f899db6ca8.76287737"
+        "timestamp": "2025-09-26 15:07:44",
+        "user_id": "user_68d6d6706a5de5.76006477"
+    },
+    {
+        "test_id": "homepage_cta",
+        "variant": "control",
+        "goal": "button_click",
+        "page_url": "http:\/\/localhost:8133\/",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
+        "ip_address": "::1",
+        "timestamp": "2025-10-06 17:03:34",
+        "user_id": "user_68e420962a8ae9.69761048"
+    },
+    {
+        "test_id": "header_navigation",
+        "variant": "control",
+        "goal": "button_click",
+        "page_url": "http:\/\/localhost:8133\/",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36 Edg\/140.0.0.0",
+        "ip_address": "::1",
+        "timestamp": "2025-10-06 17:03:34",
+        "user_id": "user_68e420963cf248.51827525"
     }
 ]

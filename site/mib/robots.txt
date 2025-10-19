@@ -1,10 +1,35 @@
-user-agent: *
-allow: /
+User-agent: *
+Allow: /
 
-# Bloquear páginas antigas
+# Bloquear páginas antigas (redirecionadas)
 Disallow: /old-pages/
+
+# Bloquear ferramentas de desenvolvimento
 Disallow: /devtools/
 Disallow: /temp_*
+
+# Bloquear arquivos de teste/debug
+Disallow: /test-*.php
+Disallow: /debug-*.php
+Disallow: /*-test.php
+Disallow: /*-debug.php
+Disallow: /contact-new.php
+Disallow: /phpinfo.php
+Disallow: /test-*.php
+
+# Bloquear includes e configurações
+Disallow: /includes/
+Disallow: /data/
+
+# Permitir CSS, JS e imagens para renderização
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/img/
+
+# Bloquear arquivos de configuração
+Disallow: /*.ps1
+Disallow: /*.md$
+Disallow: /web.config
 
 # Sitemap
 Sitemap: https://mangueirasdeincendiobrasil.com.br/sitemap.xml

@@ -142,9 +142,73 @@ include 'includes/header.php';
                         <div class="product-content">
                             <h3>Adaptador para Mangueira</h3>
                             <p>Adaptadores para mangueiras de incêndio com diferentes conexões e especificações técnicas.</p>
-                            <a href="hidrantes.php" class="btn btn-outline-primary">Saiba Mais</a>
+                            <a href="old-pages/adaptador-para-mangueira-de-incendio.php" class="btn btn-outline-primary">Saiba Mais</a>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Seção de Informações Técnicas - SEO Internal Linking -->
+    <section class="technical-info-section py-5">
+        <div class="container">
+            <div class="row text-center mb-5">
+                <div class="col-12">
+                    <h2 class="section-title">Informações Técnicas Especializadas</h2>
+                    <p class="section-subtitle">Conteúdo técnico certificado para ajudar na escolha correta</p>
+                </div>
+            </div>
+            
+            <div class="row g-4">
+                <div class="col-lg-3 col-md-6">
+                    <div class="info-card text-center h-100">
+                        <div class="info-icon mb-3">
+                            <i class="fas fa-certificate"></i>
+                        </div>
+                        <h3 class="h5">Mangueiras Certificadas ABNT</h3>
+                        <p class="small">Entenda a importância da certificação ABNT NBR 11861</p>
+                        <a href="informacoes-tecnicas/mangueiras-de-incendio-certificada.php" class="btn btn-outline-primary btn-sm">Saiba Mais</a>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6">
+                    <div class="info-card text-center h-100">
+                        <div class="info-icon mb-3">
+                            <i class="fas fa-building"></i>
+                        </div>
+                        <h3 class="h5">Mangueiras para Condomínio</h3>
+                        <p class="small">Guia completo para síndicos e administradores</p>
+                        <a href="informacoes-tecnicas/mangueira-de-incendio-para-condominio.php" class="btn btn-outline-primary btn-sm">Saiba Mais</a>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6">
+                    <div class="info-card text-center h-100">
+                        <div class="info-icon mb-3">
+                            <i class="fas fa-tools"></i>
+                        </div>
+                        <h3 class="h5">Dicas de Cuidados</h3>
+                        <p class="small">Como manter suas mangueiras em perfeito estado</p>
+                        <a href="informacoes-tecnicas/dicas-de-cuidados-mangueira-de-incendio.php" class="btn btn-outline-primary btn-sm">Saiba Mais</a>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6">
+                    <div class="info-card text-center h-100">
+                        <div class="info-icon mb-3">
+                            <i class="fas fa-lightbulb"></i>
+                        </div>
+                        <h3 class="h5">Luzes de Emergência LED</h3>
+                        <p class="small">Iluminação de emergência certificada</p>
+                        <a href="informacoes-tecnicas/luzes-de-emergencia-led.php" class="btn btn-outline-primary btn-sm">Saiba Mais</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row mt-4">
+                <div class="col-12 text-center">
+                    <a href="informacoes-tecnicas/" class="btn btn-primary">Ver Todas as Informações Técnicas</a>
                 </div>
             </div>
         </div>
